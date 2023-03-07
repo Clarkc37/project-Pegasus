@@ -1,4 +1,4 @@
-baseURL: https://example.com/blogra/
+baseURL: project-pegasus.netlify.app
 canonifyURLs: yes
 pluralizeListTitles: no
 summaryLength: 25
