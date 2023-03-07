@@ -4,24 +4,24 @@ pluralizeListTitles: no
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: BlogRa
+title: Project Pegasus
 disqusShortname: ''
 params:
   adsense: adsense-key
   contactEmail: your-email@domain.com
   description: The Ultimate Tech Blogging Theme
-  facebook: https://www.facebook.com/DevHacker-2351204168278028
+  facebook: 
   footer: ''
-  github: https://github.com/rafed
+  github: 
   googleAnalytics: ''
   googleSearch: google-cse-key
   instagram: ''
-  linkedin: https://www.linkedin.com/in/rafed-m-yasir/
+  linkedin: 
   math: no
   mermaid: no
   pinterest: ''
   twitter: ''
-  youtube: https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw
+  youtube: 
 menu:
   main:
     - name: Home
