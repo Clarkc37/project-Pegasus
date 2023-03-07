@@ -1,4 +1,4 @@
-baseURL: project-pegasus.netlify.app
+baseURL: 'project-pegasus.netlify.app/'
 canonifyURLs: yes
 pluralizeListTitles: no
 summaryLength: 25
