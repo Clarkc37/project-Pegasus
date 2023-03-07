@@ -1,0 +1,25 @@
+baseurl: http://example.org/
+languageCode: en-us
+title: Hugo Cards
+theme: hugo-cards
+paginate: 6
+params:
+  analytics:
+    trackingID: ''
+    type: UA
+  builtBy: bool
+  copyright:
+    link: https://bool.netlify.com
+    name: bool
+  custom_css: css/custom.css
+  defaultImage: gopher.jpg
+  disqus: ''
+  email: ''
+  facebook: ''
+  fbAppId: ''
+  fbLikeBox: ''
+  fbPageTitle: ''
+  fbPageUrl: ''
+  github: http://github.com/bul-ikana
+  quora: ''
+  twitter: http://twitter.com/bul_ikana
