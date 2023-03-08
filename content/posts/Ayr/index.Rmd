@@ -21,7 +21,7 @@ This is a test output of the project pegasus algorithm
 
 
 
-```{r echo=FALSE, results = "asis"}
+```{r echo=FALSE, results = "asis", class.output="card-body"}
 library(dplyr)
 library(knitr)
 library(kableExtra)
