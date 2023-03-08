@@ -1,5 +1,5 @@
 ---
-title: "Ayr 2023-02-27"
+title: "Plumpton 2023-02-27"
 date: 2023-02-27 
 ---
 
@@ -9,7 +9,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-## Ayr 2023-02-27
+## Plumpton 2023-02-27
 
 This is a test output of the project pegasus algorithm
 
@@ -24,10 +24,10 @@ library(dplyr)
 library(knitr)
 library(kableExtra)
 
-#Todays.Prediction <- readRDS('./R_Scripts/Todays_Prediction.rds')
+Todays.Prediction <- readRDS('./R_Scripts/Todays_Prediction.rds')
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Ayr") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Plumpton") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)

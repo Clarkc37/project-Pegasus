@@ -24,7 +24,7 @@ library(dplyr)
 library(knitr)
 library(kableExtra)
 
-Todays.Prediction <- readRDS('./R_Scripts/Todays_Prediction.rds')
+#Todays.Prediction <- readRDS('./R_Scripts/Todays_Prediction.rds')
 
 i <- 1
 Index <- Todays.Prediction %>% filter(Course=="Plumpton") %>% select(QueryID) %>% distinct()
