@@ -45,8 +45,8 @@ menu:
       parent: blog
       url: /tags/
       weight: 4
-    - name: About
-      url: /about/
+    - name: Racecards
+      url: /racecards/
       weight: 3
     - name: Contact
       url: /contact/
