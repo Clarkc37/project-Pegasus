@@ -13,8 +13,7 @@ output:
 
 This is a test output of the project pegasus algorithm
 
-### Racecard {.tabset}
-
+### Racecard 
 <div class="card-body">
 
 
