@@ -7,14 +7,14 @@ languageCode: en-us
 title: Project Pegasus
 disqusShortname: ''
 params:
-  adsense: adsense-key
+  adsense: 
   contactEmail: your-email@domain.com
   description: The Ultimate Tech Blogging Theme
   facebook: 
   footer: ''
   github: 
   googleAnalytics: ''
-  googleSearch: google-cse-key
+  googleSearch: 
   instagram: ''
   linkedin: 
   math: no
@@ -45,9 +45,12 @@ menu:
       parent: blog
       url: /tags/
       weight: 4
-    - name: Racecards
-      url: /racecards/
+    - identifier: racecards
+      name: Racecards
       weight: 3
+    - name: Todays Racecards
+      url: /racecards/today/
+      weight: 1
     - name: Contact
       url: /contact/
       weight: 4
