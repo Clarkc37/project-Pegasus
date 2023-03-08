@@ -49,6 +49,7 @@ menu:
       name: Racecards
       weight: 3
     - name: Todays Racecards
+      parent: racecards
       url: /racecards/today/
       weight: 1
     - name: Contact
