@@ -1,10 +1,10 @@
-baseURL: 'https://project-pegasus.netlify.app/'
+baseURL: 'https://globalguideracing.netlify.app/'
 canonifyURLs: yes
 pluralizeListTitles: no
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: Project Pegasus
+title: Global Guide Racing
 disqusShortname: ''
 params:
   adsense: 
