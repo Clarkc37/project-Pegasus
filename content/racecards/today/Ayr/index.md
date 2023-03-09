@@ -1,6 +1,5 @@
 ---
 title: "Ayr 2023-02-27"
-image: /assets/images/Ayr
 date: 2023-02-27 
 output:
   html_document:
@@ -18,6 +17,18 @@ This is a test output of the project pegasus algorithm
 <div class="card-body">
 
 
+
+
+```
+## 
+## Attaching package: 'kableExtra'
+```
+
+```
+## The following object is masked from 'package:dplyr':
+## 
+##     group_rows
+```
 
 ####  14:15 Ayr 
 

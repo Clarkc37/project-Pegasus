@@ -1,6 +1,5 @@
 ---
 title: "Plumpton 2023-02-27"
-image: /assets/images/Plumpton
 date: 2023-02-27 
 output:
   html_document:
