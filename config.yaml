@@ -22,6 +22,7 @@ params:
   pinterest: ''
   twitter: ''
   youtube: 
+  hidedate: true
 menu:
   main:
     - name: Home
