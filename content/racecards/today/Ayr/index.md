@@ -1,6 +1,7 @@
 ---
 title: "Ayr 2023-02-27"
 date: 2023-02-27 
+course: Ayr
 output:
   html_document:
     keep_md: yes
@@ -17,18 +18,6 @@ This is a test output of the project pegasus algorithm
 <div class="card-body">
 
 
-
-
-```
-## 
-## Attaching package: 'kableExtra'
-```
-
-```
-## The following object is masked from 'package:dplyr':
-## 
-##     group_rows
-```
 
 ####  14:15 Ayr 
 

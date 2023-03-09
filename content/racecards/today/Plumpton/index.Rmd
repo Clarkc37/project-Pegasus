@@ -1,6 +1,7 @@
 ---
 title: "Plumpton 2023-02-27"
 date: 2023-02-27 
+course: Plumpton
 output:
   html_document:
     keep_md: yes
