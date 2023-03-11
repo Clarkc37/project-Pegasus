@@ -49,7 +49,9 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 141 </td>
    <td style="text-align:left;"> A M Thomson </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 0.58 </td>
    <td style="text-align:left;"> -1.346 </td>
@@ -66,7 +68,9 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 134 </td>
    <td style="text-align:left;"> D McCain Jnr </td>
-   <td style="text-align:left;"> B S Hughes &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 1.46 </td>
    <td style="text-align:left;"> -0.372 </td>
@@ -83,7 +87,9 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 122 </td>
    <td style="text-align:left;"> S R B Crawford </td>
-   <td style="text-align:left;"> Sam Ewing  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 29 </td>
    <td style="text-align:center;"> 4.24 </td>
    <td style="text-align:left;"> -1.529 </td>
@@ -100,7 +106,9 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 122 </td>
    <td style="text-align:left;"> James Moffatt </td>
-   <td style="text-align:left;"> Charlotte Jones  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlotte Jones  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 0.90 </td>
    <td style="text-align:left;"> -1.618 </td>
@@ -145,7 +153,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 116 </td>
    <td style="text-align:left;"> Olly Murphy </td>
-   <td style="text-align:left;"> Fergus Gregory &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Fergus Gregory <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 4.89 </td>
    <td style="text-align:left;"> -4.012 </td>
@@ -162,7 +172,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 110 </td>
    <td style="text-align:left;"> James Moffatt </td>
-   <td style="text-align:left;"> Charlotte Jones  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlotte Jones  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 1.30 </td>
    <td style="text-align:left;"> -3.582 </td>
@@ -179,7 +191,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 113 </td>
    <td style="text-align:left;"> N W Alexander </td>
-   <td style="text-align:left;"> Bruce Lynn  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bruce Lynn  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 2.06 </td>
    <td style="text-align:left;"> -2.352 </td>
@@ -196,7 +210,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> S R B Crawford </td>
-   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 8.40 </td>
    <td style="text-align:left;"> -3.288 </td>
@@ -213,7 +229,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> Olly Murphy </td>
-   <td style="text-align:left;"> S Bowen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 4.03 </td>
    <td style="text-align:left;"> -3.127 </td>
@@ -230,7 +248,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> N W Alexander </td>
-   <td style="text-align:left;"> C O'Farrell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C O'Farrell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 3.67 </td>
    <td style="text-align:left;"> -1.367 </td>
@@ -247,7 +267,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> Daragh Bourke </td>
-   <td style="text-align:left;"> Craig Nichol &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 30 </td>
    <td style="text-align:center;"> 2.76 </td>
    <td style="text-align:left;"> -2.725 </td>
@@ -264,7 +286,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> R Michael Smith </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 27 </td>
    <td style="text-align:center;"> 3.41 </td>
    <td style="text-align:left;"> -2.606 </td>
@@ -281,7 +305,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> R Michael Smith </td>
-   <td style="text-align:left;"> William Shanahan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> William Shanahan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 16.79 </td>
    <td style="text-align:left;"> -1.777 </td>
@@ -298,7 +324,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> Mrs Corbett </td>
-   <td style="text-align:left;"> D B Hurst  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D B Hurst  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 4.81 </td>
    <td style="text-align:left;"> -1.468 </td>
@@ -315,7 +343,9 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:left;"> Miss Katie Scott </td>
-   <td style="text-align:left;"> S Mulqueen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Mulqueen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 3.12 </td>
    <td style="text-align:left;"> -0.930 </td>
@@ -360,7 +390,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 12-1 </td>
    <td style="text-align:center;"> 111 </td>
    <td style="text-align:left;"> Miss Lucinda V Russell </td>
-   <td style="text-align:left;"> D R Fox &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D R Fox <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 0.99 </td>
    <td style="text-align:left;"> -1.458 </td>
@@ -377,7 +409,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 110 </td>
    <td style="text-align:left;"> Ben Pauling </td>
-   <td style="text-align:left;"> Luca Morgan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Luca Morgan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 2.91 </td>
    <td style="text-align:left;"> -1.147 </td>
@@ -394,7 +428,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 109 </td>
    <td style="text-align:left;"> Rebecca Menzies </td>
-   <td style="text-align:left;"> Ross Chapman &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ross Chapman <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 2.08 </td>
    <td style="text-align:left;"> -0.732 </td>
@@ -411,7 +447,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 109 </td>
    <td style="text-align:left;"> D McCain Jnr </td>
-   <td style="text-align:left;"> B S Hughes &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 1.56 </td>
    <td style="text-align:left;"> -1.580 </td>
@@ -428,7 +466,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 108 </td>
    <td style="text-align:left;"> Olly Murphy </td>
-   <td style="text-align:left;"> S Bowen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 2.17 </td>
    <td style="text-align:left;"> -1.828 </td>
@@ -445,7 +485,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 104 </td>
    <td style="text-align:left;"> Catch Bissett </td>
-   <td style="text-align:left;"> Bruce Lynn  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bruce Lynn  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 9.06 </td>
    <td style="text-align:left;"> 0.244 </td>
@@ -462,7 +504,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 103 </td>
    <td style="text-align:left;"> M W Easterby </td>
-   <td style="text-align:left;"> C O'Farrell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C O'Farrell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 4.27 </td>
    <td style="text-align:left;"> -2.413 </td>
@@ -479,7 +523,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 98 </td>
    <td style="text-align:left;"> W Coltherd </td>
-   <td style="text-align:left;"> Sam Coltherd &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Coltherd <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 3.74 </td>
    <td style="text-align:left;"> -1.611 </td>
@@ -496,7 +542,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 98 </td>
    <td style="text-align:left;"> R Michael Smith </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 25 </td>
    <td style="text-align:center;"> 8.18 </td>
    <td style="text-align:left;"> -3.311 </td>
@@ -513,7 +561,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 92 </td>
    <td style="text-align:left;"> William Young Jnr </td>
-   <td style="text-align:left;"> Sean Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 3.63 </td>
    <td style="text-align:left;"> -0.277 </td>
@@ -530,7 +580,9 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 87 </td>
    <td style="text-align:left;"> M M Rice </td>
-   <td style="text-align:left;"> Jonathon Bewley  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Jonathon Bewley  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 3.07 </td>
    <td style="text-align:left;"> -2.147 </td>
@@ -575,7 +627,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 122 </td>
    <td style="text-align:left;"> Micky Hammond </td>
-   <td style="text-align:left;"> Joshua Thompson (10) &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Joshua Thompson (10) <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 1.33 </td>
    <td style="text-align:left;"> -1.443 </td>
@@ -592,7 +646,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 120 </td>
    <td style="text-align:left;"> B F Brookhouse </td>
-   <td style="text-align:left;"> Jack Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Jack Quinlan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 8.52 </td>
    <td style="text-align:left;"> 0.784 </td>
@@ -609,7 +665,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 120 </td>
    <td style="text-align:left;"> P Neville </td>
-   <td style="text-align:left;"> G Sheehan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 2.94 </td>
    <td style="text-align:left;"> -1.178 </td>
@@ -626,7 +684,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 120 </td>
    <td style="text-align:left;"> N C Kelly </td>
-   <td style="text-align:left;"> Mr O McGill  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr O McGill  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 2.66 </td>
    <td style="text-align:left;"> -0.118 </td>
@@ -643,7 +703,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 119 </td>
    <td style="text-align:left;"> S R B Crawford </td>
-   <td style="text-align:left;"> Sam Ewing  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 2.06 </td>
    <td style="text-align:left;"> -0.281 </td>
@@ -660,7 +722,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 117 </td>
    <td style="text-align:left;"> Olly Murphy </td>
-   <td style="text-align:left;"> S Bowen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 1.97 </td>
    <td style="text-align:left;"> -1.764 </td>
@@ -677,7 +741,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 115 </td>
    <td style="text-align:left;"> James Moffatt </td>
-   <td style="text-align:left;"> Charlotte Jones  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlotte Jones  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> 2.28 </td>
    <td style="text-align:left;"> -2.513 </td>
@@ -694,7 +760,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 110 </td>
    <td style="text-align:left;"> I Jardine </td>
-   <td style="text-align:left;"> Nathan Moscrop &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Nathan Moscrop <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 4.31 </td>
    <td style="text-align:left;"> -1.661 </td>
@@ -711,7 +779,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 109 </td>
    <td style="text-align:left;"> N C Kelly </td>
-   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 5.68 </td>
    <td style="text-align:left;"> -1.538 </td>
@@ -728,7 +798,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 108 </td>
    <td style="text-align:left;"> Mrs R Dobbin </td>
-   <td style="text-align:left;"> Dylan Johnston  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Dylan Johnston  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 2.74 </td>
    <td style="text-align:left;"> -1.607 </td>
@@ -745,7 +817,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 107 </td>
    <td style="text-align:left;"> Mr M T Walford </td>
-   <td style="text-align:left;"> Jamie Hamilton &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Jamie Hamilton <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 4.31 </td>
    <td style="text-align:left;"> -3.165 </td>
@@ -762,7 +836,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 104 </td>
    <td style="text-align:left;"> Rebecca Menzies </td>
-   <td style="text-align:left;"> Aaron Anderson  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Aaron Anderson  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 1.56 </td>
    <td style="text-align:left;"> -2.203 </td>
@@ -779,7 +855,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:left;"> Daragh Bourke </td>
-   <td style="text-align:left;"> B S Hughes &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 2.08 </td>
    <td style="text-align:left;"> -0.445 </td>
@@ -796,7 +874,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 10-7 </td>
    <td style="text-align:center;"> 99 </td>
    <td style="text-align:left;"> D W Whillans </td>
-   <td style="text-align:left;"> Craig Nichol &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 2.54 </td>
    <td style="text-align:left;"> -0.075 </td>
@@ -813,7 +893,9 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 96 </td>
    <td style="text-align:left;"> Miss S E Forster </td>
-   <td style="text-align:left;"> P W Wadge  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P W Wadge  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 2.12 </td>
    <td style="text-align:left;"> -3.630 </td>
@@ -858,7 +940,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 102 </td>
    <td style="text-align:left;"> James Moffatt </td>
-   <td style="text-align:left;"> William Shanahan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> William Shanahan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> 3.96 </td>
    <td style="text-align:left;"> -1.697 </td>
@@ -875,7 +959,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 102 </td>
    <td style="text-align:left;"> D McCain Jnr </td>
-   <td style="text-align:left;"> Charlie Maggs (10) &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlie Maggs (10) <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 2.35 </td>
    <td style="text-align:left;"> -1.045 </td>
@@ -892,7 +978,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 96 </td>
    <td style="text-align:left;"> I A Duncan </td>
-   <td style="text-align:left;"> P W Wadge  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P W Wadge  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 3.62 </td>
    <td style="text-align:left;"> -1.367 </td>
@@ -909,7 +997,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 89 </td>
    <td style="text-align:left;"> Mrs Corbett </td>
-   <td style="text-align:left;"> Sam Coltherd &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Coltherd <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 3.88 </td>
    <td style="text-align:left;"> -1.054 </td>
@@ -926,7 +1016,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 86 </td>
    <td style="text-align:left;"> I Jardine </td>
-   <td style="text-align:left;"> Dylan Johnston  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Dylan Johnston  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 25 </td>
    <td style="text-align:center;"> 6.13 </td>
    <td style="text-align:left;"> -3.666 </td>
@@ -943,7 +1035,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 84 </td>
    <td style="text-align:left;"> Miss S E Forster </td>
-   <td style="text-align:left;"> S Mulqueen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Mulqueen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 4.32 </td>
    <td style="text-align:left;"> -4.277 </td>
@@ -960,7 +1054,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 80 </td>
    <td style="text-align:left;"> Olly Murphy </td>
-   <td style="text-align:left;"> S Bowen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 5.56 </td>
    <td style="text-align:left;"> -2.992 </td>
@@ -977,7 +1073,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 77 </td>
    <td style="text-align:left;"> Adam Nicol </td>
-   <td style="text-align:left;"> Craig Nichol &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 6.73 </td>
    <td style="text-align:left;"> -4.147 </td>
@@ -994,7 +1092,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 74 </td>
    <td style="text-align:left;"> Mrs Jacqueline Stephen </td>
-   <td style="text-align:left;"> Alexander Thorne  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Alexander Thorne  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:left;"> -1.588 </td>
@@ -1011,7 +1111,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 74 </td>
    <td style="text-align:left;"> N G Richards </td>
-   <td style="text-align:left;"> Danny McMenamin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Danny McMenamin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 3.61 </td>
    <td style="text-align:left;"> -2.372 </td>
@@ -1028,7 +1130,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 74 </td>
    <td style="text-align:left;"> N W Alexander </td>
-   <td style="text-align:left;"> Bruce Lynn  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bruce Lynn  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 3.47 </td>
    <td style="text-align:left;"> -2.865 </td>
@@ -1045,7 +1149,9 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 74 </td>
    <td style="text-align:left;"> Micky Hammond </td>
-   <td style="text-align:left;"> Joshua Thompson (10) &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Joshua Thompson (10) <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 6.23 </td>
    <td style="text-align:left;"> -1.882 </td>
