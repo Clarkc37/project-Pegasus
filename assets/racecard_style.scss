@@ -22,7 +22,7 @@ body{
 
 }
 .racecard{
- background-color:#fff;
+ background-color:#fff !important;
     border-left:1px solid #e0e5ea;
     border-right:1px solid #e0e5ea;
     font-size:12px;
@@ -147,4 +147,38 @@ color:#045e70;
     font-size:18px;
     line-height:56px;
     background-color:transparent
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.355555em 0.711111em;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+
+
+}
+
+.rounded-pill {
+  border-radius: 50rem !important;
+}
+
+.cool{
+background-color: #fad7dd; 
+color: #932338;
+}
+
+.average{
+color: #070f19; 
+background-color: #ced1d4;
+}
+
+.hot{
+background-color: #ccf6e4; 
+color: #00864e;
 }
