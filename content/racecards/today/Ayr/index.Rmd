@@ -26,7 +26,9 @@ Index <- Todays.Prediction %>% filter(Course=="Ayr") %>% select(QueryID) %>% dis
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
-  tabledata <- tabledata %>% mutate(Jockey = paste(Jockey,"<br>",'<div class = "badge rounded-pill',JSR.css,'">',paste(round(Jockey.sr*100,2),"%"),"<div>"))
+  tabledata <- tabledata %>% mutate(Jockey = paste(Jockey,"<br>",'<div class = "badge rounded-pill',JSR.css,'">',paste(round(Jockey.sr*100,2),"%"),"<div>"),
+                                    OR=paste(OR,"<br>",Days.LR),
+                                    VDW=paste(VDW.Form,"<br>",Alt.VDW))
   
   
   racenumber <- tabledata$Race.number[1]
@@ -48,17 +50,16 @@ for (i in Index$QueryID) {
                                                                             Silk,
                                                                             Name,
                                                                             Age,
-                                                                            Weight,
-                                                                            OR,
                                                                             Trainer,
                                                                             Jockey,
+                                                                            Weight,
+                                                                            OR,
                                                                             VDW.Form,
-                                                                            Alt.VDW,
                                                                             prediction.score,
                                                                             Rank,
                                                                             win.pct
                                                                           ) %>%  kable(
-                                                                            align = 'clclcccllcclcc',
+                                                                            align = 'clclcllcccccc',
                                                                             table.attr = "class=\'racecard\'",
                                                                             escape = F,
                                                                             col.names = c(
@@ -67,12 +68,11 @@ for (i in Index$QueryID) {
                                                                               "Horse",
                                                                               "",
                                                                               'Age',
-                                                                              'Wt',
-                                                                              'OR',
                                                                               'Trainer',
                                                                               'Jockey',
-                                                                              'VDW',
-                                                                              'Alt VDW',
+                                                                              "weight",
+                                                                              'OR <br> DSLR',
+                                                                              'VDW <br> Alt VDW',
                                                                               'Pred Score',
                                                                               'Predicted Position',
                                                                               'Win %'
