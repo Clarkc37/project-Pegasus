@@ -43,7 +43,7 @@ for (i in Index$QueryID) {
   cat("\n")
   cat(raceconditions, "\n")
   cat("\n")
-  print('<div class="table-responsive">')
+ cat('<div class="table-responsive">',"\n")
   kibble <-
    tabledata %>% ungroup() %>% filter(QueryID == i) %>% mutate(Silk = "",
                                                                         Alt.VDW=round(Alt.VDW*1000,2),
