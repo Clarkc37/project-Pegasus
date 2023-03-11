@@ -28,19 +28,22 @@ for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
   tabledata <- tabledata %>% mutate(Jockey = paste(Jockey,"<br>",'<div class = "badge rounded-pill',JSR.css,'">',paste(round(Jockey.sr*100,2),"%"),"<div>"),
                                     OR=paste(OR,"<br>",Days.LR),
-                                    VDW=paste(VDW.Form,"<br>",Alt.VDW))
+                                    VDW=paste(VDW.Form,"<br>",Alt.VDW),
+                                    Distance=str_squish(Distance)
+                                    )
   
   
   racenumber <- tabledata$Race.number[1]
   racename <- tabledata$Title[1]
   raceconditions <- tabledata$Conditions[1]
-  cat("### ", Todays.Prediction[Todays.Prediction$QueryID == i,]$Time.Course[1], "\n")
+  cat("<h3> ", Todays.Prediction[Todays.Prediction$QueryID == i,]$Time.Course[1],'<h3>', "\n")
   cat("\n")
 
   cat(racename, "\n")
   cat("\n")
   cat(raceconditions, "\n")
   cat("\n")
+  print('<div class="table-responsive"')
   kibble <-
    tabledata %>% ungroup() %>% filter(QueryID == i) %>% mutate(Silk = "",
                                                                         Alt.VDW=round(Alt.VDW*1000,2),
@@ -83,6 +86,7 @@ for (i in Index$QueryID) {
                                                                                                                                                                                                   i,]$url.silk[])
   
   print(kibble)
+  cat('<div>')
   cat("\n")
 }
 

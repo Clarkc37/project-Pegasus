@@ -13,12 +13,13 @@ output:
 Todays Racecard for Ayr including algorithm predictions and confidence %
 
 
-###  14:15 Ayr 
+<h3>  14:15 Ayr <h3> 
 
 Virgin Bet Novices' Limited Handicap Chase (GBB Race) 
 
 (Class 3) (5YO plus) 
 
+[1] "<div class=\"table-responsive\""
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -111,13 +112,14 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
    <td style="text-align:center;"> 0.40 </td>
   </tr>
 </tbody>
-</table>
-###  14:45 Ayr 
+</table><div>
+<h3>  14:45 Ayr <h3> 
 
 Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race) 
 
 (Class 4) (4YO plus) 
 
+[1] "<div class=\"table-responsive\""
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -336,13 +338,14 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
    <td style="text-align:center;"> 0.00 </td>
   </tr>
 </tbody>
-</table>
-###  15:15 Ayr 
+</table><div>
+<h3>  15:15 Ayr <h3> 
 
 Virgin Bet Best Odds Daily Handicap Chase 
 
 (Class 4) (5YO plus) 
 
+[1] "<div class=\"table-responsive\""
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -561,13 +564,14 @@ Virgin Bet Best Odds Daily Handicap Chase
    <td style="text-align:center;"> 0.00 </td>
   </tr>
 </tbody>
-</table>
-###  15:50 Ayr 
+</table><div>
+<h3>  15:50 Ayr <h3> 
 
 Virgin Bet Fives Handicap Hurdle 
 
 (Class 4) (4YO plus) 
 
+[1] "<div class=\"table-responsive\""
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -858,13 +862,14 @@ Virgin Bet Fives Handicap Hurdle
    <td style="text-align:center;"> 0.12 </td>
   </tr>
 </tbody>
-</table>
-###  16:25 Ayr 
+</table><div>
+<h3>  16:25 Ayr <h3> 
 
 Virgin Bet Daily Money Back Mares' Handicap Hurdle 
 
 (Class 5) (4YO plus) 
 
+[1] "<div class=\"table-responsive\""
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -1101,7 +1106,7 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
    <td style="text-align:center;"> 0.00 </td>
   </tr>
 </tbody>
-</table>
+</table><div>
 
 
 
