@@ -19,7 +19,7 @@ Virgin Bet Novices' Limited Handicap Chase (GBB Race)
 
 (Class 3) (5YO plus) 
 
-[1] "<div class=\"table-responsive\""
+[1] "<div class=\"table-responsive\">"
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -119,7 +119,7 @@ Virgin Bet Daily Price Boosts Novices' Hurdle (GBB Race)
 
 (Class 4) (4YO plus) 
 
-[1] "<div class=\"table-responsive\""
+[1] "<div class=\"table-responsive\">"
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -345,7 +345,7 @@ Virgin Bet Best Odds Daily Handicap Chase
 
 (Class 4) (5YO plus) 
 
-[1] "<div class=\"table-responsive\""
+[1] "<div class=\"table-responsive\">"
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -571,7 +571,7 @@ Virgin Bet Fives Handicap Hurdle
 
 (Class 4) (4YO plus) 
 
-[1] "<div class=\"table-responsive\""
+[1] "<div class=\"table-responsive\">"
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -869,7 +869,7 @@ Virgin Bet Daily Money Back Mares' Handicap Hurdle
 
 (Class 5) (4YO plus) 
 
-[1] "<div class=\"table-responsive\""
+[1] "<div class=\"table-responsive\">"
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
