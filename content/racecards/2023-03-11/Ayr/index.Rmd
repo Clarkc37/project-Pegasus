@@ -27,6 +27,7 @@ Index <- Todays.Prediction %>% filter(Course=="Ayr") %>% select(QueryID) %>% dis
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
   tabledata <- tabledata %>% mutate(Jockey = paste(Jockey,"<br>",'<div class = "badge rounded-pill',JSR.css,'">',paste(round(Jockey.sr*100,2),"%"),"<div>"),
+                                    Trainer = paste(Trainer,"<br>",'<div class = "badge rounded-pill',TSR.css,'">',paste(round(Trainer.sr*100,2),"%"),"<div>"),
                                     OR=paste(OR,"<br>",Days.LR),
                                     VDW=paste(VDW.Form,"<br>",Alt.VDW),
                                     Distance=str_squish(Distance)
