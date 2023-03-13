@@ -28,34 +28,13 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - identifier: blog
-      name: Blog
-      weight: 2
-    - name: Posts
-      parent: blog
-      url: /posts/
-      weight: 1
-    - name: Sections
-      parent: blog
-      url: /sections/
-      weight: 2
-    - name: divider
-      parent: blog
-      weight: 3
-    - name: Tags
-      parent: blog
-      url: /tags/
-      weight: 4
     - identifier: racecards
       name: Racecards
-      weight: 3
+      weight: 2
     - name: Todays Racecards
       parent: racecards
       url: /racecards/
       weight: 1
-    - name: Contact
-      url: /contact/
-      weight: 4
 markup:
   goldmark:
     parser:
