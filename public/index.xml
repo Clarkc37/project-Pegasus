@@ -8,115 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://globalguideracing.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ayr 2023-02-27</title>
-      <link>https://globalguideracing.netlify.app/posts/ayr/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/ayr/</guid>
-      <description>Ayr 2023-02-27 This is a test output of the project pegasus algorithm
-Racecard 14:15 Ayr Virgin Bet Novices&amp;rsquo; Limited Handicap Chase (GBB Race)
-(Class 3) (5YO plus) No.</description>
-    </item>
-    
-    <item>
-      <title>Ayr 2023-02-27</title>
+      <title>Ayr | Saturday 11 March 2023</title>
       <link>https://globalguideracing.netlify.app/racecards/today/ayr/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://globalguideracing.netlify.app/racecards/today/ayr/</guid>
-      <description>Ayr 2023-02-27 This is a test output of the project pegasus algorithm
-Racecard 14:15 Ayr Virgin Bet Novices&amp;rsquo; Limited Handicap Chase (GBB Race)
-(Class 3) (5YO plus) No.</description>
-    </item>
-    
-    <item>
-      <title>Plumpton 2023-02-27</title>
-      <link>https://globalguideracing.netlify.app/posts/plumpton/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/plumpton/</guid>
-      <description>Plumpton 2023-02-27 This is a test output of the project pegasus algorithm
-Racecard 14:00 Plumpton Elementally Human High Stakes Handicap Chase
-(Class 5) (5YO plus) No.</description>
-    </item>
-    
-    <item>
-      <title>Plumpton 2023-02-27</title>
-      <link>https://globalguideracing.netlify.app/racecards/today/plumpton/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/racecards/today/plumpton/</guid>
-      <description>Plumpton 2023-02-27 This is a test output of the project pegasus algorithm
-Racecard 14:00 Plumpton Elementally Human High Stakes Handicap Chase
-(Class 5) (5YO plus) No.</description>
-    </item>
-    
-    <item>
-      <title>Chords for Happy Birthday</title>
-      <link>https://globalguideracing.netlify.app/posts/chords-for-happy-birthday/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/chords-for-happy-birthday/</guid>
-      <description> C G Happy birthday to you G C Happy birthday to you C F Happy birthday dear BlogRa C Bdim C Happy birthday to you </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://globalguideracing.netlify.app/posts/markdown-syntax/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://globalguideracing.netlify.app/posts/placeholder-text/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://globalguideracing.netlify.app/posts/rich-content/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Write Math Equations</title>
-      <link>https://globalguideracing.netlify.app/posts/write-math-equations/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/write-math-equations/</guid>
-      <description>Write math equations with ease. At first enable math:true in front matter.
-Then write this-
-$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-
-$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
-    </item>
-    
-    <item>
-      <title>Make Diagrams with Mermaid</title>
-      <link>https://globalguideracing.netlify.app/posts/make-diagrams-with-mermaid/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/make-diagrams-with-mermaid/</guid>
-      <description>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
-graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp;gt; D[Server02] to generate diagrams like this-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://globalguideracing.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
+      <description>Todays Racecard for Ayr including algorithm predictions and confidence %
+13:35 Ayr Virgin Bet Best Odds Daily Novices&amp;rsquo; Handicap Hurdle
+(Class 5) (4YO plus)
+No. Form Horse Age Trainer Jockey weight OR DSLR VDW Alt VDW Pred Score Predicted Position Win % 1 31 Gift Of Raaj 8 R G Fell 15 % Henry Brooke 22 % 12-0 104 30 6 -4.</description>
     </item>
     
     <item>
@@ -135,15 +35,6 @@ graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp
       
       <guid>https://globalguideracing.netlify.app/sections/python-tutorial/chapter-1/</guid>
       <description>This is Chapter 1.</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://globalguideracing.netlify.app/posts/emoji-support/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://globalguideracing.netlify.app/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
