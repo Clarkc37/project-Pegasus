@@ -12,14 +12,7 @@
     <div class="content">
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
-        <p class="summary">
-            <a href="{{ .RelPermalink }}">
-                {{ with .Description }}{{ . }}
-                {{ else }}{{ with .Summary }}{{ . | plainify | htmlUnescape }}
-                {{ end }}{{ end }}
-            </a>
-        </p>
-
+        
         <div class="tags">
             {{ range .Params.tags }}
             <a href="{{ "/tags/" | relURL }}{{ . | urlize }}"><span class="tag bg-dark">{{ . }}</span></a>
