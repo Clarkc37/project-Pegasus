@@ -17,7 +17,7 @@ options(kableExtra_view_html = F)
 Todays Racecard for Ayr including algorithm predictions and confidence %
 
 
-```{r echo=FALSE, results = "asis", class.output="card-body", include=FALSE}
+```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
 library(knitr)
 library(kableExtra)
