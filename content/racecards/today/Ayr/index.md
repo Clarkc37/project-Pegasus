@@ -2,6 +2,7 @@
 title: "Ayr | Saturday 11 March 2023"
 date: 2023-03-11 
 course: Ayr
+image: course.png
 output:
   html_document:
     keep_md: yes
@@ -12,6 +13,18 @@ output:
 
 Todays Racecard for Ayr including algorithm predictions and confidence %
 
+
+
+```
+## 
+## Attaching package: 'kableExtra'
+```
+
+```
+## The following object is masked from 'package:dplyr':
+## 
+##     group_rows
+```
 
 <h3>  13:35 Ayr <h3> 
 
