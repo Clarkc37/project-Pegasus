@@ -1,4 +1,4 @@
---falcon-200: #232e3c;
+
 
 body{
     font-smoothing:antialiased;
@@ -201,10 +201,9 @@ color: #00864e;
   height: 1rem;
   overflow: hidden;
   font-size: 0.75rem;
-  background-color: var(--falcon-200);
+  background-color: #232e3c ;
   border-radius: 0.25rem;
-  -webkit-box-shadow: var(--falcon-box-shadow-inset);
-  box-shadow: var(--falcon-box-shadow-inset);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075) ;
 }
 
 .progress-bar {
