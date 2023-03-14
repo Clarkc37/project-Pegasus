@@ -1,6 +1,6 @@
 ---
-title: "Huntingdon | Tuesday 14 March 2023"
-date: 2023-03-14 
+title: "Huntingdon | Wednesday 15 March 2023"
+date: 2023-03-15 
 course: Huntingdon
 image: course.png
 output:
@@ -43,7 +43,7 @@ Racing TV Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
    <td style="text-align:left;"> 54-6P92 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun135001.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun135001.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Luckofthedraw </td>
    <td style="text-align:center;"> 10 </td>
@@ -63,7 +63,7 @@ Racing TV Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> 55/43-63 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun135002.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun135002.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Not Another Muddle </td>
    <td style="text-align:center;"> 12 </td>
@@ -83,7 +83,7 @@ Racing TV Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
    <td style="text-align:left;"> 3211-3F </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun135003.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun135003.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Out The Glen </td>
    <td style="text-align:center;"> 10 </td>
@@ -131,7 +131,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
    <td style="text-align:left;"> 242-B41 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151001.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151001.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Benign Dictator </td>
    <td style="text-align:center;"> 6 </td>
@@ -151,7 +151,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> F-318 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151002.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151002.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Feel Good Inc </td>
    <td style="text-align:center;"> 5 </td>
@@ -171,7 +171,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
    <td style="text-align:left;"> 31/0-95 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151003.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151003.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Coachman </td>
    <td style="text-align:center;"> 7 </td>
@@ -191,7 +191,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
    <td style="text-align:left;"> 086P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151004.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151004.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Dirk Gently </td>
    <td style="text-align:center;"> 6 </td>
@@ -211,7 +211,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
    <td style="text-align:left;"> 26P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151005.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151005.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Glorious Oscar </td>
    <td style="text-align:center;"> 6 </td>
@@ -231,7 +231,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
    <td style="text-align:left;"> 31-5F29 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151006.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151006.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Soldier Of Destiny </td>
    <td style="text-align:center;"> 7 </td>
@@ -251,7 +251,7 @@ Every Race Live On Racing TV Novices' Hurdle (GBB Race)
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
    <td style="text-align:left;"> 6141 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun151007.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun151007.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Space Voyage </td>
    <td style="text-align:center;"> 6 </td>
@@ -299,7 +299,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
    <td style="text-align:left;"> 117-554 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155001.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155001.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Corey's Courage </td>
    <td style="text-align:center;"> 7 </td>
@@ -319,7 +319,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> 71-45P7 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155002.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155002.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Santa Clarita </td>
    <td style="text-align:center;"> 5 </td>
@@ -339,7 +339,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
    <td style="text-align:left;"> 46-329 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155003.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155003.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Mistral Lady </td>
    <td style="text-align:center;"> 5 </td>
@@ -359,7 +359,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
    <td style="text-align:left;"> 3-736P0 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155004.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155004.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Hillfinch </td>
    <td style="text-align:center;"> 6 </td>
@@ -379,7 +379,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
    <td style="text-align:left;"> 75-0P74 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155005.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155005.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Fortune Cookie </td>
    <td style="text-align:center;"> 6 </td>
@@ -399,7 +399,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
    <td style="text-align:left;"> 8143/0P- </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155006.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155006.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Committee Of One </td>
    <td style="text-align:center;"> 8 </td>
@@ -419,7 +419,7 @@ Racing TV Mares' Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
    <td style="text-align:left;"> 6495P0 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun155007.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun155007.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Hello Bob </td>
    <td style="text-align:center;"> 8 </td>
@@ -467,7 +467,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
    <td style="text-align:left;"> 135-322 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163001.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163001.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Enduring Love </td>
    <td style="text-align:center;"> 11 </td>
@@ -487,7 +487,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> 1443/5P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163002.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163002.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Mr Palmtree </td>
    <td style="text-align:center;"> 10 </td>
@@ -507,7 +507,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
    <td style="text-align:left;"> 24-612P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163003.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163003.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Spotty Dog </td>
    <td style="text-align:center;"> 8 </td>
@@ -527,7 +527,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
    <td style="text-align:left;"> P77F0/6 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163004.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163004.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Williamdeconqueror </td>
    <td style="text-align:center;"> 7 </td>
@@ -547,7 +547,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
    <td style="text-align:left;"> F812-35 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163005.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163005.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Alright Chief </td>
    <td style="text-align:center;"> 11 </td>
@@ -567,7 +567,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
    <td style="text-align:left;"> 3255-4P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163006.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163006.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Earcomesbob </td>
    <td style="text-align:center;"> 8 </td>
@@ -587,7 +587,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
    <td style="text-align:left;"> 4-PP35P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163007.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163007.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Leskinfere </td>
    <td style="text-align:center;"> 10 </td>
@@ -607,7 +607,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
    <td style="text-align:left;"> 3F-4743 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163008.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163008.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Bignorm </td>
    <td style="text-align:center;"> 11 </td>
@@ -627,7 +627,7 @@ Visit racingtv.com Handicap Chase
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
    <td style="text-align:left;"> 97P637 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun163009.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun163009.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Voice Of Hope </td>
    <td style="text-align:center;"> 6 </td>
@@ -675,7 +675,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
    <td style="text-align:left;"> 52-3420 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171001.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171001.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Global Agreement </td>
    <td style="text-align:center;"> 6 </td>
@@ -695,7 +695,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> 4150 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171002.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171002.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> East End Girl </td>
    <td style="text-align:center;"> 6 </td>
@@ -715,7 +715,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
    <td style="text-align:left;"> 29-2788 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171003.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171003.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Chadlington Lad </td>
    <td style="text-align:center;"> 5 </td>
@@ -735,7 +735,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
    <td style="text-align:left;"> 66-4153 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171004.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171004.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Rock On Tommy </td>
    <td style="text-align:center;"> 8 </td>
@@ -755,7 +755,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
    <td style="text-align:left;"> 6488 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171005.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171005.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Sassified </td>
    <td style="text-align:center;"> 5 </td>
@@ -775,7 +775,7 @@ Racing TV Handicap Hurdle
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
    <td style="text-align:left;"> 264111 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230314/20230314hun171006.png?v=2"></body></html>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20230315/20230315hun171006.png?v=2"></body></html>
 </td>
    <td style="text-align:left;"> Telhimlisten </td>
    <td style="text-align:center;"> 7 </td>
