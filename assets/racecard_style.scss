@@ -1,3 +1,5 @@
+--falcon-200: #232e3c;
+
 body{
     font-smoothing:antialiased;
     -webkit-font-smoothing:antialiased;
@@ -189,4 +191,39 @@ color: #00864e;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   
+}
+
+
+.progress {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 1rem;
+  overflow: hidden;
+  font-size: 0.75rem;
+  background-color: var(--falcon-200);
+  border-radius: 0.25rem;
+  -webkit-box-shadow: var(--falcon-box-shadow-inset);
+  box-shadow: var(--falcon-box-shadow-inset);
+}
+
+.progress-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #2c7be5;
+  -webkit-transition: width 0.6s ease;
+  -o-transition: width 0.6s ease;
+  transition: width 0.6s ease;
 }
