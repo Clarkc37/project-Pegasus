@@ -1,7 +1,7 @@
 ---
-title: "Ayr | Saturday 11 March 2023"
-date: 2023-03-11 
-course: Ayr
+title: "Sedgefield | Tuesday 14 March 2023"
+date: 2023-03-14 
+course: Sedgefield
 image: course.png
 output:
   html_document:
@@ -14,7 +14,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Ayr including algorithm predictions and confidence %
+Todays Racecard for Sedgefield including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -23,7 +23,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Ayr") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Sedgefield") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
@@ -31,7 +31,10 @@ for (i in Index$QueryID) {
                                     Trainer = paste(Trainer,"<br>",'<div class = "badge rounded-pill',TSR.css,'">',paste(round(Trainer.sr*100,2),"%"),"<div>"),
                                     OR=paste(OR,"<br>",Days.LR),
                                     VDW=paste(VDW.Form,"<br>",Alt.VDW),
-                                    Distance=str_squish(Distance)
+                                    Distance=str_squish(Distance),
+                                    win.pct = paste('<div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width:' ,paste(round(win.pct*100,2),"%",sep = ""), '" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div>','<br>',
+                                                    paste(round(win.pct*100,2),"%",sep = "")
+                                                    )
                                     )
   
   
