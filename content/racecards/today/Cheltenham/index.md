@@ -23,19 +23,19 @@ Ballymore Novices' Hurdle (Grade 1) (Registered As The Baring Bingham) (GBB Race
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>
@@ -251,19 +251,19 @@ Brown Advisory Novices' Chase (Grade 1) (Registered As The Broadway Novices' Cha
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>
@@ -499,19 +499,19 @@ Coral Cup Handicap Hurdle (Premier Handicap) (GBB Race)
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>
@@ -1047,19 +1047,19 @@ Betway Queen Mother Champion Chase (Grade 1) (GBB Race)
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>
@@ -1215,19 +1215,19 @@ Glenfarclas Chase (Cross Country Chase) (GBB Race)
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>
@@ -1563,19 +1563,19 @@ Johnny Henderson Grand Annual Challenge Cup Handicap Chase (Premier Handicap) (G
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> No. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Form </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Horse </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">  </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Age </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Trainer </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Jockey </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> weight </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> OR <br> DSLR </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Pred Score </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Predicted Position </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Win % </th>
   </tr>
  </thead>
 <tbody>

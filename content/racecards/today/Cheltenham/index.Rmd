@@ -84,7 +84,7 @@ for (i in Index$QueryID) {
                                                                               'Predicted Position',
                                                                               'Win %'
                                                                             )
-                                                                          ) %>% kable_styling('hover', full_width = F) %>% column_spec(1, width =
+                                                                          ) %>% kable_styling('hover', full_width = F,fixed_thead = T) %>% column_spec(1, width =
                                                                                                                                          "65px")%>% column_spec(3, width =
                                                                                                                                          "40px")  %>%  column_spec(3, image = Todays.Prediction[Todays.Prediction$QueryID ==
                                                                                                                                                                                                   i,]$url.silk[])
