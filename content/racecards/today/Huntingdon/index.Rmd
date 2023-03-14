@@ -1,6 +1,5 @@
 ---
 title: "Huntingdon | Wednesday 15 March 2023"
-date: 2023-03-15 
 course: Huntingdon
 image: course.png
 output:
