@@ -1,7 +1,7 @@
 ---
-title: "Sedgefield | Tuesday 14 March 2023"
+title: "Huntingdon | Tuesday 14 March 2023"
 date: 2023-03-14 
-course: Sedgefield
+course: Huntingdon
 image: course.png
 output:
   html_document:
@@ -14,7 +14,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Sedgefield including algorithm predictions and confidence %
+Todays Racecard for Huntingdon including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -23,7 +23,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Sedgefield") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Huntingdon") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
