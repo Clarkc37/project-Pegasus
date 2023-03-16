@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham | Thursday 16 March 2023"
+title: "Cheltenham | Wednesday 15 March 2023"
 course: Cheltenham
 image: course.png
 output:
