@@ -1,6 +1,6 @@
 ---
-title: "Cheltenham | Friday 17 March 2023"
-course: Cheltenham
+title: "Haydock | Wednesday 22 March 2023"
+course: Haydock
 image: course.png
 output:
   html_document:
@@ -13,7 +13,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Cheltenham including algorithm predictions and confidence %
+Todays Racecard for Haydock including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Cheltenham") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Haydock") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
@@ -64,9 +64,12 @@ for (i in Index$QueryID) {
                                                                             VDW.Form,
                                                                             prediction.score,
                                                                             Rank,
-                                                                            win.pct
+                                                                            win.pct,
+                                                                            bet.prediction.score,
+                                                                            Bet.Rank,
+                                                                            Odds
                                                                           ) %>%  kable(
-                                                                            align = 'clclcllcccccc',
+                                                                            align = 'clclcllccccccccc',
                                                                             table.attr = "class=\'racecard\'",
                                                                             escape = F,
                                                                             col.names = c(
@@ -82,7 +85,10 @@ for (i in Index$QueryID) {
                                                                               'VDW <br> Alt VDW',
                                                                               'Pred Score',
                                                                               'Predicted Position',
-                                                                              'Win %'
+                                                                              'Win %',
+                                                                              'ew probability',
+                                                                              'ew preference',
+                                                                              'Odds'
                                                                             )
                                                                           ) %>% kable_styling('hover', full_width = F) %>% column_spec(1, width =
                                                                                                                                          "65px")%>% column_spec(3, width =
