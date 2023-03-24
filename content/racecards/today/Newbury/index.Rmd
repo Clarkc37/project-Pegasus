@@ -1,6 +1,6 @@
 ---
-title: "Ffos Las | Wednesday 22 March 2023"
-course: Ffos Las
+title: "Newbury | Friday 24 March 2023"
+course: Newbury
 image: course.png
 output:
   html_document:
@@ -13,7 +13,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Ffos Las including algorithm predictions and confidence %
+Todays Racecard for Newbury including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Ffos Las") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Newbury") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
