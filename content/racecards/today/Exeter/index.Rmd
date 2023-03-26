@@ -1,6 +1,6 @@
 ---
-title: "Bangor-On-Dee | Saturday 25 March 2023"
-course: Bangor-On-Dee
+title: "Exeter | Sunday 26 March 2023"
+course: Exeter
 image: course.png
 output:
   html_document:
@@ -13,7 +13,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Bangor-On-Dee including algorithm predictions and confidence %
+Todays Racecard for Exeter including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Bangor-On-Dee") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Exeter") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
