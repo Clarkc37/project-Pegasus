@@ -1,6 +1,6 @@
 ---
-title: "Carlisle | Saturday 08 April 2023"
-course: Carlisle
+title: "Cork (IRE) | Sunday 09 April 2023"
+course: Cork (IRE)
 image: course.png
 output:
   html_document:
@@ -13,7 +13,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Carlisle including algorithm predictions and confidence %
+Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Carlisle") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Cork (IRE)") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
