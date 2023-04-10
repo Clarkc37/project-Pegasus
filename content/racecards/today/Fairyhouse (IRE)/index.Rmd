@@ -1,5 +1,5 @@
 ---
-title: "Fairyhouse (IRE) | Sunday 09 April 2023"
+title: "Fairyhouse (IRE) | Monday 10 April 2023"
 course: Fairyhouse (IRE)
 image: course.png
 output:

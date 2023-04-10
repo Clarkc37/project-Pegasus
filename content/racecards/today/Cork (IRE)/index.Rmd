@@ -1,5 +1,5 @@
 ---
-title: "Cork (IRE) | Sunday 09 April 2023"
+title: "Cork (IRE) | Monday 10 April 2023"
 course: Cork (IRE)
 image: course.png
 output:
