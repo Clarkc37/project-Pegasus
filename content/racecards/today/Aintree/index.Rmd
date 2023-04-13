@@ -1,6 +1,6 @@
 ---
-title: "Plumpton | Monday 10 April 2023"
-course: Plumpton
+title: "Aintree | Thursday 13 April 2023"
+course: Aintree
 image: course.png
 output:
   html_document:
@@ -13,7 +13,7 @@ options(kableExtra_view_html = F)
 ```
 
 
-Todays Racecard for Plumpton including algorithm predictions and confidence %
+Todays Racecard for Aintree including algorithm predictions and confidence %
 
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Plumpton") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Aintree") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
