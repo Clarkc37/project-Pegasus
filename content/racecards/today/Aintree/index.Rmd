@@ -1,5 +1,5 @@
 ---
-title: "Aintree | Thursday 13 April 2023"
+title: "Aintree | Friday 14 April 2023"
 course: Aintree
 image: course.png
 output:
