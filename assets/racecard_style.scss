@@ -29,8 +29,10 @@ body{
     border-right:1px solid #e0e5ea;
     font-size:12px;
     line-height:1.25;
+    max-width:100%;
     overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+    
+
 
 }
 .racecard tr td:first-child{
