@@ -24,14 +24,15 @@ body{
 
 }
 .racecard{
- background-color:#fff !important;
-    border-left:1px solid #e0e5ea;
-    border-right:1px solid #e0e5ea;
-    font-size:12px;
-    line-height:1.25;
-    max-width:100%;
+ background-color: #fff !important;
+    border-left: 1px solid #e0e5ea;
+    border-right: 1px solid #e0e5ea;
+    font-size: 12px;
+    line-height: 1.25;
+    max-width: 100%;
     overflow-x: auto;
-    
+    max-height: 100%;
+    overflow-y: auto;
 
 
 }
