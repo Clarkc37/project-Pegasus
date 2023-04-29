@@ -1,5 +1,5 @@
 ---
-title: "Punchestown (IRE) | Friday 28 April 2023"
+title: "Punchestown (IRE) | Saturday 29 April 2023"
 course: Punchestown (IRE)
 image: course.png
 output:

@@ -1,6 +1,6 @@
 ---
-title: "Southwell | Friday 28 April 2023"
-course: Southwell
+title: "Sandown | Saturday 29 April 2023"
+course: Sandown
 image: course.png
 output:
   html_document:
@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Southwell including algorithm predictions and confidence %
+Todays Racecard for Sandown including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -19,7 +19,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Southwell") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Sandown") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
