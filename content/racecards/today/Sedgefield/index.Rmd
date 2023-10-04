@@ -34,15 +34,15 @@ for (i in Index$QueryID) {
                                     )
   
   
-  racenumber <- tabledata$Race.number[1]
-  racename <- tabledata$Title[1]
-  raceconditions <- tabledata$Conditions[1]
-  cat("<h3> ", Todays.Prediction[Todays.Prediction$QueryID == i,]$Time.Course[1],'<h3>', "\n")
-  cat("\n")
-
-  cat(racename, "\n")
-  cat("\n")
-  cat(raceconditions, "\n")
+raceinfobox(tabledata$Title[1],
+            tabledata$Time.Course[1],
+            tabledata$JumpType[1],
+            "",
+            tabledata$Conditions[1],
+            tabledata$going[1],
+            tabledata$Distance[1],
+            tabledata$No.Runners[1] %>% as.character(),
+            tabledata$prizemoney[1]) %>% cat()
   cat("\n")
  cat('<div class="table-responsive">',"\n")
   kibble <-
