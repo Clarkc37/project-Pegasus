@@ -37,7 +37,6 @@ for (i in Index$QueryID) {
 raceinfobox(tabledata$Title[1],
             tabledata$Time.Course[1],
             tabledata$JumpType[1],
-            "",
             tabledata$Conditions[1],
             tabledata$going[1],
             tabledata$Distance[1],
