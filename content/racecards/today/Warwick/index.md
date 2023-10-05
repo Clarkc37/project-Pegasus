@@ -49,7 +49,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 174 </td>
-   <td style="text-align:center;"> 9.0 </td>
+   <td style="text-align:center;"> 9 <br> 0 </td>
    <td style="text-align:center;"> -2.255 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -72,7 +72,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 199 </td>
-   <td style="text-align:center;"> 18.0 </td>
+   <td style="text-align:center;"> 18 <br> 0 </td>
    <td style="text-align:center;"> -2.049 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -95,7 +95,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 168 </td>
-   <td style="text-align:center;"> 13.0 </td>
+   <td style="text-align:center;"> 13 <br> 0 </td>
    <td style="text-align:center;"> -3.740 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -118,7 +118,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 176 </td>
-   <td style="text-align:center;"> 12.0 </td>
+   <td style="text-align:center;"> 12 <br> 0 </td>
    <td style="text-align:center;"> -3.411 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -141,7 +141,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 176 </td>
-   <td style="text-align:center;"> 4.5 </td>
+   <td style="text-align:center;"> 4.5 <br> 0 </td>
    <td style="text-align:center;"> -1.030 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -164,7 +164,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 175 </td>
-   <td style="text-align:center;"> 7.0 </td>
+   <td style="text-align:center;"> 7 <br> 0 </td>
    <td style="text-align:center;"> -2.626 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -187,7 +187,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 130 </td>
-   <td style="text-align:center;"> 30.0 </td>
+   <td style="text-align:center;"> 30 <br> 0 </td>
    <td style="text-align:center;"> -4.278 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -210,7 +210,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 145 </td>
-   <td style="text-align:center;"> 13.0 </td>
+   <td style="text-align:center;"> 13 <br> 0 </td>
    <td style="text-align:center;"> -4.059 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -233,7 +233,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 148 </td>
-   <td style="text-align:center;"> 18.0 </td>
+   <td style="text-align:center;"> 18 <br> 0 </td>
    <td style="text-align:center;"> -4.514 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
@@ -256,7 +256,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 0 <br> 178 </td>
-   <td style="text-align:center;"> 12.0 </td>
+   <td style="text-align:center;"> 12 <br> 0 </td>
    <td style="text-align:center;"> -1.446 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -279,7 +279,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 0 <br> 126 </td>
-   <td style="text-align:center;"> 13.0 </td>
+   <td style="text-align:center;"> 13 <br> 0 </td>
    <td style="text-align:center;"> -4.213 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -302,7 +302,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 0 <br> 143 </td>
-   <td style="text-align:center;"> 16.0 </td>
+   <td style="text-align:center;"> 16 <br> 0 </td>
    <td style="text-align:center;"> -4.046 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -352,7 +352,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 138 <br> 908 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 9 <br> 3.45 </td>
    <td style="text-align:center;"> -1.709 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 42% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 42% </td>
@@ -375,7 +375,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 137 <br> 161 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 21 <br> 4.67 </td>
    <td style="text-align:center;"> -0.171 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11% </td>
@@ -398,7 +398,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 127 <br> 167 </td>
-   <td style="text-align:center;"> 25 </td>
+   <td style="text-align:center;"> 25 <br> 0 </td>
    <td style="text-align:center;"> -2.487 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 47% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 47% </td>
@@ -421,7 +421,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 125 <br> 282 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 11 <br> 0 </td>
    <td style="text-align:center;"> -1.397 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -444,7 +444,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 125 <br> 236 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 13 <br> 12.5 </td>
    <td style="text-align:center;"> -0.183 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -467,7 +467,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 123 <br> 167 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 15 <br> 3.21 </td>
    <td style="text-align:center;"> -0.468 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -490,7 +490,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 122 <br> 30 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 7 <br> 5.62 </td>
    <td style="text-align:center;"> -0.749 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -513,7 +513,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 122 <br> 33 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 5 <br> 19.74 </td>
    <td style="text-align:center;"> 0.933 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -563,7 +563,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 127 <br> 166 </td>
-   <td style="text-align:center;"> 25 </td>
+   <td style="text-align:center;"> 25 <br> 0 </td>
    <td style="text-align:center;"> 2.068 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -586,7 +586,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 125 <br> 25 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 3 <br> 13.71 </td>
    <td style="text-align:center;"> -0.116 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -609,7 +609,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 123 <br> 180 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 12 <br> 2.81 </td>
    <td style="text-align:center;"> 1.581 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -632,7 +632,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 123 <br> 206 </td>
-   <td style="text-align:center;"> 25 </td>
+   <td style="text-align:center;"> 25 <br> 41.91 </td>
    <td style="text-align:center;"> 0.630 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
@@ -655,7 +655,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 123 <br> 63 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 6 <br> 7.19 </td>
    <td style="text-align:center;"> -2.677 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 98% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 98% </td>
@@ -678,7 +678,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 119 <br> 166 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 13 <br> 9.4 </td>
    <td style="text-align:center;"> 2.135 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -701,7 +701,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 118 <br> 167 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 11 <br> 5.08 </td>
    <td style="text-align:center;"> -0.827 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -724,7 +724,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 112 <br> 157 </td>
-   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 20 <br> 4.35 </td>
    <td style="text-align:center;"> -1.643 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
@@ -747,7 +747,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 110 <br> 10 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 12 <br> 16.6 </td>
    <td style="text-align:center;"> -0.132 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
@@ -797,7 +797,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 121 <br> 244 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 8 <br> 0 </td>
    <td style="text-align:center;"> -1.051 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -820,7 +820,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 120 <br> 24 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 7 <br> 41.86 </td>
    <td style="text-align:center;"> 0.382 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -843,7 +843,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 116 <br> 35 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 9 <br> 2.01 </td>
    <td style="text-align:center;"> -2.532 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99.5% </td>
@@ -866,7 +866,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 115 <br> 177 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 13 <br> 3.92 </td>
    <td style="text-align:center;"> 0.448 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -889,7 +889,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 112 <br> 30 </td>
-   <td style="text-align:center;"> 24 </td>
+   <td style="text-align:center;"> 24 <br> 31.51 </td>
    <td style="text-align:center;"> -0.430 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -912,7 +912,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 110 <br> 111 </td>
-   <td style="text-align:center;"> 25 </td>
+   <td style="text-align:center;"> 25 <br> 70.14 </td>
    <td style="text-align:center;"> -0.321 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
@@ -935,7 +935,7 @@ Todays Racecard for Warwick including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 110 <br> 33 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 9 <br> 12.92 </td>
    <td style="text-align:center;"> -1.822 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>

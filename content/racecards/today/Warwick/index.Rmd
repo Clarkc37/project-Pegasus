@@ -26,7 +26,7 @@ for (i in Index$QueryID) {
   tabledata <- tabledata %>% mutate(Jockey = paste(Jockey,"<br>",'<div class = "badge rounded-pill',JSR.css,'">',paste(round(Jockey.sr*100,2),"%"),"<div>"),
                                     Trainer = paste(Trainer,"<br>",'<div class = "badge rounded-pill',TSR.css,'">',paste(round(Trainer.sr*100,2),"%"),"<div>"),
                                     OR=paste(OR,"<br>",Days.LR),
-                                    VDW=paste(VDW.Form,"<br>",Alt.VDW),
+                                    VDW=paste(VDW.Form %>% as.character(),"<br>",round(Alt.VDW*1000,2) %>% as.character()),
                                     Distance=str_squish(Distance),
                                     win.pct = paste('<div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width:' ,paste(round(win.pct*100,2),"%",sep = ""), '" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div>','<br>',
                                                     paste(round(win.pct*100,2),"%",sep = "")
@@ -46,8 +46,7 @@ raceinfobox(tabledata$Title[1],
  cat('<div class="table-responsive">',"\n")
   kibble <-
    tabledata %>% ungroup() %>% filter(QueryID == i) %>% mutate(Silk = "",
-                                                                        Alt.VDW=round(Alt.VDW*1000,2),
-                                                                        prediction.score=round(prediction.score,3)) %>% select(
+                                                               prediction.score=round(prediction.score,3)) %>% select(
                                                                             Horse.Number,
                                                                             Form,
                                                                             Silk,
@@ -57,7 +56,7 @@ raceinfobox(tabledata$Title[1],
                                                                             Jockey,
                                                                             Weight,
                                                                             OR,
-                                                                            VDW.Form,
+                                                                            VDW,
                                                                             prediction.score,
                                                                             Rank,
                                                                             win.pct,
