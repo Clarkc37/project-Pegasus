@@ -3,10 +3,10 @@
 {{ $image := $.context.Page.Resources.Match (.context.Params.image) }}
 {{ $image := index $image 0 }}
 
-<div class="grid-item grid-item-{{ add .index 1 }}" 
+<div class="grid-item grid-item-{{ add .context.Params.order 1 }} order-{{ add .context.Params.order 1 }}" 
     style="background-image:url('{{ $image.Permalink }}')">
 {{ else }}
-<div class="grid-item grid-item-{{ add .index 1 }}" 
+<div class="grid-item grid-item-{{ add .context.Params.order 1 }} order-{{ add .context.Params.order 1 }}" 
     style="background-image:url('')">
 {{ end }}
     <div class="content">
@@ -18,14 +18,14 @@
 
         <!-- If index 0 then h1, otherwise h2 (Cause SEO reasons) -->
 
-        {{ if eq .index 0 }}
-        <h1><a class="link-title" href="{{ .context.RelPermalink }}">
-                {{ .context.Title }}
-            </a></h1>
-        {{ else }}
+        {{ if gt .context.Params.order 0 }}
         <h2><a class="link-title" href="{{ .context.RelPermalink }}">
             {{ .context.Title }}
         </a></h2>
+        {{ else }}
+        <h1><a class="link-title" href="{{ .context.RelPermalink }}">
+                {{ .context.Title }}
+            </a></h1>
         {{ end }}
 
         <div class="low-tab">
