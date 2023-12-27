@@ -1,5 +1,5 @@
 ---
-title: "Wetherby | Tuesday 26 December 2023"
+title: "Wetherby | Wednesday 27 December 2023"
 course: Wetherby
 image: course.png
 featured: false

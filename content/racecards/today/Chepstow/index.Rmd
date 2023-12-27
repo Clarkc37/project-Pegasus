@@ -1,6 +1,6 @@
 ---
-title: "Down Royal (NI) | Tuesday 26 December 2023"
-course: Down Royal (NI)
+title: "Chepstow | Wednesday 27 December 2023"
+course: Chepstow
 image: course.png
 featured: false
 order: 0
@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Down Royal (NI) including algorithm predictions and confidence %
+Todays Racecard for Chepstow including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Down Royal (NI)") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Chepstow") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
