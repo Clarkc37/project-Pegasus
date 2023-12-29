@@ -1,5 +1,5 @@
 ---
-title: "Limerick (IRE) | Thursday 28 December 2023"
+title: "Limerick (IRE) | Friday 29 December 2023"
 course: Limerick (IRE)
 image: course.png
 featured: false
