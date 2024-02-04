@@ -1,5 +1,5 @@
 ---
-title: "Musselburgh | Saturday 03 February 2024"
+title: "Musselburgh | Sunday 04 February 2024"
 course: Musselburgh
 image: course.png
 featured: false

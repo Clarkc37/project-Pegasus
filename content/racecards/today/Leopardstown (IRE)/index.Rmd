@@ -1,8 +1,8 @@
 ---
-title: "Leopardstown (IRE) | Saturday 03 February 2024"
+title: "Leopardstown (IRE) | Sunday 04 February 2024"
 course: Leopardstown (IRE)
 image: course.png
-featured: false
+featured: true
 order: 0
 output:
   html_document:
