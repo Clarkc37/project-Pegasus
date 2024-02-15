@@ -1,8 +1,8 @@
 ---
-title: "Fontwell | Wednesday 14 February 2024"
-course: Fontwell
+title: "Clonmel (IRE) | Thursday 15 February 2024"
+course: Clonmel (IRE)
 image: course.png
-featured: true
+featured: false
 order: 0
 output:
   html_document:
@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Fontwell including algorithm predictions and confidence %
+Todays Racecard for Clonmel (IRE) including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Fontwell") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Clonmel (IRE)") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
