@@ -1,6 +1,6 @@
 ---
-title: "Exeter | Friday 23 February 2024"
-course: Exeter
+title: "Naas (IRE) | Sunday 25 February 2024"
+course: Naas (IRE)
 image: course.png
 featured: true
 order: 0
@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Exeter including algorithm predictions and confidence %
+Todays Racecard for Naas (IRE) including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Exeter") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Naas (IRE)") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
