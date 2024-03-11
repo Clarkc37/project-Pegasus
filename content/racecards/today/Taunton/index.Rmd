@@ -1,6 +1,6 @@
 ---
-title: "Thurles (IRE) | Tuesday 05 March 2024"
-course: Thurles (IRE)
+title: "Taunton | Monday 11 March 2024"
+course: Taunton
 image: course.png
 featured: true
 order: 0
@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Thurles (IRE) including algorithm predictions and confidence %
+Todays Racecard for Taunton including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Thurles (IRE)") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Taunton") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
