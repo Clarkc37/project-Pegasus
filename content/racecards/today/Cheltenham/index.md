@@ -43,7 +43,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Asian Master </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Mr T Costello <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -53,10 +53,10 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 0 <br> 52 </td>
    <td style="text-align:center;"> 6 <br> 1.02 </td>
    <td style="text-align:center;"> -0.208 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0157558 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0100180 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 18.00 </td>
   </tr>
   <tr>
@@ -66,20 +66,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Favour And Fortune </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill average "> 13 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 138 <br> 30 </td>
    <td style="text-align:center;"> 5 <br> 0.22 </td>
-   <td style="text-align:center;"> -1.398 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -1.639 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0034443 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0216391 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 33.00 </td>
   </tr>
   <tr>
@@ -89,20 +89,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Firefox </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 60 </td>
    <td style="text-align:center;"> 6 <br> 0.39 </td>
-   <td style="text-align:center;"> -1.402 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -1.393 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0584975 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.1066031 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 5.50 </td>
   </tr>
   <tr>
@@ -112,20 +112,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Gold Dancer </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 37 </td>
    <td style="text-align:center;"> 11 <br> 0.29 </td>
-   <td style="text-align:center;"> 0.105 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> -0.208 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0010802 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.0027975 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 50.00 </td>
   </tr>
   <tr>
@@ -135,20 +135,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jeriko Du Reponet </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 136 <br> 45 </td>
    <td style="text-align:center;"> 3 <br> 0.38 </td>
-   <td style="text-align:center;"> -1.349 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -1.181 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0671110 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.0984634 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 7.50 </td>
   </tr>
   <tr>
@@ -158,19 +158,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kings Hill </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P J Gilligan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P J Gilligan <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jack G Gilligan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jack G Gilligan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 28 </td>
    <td style="text-align:center;"> 15 <br> 4.04 </td>
-   <td style="text-align:center;"> -0.064 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.036 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0001149 </td>
+   <td style="text-align:center;"> 0.0003159 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 125.00 </td>
   </tr>
@@ -181,20 +181,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mistergif </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 42 </td>
    <td style="text-align:center;"> 8 <br> 0.49 </td>
-   <td style="text-align:center;"> -0.888 </td>
+   <td style="text-align:center;"> -0.930 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0936235 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.1360684 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
   <tr>
@@ -204,19 +204,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mystical Power </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 148 <br> 58 </td>
    <td style="text-align:center;"> 3 <br> 0.33 </td>
-   <td style="text-align:center;"> -1.312 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -1.211 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1944063 </td>
+   <td style="text-align:center;"> 0.1331488 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -227,20 +227,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Slade Steel </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 147 <br> 37 </td>
    <td style="text-align:center;"> 4 <br> 0.23 </td>
-   <td style="text-align:center;"> -2.254 </td>
+   <td style="text-align:center;"> -2.171 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.2978018 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.1249304 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
@@ -250,20 +250,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Supersundae </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 337 </td>
    <td style="text-align:center;"> 13.5 <br> 0.39 </td>
-   <td style="text-align:center;"> 0.752 </td>
+   <td style="text-align:center;"> 0.248 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0014231 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0016736 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 66.00 </td>
   </tr>
   <tr>
@@ -273,20 +273,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Tellherthename </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Kielan Woods <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Kielan Woods <br> <div class="badge rounded-pill hot "> 27 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 135 <br> 60 </td>
    <td style="text-align:center;"> 12 <br> 0.68 </td>
-   <td style="text-align:center;"> 0.779 </td>
+   <td style="text-align:center;"> 0.823 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0122060 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0088526 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 20.00 </td>
   </tr>
   <tr>
@@ -296,20 +296,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Tullyhill </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 56 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 153 <br> 23 </td>
    <td style="text-align:center;"> 4 <br> 0.46 </td>
-   <td style="text-align:center;"> -1.913 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> -1.621 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2007687 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.2672567 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.75 </td>
   </tr>
 </tbody>
@@ -346,19 +346,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Authorised Speed </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> David Noonan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> David Noonan <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 134 <br> 65 </td>
    <td style="text-align:center;"> 21 <br> 1.01 </td>
-   <td style="text-align:center;"> 0.146 </td>
+   <td style="text-align:center;"> 0.076 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0010225 </td>
+   <td style="text-align:center;"> 0.0008674 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 80.0 </td>
   </tr>
@@ -369,20 +369,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Found A Fifty </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 154 <br> 38 </td>
    <td style="text-align:center;"> 5 <br> 0.06 </td>
-   <td style="text-align:center;"> -1.213 </td>
+   <td style="text-align:center;"> -1.296 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 21% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 21% </td>
-   <td style="text-align:center;"> 0.0720228 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1591556 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 7.5 </td>
   </tr>
   <tr>
@@ -392,19 +392,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Gaelic Warrior </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 56 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 157 <br> 37 </td>
    <td style="text-align:center;"> 12 <br> 0.18 </td>
-   <td style="text-align:center;"> -0.936 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -0.814 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3486594 </td>
+   <td style="text-align:center;"> 0.4895510 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.5 </td>
   </tr>
@@ -415,20 +415,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hunters Yarn </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 153 <br> 59 </td>
    <td style="text-align:center;"> 13 <br> 1.83 </td>
-   <td style="text-align:center;"> -0.803 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0671614 </td>
+   <td style="text-align:center;"> -0.987 </td>
    <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0591956 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -438,20 +438,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Il Etait Temps </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 155 <br> 38 </td>
    <td style="text-align:center;"> 4 <br> 0.21 </td>
-   <td style="text-align:center;"> -1.216 </td>
+   <td style="text-align:center;"> -1.377 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 37.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 37.5% </td>
-   <td style="text-align:center;"> 0.1050702 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3.5% </td>
+   <td style="text-align:center;"> 0.1029147 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -461,20 +461,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jpr One </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J Tizzard <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J Tizzard <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Brendan Powell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Brendan Powell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 150 <br> 51 </td>
    <td style="text-align:center;"> 14 <br> 0.22 </td>
-   <td style="text-align:center;"> -0.599 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0273814 </td>
+   <td style="text-align:center;"> -0.910 </td>
    <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0189256 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 10.0 </td>
   </tr>
   <tr>
@@ -484,20 +484,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Master Chewy </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 150 <br> 51 </td>
    <td style="text-align:center;"> 7 <br> 0.22 </td>
-   <td style="text-align:center;"> -0.827 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -1.042 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0514332 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0284366 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -507,19 +507,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Matata </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 148 <br> 51 </td>
    <td style="text-align:center;"> 5 <br> 0.3 </td>
-   <td style="text-align:center;"> -0.572 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> -0.816 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0145594 </td>
+   <td style="text-align:center;"> 0.0151252 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
@@ -530,20 +530,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> My Mate Mozzie </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 150 <br> 77 </td>
    <td style="text-align:center;"> 5 <br> 0.43 </td>
-   <td style="text-align:center;"> -1.281 </td>
+   <td style="text-align:center;"> -1.565 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 41.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 41.5% </td>
-   <td style="text-align:center;"> 0.1967950 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 96.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 96.5% </td>
+   <td style="text-align:center;"> 0.1287538 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 8.5 </td>
   </tr>
   <tr>
@@ -553,20 +553,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Quilixios </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 147 <br> 60 </td>
    <td style="text-align:center;"> 8 <br> 0.53 </td>
-   <td style="text-align:center;"> -0.712 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> -0.974 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0161734 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0622784 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
 </tbody>
@@ -603,20 +603,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Eldorado Allen </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> J Tizzard <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J Tizzard <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Freddie Gingell  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Freddie Gingell  <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 153 <br> 65 </td>
    <td style="text-align:center;"> 12 <br> 0.21 </td>
-   <td style="text-align:center;"> -0.050 </td>
-   <td style="text-align:center;"> 19 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0005004 </td>
-   <td style="text-align:center;"> 23 </td>
+   <td style="text-align:center;"> -0.252 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.0025814 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
@@ -626,20 +626,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Run Wild Fred </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D J Gilligan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D J Gilligan  <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 149 <br> 34 </td>
    <td style="text-align:center;"> 29 <br> 0.81 </td>
-   <td style="text-align:center;"> 0.347 </td>
+   <td style="text-align:center;"> 0.420 </td>
    <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0017257 </td>
-   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 0.0014442 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 50.0 </td>
   </tr>
   <tr>
@@ -649,20 +649,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Highland Hunter </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P J Brennan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P J Brennan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 149 <br> 10 </td>
    <td style="text-align:center;"> 10 <br> 0.18 </td>
-   <td style="text-align:center;"> -0.383 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0022991 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> -0.494 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2.5% </td>
+   <td style="text-align:center;"> 0.0049456 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
@@ -672,20 +672,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Stumptown </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 148 <br> 71 </td>
    <td style="text-align:center;"> 19 <br> 0.25 </td>
-   <td style="text-align:center;"> -0.838 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
-   <td style="text-align:center;"> 0.0546957 </td>
+   <td style="text-align:center;"> -0.957 </td>
    <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 43% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 43% </td>
+   <td style="text-align:center;"> 0.0177605 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 8.5 </td>
   </tr>
   <tr>
@@ -695,20 +695,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Monbeg Genius </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Jonjo O'Neill <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jonjo O'Neill <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 147 <br> 10 </td>
    <td style="text-align:center;"> 18 <br> 0.42 </td>
-   <td style="text-align:center;"> -0.704 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.770 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0137816 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0162892 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
@@ -718,20 +718,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> The Goffer </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 147 <br> 0 </td>
    <td style="text-align:center;"> 21 <br> 0.25 </td>
-   <td style="text-align:center;"> -0.384 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> -0.431 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0271170 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0251544 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -741,19 +741,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Meetingofthewaters </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 147 <br> 37 </td>
    <td style="text-align:center;"> 12 <br> 0.76 </td>
-   <td style="text-align:center;"> 0.395 </td>
-   <td style="text-align:center;"> 23 </td>
+   <td style="text-align:center;"> 0.163 </td>
+   <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0257815 </td>
+   <td style="text-align:center;"> 0.0298236 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
@@ -764,20 +764,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Chambard </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Miss Lucy Turner  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Miss Lucy Turner  <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 146 <br> 24 </td>
    <td style="text-align:center;"> 19 <br> 0.37 </td>
-   <td style="text-align:center;"> -0.504 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0090061 </td>
+   <td style="text-align:center;"> -0.390 </td>
    <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0011128 </td>
+   <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
@@ -787,20 +787,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Minella Crooner </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J C Gainford <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J C Gainford <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 146 <br> 17 </td>
    <td style="text-align:center;"> 16 <br> 1.13 </td>
-   <td style="text-align:center;"> -0.335 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> -0.507 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0064432 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 0.1568272 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -810,20 +810,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kitty's Light </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Christian Williams <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Christian Williams <br> <div class="badge rounded-pill average "> 13 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 146 <br> 77 </td>
    <td style="text-align:center;"> 22 <br> 1.13 </td>
-   <td style="text-align:center;"> 0.002 </td>
-   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 0.636 </td>
+   <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0005923 </td>
-   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 0.0070993 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 28.0 </td>
   </tr>
   <tr>
@@ -833,20 +833,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Gevrey </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Sam Ewing <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 146 <br> 47 </td>
    <td style="text-align:center;"> 21 <br> 0.74 </td>
-   <td style="text-align:center;"> -0.185 </td>
+   <td style="text-align:center;"> -0.205 </td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0079722 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -856,20 +856,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Eklat De Rire </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 146 <br> 34 </td>
    <td style="text-align:center;"> 14 <br> 1.06 </td>
-   <td style="text-align:center;"> -0.312 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> -0.028 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0040953 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 0.0009259 </td>
+   <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -879,20 +879,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Victtorino </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Charlie Deutsch <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Charlie Deutsch <br> <div class="badge rounded-pill average "> 18 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 145 <br> 24 </td>
    <td style="text-align:center;"> 12 <br> 0.21 </td>
-   <td style="text-align:center;"> -0.886 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 16% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 16% </td>
-   <td style="text-align:center;"> 0.0234807 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.750 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
+   <td style="text-align:center;"> 0.0265758 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -902,19 +902,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Busselton </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 145 <br> 37 </td>
    <td style="text-align:center;"> 20 <br> 0.53 </td>
-   <td style="text-align:center;"> -0.364 </td>
+   <td style="text-align:center;"> -0.377 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0011040 </td>
+   <td style="text-align:center;"> 0.0011707 </td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
@@ -925,20 +925,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Trelawne </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 30 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 144 <br> 30 </td>
    <td style="text-align:center;"> 8 <br> 0.45 </td>
-   <td style="text-align:center;"> -0.746 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0312338 </td>
+   <td style="text-align:center;"> -0.943 </td>
    <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 29.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 29.5% </td>
+   <td style="text-align:center;"> 0.0396097 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 5.5 </td>
   </tr>
   <tr>
@@ -948,20 +948,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Twig </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Beau Morgan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Beau Morgan  <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 143 <br> 101 </td>
    <td style="text-align:center;"> 13 <br> 0.17 </td>
-   <td style="text-align:center;"> -0.454 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> -0.634 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0096647 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.0085539 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
@@ -971,20 +971,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Chianti Classico </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> David Bass <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> David Bass <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 143 <br> 59 </td>
    <td style="text-align:center;"> 4 <br> 0.29 </td>
-   <td style="text-align:center;"> -0.367 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> -0.462 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0145142 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0470402 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -994,20 +994,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Found On </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> M Keighley <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> M Keighley <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 140 <br> 117 </td>
    <td style="text-align:center;"> 13 <br> 0.32 </td>
-   <td style="text-align:center;"> 0.133 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> -0.063 </td>
+   <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0011412 </td>
-   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 0.0015887 </td>
+   <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
@@ -1017,20 +1017,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lord Du Mesnil </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> R Hobson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> R Hobson <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 140 <br> 30 </td>
    <td style="text-align:center;"> 12 <br> 0.45 </td>
-   <td style="text-align:center;"> -0.559 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1165459 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> -0.720 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 14.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 14.5% </td>
+   <td style="text-align:center;"> 0.0562880 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -1040,20 +1040,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Excello </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 144 <br> 45 </td>
    <td style="text-align:center;"> 14 <br> 0.45 </td>
-   <td style="text-align:center;"> -0.587 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.318 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0239851 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0018188 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 28.0 </td>
   </tr>
   <tr>
@@ -1063,20 +1063,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Famous Bridge </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> N G Richards <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N G Richards <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 139 <br> 24 </td>
    <td style="text-align:center;"> 21 <br> 0.53 </td>
-   <td style="text-align:center;"> -0.181 </td>
-   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 0.094 </td>
+   <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0241780 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0025871 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -1086,19 +1086,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Weveallbeencaught </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 134 <br> 87 </td>
    <td style="text-align:center;"> 11 <br> 0.88 </td>
-   <td style="text-align:center;"> -1.017 </td>
+   <td style="text-align:center;"> -0.991 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 79% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 79% </td>
-   <td style="text-align:center;"> 0.0084422 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
+   <td style="text-align:center;"> 0.0056501 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 8.0 </td>
   </tr>
@@ -1109,7 +1109,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Risk And Roll </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> H J Evans <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H J Evans <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Tabitha Worsley  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -1122,7 +1122,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0006279 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 50.0 </td>
   </tr>
 </tbody>
@@ -1162,17 +1162,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> L Fowler <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 146 <br> 24 </td>
    <td style="text-align:center;"> 9 <br> 0.57 </td>
-   <td style="text-align:center;"> -0.640 </td>
+   <td style="text-align:center;"> -0.686 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0105846 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0059033 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 50.000 </td>
   </tr>
   <tr>
@@ -1182,20 +1182,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Iberico Lord </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 143 <br> 31 </td>
    <td style="text-align:center;"> 9 <br> 0.11 </td>
-   <td style="text-align:center;"> -1.316 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -1.229 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1729865 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.0873300 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 9.000 </td>
   </tr>
   <tr>
@@ -1205,20 +1205,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Irish Point </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 159 <br> 75 </td>
    <td style="text-align:center;"> 3 <br> 0.07 </td>
-   <td style="text-align:center;"> -1.577 </td>
+   <td style="text-align:center;"> -1.673 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 14% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 14% </td>
-   <td style="text-align:center;"> 0.0808369 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 19% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 19% </td>
+   <td style="text-align:center;"> 0.1444265 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 6.000 </td>
   </tr>
   <tr>
@@ -1228,20 +1228,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Nemean Lion </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Kerry Lee <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Kerry Lee <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Richard Patrick <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Richard Patrick <br> <div class="badge rounded-pill hot "> 45 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 151 <br> 24 </td>
    <td style="text-align:center;"> 8 <br> 0.13 </td>
-   <td style="text-align:center;"> -1.406 </td>
+   <td style="text-align:center;"> -1.695 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 21.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 21.5% </td>
+   <td style="text-align:center;"> 0.0303634 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.0047567 </td>
-   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
@@ -1254,17 +1254,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> H Morrison <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 158 <br> 94 </td>
    <td style="text-align:center;"> 11 <br> 0.12 </td>
-   <td style="text-align:center;"> -0.921 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -1.163 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0101681 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0188033 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 33.000 </td>
   </tr>
   <tr>
@@ -1274,19 +1274,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> State Man </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 56 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 169 <br> 37 </td>
    <td style="text-align:center;"> 3 <br> 0.04 </td>
-   <td style="text-align:center;"> -1.740 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 57.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 57.5% </td>
-   <td style="text-align:center;"> 0.8193041 </td>
+   <td style="text-align:center;"> -1.104 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9473594 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.333 </td>
   </tr>
@@ -1297,19 +1297,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Zarak The Brave </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 152 <br> 44 </td>
    <td style="text-align:center;"> 12 <br> 0.22 </td>
-   <td style="text-align:center;"> -1.800 </td>
+   <td style="text-align:center;"> -1.778 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 28% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 28% </td>
-   <td style="text-align:center;"> 0.0235305 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 59.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 59.5% </td>
+   <td style="text-align:center;"> 0.0209994 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 18.000 </td>
   </tr>
@@ -1320,20 +1320,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Luccia </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 28 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 140 <br> 80 </td>
    <td style="text-align:center;"> 6 <br> 0.31 </td>
-   <td style="text-align:center;"> -0.549 </td>
+   <td style="text-align:center;"> -0.593 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0294787 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0093574 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 33.000 </td>
   </tr>
 </tbody>
@@ -1370,19 +1370,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ashroe Diamond </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 144 <br> 45 </td>
    <td style="text-align:center;"> 5 <br> 0.1 </td>
-   <td style="text-align:center;"> -1.697 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 8% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 8% </td>
-   <td style="text-align:center;"> 0.1019204 </td>
+   <td style="text-align:center;"> -1.319 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1422502 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 6.000 </td>
   </tr>
@@ -1393,21 +1393,21 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Echoes In Rain </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> B Hayes <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> B Hayes <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 152 <br> 37 </td>
    <td style="text-align:center;"> 9 <br> 0.11 </td>
-   <td style="text-align:center;"> -0.648 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> -0.881 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0156197 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 20.000 </td>
+   <td style="text-align:center;"> 0.0058616 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 18.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -1416,20 +1416,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Gala Marceau </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 146 <br> 20 </td>
    <td style="text-align:center;"> 7 <br> 0.3 </td>
-   <td style="text-align:center;"> -0.432 </td>
+   <td style="text-align:center;"> -0.429 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0086179 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0093429 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
@@ -1439,21 +1439,21 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hispanic Moon </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 143 <br> 20 </td>
    <td style="text-align:center;"> 8 <br> 0.42 </td>
-   <td style="text-align:center;"> -1.189 </td>
+   <td style="text-align:center;"> -0.981 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0591133 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 40.000 </td>
+   <td style="text-align:center;"> 0.0125242 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 50.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -1462,20 +1462,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lantry Lady </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 24 </td>
    <td style="text-align:center;"> 3 <br> 0.22 </td>
-   <td style="text-align:center;"> -1.451 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -1.441 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0095024 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0177551 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
@@ -1485,19 +1485,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lossiemouth </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 56 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 155 <br> 45 </td>
    <td style="text-align:center;"> 3 <br> 0.04 </td>
-   <td style="text-align:center;"> -2.092 </td>
+   <td style="text-align:center;"> -1.924 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 92% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 92% </td>
-   <td style="text-align:center;"> 0.3796716 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.6355885 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.615 </td>
   </tr>
@@ -1508,21 +1508,21 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Love Envoi </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> H Fry <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H Fry <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 149 <br> 45 </td>
    <td style="text-align:center;"> 10 <br> 0.16 </td>
-   <td style="text-align:center;"> -0.842 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.862 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0169714 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 14.000 </td>
+   <td style="text-align:center;"> 0.0129950 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1531,19 +1531,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Marie's Rock </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 150 <br> 44 </td>
    <td style="text-align:center;"> 7 <br> 0.21 </td>
-   <td style="text-align:center;"> -1.393 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -1.405 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0526637 </td>
+   <td style="text-align:center;"> 0.0200243 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 12.000 </td>
   </tr>
@@ -1554,20 +1554,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Telmesomethinggirl </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 140 <br> 44 </td>
    <td style="text-align:center;"> 9 <br> 0.52 </td>
-   <td style="text-align:center;"> -0.997 </td>
+   <td style="text-align:center;"> -0.953 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0150990 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0140923 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 12.000 </td>
   </tr>
   <tr>
@@ -1577,19 +1577,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Theatre Glory </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 28 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 141 <br> 44 </td>
    <td style="text-align:center;"> 18 <br> 0.89 </td>
-   <td style="text-align:center;"> -0.424 </td>
+   <td style="text-align:center;"> -0.182 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0006404 </td>
+   <td style="text-align:center;"> 0.0013800 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 100.000 </td>
   </tr>
@@ -1600,20 +1600,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> You Wear It Well </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 144 <br> 24 </td>
    <td style="text-align:center;"> 8 <br> 0.32 </td>
-   <td style="text-align:center;"> -1.493 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -1.442 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0172571 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.0209949 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 16.000 </td>
   </tr>
 </tbody>
@@ -1650,20 +1650,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Liari </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 28 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 30 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 134 <br> 37 </td>
    <td style="text-align:center;"> 3 <br> 0.3 </td>
-   <td style="text-align:center;"> -1.881 </td>
+   <td style="text-align:center;"> -1.440 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.0932780 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.0201866 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 7.5 </td>
   </tr>
   <tr>
@@ -1673,20 +1673,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ndaawi </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J W Kennedy <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 134 <br> 44 </td>
    <td style="text-align:center;"> 9 <br> 1.12 </td>
-   <td style="text-align:center;"> -0.085 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> -0.080 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0042995 </td>
-   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 0.0046276 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 9.0 </td>
   </tr>
   <tr>
@@ -1696,20 +1696,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Batman Girac </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 133 <br> 77 </td>
    <td style="text-align:center;"> 12 <br> 0.69 </td>
-   <td style="text-align:center;"> -0.330 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0316343 </td>
+   <td style="text-align:center;"> -0.599 </td>
    <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0441722 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 10.0 </td>
   </tr>
   <tr>
@@ -1719,20 +1719,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Miss Manzor </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 130 <br> 59 </td>
    <td style="text-align:center;"> 9 <br> 0.5 </td>
-   <td style="text-align:center;"> 0.345 </td>
+   <td style="text-align:center;"> 0.381 </td>
    <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0110294 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0190806 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -1742,7 +1742,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Eagle Fang </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W Durkan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W Durkan <br> <div class="badge rounded-pill hot "> 100 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> P T Enright <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -1752,10 +1752,10 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 127 <br> 31 </td>
    <td style="text-align:center;"> 14 <br> 0.74 </td>
    <td style="text-align:center;"> -0.285 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0401040 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0172094 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -1765,20 +1765,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Karia Des Blaises </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S F O'Keeffe <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 127 <br> 59 </td>
    <td style="text-align:center;"> 13 <br> 0.79 </td>
-   <td style="text-align:center;"> 0.543 </td>
-   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 0.383 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0104252 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.0064609 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
@@ -1788,20 +1788,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Milan Tino </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> N &amp; A Zetterholm <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N &amp; A Zetterholm <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 126 <br> 45 </td>
    <td style="text-align:center;"> 9 <br> 0.17 </td>
-   <td style="text-align:center;"> -0.643 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.872 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0742072 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.1108089 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -1811,20 +1811,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> An Bradan Feasa </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Jack Jones <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Jack Jones <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 126 <br> 37 </td>
    <td style="text-align:center;"> 7 <br> 0.3 </td>
-   <td style="text-align:center;"> -0.688 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -0.680 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0190464 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0084798 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -1844,10 +1844,10 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 126 <br> 38 </td>
    <td style="text-align:center;"> 27 <br> 1.08 </td>
    <td style="text-align:center;"> 0.176 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0208219 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0185607 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
@@ -1857,20 +1857,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Nara </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 126 <br> 31 </td>
    <td style="text-align:center;"> 9 <br> 1.53 </td>
-   <td style="text-align:center;"> -0.258 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0178728 </td>
+   <td style="text-align:center;"> -0.366 </td>
    <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0102145 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
@@ -1880,17 +1880,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mordor </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D J Gilligan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D J Gilligan  <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 125 <br> 34 </td>
    <td style="text-align:center;"> 18 <br> 3.18 </td>
-   <td style="text-align:center;"> 0.538 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 0.520 </td>
+   <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0053194 </td>
    <td style="text-align:center;"> 16 </td>
@@ -1906,17 +1906,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> Mrs J Harrington <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 124 <br> 24 </td>
    <td style="text-align:center;"> 8 <br> 1.12 </td>
-   <td style="text-align:center;"> -0.136 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> -0.370 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0047411 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 0.0020005 </td>
+   <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> 33.0 </td>
   </tr>
   <tr>
@@ -1936,9 +1936,9 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 123 <br> 43 </td>
    <td style="text-align:center;"> 6 <br> 0.93 </td>
    <td style="text-align:center;"> 0.219 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0026839 </td>
+   <td style="text-align:center;"> 0.0021974 </td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 66.0 </td>
   </tr>
@@ -1952,17 +1952,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> J W Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> M G Nolan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> M G Nolan <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 122 <br> 37 </td>
    <td style="text-align:center;"> 7 <br> 0.33 </td>
-   <td style="text-align:center;"> -0.432 </td>
+   <td style="text-align:center;"> -0.591 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0032177 </td>
-   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 0.0059606 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 33.0 </td>
   </tr>
   <tr>
@@ -1972,20 +1972,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lark In The Mornin </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 122 <br> 57 </td>
    <td style="text-align:center;"> 11 <br> 3.5 </td>
-   <td style="text-align:center;"> 0.461 </td>
-   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 0.418 </td>
+   <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0878102 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.0422028 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -1995,19 +1995,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Les Loyautes </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 122 <br> 46 </td>
    <td style="text-align:center;"> 11 <br> 0.48 </td>
-   <td style="text-align:center;"> -0.009 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> -0.121 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0004485 </td>
+   <td style="text-align:center;"> 0.0006934 </td>
    <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> 33.0 </td>
   </tr>
@@ -2018,20 +2018,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Roaring Legend </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> O Murphy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> O Murphy <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 122 <br> 21 </td>
    <td style="text-align:center;"> 7 <br> 1.03 </td>
-   <td style="text-align:center;"> 0.135 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> -0.006 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0100566 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 0.0036630 </td>
+   <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 22.0 </td>
   </tr>
   <tr>
@@ -2044,17 +2044,17 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S W Flanagan <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 121 <br> 44 </td>
    <td style="text-align:center;"> 21 <br> 2.94 </td>
-   <td style="text-align:center;"> -0.349 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> -0.356 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0067167 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 0.0208420 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -2064,7 +2064,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Harsh </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> C Stone-Walsh  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -2074,7 +2074,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 121 <br> 76 </td>
    <td style="text-align:center;"> 8 <br> 0.69 </td>
    <td style="text-align:center;"> 0.471 </td>
-   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0082376 </td>
    <td style="text-align:center;"> 13 </td>
@@ -2097,10 +2097,10 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 121 <br> 31 </td>
    <td style="text-align:center;"> 11 <br> 1.6 </td>
    <td style="text-align:center;"> -0.777 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0255676 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0356470 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -2110,20 +2110,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Latin Verse </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> S Hosie <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> S Hosie <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Harry Reed <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Harry Reed <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 120 <br> 20 </td>
    <td style="text-align:center;"> 8 <br> 2.88 </td>
-   <td style="text-align:center;"> -0.687 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -0.555 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0081839 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.0259365 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
@@ -2133,20 +2133,20 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Teorie </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> P J Brennan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> P J Brennan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 120 <br> 39 </td>
    <td style="text-align:center;"> 6 <br> 1.39 </td>
-   <td style="text-align:center;"> 0.092 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.251 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0010452 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 0.0035594 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
 </tbody>
@@ -2206,18 +2206,18 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Embassy Gardens </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill hot "> 41 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 150 <br> 44 </td>
    <td style="text-align:center;"> 8 <br> 0.28 </td>
-   <td style="text-align:center;"> -1.675 </td>
+   <td style="text-align:center;"> -1.677 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 35.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 35.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 40.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 40.5% </td>
    <td style="text-align:center;"> 0.3539380 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.0 </td>
@@ -2229,7 +2229,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Henry's Friend </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Mr Jack Andrews <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -2240,7 +2240,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:center;"> 3 <br> 0.8 </td>
    <td style="text-align:center;"> -1.893 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 64.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 64.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 59.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 59.5% </td>
    <td style="text-align:center;"> 0.0803457 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 16.0 </td>
@@ -2252,19 +2252,19 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kilbeg King </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr William Biddick <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Mr William Biddick <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 142 <br> 24 </td>
    <td style="text-align:center;"> 8 <br> 0.4 </td>
-   <td style="text-align:center;"> -0.430 </td>
+   <td style="text-align:center;"> -0.492 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0114782 </td>
+   <td style="text-align:center;"> 0.0123729 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
@@ -2278,16 +2278,16 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
    <td style="text-align:left;"> Mrs Sara V Bradstock <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Miss Gina Andrews <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Miss Gina Andrews <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 132 <br> 18 </td>
    <td style="text-align:center;"> 8 <br> 1.49 </td>
-   <td style="text-align:center;"> -1.020 </td>
+   <td style="text-align:center;"> -1.070 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0262294 </td>
+   <td style="text-align:center;"> 0.0178039 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
@@ -2298,7 +2298,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Salvador Ziggy </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Mr R James <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -2321,7 +2321,7 @@ Todays Racecard for Cheltenham including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Apple Away </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Mr B O'Neill <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
