@@ -4,7 +4,7 @@
     <div class="container-md">
         <div class="row">
 
-            {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse ".Section" "in" (slice "posts" "sections")) 9 }}
+            {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse ".Section" "==" "racecards/today") 9 }}
 
             <h1 class="section-title">
                 {{ .Title }} - (Page {{ $paginator.PageNumber }}/{{ $paginator.TotalPages }})
