@@ -1,9 +1,9 @@
 ---
-title: "Cheltenham | Wednesday 13 March 2024"
+title: "Cheltenham | Thursday 14 March 2024"
 course: Cheltenham
 image: course.png
 featured: true
-Date: 2024-03-13
+Date: 2024-03-14
 order: 0
 output:
   html_document:
