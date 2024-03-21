@@ -1,9 +1,9 @@
 ---
-title: "Haydock | Wednesday 20 March 2024"
-course: Haydock
+title: "Ludlow | Thursday 21 March 2024"
+course: Ludlow
 image: course.png
 featured: false
-Date: 2024-03-20
+Date: 2024-03-21
 order: 0
 output:
   html_document:
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Haydock including algorithm predictions and confidence %
+Todays Racecard for Ludlow including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Haydock") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Ludlow") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
