@@ -3,7 +3,6 @@ title: "Cork (IRE) | Thursday 21 March 2024"
 course: Cork (IRE)
 image: course.png
 featured: true
-Date: 2024-03-21
 order: 0
 output:
   html_document:
@@ -53,11 +52,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 93 <br> 52 </td>
    <td style="text-align:center;"> 19 <br> 4.29 </td>
-   <td style="text-align:center;"> -0.074 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 1.117 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1394303 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.5 </td>
   </tr>
   <tr>
@@ -76,10 +75,10 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 92 <br> 28 </td>
    <td style="text-align:center;"> 10 <br> 1.9 </td>
-   <td style="text-align:center;"> 0.406 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3.5% </td>
-   <td style="text-align:center;"> 0.2940661 </td>
+   <td style="text-align:center;"> -0.715 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 26% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 26% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.5 </td>
   </tr>
@@ -99,11 +98,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 90 <br> 35 </td>
    <td style="text-align:center;"> 9 <br> 1.5 </td>
-   <td style="text-align:center;"> 0.005 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 25% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 25% </td>
-   <td style="text-align:center;"> 0.2343544 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> -0.048 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.0 </td>
   </tr>
   <tr>
@@ -122,11 +121,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 90 <br> 29 </td>
    <td style="text-align:center;"> 9 <br> 1.56 </td>
-   <td style="text-align:center;"> 0.089 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13% </td>
-   <td style="text-align:center;"> 0.1227315 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -0.027 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.5 </td>
   </tr>
   <tr>
@@ -145,11 +144,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 89 <br> 35 </td>
    <td style="text-align:center;"> 20 <br> 3.73 </td>
-   <td style="text-align:center;"> -0.484 </td>
+   <td style="text-align:center;"> 2.440 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 12% </td>
-   <td style="text-align:center;"> 0.0327964 </td>
-   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
@@ -168,11 +167,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 85 <br> 166 </td>
    <td style="text-align:center;"> 13 <br> 3.33 </td>
-   <td style="text-align:center;"> -0.389 </td>
+   <td style="text-align:center;"> -0.524 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 45.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 45.5% </td>
-   <td style="text-align:center;"> 0.0182938 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -191,11 +190,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 85 <br> 185 </td>
    <td style="text-align:center;"> 22 <br> 3.22 </td>
-   <td style="text-align:center;"> 0.399 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0239304 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.025 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 4.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 4.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -214,11 +213,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 83 <br> 0 </td>
    <td style="text-align:center;"> 22 <br> 5.86 </td>
-   <td style="text-align:center;"> 1.131 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.256 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0079672 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -237,11 +236,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 82 <br> 45 </td>
    <td style="text-align:center;"> 18 <br> 3.27 </td>
-   <td style="text-align:center;"> 0.498 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.725 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0235915 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 33.0 </td>
   </tr>
   <tr>
@@ -260,11 +259,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 82 <br> 11 </td>
    <td style="text-align:center;"> 13 <br> 2.42 </td>
-   <td style="text-align:center;"> 0.182 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.1127147 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.414 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 20.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 20.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.0 </td>
   </tr>
   <tr>
@@ -283,11 +282,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 81 <br> 105 </td>
    <td style="text-align:center;"> 18 <br> 4.98 </td>
-   <td style="text-align:center;"> 0.775 </td>
+   <td style="text-align:center;"> 1.485 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0069003 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 66.0 </td>
   </tr>
   <tr>
@@ -306,11 +305,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 80 <br> 51 </td>
    <td style="text-align:center;"> 23 <br> 7.42 </td>
-   <td style="text-align:center;"> 0.354 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0728793 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.416 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 47% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 47% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -329,11 +328,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 80 <br> 176 </td>
    <td style="text-align:center;"> 20 <br> 3.61 </td>
-   <td style="text-align:center;"> 0.435 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.711 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0072268 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 150.0 </td>
   </tr>
 </tbody>
@@ -376,15 +375,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> T P Harney  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 12-2 </td>
+   <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 118 <br> 183 </td>
    <td style="text-align:center;"> 13 <br> 1.45 </td>
-   <td style="text-align:center;"> 0.147 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0034972 </td>
-   <td style="text-align:center;"> 18 </td>
-   <td style="text-align:center;"> 16.0 </td>
+   <td style="text-align:center;"> 0.090 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -402,12 +401,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 116 <br> 19 </td>
    <td style="text-align:center;"> 19 <br> 3.75 </td>
-   <td style="text-align:center;"> -0.836 </td>
+   <td style="text-align:center;"> 0.050 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 52.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 52.5% </td>
-   <td style="text-align:center;"> 0.0097419 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> 14.0 </td>
+   <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -425,11 +424,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 115 <br> 40 </td>
    <td style="text-align:center;"> 11 <br> 1.39 </td>
-   <td style="text-align:center;"> 0.402 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 1.065 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0049114 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
@@ -445,14 +444,14 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> L A McKenna  <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-12 </td>
+   <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 114 <br> 33 </td>
    <td style="text-align:center;"> 22 <br> 3.65 </td>
-   <td style="text-align:center;"> 0.094 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.118 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0017331 </td>
-   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 33.0 </td>
   </tr>
   <tr>
@@ -468,15 +467,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> Mr S Tobin  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-8 </td>
+   <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 110 <br> 70 </td>
    <td style="text-align:center;"> 13 <br> 2.31 </td>
-   <td style="text-align:center;"> 0.293 </td>
-   <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0036638 </td>
-   <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> 33.0 </td>
+   <td style="text-align:center;"> -1.306 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 62.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 62.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 50.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -494,12 +493,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 110 <br> 32 </td>
    <td style="text-align:center;"> 21 <br> 4.17 </td>
-   <td style="text-align:center;"> -0.097 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.488 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0103873 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> 20.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -514,15 +513,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> Mr C J Shine  <br> <div class="badge rounded-pill hot "> 100 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-4 </td>
+   <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 106 <br> 12 </td>
    <td style="text-align:center;"> 4 <br> 0.74 </td>
-   <td style="text-align:center;"> -0.418 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 1.080 </td>
+   <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0171262 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 7.5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 7.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
@@ -537,15 +536,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> M M McDonagh  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-3 </td>
+   <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 105 <br> 116 </td>
    <td style="text-align:center;"> 13 <br> 2.92 </td>
-   <td style="text-align:center;"> 0.652 </td>
-   <td style="text-align:center;"> 19 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0199530 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 7.5 </td>
+   <td style="text-align:center;"> 0.164 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 11 </td>
@@ -563,12 +562,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 104 <br> 33 </td>
    <td style="text-align:center;"> 11 <br> 1.39 </td>
-   <td style="text-align:center;"> 0.035 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 1.725 </td>
+   <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0206134 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 11.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 10.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 12 </td>
@@ -586,12 +585,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 102 <br> 25 </td>
    <td style="text-align:center;"> 22 <br> 3.15 </td>
-   <td style="text-align:center;"> 0.099 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.4032412 </td>
+   <td style="text-align:center;"> -0.005 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2.5 </td>
+   <td style="text-align:center;"> 3.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 13 </td>
@@ -609,12 +608,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 102 <br> 119 </td>
    <td style="text-align:center;"> 25 <br> 5.04 </td>
-   <td style="text-align:center;"> 1.061 </td>
-   <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0101407 </td>
+   <td style="text-align:center;"> 0.265 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> 40.0 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 100.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 14 </td>
@@ -632,12 +631,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 102 <br> 17 </td>
    <td style="text-align:center;"> 20 <br> 3.2 </td>
-   <td style="text-align:center;"> 0.241 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0047158 </td>
-   <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> 25.0 </td>
+   <td style="text-align:center;"> 0.117 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 14.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 14.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 28.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 15 </td>
@@ -655,12 +654,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 101 <br> 28 </td>
    <td style="text-align:center;"> 9 <br> 1.08 </td>
-   <td style="text-align:center;"> -0.745 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 47.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 47.5% </td>
-   <td style="text-align:center;"> 0.0912631 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 4.0 </td>
+   <td style="text-align:center;"> 0.101 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 16 </td>
@@ -675,15 +674,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> J P O'Sullivan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-13 </td>
+   <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 101 <br> 151 </td>
    <td style="text-align:center;"> 19 <br> 3.23 </td>
-   <td style="text-align:center;"> -0.114 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0126648 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 20.0 </td>
+   <td style="text-align:center;"> -0.146 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 20% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 20% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 33.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 17 </td>
@@ -701,11 +700,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 100 <br> 61 </td>
    <td style="text-align:center;"> 13 <br> 1.92 </td>
-   <td style="text-align:center;"> -0.263 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.709 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0395127 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 20.0 </td>
   </tr>
   <tr>
@@ -721,15 +720,15 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> C M Quirke  <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-9 </td>
+   <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 97 <br> 16 </td>
    <td style="text-align:center;"> 13 <br> 2.49 </td>
-   <td style="text-align:center;"> -0.298 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.275 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0294140 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 9.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 6.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 19 </td>
@@ -747,12 +746,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 93 <br> 70 </td>
    <td style="text-align:center;"> 23 <br> 6.86 </td>
-   <td style="text-align:center;"> 0.585 </td>
-   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 1.570 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0169196 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 80.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 20 </td>
@@ -770,11 +769,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 92 <br> 85 </td>
    <td style="text-align:center;"> 23 <br> 3.72 </td>
-   <td style="text-align:center;"> 0.395 </td>
-   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 0.057 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0068824 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
@@ -793,12 +792,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 90 <br> 185 </td>
    <td style="text-align:center;"> 23 <br> 5.34 </td>
-   <td style="text-align:center;"> 0.110 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.302 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0120227 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 14.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 28.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 22 </td>
@@ -816,12 +815,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 88 <br> 25 </td>
    <td style="text-align:center;"> 24 <br> 5.55 </td>
-   <td style="text-align:center;"> 0.503 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> -0.219 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0017232 </td>
-   <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> 50.0 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 80.0 </td>
   </tr>
 </tbody>
 </table>
@@ -866,11 +865,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 126 <br> 32 </td>
    <td style="text-align:center;"> 17 <br> 0.79 </td>
-   <td style="text-align:center;"> 0.118 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.697 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0415151 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
@@ -889,12 +888,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 124 <br> 25 </td>
    <td style="text-align:center;"> 18 <br> 1.49 </td>
-   <td style="text-align:center;"> -0.025 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 1.326 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0164277 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 8.500 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 12.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -912,12 +911,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 117 <br> 25 </td>
    <td style="text-align:center;"> 10 <br> 1.03 </td>
-   <td style="text-align:center;"> 0.150 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.645 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0482777 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 9.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 8.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -935,11 +934,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 115 <br> 25 </td>
    <td style="text-align:center;"> 14 <br> 1.29 </td>
-   <td style="text-align:center;"> -0.488 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 1.884 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1213900 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
@@ -958,12 +957,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 111 <br> 84 </td>
    <td style="text-align:center;"> 12 <br> 2.5 </td>
-   <td style="text-align:center;"> -0.264 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 2.147 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0500214 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 18.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -981,11 +980,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 111 <br> 11 </td>
    <td style="text-align:center;"> 12 <br> 1.85 </td>
-   <td style="text-align:center;"> -0.973 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1144656 </td>
+   <td style="text-align:center;"> 0.463 </td>
    <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 9.000 </td>
   </tr>
   <tr>
@@ -1004,12 +1003,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 110 <br> 19 </td>
    <td style="text-align:center;"> 3 <br> 0.52 </td>
-   <td style="text-align:center;"> -0.243 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3388583 </td>
+   <td style="text-align:center;"> -0.773 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3.500 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 28.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 28.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -1021,17 +1020,17 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> A Leahy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> C P McNamara <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+   <td style="text-align:left;"> C P McNamara <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 109 <br> 60 </td>
    <td style="text-align:center;"> 17 <br> 1.95 </td>
-   <td style="text-align:center;"> 0.150 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 1.038 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0066598 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 40.000 </td>
   </tr>
   <tr>
@@ -1050,11 +1049,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 109 <br> 32 </td>
    <td style="text-align:center;"> 11 <br> 1.86 </td>
-   <td style="text-align:center;"> -0.220 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0816329 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.465 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.500 </td>
   </tr>
   <tr>
@@ -1064,20 +1063,20 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Regina Dracones </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> T Gibney <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+   <td style="text-align:left;"> T Gibney <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 109 <br> 32 </td>
    <td style="text-align:center;"> 23 <br> 0.89 </td>
-   <td style="text-align:center;"> 0.607 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1430545 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -0.720 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 57% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 57% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 11.000 </td>
   </tr>
   <tr>
@@ -1096,12 +1095,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-6 </td>
    <td style="text-align:center;"> 107 <br> 5 </td>
    <td style="text-align:center;"> 12 <br> 1.74 </td>
-   <td style="text-align:center;"> -0.182 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1538172 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 4.500 </td>
+   <td style="text-align:center;"> 0.227 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 4.000 </td>
   </tr>
 </tbody>
 </table>
@@ -1146,12 +1145,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-4 </td>
    <td style="text-align:center;"> 102 <br> 54 </td>
    <td style="text-align:center;"> 24 <br> 5.28 </td>
-   <td style="text-align:center;"> 0.350 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 1.230 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0627276 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 22.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -1169,11 +1168,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-1 </td>
    <td style="text-align:center;"> 99 <br> 37 </td>
    <td style="text-align:center;"> 21 <br> 8.62 </td>
-   <td style="text-align:center;"> -0.012 </td>
+   <td style="text-align:center;"> -0.959 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 6.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 6.5% </td>
-   <td style="text-align:center;"> 0.0696313 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
@@ -1192,12 +1191,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 98 <br> 26 </td>
    <td style="text-align:center;"> 19 <br> 3.26 </td>
-   <td style="text-align:center;"> 0.220 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
-   <td style="text-align:center;"> 0.1593205 </td>
+   <td style="text-align:center;"> -0.604 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3.000 </td>
+   <td style="text-align:center;"> 2.250 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -1215,11 +1214,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 96 <br> 66 </td>
    <td style="text-align:center;"> 26 <br> 4.67 </td>
-   <td style="text-align:center;"> 0.569 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0646167 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.887 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 22.000 </td>
   </tr>
   <tr>
@@ -1238,12 +1237,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 93 <br> 114 </td>
    <td style="text-align:center;"> 24 <br> 5.99 </td>
-   <td style="text-align:center;"> 0.676 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 1.533 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0679715 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 6.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -1261,12 +1260,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 89 <br> 75 </td>
    <td style="text-align:center;"> 28 <br> 4.63 </td>
-   <td style="text-align:center;"> 0.585 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.222 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0609317 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 22.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1284,12 +1283,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 87 <br> 37 </td>
    <td style="text-align:center;"> 16 <br> 2.78 </td>
-   <td style="text-align:center;"> -0.167 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 69% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 69% </td>
-   <td style="text-align:center;"> 0.0241367 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 20.000 </td>
+   <td style="text-align:center;"> -0.163 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 18.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -1307,11 +1306,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 37 </td>
    <td style="text-align:center;"> 27 <br> 5.09 </td>
-   <td style="text-align:center;"> 1.394 </td>
-   <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0055495 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> -1.515 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 69% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 69% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 66.000 </td>
   </tr>
   <tr>
@@ -1321,7 +1320,7 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ivane </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ciaran Murphy <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+   <td style="text-align:left;"> Ciaran Murphy <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Ms C Skerry  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -1330,11 +1329,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 11 </td>
    <td style="text-align:center;"> 18 <br> 3.27 </td>
-   <td style="text-align:center;"> 0.327 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0535646 </td>
+   <td style="text-align:center;"> -0.099 </td>
    <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 5.500 </td>
   </tr>
   <tr>
@@ -1353,11 +1352,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 28 </td>
    <td style="text-align:center;"> 16 <br> 3.37 </td>
-   <td style="text-align:center;"> -0.228 </td>
+   <td style="text-align:center;"> -1.114 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 10% </td>
-   <td style="text-align:center;"> 0.0163441 </td>
-   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 20.000 </td>
   </tr>
   <tr>
@@ -1376,11 +1375,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 69 </td>
    <td style="text-align:center;"> 25 <br> 6.72 </td>
-   <td style="text-align:center;"> 0.382 </td>
+   <td style="text-align:center;"> -0.103 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0541047 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 12.000 </td>
   </tr>
   <tr>
@@ -1393,18 +1392,18 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:left;"> Brendan Walsh <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr C J Shine  <br> <div class="badge rounded-pill hot "> 100 % <div> </div>
+   <td style="text-align:left;"> Mr C J Shine  <br> <div class="badge rounded-pill hot "> 67 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 83 <br> 37 </td>
    <td style="text-align:center;"> 28 <br> 6.36 </td>
-   <td style="text-align:center;"> 0.639 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0204634 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> 22.000 </td>
+   <td style="text-align:center;"> -0.084 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 14 </td>
@@ -1422,12 +1421,12 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 80 <br> 28 </td>
    <td style="text-align:center;"> 11 <br> 2.07 </td>
-   <td style="text-align:center;"> 0.333 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11.5% </td>
-   <td style="text-align:center;"> 0.0704846 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 5.000 </td>
+   <td style="text-align:center;"> 2.295 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 15 </td>
@@ -1445,17 +1444,17 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 80 <br> 303 </td>
    <td style="text-align:center;"> 30 <br> 7.58 </td>
-   <td style="text-align:center;"> 0.803 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0006495 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> -0.344 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 150.000 </td>
   </tr>
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Buy Tickets For The Easter Festival Online Now Mares (Ladies Pro/Am) Flat Race</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 17:40 Cork (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div> NA              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Soft to Heavy</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Buy Tickets For The Easter Festival Online Now Mares (Ladies Pro/Am) Flat Race</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 17:40 Cork (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">0</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Soft to Heavy</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -1495,11 +1494,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 17 </td>
    <td style="text-align:center;"> 21 <br> 1.22 </td>
-   <td style="text-align:center;"> 1.493 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1.182 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0005721 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 100.000 </td>
   </tr>
   <tr>
@@ -1518,11 +1517,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 35 </td>
    <td style="text-align:center;"> 5 <br> 0.77 </td>
-   <td style="text-align:center;"> 0.537 </td>
+   <td style="text-align:center;"> 0.648 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1885742 </td>
-   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 3.000 </td>
   </tr>
   <tr>
@@ -1541,10 +1540,10 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 53 </td>
    <td style="text-align:center;"> 16.5 <br> 0 </td>
-   <td style="text-align:center;"> 0.653 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 1.490 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.5529532 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.667 </td>
   </tr>
@@ -1564,11 +1563,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 684 </td>
    <td style="text-align:center;"> 21 <br> 1.26 </td>
-   <td style="text-align:center;"> 1.499 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 3.305 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0473362 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.500 </td>
   </tr>
   <tr>
@@ -1587,11 +1586,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 1.865 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0025237 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.629 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 18.000 </td>
   </tr>
   <tr>
@@ -1601,7 +1600,7 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Walk In The Shadow </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Ciaran Murphy <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+   <td style="text-align:left;"> Ciaran Murphy <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Ms C Skerry  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -1610,11 +1609,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 0 <br> 68 </td>
    <td style="text-align:center;"> 27 <br> 3.79 </td>
-   <td style="text-align:center;"> 1.331 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.988 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0477483 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 14.000 </td>
   </tr>
   <tr>
@@ -1633,11 +1632,11 @@ Todays Racecard for Cork (IRE) including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.164 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.608 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0368553 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.500 </td>
   </tr>
 </tbody>

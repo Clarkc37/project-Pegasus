@@ -3,7 +3,6 @@ title: "Ludlow | Thursday 21 March 2024"
 course: Ludlow
 image: course.png
 featured: false
-Date: 2024-03-21
 order: 0
 output:
   html_document:
@@ -52,12 +51,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 119 <br> 86 </td>
-   <td style="text-align:center;"> 4 <br> 0.93 </td>
-   <td style="text-align:center;"> -0.839 </td>
+   <td style="text-align:center;"> 4 <br> 1.01 </td>
+   <td style="text-align:center;"> -2.316 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.4365220 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 90.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 90.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.625 </td>
   </tr>
   <tr>
@@ -75,11 +74,11 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 123 <br> 92 </td>
-   <td style="text-align:center;"> 14 <br> 3.75 </td>
-   <td style="text-align:center;"> -0.683 </td>
+   <td style="text-align:center;"> 14 <br> 1.04 </td>
+   <td style="text-align:center;"> -2.005 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99% </td>
-   <td style="text-align:center;"> 0.5080332 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 9.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.571 </td>
   </tr>
@@ -98,12 +97,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 10 </td>
-   <td style="text-align:center;"> 20 <br> 5.42 </td>
-   <td style="text-align:center;"> 1.302 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 20 <br> 4.92 </td>
+   <td style="text-align:center;"> 0.992 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0074882 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
@@ -121,12 +120,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
-   <td style="text-align:center;"> 19.5 <br> 5.57 </td>
-   <td style="text-align:center;"> 1.030 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 19.5 <br> 3.9 </td>
+   <td style="text-align:center;"> 3.210 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0006494 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 125.000 </td>
   </tr>
   <tr>
@@ -144,12 +143,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 18 </td>
-   <td style="text-align:center;"> 15 <br> 2.13 </td>
-   <td style="text-align:center;"> 0.883 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 15 <br> 3.28 </td>
+   <td style="text-align:center;"> 1.823 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0022873 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 50.000 </td>
   </tr>
   <tr>
@@ -167,12 +166,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 0 <br> 43 </td>
-   <td style="text-align:center;"> 28.5 <br> 9.76 </td>
-   <td style="text-align:center;"> 1.722 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 28.5 <br> 8 </td>
+   <td style="text-align:center;"> 0.615 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0044261 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 251.000 </td>
   </tr>
   <tr>
@@ -190,12 +189,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 0 <br> 60 </td>
-   <td style="text-align:center;"> 14 <br> 0 </td>
-   <td style="text-align:center;"> 1.474 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 14 <br> 1.15 </td>
+   <td style="text-align:center;"> 1.165 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0006324 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 80.000 </td>
   </tr>
 </tbody>
@@ -240,12 +239,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 120 <br> 25 </td>
-   <td style="text-align:center;"> 14 <br> 1.44 </td>
-   <td style="text-align:center;"> -0.653 </td>
+   <td style="text-align:center;"> 14 <br> 1.66 </td>
+   <td style="text-align:center;"> -1.370 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 95% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 95% </td>
-   <td style="text-align:center;"> 0.3794059 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 94.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 94.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.750 </td>
   </tr>
   <tr>
@@ -263,12 +262,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 119 <br> 415 </td>
-   <td style="text-align:center;"> 14 <br> 0.92 </td>
-   <td style="text-align:center;"> 0.663 </td>
+   <td style="text-align:center;"> 14 <br> 1.35 </td>
+   <td style="text-align:center;"> 2.333 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0440757 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 5.000 </td>
   </tr>
   <tr>
@@ -286,12 +285,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 112 <br> 12 </td>
-   <td style="text-align:center;"> 19 <br> 3.41 </td>
-   <td style="text-align:center;"> -0.258 </td>
+   <td style="text-align:center;"> 19 <br> 3.37 </td>
+   <td style="text-align:center;"> 1.056 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0164382 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.000 </td>
   </tr>
   <tr>
@@ -309,11 +308,11 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 108 <br> 29 </td>
-   <td style="text-align:center;"> 14 <br> 1.74 </td>
-   <td style="text-align:center;"> -0.508 </td>
+   <td style="text-align:center;"> 14 <br> 1.56 </td>
+   <td style="text-align:center;"> 0.202 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
-   <td style="text-align:center;"> 0.7655523 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.833 </td>
   </tr>
@@ -360,12 +359,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 116 <br> 90 </td>
    <td style="text-align:center;"> 4 <br> 2.3 </td>
-   <td style="text-align:center;"> 0.157 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 16.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 16.5% </td>
-   <td style="text-align:center;"> 0.1892898 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.6 </td>
+   <td style="text-align:center;"> 1.464 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -380,15 +379,15 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> Ben Godfrey  <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-11 </td>
+   <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 115 <br> 809 </td>
    <td style="text-align:center;"> 4 <br> 0.9 </td>
-   <td style="text-align:center;"> -0.198 </td>
+   <td style="text-align:center;"> -0.463 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1.5% </td>
-   <td style="text-align:center;"> 0.1442352 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 57% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 57% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -406,12 +405,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 113 <br> 166 </td>
    <td style="text-align:center;"> 11 <br> 1.29 </td>
-   <td style="text-align:center;"> 0.120 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.1218869 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5.0 </td>
+   <td style="text-align:center;"> 1.320 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -426,15 +425,15 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> Mr D Maxwell  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-5 </td>
+   <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 109 <br> 25 </td>
    <td style="text-align:center;"> 11 <br> 2.36 </td>
-   <td style="text-align:center;"> -0.486 </td>
+   <td style="text-align:center;"> -0.583 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 73% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 73% </td>
-   <td style="text-align:center;"> 0.3408158 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 7.0 </td>
+   <td style="text-align:center;"> 6.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -452,12 +451,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 109 <br> 69 </td>
    <td style="text-align:center;"> 15 <br> 1.89 </td>
-   <td style="text-align:center;"> -0.410 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 8% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 8% </td>
-   <td style="text-align:center;"> 0.1213600 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 4.5 </td>
+   <td style="text-align:center;"> 0.735 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -475,12 +474,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 106 <br> 163 </td>
    <td style="text-align:center;"> 15 <br> 2.58 </td>
-   <td style="text-align:center;"> 0.269 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0754614 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 4.5 </td>
+   <td style="text-align:center;"> -0.947 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 37.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 37.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 12.000 </td>
   </tr>
 </tbody>
 </table>
@@ -525,12 +524,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 122 <br> 20 </td>
    <td style="text-align:center;"> 13 <br> 1.3 </td>
-   <td style="text-align:center;"> -0.284 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.981 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1287226 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 8.5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 14.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -548,12 +547,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 116 <br> 52 </td>
    <td style="text-align:center;"> 16 <br> 2.71 </td>
-   <td style="text-align:center;"> 0.099 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0467526 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 8.0 </td>
+   <td style="text-align:center;"> -1.149 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 78% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 78% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -565,18 +564,18 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> M Sheppard <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Stan Sheppard <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+   <td style="text-align:left;"> Stan Sheppard <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 115 <br> 35 </td>
    <td style="text-align:center;"> 16 <br> 1.9 </td>
-   <td style="text-align:center;"> -0.639 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1598295 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 7.0 </td>
+   <td style="text-align:center;"> -0.585 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 14.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 14.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 4.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -591,15 +590,15 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> Mr Toby McCain-Mitchell  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-6 </td>
+   <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 115 <br> 21 </td>
    <td style="text-align:center;"> 11 <br> 1.94 </td>
-   <td style="text-align:center;"> -0.968 </td>
+   <td style="text-align:center;"> 0.640 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 96% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 96% </td>
-   <td style="text-align:center;"> 0.1931767 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 4.0 </td>
+   <td style="text-align:center;"> 2.75 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -611,18 +610,18 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> C Gethings <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+   <td style="text-align:left;"> C Gethings <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 114 <br> 37 </td>
    <td style="text-align:center;"> 12 <br> 2.45 </td>
-   <td style="text-align:center;"> -0.683 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0498731 </td>
+   <td style="text-align:center;"> 0.870 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 7.0 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 6.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -631,7 +630,7 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Fire Dancer </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Charlie Deutsch <br> <div class="badge rounded-pill average "> 11 % <div> </div>
@@ -640,12 +639,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 112 <br> 25 </td>
    <td style="text-align:center;"> 21 <br> 2.17 </td>
-   <td style="text-align:center;"> 0.151 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0595335 </td>
+   <td style="text-align:center;"> 0.740 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 11.0 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -654,21 +653,21 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Greenrock Abbey </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Kerry Lee <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+   <td style="text-align:left;"> Kerry Lee <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Richard Patrick <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+   <td style="text-align:left;"> Richard Patrick <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 111 <br> 54 </td>
    <td style="text-align:center;"> 7 <br> 1.3 </td>
-   <td style="text-align:center;"> -0.763 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 4% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 4% </td>
-   <td style="text-align:center;"> 0.4955786 </td>
+   <td style="text-align:center;"> 0.063 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.5 </td>
+   <td style="text-align:center;"> 2.50 </td>
   </tr>
 </tbody>
 </table>
@@ -713,12 +712,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 111 <br> 12 </td>
    <td style="text-align:center;"> 20 <br> 3.46 </td>
-   <td style="text-align:center;"> 1.307 </td>
+   <td style="text-align:center;"> 1.167 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0184960 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 10.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 11.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -730,18 +729,18 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> A Ralph <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 108 <br> 43 </td>
    <td style="text-align:center;"> 6 <br> 1.21 </td>
-   <td style="text-align:center;"> -0.101 </td>
+   <td style="text-align:center;"> 0.409 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 60.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 60.5% </td>
-   <td style="text-align:center;"> 0.3885787 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.875 </td>
+   <td style="text-align:center;"> 2.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -750,21 +749,21 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Brendas Asking </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> David Bass <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+   <td style="text-align:left;"> David Bass <br> <div class="badge rounded-pill average "> 13 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 102 <br> 44 </td>
    <td style="text-align:center;"> 13 <br> 1.67 </td>
-   <td style="text-align:center;"> -0.008 </td>
+   <td style="text-align:center;"> -0.334 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 26% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 26% </td>
-   <td style="text-align:center;"> 0.3719931 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 1.500 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 12.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1.375 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -782,11 +781,11 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 99 <br> 25 </td>
    <td style="text-align:center;"> 17 <br> 3.59 </td>
-   <td style="text-align:center;"> 0.375 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13.5% </td>
-   <td style="text-align:center;"> 0.1965421 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -1.340 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 83.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 83.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.500 </td>
   </tr>
   <tr>
@@ -799,17 +798,17 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> C Gethings <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+   <td style="text-align:left;"> C Gethings <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-6 </td>
    <td style="text-align:center;"> 89 <br> 58 </td>
    <td style="text-align:center;"> 19 <br> 5.43 </td>
-   <td style="text-align:center;"> 1.240 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0094983 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.030 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 16.000 </td>
   </tr>
 </tbody>
@@ -849,18 +848,18 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:left;"> Frederick Timmis <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr Toby McCain-Mitchell  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Mr Toby McCain-Mitchell  <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 12-6 </td>
    <td style="text-align:center;"> 115 <br> 32 </td>
    <td style="text-align:center;"> 15 <br> 0.3 </td>
-   <td style="text-align:center;"> -0.414 </td>
+   <td style="text-align:center;"> -0.809 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1320475 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 8.500 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 89.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 89.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 6.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -878,12 +877,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-6 </td>
    <td style="text-align:center;"> 130 <br> 22 </td>
    <td style="text-align:center;"> 10 <br> 2.06 </td>
-   <td style="text-align:center;"> -0.084 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 1.915 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2866507 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0.444 </td>
+   <td style="text-align:center;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -901,12 +900,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 96 <br> 32 </td>
    <td style="text-align:center;"> 30 <br> 1.12 </td>
-   <td style="text-align:center;"> 1.249 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 1.772 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0003576 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 125.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 125.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -924,12 +923,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 100 <br> 109 </td>
    <td style="text-align:center;"> 18 <br> 0 </td>
-   <td style="text-align:center;"> 0.858 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0004677 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 125.000 </td>
+   <td style="text-align:center;"> -0.194 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 10.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 125.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -947,12 +946,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 104 <br> 11 </td>
    <td style="text-align:center;"> 8 <br> 1.43 </td>
-   <td style="text-align:center;"> 1.096 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 2.968 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0817348 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 7.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 7.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -970,12 +969,12 @@ Todays Racecard for Ludlow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 104 <br> 10 </td>
    <td style="text-align:center;"> 24 <br> 5.02 </td>
-   <td style="text-align:center;"> 0.045 </td>
+   <td style="text-align:center;"> 0.579 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1922885 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3.500 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.5 </td>
   </tr>
 </tbody>
 </table>

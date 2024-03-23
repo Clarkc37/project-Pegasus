@@ -3,7 +3,6 @@ title: "Chepstow | Thursday 21 March 2024"
 course: Chepstow
 image: course.png
 featured: false
-Date: 2024-03-21
 order: 0
 output:
   html_document:
@@ -52,12 +51,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 100 <br> 28 </td>
-   <td style="text-align:center;"> 16 <br> 4.64 </td>
-   <td style="text-align:center;"> 0.852 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0900714 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 16 <br> 2.01 </td>
+   <td style="text-align:center;"> -0.641 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
   <tr>
@@ -75,12 +74,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 98 <br> 14 </td>
-   <td style="text-align:center;"> 18 <br> 5.46 </td>
-   <td style="text-align:center;"> 0.171 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2280681 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 18 <br> 4.26 </td>
+   <td style="text-align:center;"> 0.246 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 27.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 27.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
   <tr>
@@ -98,12 +97,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 97 <br> 16 </td>
-   <td style="text-align:center;"> 18 <br> 1.7 </td>
-   <td style="text-align:center;"> 0.860 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 18 <br> 4.32 </td>
+   <td style="text-align:center;"> 1.187 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0225699 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.00 </td>
   </tr>
   <tr>
@@ -122,11 +121,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 95 <br> 24 </td>
    <td style="text-align:center;"> 12 <br> 4.03 </td>
-   <td style="text-align:center;"> 0.304 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 2.436 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0283107 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 25.00 </td>
   </tr>
   <tr>
@@ -144,12 +143,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 93 <br> 53 </td>
-   <td style="text-align:center;"> 9 <br> 2.67 </td>
-   <td style="text-align:center;"> 0.780 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 9 <br> 4.12 </td>
+   <td style="text-align:center;"> 0.831 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0251697 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 22.00 </td>
   </tr>
   <tr>
@@ -167,12 +166,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 77 <br> 13 </td>
-   <td style="text-align:center;"> 14 <br> 3.22 </td>
-   <td style="text-align:center;"> -0.606 </td>
+   <td style="text-align:center;"> 14 <br> 2.66 </td>
+   <td style="text-align:center;"> -0.179 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 12% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1891361 </td>
-   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 2.75 </td>
   </tr>
   <tr>
@@ -191,11 +190,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-3 </td>
    <td style="text-align:center;"> 75 <br> 455 </td>
    <td style="text-align:center;"> 21 <br> 8.34 </td>
-   <td style="text-align:center;"> 1.027 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.631 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0183064 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 16.00 </td>
   </tr>
   <tr>
@@ -213,11 +212,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 9-12 </td>
    <td style="text-align:center;"> 85 <br> 13 </td>
-   <td style="text-align:center;"> 10 <br> 3 </td>
-   <td style="text-align:center;"> -0.459 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.4084962 </td>
+   <td style="text-align:center;"> 10 <br> 3.31 </td>
+   <td style="text-align:center;"> 0.718 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 12.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -236,12 +235,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 84 <br> 21 </td>
-   <td style="text-align:center;"> 11 <br> 3.04 </td>
-   <td style="text-align:center;"> 1.126 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0162876 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 11 <br> 4.81 </td>
+   <td style="text-align:center;"> -0.016 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 34.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 34.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 12.00 </td>
   </tr>
 </tbody>
@@ -286,12 +285,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 43 </td>
-   <td style="text-align:center;"> 20 <br> 4.96 </td>
-   <td style="text-align:center;"> 1.680 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0034402 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 20 <br> 6.21 </td>
+   <td style="text-align:center;"> -0.113 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 66.000 </td>
   </tr>
   <tr>
@@ -309,12 +308,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 14 </td>
-   <td style="text-align:center;"> 30 <br> 4.47 </td>
-   <td style="text-align:center;"> 1.646 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 30 <br> 6.85 </td>
+   <td style="text-align:center;"> 0.551 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0040707 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 150.000 </td>
   </tr>
   <tr>
@@ -332,12 +331,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 25 </td>
-   <td style="text-align:center;"> 21 <br> 4.84 </td>
-   <td style="text-align:center;"> 0.436 </td>
+   <td style="text-align:center;"> 21 <br> 4.07 </td>
+   <td style="text-align:center;"> 0.465 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1322248 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 8.500 </td>
   </tr>
   <tr>
@@ -355,12 +354,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 26 </td>
-   <td style="text-align:center;"> 21 <br> 2.86 </td>
-   <td style="text-align:center;"> 2.022 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 21 <br> 5.48 </td>
+   <td style="text-align:center;"> 0.740 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0004825 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 200.000 </td>
   </tr>
   <tr>
@@ -378,12 +377,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 312 </td>
-   <td style="text-align:center;"> 24 <br> 4.1 </td>
-   <td style="text-align:center;"> 1.474 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 24 <br> 5.53 </td>
+   <td style="text-align:center;"> 1.855 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0026307 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 100.000 </td>
   </tr>
   <tr>
@@ -401,12 +400,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
-   <td style="text-align:center;"> 19.5 <br> 8.72 </td>
-   <td style="text-align:center;"> 1.311 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 19.5 <br> 7.04 </td>
+   <td style="text-align:center;"> 1.152 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0015479 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 125.000 </td>
   </tr>
   <tr>
@@ -424,12 +423,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 99 <br> 22 </td>
-   <td style="text-align:center;"> 22 <br> 4.39 </td>
-   <td style="text-align:center;"> 1.016 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 22 <br> 4.19 </td>
+   <td style="text-align:center;"> 1.825 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0069703 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 20.000 </td>
   </tr>
   <tr>
@@ -447,11 +446,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 25 </td>
-   <td style="text-align:center;"> 5 <br> 3.13 </td>
-   <td style="text-align:center;"> -0.869 </td>
+   <td style="text-align:center;"> 5 <br> 2.79 </td>
+   <td style="text-align:center;"> -1.136 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.6626021 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 86% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 86% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.909 </td>
   </tr>
@@ -470,12 +469,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 14 </td>
-   <td style="text-align:center;"> 14 <br> 4.01 </td>
-   <td style="text-align:center;"> 0.218 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 14 <br> 3.59 </td>
+   <td style="text-align:center;"> 0.657 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1541944 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 7.500 </td>
   </tr>
   <tr>
@@ -493,12 +492,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 0 <br> 14 </td>
-   <td style="text-align:center;"> 23 <br> 7.42 </td>
-   <td style="text-align:center;"> 1.533 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 23 <br> 5.54 </td>
+   <td style="text-align:center;"> 2.195 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0020455 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 100.000 </td>
   </tr>
   <tr>
@@ -517,11 +516,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 111 <br> 54 </td>
    <td style="text-align:center;"> 10 <br> 1.3 </td>
-   <td style="text-align:center;"> 0.286 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.5821367 </td>
+   <td style="text-align:center;"> -0.635 </td>
    <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.750 </td>
   </tr>
 </tbody>
@@ -567,11 +566,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 122 <br> 16 </td>
    <td style="text-align:center;"> 8 <br> 1.52 </td>
-   <td style="text-align:center;"> 0.391 </td>
+   <td style="text-align:center;"> 0.886 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0569096 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 9.000 </td>
   </tr>
   <tr>
@@ -590,11 +589,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 115 <br> 37 </td>
    <td style="text-align:center;"> 20 <br> 2.98 </td>
-   <td style="text-align:center;"> 0.514 </td>
+   <td style="text-align:center;"> 1.319 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0681097 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.000 </td>
   </tr>
   <tr>
@@ -613,11 +612,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 115 <br> 27 </td>
    <td style="text-align:center;"> 12 <br> 1.45 </td>
-   <td style="text-align:center;"> 0.510 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0197128 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.350 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 56.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 56.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 10.000 </td>
   </tr>
   <tr>
@@ -636,11 +635,11 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 108 <br> 14 </td>
    <td style="text-align:center;"> 9 <br> 1.57 </td>
-   <td style="text-align:center;"> -0.060 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 61% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 61% </td>
-   <td style="text-align:center;"> 0.0766620 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.456 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 30.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 30.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.500 </td>
   </tr>
   <tr>
@@ -659,10 +658,10 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 107 <br> 27 </td>
    <td style="text-align:center;"> 10 <br> 1.46 </td>
-   <td style="text-align:center;"> -0.269 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 35% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 35% </td>
-   <td style="text-align:center;"> 0.3881609 </td>
+   <td style="text-align:center;"> 0.492 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 5.000 </td>
   </tr>
@@ -681,12 +680,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 105 <br> 33 </td>
-   <td style="text-align:center;"> 14 <br> 4.7 </td>
-   <td style="text-align:center;"> -0.096 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 4% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 4% </td>
-   <td style="text-align:center;"> 0.3863609 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 14 <br> 4.74 </td>
+   <td style="text-align:center;"> 1.276 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.625 </td>
   </tr>
 </tbody>
@@ -732,12 +731,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 107 <br> 10 </td>
    <td style="text-align:center;"> 3 <br> 0.7 </td>
-   <td style="text-align:center;"> -1.527 </td>
+   <td style="text-align:center;"> -0.602 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 29% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 29% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.5343115 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0.833 </td>
+   <td style="text-align:center;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -755,12 +754,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 105 <br> 35 </td>
    <td style="text-align:center;"> 14 <br> 2.9 </td>
-   <td style="text-align:center;"> 0.163 </td>
+   <td style="text-align:center;"> -0.594 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1965423 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 9.000 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -775,15 +774,15 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:left;"> Conor Ring  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-9 </td>
+   <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 100 <br> 33 </td>
    <td style="text-align:center;"> 15 <br> 2.74 </td>
-   <td style="text-align:center;"> 0.885 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0761611 </td>
+   <td style="text-align:center;"> 0.828 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 8.000 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -792,21 +791,21 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jo Lescribaa </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill average "> 10 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Ned Fox  <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-1 </td>
+   <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 92 <br> 50 </td>
    <td style="text-align:center;"> 13 <br> 3.11 </td>
-   <td style="text-align:center;"> 0.697 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1.566 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0888885 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 4.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -824,12 +823,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 91 <br> 42 </td>
    <td style="text-align:center;"> 18 <br> 4.26 </td>
-   <td style="text-align:center;"> 0.859 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1.823 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0486898 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 9.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 8.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -844,15 +843,15 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:left;"> Isabelle Ryder (10) <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-6 </td>
+   <td style="text-align:center;"> 9-10 </td>
    <td style="text-align:center;"> 83 <br> 59 </td>
    <td style="text-align:center;"> 26 <br> 10.66 </td>
-   <td style="text-align:center;"> 0.990 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0040309 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 50.000 </td>
+   <td style="text-align:center;"> -1.176 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 65.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 65.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 66.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -870,12 +869,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 79 <br> 90 </td>
    <td style="text-align:center;"> 10 <br> 2.94 </td>
-   <td style="text-align:center;"> -0.510 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.809 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2801626 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 12.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 16.0 </td>
   </tr>
 </tbody>
 </table>
@@ -920,12 +919,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 97 <br> 32 </td>
    <td style="text-align:center;"> 21 <br> 3.45 </td>
-   <td style="text-align:center;"> 1.186 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0482389 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 40.000 </td>
+   <td style="text-align:center;"> -1.740 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 27% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 27% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 40.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -934,21 +933,21 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Leading Swoop </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> R Walford <br> <div class="badge rounded-pill hot "> 38 % <div> </div>
+   <td style="text-align:left;"> R Walford <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Harry Kimber  <br> <div class="badge rounded-pill hot "> 44 % <div> </div>
+   <td style="text-align:left;"> Harry Kimber  <br> <div class="badge rounded-pill hot "> 38 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 97 <br> 53 </td>
    <td style="text-align:center;"> 15 <br> 6.49 </td>
-   <td style="text-align:center;"> -0.142 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.4821822 </td>
+   <td style="text-align:center;"> -0.663 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2.000 </td>
+   <td style="text-align:center;"> 2.25 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -957,7 +956,7 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Puddlesinthepark </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Evan Williams <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+   <td style="text-align:left;"> Evan Williams <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Isabel Williams  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
@@ -966,12 +965,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 96 <br> 17 </td>
    <td style="text-align:center;"> 13 <br> 3.07 </td>
-   <td style="text-align:center;"> 0.170 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 20.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 20.5% </td>
-   <td style="text-align:center;"> 0.1443952 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.333 </td>
+   <td style="text-align:center;"> 1.925 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -989,12 +988,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 93 <br> 26 </td>
    <td style="text-align:center;"> 12 <br> 5.02 </td>
-   <td style="text-align:center;"> -0.288 </td>
+   <td style="text-align:center;"> 0.723 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 79% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 79% </td>
-   <td style="text-align:center;"> 0.3742024 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.500 </td>
+   <td style="text-align:center;"> 2.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -1012,12 +1011,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 87 <br> 13 </td>
    <td style="text-align:center;"> 15 <br> 3.13 </td>
-   <td style="text-align:center;"> 0.577 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.381 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1051497 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -1035,12 +1034,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 85 <br> 1017 </td>
    <td style="text-align:center;"> 21 <br> 7.24 </td>
-   <td style="text-align:center;"> 1.381 </td>
+   <td style="text-align:center;"> 1.850 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0114136 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 25.000 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 28.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -1058,12 +1057,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 74 <br> 51 </td>
    <td style="text-align:center;"> 18 <br> 6.35 </td>
-   <td style="text-align:center;"> 0.628 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0710757 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 12.000 </td>
+   <td style="text-align:center;"> -0.720 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 26.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 26.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 12.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1081,12 +1080,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 71 <br> 115 </td>
    <td style="text-align:center;"> 30 <br> 7.01 </td>
-   <td style="text-align:center;"> 2.102 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0005661 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 80.000 </td>
+   <td style="text-align:center;"> -1.001 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 46.5% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 40.00 </td>
   </tr>
 </tbody>
 </table>
@@ -1122,7 +1121,7 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Just A Memory </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W Greatrex <br> <div class="badge rounded-pill average "> 18 % <div> </div>
+   <td style="text-align:left;"> W Greatrex <br> <div class="badge rounded-pill average "> 20 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
@@ -1131,12 +1130,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 56 </td>
    <td style="text-align:center;"> 21 <br> 7.17 </td>
-   <td style="text-align:center;"> 0.756 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 1.257 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1800233 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 5.00 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -1154,12 +1153,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 80 </td>
    <td style="text-align:center;"> 12 <br> 0.9 </td>
-   <td style="text-align:center;"> 0.134 </td>
+   <td style="text-align:center;"> 0.570 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.6086627 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.00 </td>
+   <td style="text-align:center;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -1177,12 +1176,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 0 <br> 19 </td>
    <td style="text-align:center;"> 27 <br> 1.1 </td>
-   <td style="text-align:center;"> 2.057 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 2.069 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0035157 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 40.00 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 40.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -1200,12 +1199,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.398 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.229 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0297059 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 9.00 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 9.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -1223,12 +1222,12 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 0 <br> 49 </td>
    <td style="text-align:center;"> 13.5 <br> 2.99 </td>
-   <td style="text-align:center;"> 0.884 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1326324 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2.25 </td>
+   <td style="text-align:center;"> 0.368 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -1237,21 +1236,21 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mistress Fox </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> M Hawker <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
+   <td style="text-align:left;"> M Hawker <br> <div class="badge rounded-pill hot "> 100 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Harry Reed <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+   <td style="text-align:left;"> Harry Reed <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.643 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 1.626 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0018826 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 33.00 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 20.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1263,18 +1262,18 @@ Todays Racecard for Chepstow including algorithm predictions and confidence %
    <td style="text-align:left;"> R J Price <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 18 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 0 <br> 26 </td>
    <td style="text-align:center;"> 15 <br> 2.04 </td>
-   <td style="text-align:center;"> 1.736 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.563 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0250146 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 25.00 </td>
+   <td style="text-align:center;"> 0.9950865 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 25.0 </td>
   </tr>
 </tbody>
 </table>

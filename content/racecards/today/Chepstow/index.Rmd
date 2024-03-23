@@ -3,7 +3,6 @@ title: "Chepstow | Thursday 21 March 2024"
 course: Chepstow
 image: course.png
 featured: false
-Date: 2024-03-21
 order: 0
 output:
   html_document:

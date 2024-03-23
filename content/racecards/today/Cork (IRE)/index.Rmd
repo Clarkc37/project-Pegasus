@@ -3,7 +3,6 @@ title: "Cork (IRE) | Thursday 21 March 2024"
 course: Cork (IRE)
 image: course.png
 featured: true
-Date: 2024-03-21
 order: 0
 output:
   html_document:

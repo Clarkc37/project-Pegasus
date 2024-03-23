@@ -3,7 +3,6 @@ title: "Ludlow | Thursday 21 March 2024"
 course: Ludlow
 image: course.png
 featured: false
-Date: 2024-03-21
 order: 0
 output:
   html_document:

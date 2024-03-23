@@ -4,9 +4,13 @@ RUN apt-get update && apt-get install -y pandoc pandoc-citeproc
 RUN apt-get update && apt-get install -y git
 
 
+
+
 WORKDIR '/projectPegasus/'
 
 COPY . /projectPegasus/
+
+#COPY ~/.ssh ~/.ssh
 
 
 
