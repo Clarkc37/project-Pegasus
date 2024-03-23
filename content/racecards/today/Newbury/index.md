@@ -1,9 +1,9 @@
 ---
-title: "Newbury | Friday 22 March 2024"
+title: "Newbury | Saturday 23 March 2024"
 course: Newbury
 image: course.png
 featured: true
-Date: 2024-03-22
+Date: 2024-03-23
 order: 0
 output:
   html_document:
@@ -13,7 +13,7 @@ output:
 
 Todays Racecard for Newbury including algorithm predictions and confidence %
 
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Lengthen The Odds At Betvictor Open Hunters' Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:00 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 5) (6YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 7f 86y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£3,336 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">John Haine Memorial Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:40 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 69y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">11 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£8,169 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -39,894 +39,261 @@ Todays Racecard for Newbury including algorithm predictions and confidence %
 <tbody>
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 4131-67 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140001.png?v=2"></body></html>
+   <td style="text-align:left;"> 12-1133 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134001.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Kayf Hernando </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Mr Ben Sutton  <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-6 </td>
-   <td style="text-align:center;"> 120 <br> 119 </td>
-   <td style="text-align:center;"> 14 <br> 1.66 </td>
-   <td style="text-align:center;"> -0.495 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0323413 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 12.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 11F1-11 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140002.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Secret Investor </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Miss N Parker  <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-6 </td>
-   <td style="text-align:center;"> 140 <br> 35 </td>
-   <td style="text-align:center;"> 3 <br> 0.76 </td>
-   <td style="text-align:center;"> -0.849 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99% </td>
-   <td style="text-align:center;"> 0.3919587 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> 5/P4P-21 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140003.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> El Presente </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> Miss S Klug <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Mr Tom Broughton <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 128 <br> 12 </td>
-   <td style="text-align:center;"> 13 <br> 0.66 </td>
-   <td style="text-align:center;"> 1.328 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0031535 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 28.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 2-14721 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140004.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Montanna </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> Edward Walker <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Miss Chloe Emsley  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 112 <br> 33 </td>
-   <td style="text-align:center;"> 10 <br> 0 </td>
-   <td style="text-align:center;"> 1.857 </td>
+   <td style="text-align:left;"> Cannock Park </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0021662 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 80.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 11-F11U </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140005.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Tigerbythetail </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Mrs G Ellis <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> Paul Robson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Miss Gina Andrews <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 128 <br> 35 </td>
-   <td style="text-align:center;"> 12 <br> 1.87 </td>
-   <td style="text-align:center;"> 0.214 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1413988 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2.25 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 11-111 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu140006.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Regatta De Blanc </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W Biddick <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Mr William Biddick <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 0 <br> 47 </td>
-   <td style="text-align:center;"> 3 <br> 0.3 </td>
-   <td style="text-align:center;"> -0.590 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.2020267 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 1.10 </td>
-  </tr>
-</tbody>
-</table>
-</div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Get Best Odds Guaranteed At BetVictor Novices' Limited Handicap Chase (For The Brown Chamberlin Trophy) (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:30 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (5YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 7f 86y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£10,034 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
-<div class="table-responsive"> 
-<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
-   <th style="text-align:center;"> ew probability </th>
-   <th style="text-align:center;"> ew preference </th>
-   <th style="text-align:center;"> Odds </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 430-215 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143001.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Mofasa </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 27 % <div> </div>
+   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
-   <td style="text-align:center;"> 134 <br> 97 </td>
-   <td style="text-align:center;"> 8 <br> 1 </td>
-   <td style="text-align:center;"> -0.665 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1071040 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 5.000 </td>
+   <td style="text-align:center;"> 131 <br> 21 </td>
+   <td style="text-align:center;"> 7 <br> 0.26 </td>
+   <td style="text-align:center;"> -1.451 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.5324492 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1.250 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 133-141 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143002.png?v=2"></body></html>
+   <td style="text-align:left;"> 31-213 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134002.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Are U Wise To That </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Jonjo O'Neill <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 130 <br> 97 </td>
-   <td style="text-align:center;"> 6 <br> 0.68 </td>
-   <td style="text-align:center;"> -1.371 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 46% </td>
-   <td style="text-align:center;"> 0.2141809 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 4.500 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> 6-75261 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143003.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Abuffalosoldier </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W Greatrex <br> <div class="badge rounded-pill average "> 18 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 129 <br> 59 </td>
-   <td style="text-align:center;"> 9 <br> 1.5 </td>
-   <td style="text-align:center;"> -1.384 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 54% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 54% </td>
-   <td style="text-align:center;"> 0.4493310 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3.333 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 11/6-282 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143004.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Deeper Blue </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> H Fry <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 129 <br> 53 </td>
-   <td style="text-align:center;"> 12 <br> 0.93 </td>
-   <td style="text-align:center;"> -0.600 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1200213 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 10.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 114-522 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143005.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Atlanta Brave </td>
+   <td style="text-align:left;"> Goodwin </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Kerry Lee <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Richard Patrick <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 127 <br> 83 </td>
-   <td style="text-align:center;"> 9 <br> 0.87 </td>
-   <td style="text-align:center;"> -0.571 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1876329 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2.250 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> P-14555 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143006.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Neon Moon </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Pipe <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 18 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 124 <br> 45 </td>
-   <td style="text-align:center;"> 15 <br> 1.34 </td>
-   <td style="text-align:center;"> -0.500 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0483342 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 14.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> P20-485 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu143007.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Moon Hunter </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H D Daly <br> <div class="badge rounded-pill average "> 20 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 10-12 </td>
-   <td style="text-align:center;"> 122 <br> 73 </td>
-   <td style="text-align:center;"> 17 <br> 1.99 </td>
-   <td style="text-align:center;"> 0.741 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0346209 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 9.000 </td>
-  </tr>
-</tbody>
-</table>
-</div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Bet In-Play On Racing At BetVictor Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:00 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 118y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£5,446 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
-<div class="table-responsive"> 
-<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
-   <th style="text-align:center;"> ew probability </th>
-   <th style="text-align:center;"> ew preference </th>
-   <th style="text-align:center;"> Odds </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 12-2212 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150001.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Ballybentragh </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Mr D Maxwell  <br> <div class="badge rounded-pill average "> 17 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 122 <br> 21 </td>
-   <td style="text-align:center;"> 5 <br> 0.55 </td>
-   <td style="text-align:center;"> -1.331 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99% </td>
-   <td style="text-align:center;"> 0.5478636 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2.25 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 42-1222 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150002.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Classic King </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Miss E C Lavelle <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 122 <br> 45 </td>
-   <td style="text-align:center;"> 6 <br> 1.29 </td>
-   <td style="text-align:center;"> -1.139 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.2809584 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> P-07113 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150003.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Risk De Pluie </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Ben Clarke <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Ben Jones <br> <div class="badge rounded-pill average "> 15 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 117 <br> 36 </td>
-   <td style="text-align:center;"> 5 <br> 0.79 </td>
-   <td style="text-align:center;"> -0.528 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1038439 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 2D-2173 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150004.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> The Newest One </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 128 <br> 55 </td>
-   <td style="text-align:center;"> 11 <br> 0.71 </td>
-   <td style="text-align:center;"> -0.485 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3019148 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150005.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Huffin An A Puffin </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 0 <br> 0 </td>
-   <td style="text-align:center;"> 100 <br> 0.92 </td>
-   <td style="text-align:center;"> 2.162 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0052240 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 22.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 12-14U </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150006.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Move With The Beat </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Miss E C Lavelle <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Joe Anderson  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 0 <br> 13 </td>
-   <td style="text-align:center;"> 15 <br> 3.91 </td>
-   <td style="text-align:center;"> 1.521 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0043526 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 28.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> 5257 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150007.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Village Master </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W Greatrex <br> <div class="badge rounded-pill average "> 18 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 0 <br> 53 </td>
-   <td style="text-align:center;"> 14 <br> 2.87 </td>
-   <td style="text-align:center;"> 1.540 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0030065 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 33.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 8 </td>
-   <td style="text-align:left;"> 1-69 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu150008.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Dairylane Daisy </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Noel Williams <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> C Gethings <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 10-9 </td>
-   <td style="text-align:center;"> 0 <br> 50 </td>
-   <td style="text-align:center;"> 16 <br> 3.58 </td>
-   <td style="text-align:center;"> 1.085 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0161989 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 40.00 </td>
-  </tr>
-</tbody>
-</table>
-</div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Daily Racing Specials At BetVictor Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:33 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 69y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">14 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£8,265 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
-<div class="table-responsive"> 
-<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
-   <th style="text-align:center;"> ew probability </th>
-   <th style="text-align:center;"> ew preference </th>
-   <th style="text-align:center;"> Odds </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 23512/1 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153301.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Kamaxos </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> R A Teal <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Lily Pinchin <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 125 <br> 36 </td>
-   <td style="text-align:center;"> 4 <br> 0.54 </td>
-   <td style="text-align:center;"> -0.770 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1.5% </td>
-   <td style="text-align:center;"> 0.0823688 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 6.500 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 045U1-3 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153302.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Takeit Easy </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Mrs P Sly <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Alice Stevens  <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 124 <br> 314 </td>
-   <td style="text-align:center;"> 14 <br> 0.73 </td>
-   <td style="text-align:center;"> 0.125 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0294802 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 14.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> 257-2P1 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153303.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Steel Ally </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> S Thomas <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 124 <br> 50 </td>
-   <td style="text-align:center;"> 13 <br> 5.61 </td>
-   <td style="text-align:center;"> -0.275 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0580326 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 6.500 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 2121P-P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153304.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Royal Mogul </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D McCain Jnr <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Peter Kavanagh  <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 122 <br> 139 </td>
-   <td style="text-align:center;"> 21 <br> 1.45 </td>
-   <td style="text-align:center;"> 1.146 </td>
-   <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0019598 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> 80.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 35-112 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153305.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Imperial Saint </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Hobbs &amp; J White <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> M G Nolan <br> <div class="badge rounded-pill average "> 10 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 119 <br> 86 </td>
-   <td style="text-align:center;"> 4 <br> 0.65 </td>
-   <td style="text-align:center;"> 0.129 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3810562 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 4.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 3191U-7 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153306.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> I Have A Voice </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N J Hawke <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> David Noonan <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 116 <br> 27 </td>
-   <td style="text-align:center;"> 18 <br> 2.06 </td>
-   <td style="text-align:center;"> 0.021 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0006899 </td>
-   <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> 80.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> 35-9F87 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153307.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Finest View </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 116 <br> 231 </td>
-   <td style="text-align:center;"> 25 <br> 4.1 </td>
-   <td style="text-align:center;"> 0.691 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0126811 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 16.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 8 </td>
-   <td style="text-align:left;"> 622/556 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153308.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Hecouldbetheone </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> James Owen <br> <div class="badge rounded-pill hot "> 30 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 27 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 113 <br> 93 </td>
-   <td style="text-align:center;"> 16 <br> 1.66 </td>
-   <td style="text-align:center;"> 0.458 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1201678 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 7.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 9 </td>
-   <td style="text-align:left;"> 106312 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153309.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Doyen Quest </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 34 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 112 <br> 11 </td>
-   <td style="text-align:center;"> 6 <br> 3.71 </td>
-   <td style="text-align:center;"> -1.086 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 98% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 98% </td>
-   <td style="text-align:center;"> 0.0387155 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 3.333 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 10 </td>
-   <td style="text-align:left;"> 33-42PP </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153310.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Red Windsor </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C Gordon <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+   <td style="text-align:left;"> C Gordon <br> <div class="badge rounded-pill average "> 14 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Freddie Gordon  <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 112 <br> 39 </td>
-   <td style="text-align:center;"> 22 <br> 2.16 </td>
-   <td style="text-align:center;"> 0.878 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 11-6 </td>
+   <td style="text-align:center;"> 124 <br> 70 </td>
+   <td style="text-align:center;"> 6 <br> 0.97 </td>
+   <td style="text-align:center;"> -0.548 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0037966 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 50.000 </td>
+   <td style="text-align:center;"> 0.2291312 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 11 </td>
-   <td style="text-align:left;"> 92-2115 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153311.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> U1 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134003.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Charlie My Boy </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J R Jenkins <br> <div class="badge rounded-pill hot "> 40 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Brendan Powell <br> <div class="badge rounded-pill average "> 15 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 108 <br> 246 </td>
-   <td style="text-align:center;"> 7 <br> 1.59 </td>
-   <td style="text-align:center;"> -0.199 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0036792 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> 66.000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 12 </td>
-   <td style="text-align:left;"> U3-4951 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153312.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> David's Well </td>
+   <td style="text-align:left;"> Lario </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> C Gordon <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 19 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Rex Dingle <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 108 <br> 25 </td>
-   <td style="text-align:center;"> 15 <br> 2.49 </td>
-   <td style="text-align:center;"> -0.701 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 11-6 </td>
+   <td style="text-align:center;"> 0 <br> 40 </td>
+   <td style="text-align:center;"> 16.5 <br> 2.36 </td>
+   <td style="text-align:center;"> 0.091 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0831055 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 4.500 </td>
+   <td style="text-align:center;"> 0.0955585 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 13 </td>
-   <td style="text-align:left;"> 64-21F3 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153313.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 767 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134004.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Saligo Bay </td>
+   <td style="text-align:left;"> Absolutely Fine </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 13 </td>
+   <td style="text-align:center;"> 20 <br> 6.03 </td>
+   <td style="text-align:center;"> 0.425 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0795882 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 40.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> P/14- </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134005.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> I'm Ravenous </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> N F Houlihan <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+   <td style="text-align:left;"> Kielan Woods <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 104 <br> 18 </td>
-   <td style="text-align:center;"> 14 <br> 1.75 </td>
-   <td style="text-align:center;"> -0.879 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.1237782 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 337 </td>
+   <td style="text-align:center;"> 15 <br> 1.84 </td>
+   <td style="text-align:center;"> 0.300 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0950689 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 42323/ </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134006.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Next Left </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Fergus Gillard <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 112 <br> 826 </td>
+   <td style="text-align:center;"> 8 <br> 1.89 </td>
+   <td style="text-align:center;"> 0.300 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0110223 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 28.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 7 </td>
+   <td style="text-align:left;"> 06 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134007.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> The Blueberry One </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 42 </td>
+   <td style="text-align:center;"> 24 <br> 2.94 </td>
+   <td style="text-align:center;"> -0.010 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0071900 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 18.000 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 14 </td>
-   <td style="text-align:left;"> 311-23F </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu153314.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 8 </td>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134008.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Phoenix Risen </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J Scott <br> <div class="badge rounded-pill hot "> 42 % <div> </div>
+   <td style="text-align:left;"> Zhang Fei </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Bryan Carver <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+   <td style="text-align:left;"> Liam Harrison <br> <div class="badge rounded-pill average "> 15 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 103 <br> 249 </td>
-   <td style="text-align:center;"> 15 <br> 2.28 </td>
-   <td style="text-align:center;"> -0.105 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 51 </td>
+   <td style="text-align:center;"> 12 <br> 4.68 </td>
+   <td style="text-align:center;"> 0.752 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0017986 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> 66.000 </td>
+   <td style="text-align:center;"> 0.0074065 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 33.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 9 </td>
+   <td style="text-align:left;"> /- </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134009.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Arenas Del Tiempo </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> J &amp; S Best <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Reed <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-7 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 3.18 </td>
+   <td style="text-align:center;"> 0.867 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0018130 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 100.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 10 </td>
+   <td style="text-align:left;"> 555-PF0 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134010.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Guinessed </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> J &amp; S Best <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> James Best <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-7 </td>
+   <td style="text-align:center;"> 0 <br> 96 </td>
+   <td style="text-align:center;"> 30 <br> 8.57 </td>
+   <td style="text-align:center;"> 1.123 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0008914 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 100.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 11 </td>
+   <td style="text-align:left;"> 54 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu134011.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Kuzco </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> O Greenall &amp; J Guerriero <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R T Dunne <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-4 </td>
+   <td style="text-align:center;"> 0 <br> 35 </td>
+   <td style="text-align:center;"> 13.5 <br> 1.17 </td>
+   <td style="text-align:center;"> -0.174 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0277628 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 18.000 </td>
   </tr>
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Steve Jobar Mnd Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 16:08 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 52y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">12 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£8,265 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Bet In-Play On Racing With Betvictor Novices' Handicap Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:10 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 2f 183y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">10 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£10,905 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -952,747 +319,1771 @@ Todays Racecard for Newbury including algorithm predictions and confidence %
 <tbody>
   <tr>
    <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 2778-3P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160801.png?v=2"></body></html>
+   <td style="text-align:left;"> 31-2F11 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141001.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Karl Philippe </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+   <td style="text-align:left;"> Spirits Bay </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Jack Hogan  <br> <div class="badge rounded-pill hot "> 38 % <div> </div>
+   <td style="text-align:left;"> Jordan Nailor <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 131 <br> 87 </td>
-   <td style="text-align:center;"> 21 <br> 0.68 </td>
-   <td style="text-align:center;"> 0.364 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0672187 </td>
+   <td style="text-align:center;"> 126 <br> 15 </td>
+   <td style="text-align:center;"> 12 <br> 1.82 </td>
+   <td style="text-align:center;"> -0.743 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 12.0 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0585351 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 121124 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160802.png?v=2"></body></html>
+   <td style="text-align:left;"> F-7U311 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141002.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Destroytheevidence </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill average "> 18 % <div> </div>
+   <td style="text-align:left;"> Into The Park </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> P Hobbs &amp; J White <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> David Bass <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+   <td style="text-align:left;"> M G Nolan <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 130 <br> 55 </td>
-   <td style="text-align:center;"> 7 <br> 0.38 </td>
-   <td style="text-align:center;"> -0.700 </td>
+   <td style="text-align:center;"> 12-0 </td>
+   <td style="text-align:center;"> 126 <br> 32 </td>
+   <td style="text-align:center;"> 5 <br> 0.92 </td>
+   <td style="text-align:center;"> -1.914 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.2470677 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
-   <td style="text-align:center;"> 0.0410695 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 6.5 </td>
+   <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> UP3024 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160803.png?v=2"></body></html>
+   <td style="text-align:left;"> 1-13213 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141003.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Hermino Aa </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+   <td style="text-align:left;"> Idy Wood </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Mr Freddie Mitchell  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 130 <br> 21 </td>
-   <td style="text-align:center;"> 16 <br> 0.75 </td>
-   <td style="text-align:center;"> 0.804 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 11-12 </td>
+   <td style="text-align:center;"> 124 <br> 28 </td>
+   <td style="text-align:center;"> 6 <br> 1.04 </td>
+   <td style="text-align:center;"> -1.695 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0503707 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 12.0 </td>
+   <td style="text-align:center;"> 0.0780844 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 8.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 28-1642 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160804.png?v=2"></body></html>
+   <td style="text-align:left;"> 312318 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141004.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Coquelicot </td>
+   <td style="text-align:left;"> I Love My Baie </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-11 </td>
+   <td style="text-align:center;"> 123 <br> 56 </td>
+   <td style="text-align:center;"> 12 <br> 0.61 </td>
+   <td style="text-align:center;"> 0.260 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0403015 </td>
    <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 16.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> P-31412 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141005.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> The Good Doctor </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ben Jones <br> <div class="badge rounded-pill average "> 15 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-11 </td>
+   <td style="text-align:center;"> 123 <br> 49 </td>
+   <td style="text-align:center;"> 7 <br> 1.4 </td>
+   <td style="text-align:center;"> -0.458 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1231136 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 12.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 1/P2291 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141006.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Onethreefivenotout </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-5 </td>
+   <td style="text-align:center;"> 117 <br> 35 </td>
+   <td style="text-align:center;"> 12 <br> 1.42 </td>
+   <td style="text-align:center;"> -1.236 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1049281 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 8.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 8 </td>
+   <td style="text-align:left;"> 1-32 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141008.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Break My Soul </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-8 </td>
+   <td style="text-align:center;"> 106 <br> 61 </td>
+   <td style="text-align:center;"> 6 <br> 0.75 </td>
+   <td style="text-align:center;"> -0.772 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0484257 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 12.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 9 </td>
+   <td style="text-align:left;"> 2-F1432 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141009.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Pretending </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> L Wadham <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Bryony Frost <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-7 </td>
+   <td style="text-align:center;"> 105 <br> 23 </td>
+   <td style="text-align:center;"> 9 <br> 1.26 </td>
+   <td style="text-align:center;"> -0.453 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0196180 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 18.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 10 </td>
+   <td style="text-align:left;"> 1232 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu141010.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Kartoon And Co </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-2 </td>
+   <td style="text-align:center;"> 112 <br> 14 </td>
+   <td style="text-align:center;"> 7 <br> 0.88 </td>
+   <td style="text-align:center;"> -0.752 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.3139496 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1.75 </td>
+  </tr>
+</tbody>
+</table>
+</div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Get Best Odds Guaranteed At BetVictor Handicap Chase (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:40 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 2) (5YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f 187y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£20,812 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+<div class="table-responsive"> 
+<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;"> No. </th>
+   <th style="text-align:left;"> Form </th>
+   <th style="text-align:center;"> Horse </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:center;"> Age </th>
+   <th style="text-align:left;"> Trainer </th>
+   <th style="text-align:left;"> Jockey </th>
+   <th style="text-align:center;"> weight </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> Pred Score </th>
+   <th style="text-align:center;"> Predicted Position </th>
+   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;"> ew probability </th>
+   <th style="text-align:center;"> ew preference </th>
+   <th style="text-align:center;"> Odds </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 1 </td>
+   <td style="text-align:left;"> 221P-22 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144001.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Solo </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Freddie Gingell  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 12-0 </td>
+   <td style="text-align:center;"> 149 <br> 91 </td>
+   <td style="text-align:center;"> 14 <br> 0.25 </td>
+   <td style="text-align:center;"> -0.273 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1396304 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 4.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 2 </td>
+   <td style="text-align:left;"> F-13821 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144002.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Heltenham </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-1 </td>
+   <td style="text-align:center;"> 136 <br> 21 </td>
+   <td style="text-align:center;"> 11 <br> 0.87 </td>
+   <td style="text-align:center;"> -1.365 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 90% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 90% </td>
+   <td style="text-align:center;"> 0.8027194 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> 3P/15-F2 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144003.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Gunsight Ridge </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:left;"> O Murphy <br> <div class="badge rounded-pill hot "> 32 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 135 <br> 37 </td>
+   <td style="text-align:center;"> 17 <br> 0.82 </td>
+   <td style="text-align:center;"> -0.772 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0923349 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 37-12U4 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144004.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Sir Psycho </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill average "> 15 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-13 </td>
+   <td style="text-align:center;"> 134 <br> 21 </td>
+   <td style="text-align:center;"> 16 <br> 1.03 </td>
+   <td style="text-align:center;"> -1.085 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 9.5% </td>
+   <td style="text-align:center;"> 0.0814407 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 10.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> 9214-62 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144005.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Galahad Quest </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> Mrs J Williams <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> David Noonan <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-9 </td>
+   <td style="text-align:center;"> 130 <br> 45 </td>
+   <td style="text-align:center;"> 12 <br> 1.39 </td>
+   <td style="text-align:center;"> 0.885 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1325250 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 7246U3 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu144006.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Gustavian </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 130 <br> 34 </td>
-   <td style="text-align:center;"> 12 <br> 0.66 </td>
-   <td style="text-align:center;"> -0.588 </td>
+   <td style="text-align:center;"> 10-8 </td>
+   <td style="text-align:center;"> 129 <br> 21 </td>
+   <td style="text-align:center;"> 19 <br> 0.45 </td>
+   <td style="text-align:center;"> -0.959 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 13.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 13.5% </td>
-   <td style="text-align:center;"> 0.0526240 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 9.0 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.0564445 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 8.0 </td>
   </tr>
+</tbody>
+</table>
+</div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">British EBF BetVictor 'National Hunt' Mares' Novices' Hurdle (Limited Handicap) (Grade 2) (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:15 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 118y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">17 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£28,616 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+<div class="table-responsive"> 
+<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
   <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 2/1111F- </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160805.png?v=2"></body></html>
+   <th style="text-align:center;"> No. </th>
+   <th style="text-align:left;"> Form </th>
+   <th style="text-align:center;"> Horse </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:center;"> Age </th>
+   <th style="text-align:left;"> Trainer </th>
+   <th style="text-align:left;"> Jockey </th>
+   <th style="text-align:center;"> weight </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> Pred Score </th>
+   <th style="text-align:center;"> Predicted Position </th>
+   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;"> ew probability </th>
+   <th style="text-align:center;"> ew preference </th>
+   <th style="text-align:center;"> Odds </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 1 </td>
+   <td style="text-align:left;"> 13P122 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151501.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Tea For Free </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> C E Longsdon <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+   <td style="text-align:left;"> Ooh Betty </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> Ben Clarke <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Lily Pinchin <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+   <td style="text-align:left;"> Joe Anderson  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 129 <br> 419 </td>
-   <td style="text-align:center;"> 12 <br> 0.43 </td>
-   <td style="text-align:center;"> -0.191 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0262818 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 124 <br> 32 </td>
+   <td style="text-align:center;"> 5 <br> 0.62 </td>
+   <td style="text-align:center;"> -0.740 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 18% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 18% </td>
+   <td style="text-align:center;"> 0.0460898 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 22.0 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 32-0442 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160806.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Jatiluwih </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> P Hobbs &amp; J White <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Mr D Maxwell  <br> <div class="badge rounded-pill average "> 17 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 126 <br> 20 </td>
-   <td style="text-align:center;"> 10 <br> 1.14 </td>
-   <td style="text-align:center;"> 0.167 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1051887 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 12.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> 1-11P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160807.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Mt Fugi Park </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Jonjo O'Neill <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 123 <br> 34 </td>
-   <td style="text-align:center;"> 12 <br> 1.91 </td>
-   <td style="text-align:center;"> 0.864 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1576650 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 7.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 8 </td>
-   <td style="text-align:left;"> 14-2243 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160808.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Gyenyame </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J Tizzard <br> <div class="badge rounded-pill average "> 13 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Brendan Powell <br> <div class="badge rounded-pill average "> 15 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 120 <br> 56 </td>
-   <td style="text-align:center;"> 9 <br> 0.79 </td>
-   <td style="text-align:center;"> -0.245 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0722472 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 11.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 9 </td>
-   <td style="text-align:left;"> 5-16521 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160809.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Madaket </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Hobbs &amp; J White <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> M G Nolan <br> <div class="badge rounded-pill average "> 10 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 119 <br> 15 </td>
-   <td style="text-align:center;"> 8 <br> 1.51 </td>
-   <td style="text-align:center;"> -0.803 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 83.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 83.5% </td>
-   <td style="text-align:center;"> 0.0638836 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 5.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 10 </td>
-   <td style="text-align:left;"> 221147- </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160810.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Warranty </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss S West <br> <div class="badge rounded-pill average "> 20 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> M Goldstein <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 118 <br> 398 </td>
-   <td style="text-align:center;"> 12 <br> 1.34 </td>
-   <td style="text-align:center;"> 0.842 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0061941 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> 50.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 11 </td>
-   <td style="text-align:left;"> 233-12P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160811.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Take No Chances </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 34 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 117 <br> 59 </td>
-   <td style="text-align:center;"> 13 <br> 4.9 </td>
-   <td style="text-align:center;"> 0.993 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0678598 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 7.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 12 </td>
-   <td style="text-align:left;"> 3414 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu160812.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Zain Nights </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> L Wadham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 114 <br> 48 </td>
-   <td style="text-align:center;"> 9 <br> 3.77 </td>
-   <td style="text-align:center;"> -0.504 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2412782 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3.5 </td>
-  </tr>
-</tbody>
-</table>
-</div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Get A Run For Your Money At Betvictor Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 16:43 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (5YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 93y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£6,337 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
-<div class="table-responsive"> 
-<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
-   <th style="text-align:center;"> ew probability </th>
-   <th style="text-align:center;"> ew preference </th>
-   <th style="text-align:center;"> Odds </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> F292-4P </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164301.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Soldier Of Destiny </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill hot "> 28 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> William Featherstone (10) <br> <div class="badge rounded-pill hot "> 100 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 122 <br> 48 </td>
-   <td style="text-align:center;"> 16 <br> 2.49 </td>
-   <td style="text-align:center;"> 0.526 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0762901 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 10.0 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
-   <td style="text-align:left;"> 5U2-821 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164302.png?v=2"></body></html>
+   <td style="text-align:left;"> 1/4-113 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151502.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Captain Quint </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> R Dobbin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 122 <br> 33 </td>
-   <td style="text-align:center;"> 11 <br> 1.34 </td>
-   <td style="text-align:center;"> -1.016 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1475700 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 7.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> F67-441 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164303.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Peejaybee </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P Bowen <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 116 <br> 19 </td>
-   <td style="text-align:center;"> 9 <br> 1.03 </td>
-   <td style="text-align:center;"> -1.838 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.4812889 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 532-425 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164304.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Maclaine </td>
+   <td style="text-align:left;"> Smiling Getaway </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> R Bandey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Harry Bannister <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 116 <br> 54 </td>
-   <td style="text-align:center;"> 11 <br> 2.15 </td>
-   <td style="text-align:center;"> 0.228 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1788648 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 6-P3072 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164305.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Son Of The Somme </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> T Lawes <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> K Brogan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 115 <br> 54 </td>
-   <td style="text-align:center;"> 19 <br> 3.33 </td>
-   <td style="text-align:center;"> -0.276 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0511885 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 14.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 121-334 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164306.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Kepagge </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> D Pipe <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 18 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 114 <br> 48 </td>
-   <td style="text-align:center;"> 10 <br> 1.68 </td>
-   <td style="text-align:center;"> -0.551 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3341029 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 10.0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> 21-1P16 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164307.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Scene One </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> L Wadham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Bryony Frost <br> <div class="badge rounded-pill average "> 17 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 114 <br> 45 </td>
-   <td style="text-align:center;"> 17 <br> 1.52 </td>
-   <td style="text-align:center;"> 0.305 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0330688 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 7.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 8 </td>
-   <td style="text-align:left;"> 186P-24 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu164308.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Hall Lane </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 110 <br> 77 </td>
-   <td style="text-align:center;"> 16 <br> 1.94 </td>
-   <td style="text-align:center;"> -0.365 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1270329 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 5.0 </td>
-  </tr>
-</tbody>
-</table>
-</div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Download The Betvictor App Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 17:20 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 52y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">10 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£5,809 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
-<div class="table-responsive"> 
-<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> No. </th>
-   <th style="text-align:left;"> Form </th>
-   <th style="text-align:center;"> Horse </th>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:center;"> Age </th>
-   <th style="text-align:left;"> Trainer </th>
-   <th style="text-align:left;"> Jockey </th>
-   <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
-   <th style="text-align:center;"> Pred Score </th>
-   <th style="text-align:center;"> Predicted Position </th>
-   <th style="text-align:center;"> Win % </th>
-   <th style="text-align:center;"> ew probability </th>
-   <th style="text-align:center;"> ew preference </th>
-   <th style="text-align:center;"> Odds </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 421-685 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172001.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Bumpy Johnson </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Pipe <br> <div class="badge rounded-pill average "> 12 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 18 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-2 </td>
-   <td style="text-align:center;"> 117 <br> 76 </td>
-   <td style="text-align:center;"> 19 <br> 2.19 </td>
-   <td style="text-align:center;"> -0.462 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 53.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 53.5% </td>
-   <td style="text-align:center;"> 0.1057292 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 14.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 3 </td>
-   <td style="text-align:left;"> 44144-1 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172003.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Republican </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 113 <br> 81 </td>
-   <td style="text-align:center;"> 9 <br> 1.67 </td>
-   <td style="text-align:center;"> -0.031 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1415625 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2.75 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 4 </td>
-   <td style="text-align:left;"> 26-8532 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172004.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Haas Boy </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C E Longsdon <br> <div class="badge rounded-pill average "> 11 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 113 <br> 23 </td>
-   <td style="text-align:center;"> 10 <br> 2.14 </td>
-   <td style="text-align:center;"> -0.326 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 45.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 45.5% </td>
-   <td style="text-align:center;"> 0.2144737 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 5.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;width: 65px; "> 5 </td>
-   <td style="text-align:left;"> 4622-22 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172005.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> A Definite Getaway </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Bowen <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 112 <br> 290 </td>
-   <td style="text-align:center;"> 6 <br> 1.39 </td>
-   <td style="text-align:center;"> -0.177 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.1282126 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 12.00 </td>
+   <td style="text-align:center;"> 123 <br> 37 </td>
+   <td style="text-align:center;"> 5 <br> 0.54 </td>
+   <td style="text-align:center;"> -0.887 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 76.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 76.5% </td>
+   <td style="text-align:center;"> 0.0790431 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 6.5 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 6 </td>
-   <td style="text-align:left;"> 112-65 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172006.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> 230/142 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151503.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Ah Whisht </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> T Symonds <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+   <td style="text-align:left;"> Condesa </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Benjamin Poste <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 12 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 112 <br> 44 </td>
-   <td style="text-align:center;"> 13 <br> 2.38 </td>
-   <td style="text-align:center;"> 0.700 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 123 <br> 57 </td>
+   <td style="text-align:center;"> 7 <br> 2.19 </td>
+   <td style="text-align:center;"> 0.256 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0174921 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 20.00 </td>
+   <td style="text-align:center;"> 0.0187010 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 7 </td>
-   <td style="text-align:left;"> 334413- </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172007.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 1-15451 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151504.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Ted's Friend </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+   <td style="text-align:left;"> El Elefante </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 18 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Max Kendrick <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+   <td style="text-align:left;"> D R Fox <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-10 </td>
-   <td style="text-align:center;"> 111 <br> 541 </td>
-   <td style="text-align:center;"> 8 <br> 1.96 </td>
-   <td style="text-align:center;"> 1.055 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 122 <br> 15 </td>
+   <td style="text-align:center;"> 10 <br> 0.81 </td>
+   <td style="text-align:center;"> -0.136 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0882584 </td>
+   <td style="text-align:center;"> 0.0822341 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 5.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> F2-2211 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151505.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Party Vibes </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 25.00 </td>
+   <td style="text-align:left;"> H D Daly <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Alice Stevens  <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-9 </td>
+   <td style="text-align:center;"> 121 <br> 32 </td>
+   <td style="text-align:center;"> 4 <br> 0.85 </td>
+   <td style="text-align:center;"> -0.521 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
+   <td style="text-align:center;"> 0.2555119 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 4.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 28-1153 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151506.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Alfie's Princess </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> S Thomas <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Lorcan Williams <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-7 </td>
+   <td style="text-align:center;"> 119 <br> 49 </td>
+   <td style="text-align:center;"> 9 <br> 0.97 </td>
+   <td style="text-align:center;"> -0.069 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0026622 </td>
+   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 14.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 7 </td>
+   <td style="text-align:left;"> 3417-14 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151507.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Lilting Verse </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C Brace <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-3 </td>
+   <td style="text-align:center;"> 115 <br> 94 </td>
+   <td style="text-align:center;"> 12 <br> 2.86 </td>
+   <td style="text-align:center;"> 0.678 </td>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0124245 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
-   <td style="text-align:left;"> 432-606 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172008.png?v=2"></body></html>
+   <td style="text-align:left;"> 122425 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151508.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Sporting Mike </td>
+   <td style="text-align:left;"> All The Glory </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 15 % <div> </div>
+   <td style="text-align:left;"> Jonjo O'Neill <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jonjo O'Neill Jr. <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-3 </td>
+   <td style="text-align:center;"> 115 <br> 94 </td>
+   <td style="text-align:center;"> 11 <br> 2.34 </td>
+   <td style="text-align:center;"> -0.419 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
+   <td style="text-align:center;"> 0.0096819 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 16.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 9 </td>
+   <td style="text-align:left;"> 1-71543 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151509.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Baby Shally </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Freddie Gingell  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-3 </td>
+   <td style="text-align:center;"> 115 <br> 21 </td>
+   <td style="text-align:center;"> 12 <br> 2.34 </td>
+   <td style="text-align:center;"> -0.328 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.0868229 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 20.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 10 </td>
+   <td style="text-align:left;"> 37-4217 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151510.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Dontyawantme </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> Craig Lidster <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-2 </td>
+   <td style="text-align:center;"> 114 <br> 21 </td>
+   <td style="text-align:center;"> 10 <br> 1.18 </td>
+   <td style="text-align:center;"> 0.128 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0058296 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 40.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 11 </td>
+   <td style="text-align:left;"> 21-5241 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151511.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Larchmont Lass </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-1 </td>
+   <td style="text-align:center;"> 113 <br> 51 </td>
+   <td style="text-align:center;"> 7 <br> 0.93 </td>
+   <td style="text-align:center;"> 0.261 </td>
+   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0337504 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 5.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 12 </td>
+   <td style="text-align:left;"> 362-322 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151512.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Endless Supply </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill hot "> 24 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P J Brennan <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-13 </td>
+   <td style="text-align:center;"> 111 <br> 92 </td>
+   <td style="text-align:center;"> 7 <br> 1.47 </td>
+   <td style="text-align:center;"> -0.528 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
+   <td style="text-align:center;"> 0.1294999 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 20.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 13 </td>
+   <td style="text-align:left;"> 20-1322 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151513.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Kay Tara Tara </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-13 </td>
+   <td style="text-align:center;"> 111 <br> 15 </td>
+   <td style="text-align:center;"> 7 <br> 1.65 </td>
+   <td style="text-align:center;"> -0.368 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0088360 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 11.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 14 </td>
+   <td style="text-align:left;"> 1-22F3 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151514.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Drumlee Spud </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 16 % <div> </div>
 </div>
 </td>
    <td style="text-align:left;"> Beau Morgan  <br> <div class="badge rounded-pill average "> 11 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 110 <br> 34 </td>
-   <td style="text-align:center;"> 22 <br> 4.12 </td>
-   <td style="text-align:center;"> 0.769 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 10-11 </td>
+   <td style="text-align:center;"> 109 <br> 47 </td>
+   <td style="text-align:center;"> 15 <br> 3.09 </td>
+   <td style="text-align:center;"> -0.240 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1748266 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3.00 </td>
+   <td style="text-align:center;"> 0.1187701 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 20.0 </td>
   </tr>
   <tr>
-   <td style="text-align:center;width: 65px; "> 9 </td>
-   <td style="text-align:left;"> 244171 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172009.png?v=2"></body></html>
+   <td style="text-align:center;width: 65px; "> 15 </td>
+   <td style="text-align:left;"> 20031 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151515.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> I'm A Starman </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> M G Rimell <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+   <td style="text-align:left;"> Marmalade Time </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> Mrs M Rowley <br> <div class="badge rounded-pill average "> 18 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+   <td style="text-align:left;"> Charlie Hammond <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-9 </td>
+   <td style="text-align:center;"> 107 <br> 20 </td>
+   <td style="text-align:center;"> 14 <br> 3.12 </td>
+   <td style="text-align:center;"> -0.435 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0095600 </td>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 18.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 16 </td>
+   <td style="text-align:left;"> 365 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151516.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Lindy Reilly </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-6 </td>
+   <td style="text-align:center;"> 104 <br> 20 </td>
+   <td style="text-align:center;"> 14 <br> 2.91 </td>
+   <td style="text-align:center;"> -0.080 </td>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0060666 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 6.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 17 </td>
+   <td style="text-align:left;"> 321-576 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu151517.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Imperial Jade </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> C E Longsdon <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B Roberts  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-6 </td>
+   <td style="text-align:center;"> 104 <br> 51 </td>
+   <td style="text-align:center;"> 18 <br> 4.81 </td>
+   <td style="text-align:center;"> -0.458 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0025237 </td>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 80.0 </td>
+  </tr>
+</tbody>
+</table>
+</div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Goffs UK Spring Sale Bumper (Open NH Flat Race) (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:50 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Bumper</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 2) (4YO to 5YO)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 69y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">21 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£59,010 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+<div class="table-responsive"> 
+<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;"> No. </th>
+   <th style="text-align:left;"> Form </th>
+   <th style="text-align:center;"> Horse </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:center;"> Age </th>
+   <th style="text-align:left;"> Trainer </th>
+   <th style="text-align:left;"> Jockey </th>
+   <th style="text-align:center;"> weight </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> Pred Score </th>
+   <th style="text-align:center;"> Predicted Position </th>
+   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;"> ew probability </th>
+   <th style="text-align:center;"> ew preference </th>
+   <th style="text-align:center;"> Odds </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 1 </td>
+   <td style="text-align:left;"> 1 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155001.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Regent's Stroll </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-10 </td>
+   <td style="text-align:center;"> 0 <br> 119 </td>
+   <td style="text-align:center;"> 3 <br> 0.18 </td>
+   <td style="text-align:center;"> 0.208 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.2737984 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2.75 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 2 </td>
+   <td style="text-align:left;"> 77 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155002.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Windsurfer </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> B I Case <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jack Quinlan <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 107 <br> 18 </td>
-   <td style="text-align:center;"> 9 <br> 2.35 </td>
-   <td style="text-align:center;"> 1.084 </td>
+   <td style="text-align:center;"> 0 <br> 73 </td>
+   <td style="text-align:center;"> 21 <br> 5.52 </td>
+   <td style="text-align:center;"> 0.613 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0045525 </td>
+   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 80.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> 1 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155003.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Andashan </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> C Gordon <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Rex Dingle <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 43 </td>
+   <td style="text-align:center;"> 3 <br> 0.37 </td>
+   <td style="text-align:center;"> -0.190 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.0429523 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 4.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 1 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155004.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Crest Of Fortune </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-0 </td>
+   <td style="text-align:center;"> 0 <br> 102 </td>
+   <td style="text-align:center;"> 3 <br> 0.46 </td>
+   <td style="text-align:center;"> -0.123 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0876337 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155005.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Authentic Legacy </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> David Noonan <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 82 </td>
+   <td style="text-align:center;"> 12 <br> 0.28 </td>
+   <td style="text-align:center;"> -0.023 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0730245 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 4.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155006.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Big Ginge </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr Jamie Neild <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 44 </td>
+   <td style="text-align:center;"> 9 <br> 1.38 </td>
+   <td style="text-align:center;"> 0.217 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0315248 </td>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 18.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 7 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155007.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Clever One </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.329 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0346515 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 10.00 </td>
+   <td style="text-align:center;"> 0.0817317 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 28.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 8 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155008.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Dance And Glance </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 7.44 </td>
+   <td style="text-align:center;"> 1.647 </td>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0353368 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 12.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 9 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155009.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Don't Mind If I Do </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.659 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1635420 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 11.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
-   <td style="text-align:left;"> 55-58B3 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172010.png?v=2"></body></html>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155010.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Mahler Moon </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+   <td style="text-align:left;"> Double Dragon </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 34 % <div> </div>
+   <td style="text-align:left;"> Ben Godfrey <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
-   <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 103 <br> 54 </td>
-   <td style="text-align:center;"> 21 <br> 5.16 </td>
-   <td style="text-align:center;"> 0.678 </td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 98 </td>
+   <td style="text-align:center;"> 12 <br> 1.53 </td>
+   <td style="text-align:center;"> 0.372 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0726399 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 7.00 </td>
+   <td style="text-align:center;"> 0.0321603 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 20.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 11 </td>
-   <td style="text-align:left;"> 63P-P32 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240322/20240322nbu172011.png?v=2"></body></html>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155011.png?v=2"></body></html>
 </td>
-   <td style="text-align:left;"> Annie Magic </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> J Scott <br> <div class="badge rounded-pill hot "> 42 % <div> </div>
+   <td style="text-align:left;"> Green Splendour </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Lorcan Williams <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
+   <td style="text-align:left;"> Ben Bromley <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.658 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0046735 </td>
+   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 50.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 12 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155012.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Gwennie May Jem </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.058 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0489152 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 11.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 13 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155013.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Gwennie May Star </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Fergus Gillard <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.711 </td>
+   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0882860 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 22.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 14 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155014.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Interchangeable </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.653 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0251472 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 16.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 15 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155015.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Lawsky </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> P R Webber <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.315 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0034504 </td>
+   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 50.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 16 </td>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155016.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Lennie Godber </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jordan Nailor <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 13 </td>
+   <td style="text-align:center;"> 18 <br> 2.75 </td>
+   <td style="text-align:center;"> 1.538 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0051265 </td>
+   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 80.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 17 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155017.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Tikiti Dino </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Phillip Armson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.658 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0046735 </td>
+   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 50.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 18 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155018.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Tom Taggle </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> Evan Williams <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Conor Ring <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-10 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.653 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0050712 </td>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 50.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 19 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155019.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Formel Park </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> Evan Williams <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss Eleanor Williams <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-3 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.781 </td>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0070949 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 80.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 20 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155020.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Kiss Me Moon </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> Evan Williams <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Isabel Williams <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-3 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 1.781 </td>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0301425 </td>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 28.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 21 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu155021.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Lagertha </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:left;"> Katy Price <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-3 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 2.018 </td>
+   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0432357 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 40.00 </td>
+  </tr>
+</tbody>
+</table>
+</div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Colleagues Celebration Of Business Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 16:25 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (5YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 92y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£10,905 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+<div class="table-responsive"> 
+<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;"> No. </th>
+   <th style="text-align:left;"> Form </th>
+   <th style="text-align:center;"> Horse </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:center;"> Age </th>
+   <th style="text-align:left;"> Trainer </th>
+   <th style="text-align:left;"> Jockey </th>
+   <th style="text-align:center;"> weight </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> Pred Score </th>
+   <th style="text-align:center;"> Predicted Position </th>
+   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;"> ew probability </th>
+   <th style="text-align:center;"> ew preference </th>
+   <th style="text-align:center;"> Odds </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 1 </td>
+   <td style="text-align:left;"> 05-0414 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162501.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Onemorefortheroad </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:left;"> N B King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jack Quinlan <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 12-0 </td>
+   <td style="text-align:center;"> 128 <br> 85 </td>
+   <td style="text-align:center;"> 9 <br> 1.11 </td>
+   <td style="text-align:center;"> -0.503 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1005501 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 7.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 2 </td>
+   <td style="text-align:left;"> 28113P </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162502.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Mount Tempest </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-13 </td>
+   <td style="text-align:center;"> 127 <br> 28 </td>
+   <td style="text-align:center;"> 14 <br> 0.77 </td>
+   <td style="text-align:center;"> 0.026 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0888404 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 6.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> P3-P621 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162503.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Jupiter Du Gite </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:left;"> G L Moore <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> N F Houlihan <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-13 </td>
+   <td style="text-align:center;"> 127 <br> 7 </td>
+   <td style="text-align:center;"> 9 <br> 0.74 </td>
+   <td style="text-align:center;"> -0.912 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.2603985 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 2-11156 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162504.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Bollingerandkrug </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 18 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D R Fox <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-9 </td>
+   <td style="text-align:center;"> 123 <br> 48 </td>
+   <td style="text-align:center;"> 12 <br> 0.99 </td>
+   <td style="text-align:center;"> 0.045 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0213824 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 22.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 5 </td>
+   <td style="text-align:left;"> 4/42P21 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162505.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Game On For Glory </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:left;"> L Wadham <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Bryony Frost <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-8 </td>
+   <td style="text-align:center;"> 122 <br> 23 </td>
+   <td style="text-align:center;"> 13 <br> 0.74 </td>
+   <td style="text-align:center;"> -0.851 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1268109 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> 95/113-P </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162506.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Calgary Tiger </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:left;"> W De Best-Turner <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> James Best <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-12 </td>
+   <td style="text-align:center;"> 112 <br> 112 </td>
+   <td style="text-align:center;"> 14 <br> 1.4 </td>
+   <td style="text-align:center;"> 0.174 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0356029 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 5.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 7 </td>
+   <td style="text-align:left;"> 443111 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162507.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Duhallow Tommy </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> T Lawes <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Tom Cannon <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-12 </td>
+   <td style="text-align:center;"> 112 <br> 19 </td>
+   <td style="text-align:center;"> 3 <br> 0.63 </td>
+   <td style="text-align:center;"> -1.486 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99.5% </td>
+   <td style="text-align:center;"> 0.1332380 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 8 </td>
+   <td style="text-align:left;"> 05-54P2 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu162508.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Rath Gaul Hill </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:left;"> S Drinkwater <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R T Dunne <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-7 </td>
+   <td style="text-align:center;"> 107 <br> 31 </td>
+   <td style="text-align:center;"> 16 <br> 2.49 </td>
+   <td style="text-align:center;"> -0.218 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1575717 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 6.5 </td>
+  </tr>
+</tbody>
+</table>
+</div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Visit Irish Store Sales With Itm Veterans' Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 17:00 Newbury </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (10YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to soft-soft in places</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 7f 86y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">11 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£10,744 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+<div class="table-responsive"> 
+<table class="racecard table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;"> No. </th>
+   <th style="text-align:left;"> Form </th>
+   <th style="text-align:center;"> Horse </th>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:center;"> Age </th>
+   <th style="text-align:left;"> Trainer </th>
+   <th style="text-align:left;"> Jockey </th>
+   <th style="text-align:center;"> weight </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> Pred Score </th>
+   <th style="text-align:center;"> Predicted Position </th>
+   <th style="text-align:center;"> Win % </th>
+   <th style="text-align:center;"> ew probability </th>
+   <th style="text-align:center;"> ew preference </th>
+   <th style="text-align:center;"> Odds </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 1 </td>
+   <td style="text-align:left;"> 50-4272 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170001.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Fortescue </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> H D Daly <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 12-0 </td>
+   <td style="text-align:center;"> 135 <br> 21 </td>
+   <td style="text-align:center;"> 11 <br> 0.52 </td>
+   <td style="text-align:center;"> -0.495 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
+   <td style="text-align:center;"> 0.9787595 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 2 </td>
+   <td style="text-align:left;"> 23P-PPP </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170002.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Ashtown Lad </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 12-0 </td>
+   <td style="text-align:center;"> 135 <br> 21 </td>
+   <td style="text-align:center;"> 30 <br> 0.63 </td>
+   <td style="text-align:center;"> 0.521 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9960978 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 3 </td>
+   <td style="text-align:left;"> 238425 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170003.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Francky Du Berlais </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:left;"> P Bowen <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-13 </td>
+   <td style="text-align:center;"> 134 <br> 43 </td>
+   <td style="text-align:center;"> 11 <br> 0.75 </td>
+   <td style="text-align:center;"> -0.041 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9823878 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 4 </td>
+   <td style="text-align:left;"> 7-4352P </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170004.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Certainly Red </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> Mrs L Richards <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M Goldstein <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-13 </td>
+   <td style="text-align:center;"> 134 <br> 21 </td>
+   <td style="text-align:center;"> 17 <br> 0.61 </td>
+   <td style="text-align:center;"> 0.590 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9968568 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 6 </td>
+   <td style="text-align:left;"> PP33-12 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170006.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Crosspark </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:left;"> N Kent <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Charlie Hammond <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-6 </td>
+   <td style="text-align:center;"> 127 <br> 88 </td>
+   <td style="text-align:center;"> 6 <br> 0.77 </td>
+   <td style="text-align:center;"> 0.499 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9945023 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 7 </td>
+   <td style="text-align:left;"> P-3F2PP </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170007.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Wayfinder </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> Miss R Curtis <br> <div class="badge rounded-pill hot "> 25 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ben Jones <br> <div class="badge rounded-pill average "> 15 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-4 </td>
+   <td style="text-align:center;"> 125 <br> 41 </td>
+   <td style="text-align:center;"> 22 <br> 1.08 </td>
+   <td style="text-align:center;"> 0.281 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9911525 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 8 </td>
+   <td style="text-align:left;"> 3-UP244 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170008.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> First Lord De Cuet </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> D Pipe <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-3 </td>
+   <td style="text-align:center;"> 124 <br> 12 </td>
+   <td style="text-align:center;"> 10 <br> 1.22 </td>
+   <td style="text-align:center;"> -1.122 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 91% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 91% </td>
+   <td style="text-align:center;"> 0.9874679 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 9 </td>
+   <td style="text-align:left;"> 72-4422 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170009.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Run To Milan </td>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:left;"> V R A Dartnall <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Fergus Gillard <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 103 <br> 29 </td>
-   <td style="text-align:center;"> 15 <br> 2.17 </td>
-   <td style="text-align:center;"> 0.406 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 123 <br> 41 </td>
+   <td style="text-align:center;"> 8 <br> 0.7 </td>
+   <td style="text-align:center;"> -1.001 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 6% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 6% </td>
+   <td style="text-align:center;"> 0.9951755 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 10 </td>
+   <td style="text-align:left;"> 245324 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170010.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Fidux </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:left;"> A King <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Oscar Palmer (10) <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 11-1 </td>
+   <td style="text-align:center;"> 122 <br> 51 </td>
+   <td style="text-align:center;"> 9 <br> 1.31 </td>
+   <td style="text-align:center;"> 0.452 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0649914 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 10.00 </td>
+   <td style="text-align:center;"> 0.9960390 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 65px; "> 11 </td>
+   <td style="text-align:left;"> 32/F-212 </td>
+   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20240323/20240323nbu170011.png?v=2"></body></html>
+</td>
+   <td style="text-align:left;"> Supervisor </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:left;"> Miss V Williams <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ned Fox  <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:center;"> 10-2 </td>
+   <td style="text-align:center;"> 109 <br> 15 </td>
+   <td style="text-align:center;"> 5 <br> 0.89 </td>
+   <td style="text-align:center;"> -0.597 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.9722112 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
 </tbody>
 </table>
