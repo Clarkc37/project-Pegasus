@@ -15,4 +15,6 @@ COPY . /projectPegasus/
 #CMD echo "Todays prediction copied successfully"
 #CMD pwd
 CMD git config --global --add safe.directory '/projectPegasus'
-CMD ["Rscript", "./R_Scripts/update website.r"]
+#CMD ["Rscript", "./R_Scripts/update website.r"]
+
+CMD ["bash"]
