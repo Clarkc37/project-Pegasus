@@ -18,7 +18,9 @@ COPY . /projectPegasus/
 #CMD cp "../Pegasus production/output/Todays_Prediction.rds" ./R_Scripts/Todays_Prediction.rds
 #CMD echo "Todays prediction copied successfully"
 #CMD pwd
-CMD git config --global --add safe.directory '/projectPegasus'
+#CMD git config --global --add safe.directory '/projectPegasus'
 #CMD ["Rscript", "./R_Scripts/update website.r"]
+#CMD ["git", "-m 'full test' -a"]
+#CMD ["git", "push"]
 
 CMD ["bash"]

@@ -5,3 +5,4 @@
 R_Scripts/
 Rmd_templates/
 output/
+Dockerfile
