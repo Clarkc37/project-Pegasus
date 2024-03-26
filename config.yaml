@@ -31,10 +31,7 @@ menu:
     - identifier: racecards
       name: Racecards
       weight: 2
-    - name: Todays Racecards
-      parent: racecards
       url: /racecards/
-      weight: 1
 markup:
   goldmark:
     parser:
