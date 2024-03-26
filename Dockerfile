@@ -8,7 +8,7 @@ WORKDIR '/projectPegasus/'
 
 COPY . /projectPegasus/
 
-
+RUN Rscript './R_Scripts/packages_installer.r'
 
 
 #CMD cp "../Pegasus production/output/Todays_Prediction.rds" ./R_Scripts/Todays_Prediction.rds

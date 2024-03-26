@@ -3,7 +3,6 @@ title: "Huntingdon | Monday 25 March 2024"
 course: Huntingdon
 image: course.png
 featured: false
-Date: 2024-03-25
 order: 0
 output:
   html_document:
