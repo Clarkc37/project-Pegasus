@@ -1,9 +1,9 @@
 ---
-title: "Fairyhouse (IRE) | Saturday 30 March 2024"
+title: "Fairyhouse (IRE) | Sunday 31 March 2024"
 course: Fairyhouse (IRE)
 image: course.png
 featured: true
-Date: 2024-03-30
+Date: 2024-03-31
 order: 0
 output:
   html_document:
