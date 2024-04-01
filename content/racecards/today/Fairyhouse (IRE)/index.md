@@ -53,10 +53,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 125 <br> 55 </td>
    <td style="text-align:center;"> 6 <br> 0.94 </td>
-   <td style="text-align:center;"> -0.086 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.073 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0062869 </td>
+   <td style="text-align:center;"> 0.0118954 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 8.5 </td>
   </tr>
@@ -76,11 +76,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 123 <br> 14 </td>
    <td style="text-align:center;"> 17 <br> 2.56 </td>
-   <td style="text-align:center;"> -0.067 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.086 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0018744 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 0.0078387 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 18.0 </td>
   </tr>
   <tr>
@@ -99,11 +99,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 122 <br> 28 </td>
    <td style="text-align:center;"> 9 <br> 0.97 </td>
-   <td style="text-align:center;"> -0.499 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.0175715 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.053 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0137872 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
   <tr>
@@ -122,11 +122,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 118 <br> 96 </td>
    <td style="text-align:center;"> 13 <br> 0.86 </td>
-   <td style="text-align:center;"> 0.236 </td>
+   <td style="text-align:center;"> 0.353 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0082898 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0079416 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
@@ -145,10 +145,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 118 <br> 55 </td>
    <td style="text-align:center;"> 12 <br> 1.53 </td>
-   <td style="text-align:center;"> 0.022 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.166 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0024326 </td>
+   <td style="text-align:center;"> 0.0069528 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
@@ -168,11 +168,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 117 <br> 42 </td>
    <td style="text-align:center;"> 5 <br> 0.91 </td>
-   <td style="text-align:center;"> -0.328 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> -0.183 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0662974 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.1684310 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
   <tr>
@@ -191,11 +191,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 116 <br> 62 </td>
    <td style="text-align:center;"> 13 <br> 1.32 </td>
-   <td style="text-align:center;"> -0.624 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0212389 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.342 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 46.5% </td>
+   <td style="text-align:center;"> 0.0190712 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 8.0 </td>
   </tr>
   <tr>
@@ -214,11 +214,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 114 <br> 218 </td>
    <td style="text-align:center;"> 20 <br> 2.06 </td>
-   <td style="text-align:center;"> 0.408 </td>
+   <td style="text-align:center;"> 0.937 </td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0057418 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.0125365 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 50.0 </td>
   </tr>
   <tr>
@@ -237,11 +237,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 114 <br> 39 </td>
    <td style="text-align:center;"> 18 <br> 2.74 </td>
-   <td style="text-align:center;"> -0.393 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.222 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0113209 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0451517 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -260,11 +260,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 111 <br> 76 </td>
    <td style="text-align:center;"> 18 <br> 2.67 </td>
-   <td style="text-align:center;"> -0.456 </td>
+   <td style="text-align:center;"> -0.012 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2766170 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.1433108 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 5.0 </td>
   </tr>
   <tr>
@@ -283,11 +283,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 111 <br> 94 </td>
    <td style="text-align:center;"> 9 <br> 4.08 </td>
-   <td style="text-align:center;"> 0.050 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.217 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0066724 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.0204579 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
@@ -306,10 +306,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 109 <br> 484 </td>
    <td style="text-align:center;"> 18 <br> 2.06 </td>
-   <td style="text-align:center;"> -0.447 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.0451886 </td>
+   <td style="text-align:center;"> 0.289 </td>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0798685 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 22.0 </td>
   </tr>
@@ -329,11 +329,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 109 <br> 47 </td>
    <td style="text-align:center;"> 12 <br> 2.08 </td>
-   <td style="text-align:center;"> -0.664 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.096 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0122022 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0045210 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
@@ -352,11 +352,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 118 <br> 35 </td>
    <td style="text-align:center;"> 6 <br> 0.67 </td>
-   <td style="text-align:center;"> -1.047 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 98% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 98% </td>
-   <td style="text-align:center;"> 0.0134716 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> -0.175 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0369740 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 8.0 </td>
   </tr>
   <tr>
@@ -375,11 +375,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 102 <br> 21 </td>
    <td style="text-align:center;"> 19 <br> 2.91 </td>
-   <td style="text-align:center;"> -0.741 </td>
+   <td style="text-align:center;"> -0.329 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1% </td>
-   <td style="text-align:center;"> 0.0443646 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 53.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 53.5% </td>
+   <td style="text-align:center;"> 0.0144481 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 25.0 </td>
   </tr>
   <tr>
@@ -398,11 +398,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-1 </td>
    <td style="text-align:center;"> 98 <br> 21 </td>
    <td style="text-align:center;"> 22 <br> 4.14 </td>
-   <td style="text-align:center;"> -0.060 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 0.045 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0025393 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.0246857 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 14.0 </td>
   </tr>
 </tbody>
@@ -448,11 +448,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 133 <br> 21 </td>
    <td style="text-align:center;"> 9 <br> 0.6 </td>
-   <td style="text-align:center;"> -0.472 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.057 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0100855 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.0081549 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 66.000 </td>
   </tr>
   <tr>
@@ -471,11 +471,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 4 <br> 0.47 </td>
-   <td style="text-align:center;"> -1.030 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -0.205 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0620763 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.0209905 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 7.500 </td>
   </tr>
   <tr>
@@ -494,11 +494,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 39 </td>
    <td style="text-align:center;"> 7 <br> 2.8 </td>
-   <td style="text-align:center;"> -0.503 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.243 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0127214 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0131490 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 14.000 </td>
   </tr>
   <tr>
@@ -517,11 +517,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 224 </td>
    <td style="text-align:center;"> 3 <br> 0.36 </td>
-   <td style="text-align:center;"> -0.436 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.159 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0211719 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0142472 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 40.000 </td>
   </tr>
   <tr>
@@ -540,10 +540,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 135 <br> 21 </td>
    <td style="text-align:center;"> 4 <br> 0.25 </td>
-   <td style="text-align:center;"> -1.829 </td>
+   <td style="text-align:center;"> -0.489 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.2983943 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 68.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 68.5% </td>
+   <td style="text-align:center;"> 0.1261951 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 4.500 </td>
   </tr>
@@ -563,11 +563,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 53 </td>
    <td style="text-align:center;"> 14 <br> 2.27 </td>
-   <td style="text-align:center;"> -0.203 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.236 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0064505 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 0.0271215 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 66.000 </td>
   </tr>
   <tr>
@@ -586,10 +586,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 138 <br> 17 </td>
    <td style="text-align:center;"> 6 <br> 0.26 </td>
-   <td style="text-align:center;"> -0.829 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.241 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3856473 </td>
+   <td style="text-align:center;"> 0.3752244 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.750 </td>
   </tr>
@@ -609,11 +609,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 140 <br> 57 </td>
    <td style="text-align:center;"> 5 <br> 0.17 </td>
-   <td style="text-align:center;"> -1.591 </td>
+   <td style="text-align:center;"> -0.408 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0608604 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0493438 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
@@ -632,11 +632,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 10 <br> 0.72 </td>
-   <td style="text-align:center;"> -0.359 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0.174 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0016960 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 0.0052792 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 80.000 </td>
   </tr>
   <tr>
@@ -655,11 +655,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 132 <br> 64 </td>
    <td style="text-align:center;"> 5 <br> 0.32 </td>
-   <td style="text-align:center;"> -0.153 </td>
-   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> -0.131 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0125761 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 0.0087454 </td>
+   <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 40.000 </td>
   </tr>
   <tr>
@@ -678,11 +678,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 70 </td>
    <td style="text-align:center;"> 5 <br> 0.36 </td>
-   <td style="text-align:center;"> -0.092 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> -0.121 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0019292 </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 0.0028121 </td>
+   <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
@@ -701,11 +701,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 42 </td>
    <td style="text-align:center;"> 6 <br> 0.92 </td>
-   <td style="text-align:center;"> -0.720 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.334 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0076761 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 0.0016693 </td>
+   <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 80.000 </td>
   </tr>
   <tr>
@@ -724,11 +724,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 134 <br> 64 </td>
    <td style="text-align:center;"> 11 <br> 0.66 </td>
-   <td style="text-align:center;"> 0.358 </td>
-   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 0.006 </td>
+   <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0165134 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0019778 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 33.000 </td>
   </tr>
   <tr>
@@ -747,11 +747,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 67 </td>
    <td style="text-align:center;"> 5 <br> 0.73 </td>
-   <td style="text-align:center;"> -0.327 </td>
-   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> -0.214 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0075782 </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 0.0260658 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
@@ -770,11 +770,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 131 <br> 45 </td>
    <td style="text-align:center;"> 3 <br> 0.51 </td>
-   <td style="text-align:center;"> -1.285 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -0.134 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0189704 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0178136 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 14.000 </td>
   </tr>
   <tr>
@@ -793,10 +793,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 39 </td>
    <td style="text-align:center;"> 5 <br> 0.67 </td>
-   <td style="text-align:center;"> -0.150 </td>
-   <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0048597 </td>
+   <td style="text-align:center;"> -0.352 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 31.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 31.5% </td>
+   <td style="text-align:center;"> 0.0021990 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 80.000 </td>
   </tr>
@@ -816,11 +816,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 0 <br> 36 </td>
    <td style="text-align:center;"> 15 <br> 1.48 </td>
-   <td style="text-align:center;"> -0.646 </td>
+   <td style="text-align:center;"> -0.221 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0238096 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 0.0288444 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 25.000 </td>
   </tr>
 </tbody>
@@ -866,11 +866,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 142 <br> 57 </td>
    <td style="text-align:center;"> 12 <br> 0.22 </td>
-   <td style="text-align:center;"> -0.944 </td>
+   <td style="text-align:center;"> -0.345 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0446922 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0323421 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
@@ -889,10 +889,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 62 </td>
    <td style="text-align:center;"> 16.5 <br> 2.3 </td>
-   <td style="text-align:center;"> 0.071 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.115 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.5113110 </td>
+   <td style="text-align:center;"> 0.2719894 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.75 </td>
   </tr>
@@ -912,10 +912,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 26 </td>
    <td style="text-align:center;"> 6 <br> 0.66 </td>
-   <td style="text-align:center;"> -0.548 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> -0.194 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0112221 </td>
+   <td style="text-align:center;"> 0.0041335 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 66.00 </td>
   </tr>
@@ -935,11 +935,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 28 </td>
    <td style="text-align:center;"> 7 <br> 0.67 </td>
-   <td style="text-align:center;"> -0.302 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0417207 </td>
+   <td style="text-align:center;"> -0.166 </td>
    <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0463219 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 11.00 </td>
   </tr>
   <tr>
@@ -958,10 +958,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 123 <br> 62 </td>
    <td style="text-align:center;"> 7 <br> 0.89 </td>
-   <td style="text-align:center;"> 0.443 </td>
+   <td style="text-align:center;"> 0.787 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0131990 </td>
+   <td style="text-align:center;"> 0.0043760 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 50.00 </td>
   </tr>
@@ -981,10 +981,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 144 <br> 28 </td>
    <td style="text-align:center;"> 4 <br> 0.37 </td>
-   <td style="text-align:center;"> -1.741 </td>
+   <td style="text-align:center;"> -0.711 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1123223 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 94.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 94.5% </td>
+   <td style="text-align:center;"> 0.1417832 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -1004,10 +1004,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 56 </td>
    <td style="text-align:center;"> 11 <br> 0.28 </td>
-   <td style="text-align:center;"> 0.537 </td>
+   <td style="text-align:center;"> 0.907 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0630349 </td>
+   <td style="text-align:center;"> 0.0479130 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 11.00 </td>
   </tr>
@@ -1027,10 +1027,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 96 </td>
    <td style="text-align:center;"> 4 <br> 2.51 </td>
-   <td style="text-align:center;"> -0.575 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.512 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0284970 </td>
+   <td style="text-align:center;"> 0.0418444 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 20.00 </td>
   </tr>
@@ -1050,10 +1050,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 42 </td>
    <td style="text-align:center;"> 4 <br> 0.25 </td>
-   <td style="text-align:center;"> -1.098 </td>
+   <td style="text-align:center;"> -0.599 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0703156 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5.5% </td>
+   <td style="text-align:center;"> 0.1013328 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 3.00 </td>
   </tr>
@@ -1073,11 +1073,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 5 <br> 0.46 </td>
-   <td style="text-align:center;"> -1.022 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -0.343 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1543728 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.0445669 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.00 </td>
   </tr>
   <tr>
@@ -1096,11 +1096,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 130 <br> 38 </td>
    <td style="text-align:center;"> 5 <br> 0.42 </td>
-   <td style="text-align:center;"> -0.707 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.458 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0284936 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.1924045 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 12.00 </td>
   </tr>
 </tbody>
@@ -1146,11 +1146,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 124 <br> 22 </td>
    <td style="text-align:center;"> 6 <br> 0.47 </td>
-   <td style="text-align:center;"> -1.134 </td>
+   <td style="text-align:center;"> -0.407 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 63.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 63.5% </td>
-   <td style="text-align:center;"> 0.1110847 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.0278858 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 10.000 </td>
   </tr>
   <tr>
@@ -1169,11 +1169,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 123 <br> 56 </td>
    <td style="text-align:center;"> 18 <br> 1.46 </td>
-   <td style="text-align:center;"> -0.179 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> -0.077 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1387878 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.0187145 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.000 </td>
   </tr>
   <tr>
@@ -1192,11 +1192,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 132 <br> 56 </td>
    <td style="text-align:center;"> 18 <br> 0.39 </td>
-   <td style="text-align:center;"> -0.221 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.177 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0679410 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0490040 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 11.000 </td>
   </tr>
   <tr>
@@ -1215,11 +1215,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 6 <br> 0.64 </td>
-   <td style="text-align:center;"> -1.197 </td>
+   <td style="text-align:center;"> -0.574 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 31.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 31.5% </td>
-   <td style="text-align:center;"> 0.2692144 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 77.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 77.5% </td>
+   <td style="text-align:center;"> 0.2880683 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.000 </td>
   </tr>
   <tr>
@@ -1238,11 +1238,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 36 </td>
    <td style="text-align:center;"> 5 <br> 0.95 </td>
-   <td style="text-align:center;"> -1.139 </td>
+   <td style="text-align:center;"> -0.476 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
-   <td style="text-align:center;"> 0.1073395 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 22.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 22.5% </td>
+   <td style="text-align:center;"> 0.0340284 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 40.000 </td>
   </tr>
   <tr>
@@ -1261,11 +1261,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 35 </td>
    <td style="text-align:center;"> 3 <br> 1.07 </td>
-   <td style="text-align:center;"> -0.711 </td>
+   <td style="text-align:center;"> -0.087 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3412936 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.2649352 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.625 </td>
   </tr>
   <tr>
@@ -1284,11 +1284,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 64 </td>
    <td style="text-align:center;"> 14 <br> 1.06 </td>
-   <td style="text-align:center;"> -1.038 </td>
+   <td style="text-align:center;"> -0.370 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1375863 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.1152439 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
@@ -1307,10 +1307,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 105 <br> 45 </td>
    <td style="text-align:center;"> 8 <br> 0.96 </td>
-   <td style="text-align:center;"> -0.483 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> -0.008 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0018237 </td>
+   <td style="text-align:center;"> 0.0007705 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 100.000 </td>
   </tr>
@@ -1357,11 +1357,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 134 <br> 22 </td>
    <td style="text-align:center;"> 12 <br> 1.54 </td>
-   <td style="text-align:center;"> -0.786 </td>
+   <td style="text-align:center;"> -0.236 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2.5% </td>
-   <td style="text-align:center;"> 0.1645185 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.2460566 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.5 </td>
   </tr>
   <tr>
@@ -1380,11 +1380,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 129 <br> 18 </td>
    <td style="text-align:center;"> 19 <br> 1.06 </td>
-   <td style="text-align:center;"> -0.389 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.607 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0502324 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.1661053 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 11.0 </td>
   </tr>
   <tr>
@@ -1403,11 +1403,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 127 <br> 22 </td>
    <td style="text-align:center;"> 13 <br> 0.64 </td>
-   <td style="text-align:center;"> -0.119 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.351 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0111417 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0551584 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 8.5 </td>
   </tr>
   <tr>
@@ -1426,11 +1426,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 123 <br> 27 </td>
    <td style="text-align:center;"> 14 <br> 1.91 </td>
-   <td style="text-align:center;"> -0.576 </td>
+   <td style="text-align:center;"> -0.100 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2812602 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.1507868 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.0 </td>
   </tr>
   <tr>
@@ -1449,11 +1449,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 122 <br> 38 </td>
    <td style="text-align:center;"> 12 <br> 1.17 </td>
-   <td style="text-align:center;"> -0.350 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> -0.088 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0237362 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0136316 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
@@ -1472,11 +1472,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 121 <br> 27 </td>
    <td style="text-align:center;"> 11 <br> 1.53 </td>
-   <td style="text-align:center;"> -0.794 </td>
+   <td style="text-align:center;"> -0.303 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
-   <td style="text-align:center;"> 0.0662994 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 51.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 51.5% </td>
+   <td style="text-align:center;"> 0.0938098 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 10.0 </td>
   </tr>
   <tr>
@@ -1495,11 +1495,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 121 <br> 21 </td>
    <td style="text-align:center;"> 17 <br> 2.05 </td>
-   <td style="text-align:center;"> -0.489 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> -0.012 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1815270 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.1323176 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 3.5 </td>
   </tr>
   <tr>
@@ -1518,10 +1518,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 119 <br> 96 </td>
    <td style="text-align:center;"> 17 <br> 1.74 </td>
-   <td style="text-align:center;"> -0.193 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.620 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0350332 </td>
+   <td style="text-align:center;"> 0.0572037 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 16.0 </td>
   </tr>
@@ -1541,10 +1541,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 112 <br> 15 </td>
    <td style="text-align:center;"> 8 <br> 0.58 </td>
-   <td style="text-align:center;"> -0.996 </td>
+   <td style="text-align:center;"> -0.371 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 95.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 95.5% </td>
-   <td style="text-align:center;"> 0.0900713 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 48.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 48.5% </td>
+   <td style="text-align:center;"> 0.1505474 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 6.0 </td>
   </tr>
@@ -1591,10 +1591,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 152 <br> 29 </td>
    <td style="text-align:center;"> 4 <br> 0.3 </td>
-   <td style="text-align:center;"> -1.235 </td>
+   <td style="text-align:center;"> -0.402 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.4591233 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 34% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 34% </td>
+   <td style="text-align:center;"> 0.1700072 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.75 </td>
   </tr>
@@ -1614,11 +1614,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 135 <br> 21 </td>
    <td style="text-align:center;"> 17 <br> 0.51 </td>
-   <td style="text-align:center;"> -0.383 </td>
+   <td style="text-align:center;"> 0.010 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0021928 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.0013410 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 50.00 </td>
   </tr>
   <tr>
@@ -1637,10 +1637,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 144 <br> 17 </td>
    <td style="text-align:center;"> 13 <br> 0.76 </td>
-   <td style="text-align:center;"> 0.299 </td>
+   <td style="text-align:center;"> 0.387 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0220598 </td>
+   <td style="text-align:center;"> 0.0502803 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
@@ -1660,10 +1660,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 145 <br> 29 </td>
    <td style="text-align:center;"> 4 <br> 0.28 </td>
-   <td style="text-align:center;"> -1.302 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
-   <td style="text-align:center;"> 0.5754060 </td>
+   <td style="text-align:center;"> -0.595 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 61.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 61.5% </td>
+   <td style="text-align:center;"> 0.3113486 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.75 </td>
   </tr>
@@ -1683,11 +1683,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 4 <br> 0.49 </td>
-   <td style="text-align:center;"> -1.637 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 95% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 95% </td>
-   <td style="text-align:center;"> 0.1655897 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> -0.347 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 4.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 4.5% </td>
+   <td style="text-align:center;"> 0.0615527 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 8.00 </td>
   </tr>
   <tr>
@@ -1706,11 +1706,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 0 <br> 15 </td>
    <td style="text-align:center;"> 22 <br> 2.12 </td>
-   <td style="text-align:center;"> 0.006 </td>
+   <td style="text-align:center;"> 0.121 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0012010 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.0035128 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 28.00 </td>
   </tr>
   <tr>
@@ -1729,11 +1729,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 148 <br> 17 </td>
    <td style="text-align:center;"> 7 <br> 0.43 </td>
-   <td style="text-align:center;"> -0.825 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> -0.410 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0767420 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0800259 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 7.50 </td>
   </tr>
 </tbody>
@@ -1779,11 +1779,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0751702 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 0.0155215 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
   <tr>
@@ -1802,11 +1802,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 50 </td>
    <td style="text-align:center;"> 10 <br> 1.87 </td>
-   <td style="text-align:center;"> 0.219 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.832 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1676364 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0.0346465 </td>
+   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
@@ -1825,10 +1825,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0355928 </td>
+   <td style="text-align:center;"> 0.0084201 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
@@ -1848,10 +1848,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 79 </td>
    <td style="text-align:center;"> 12 <br> 0.73 </td>
-   <td style="text-align:center;"> 0.314 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0614719 </td>
+   <td style="text-align:center;"> 0.166 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> 0.0188574 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 33.00 </td>
   </tr>
@@ -1871,10 +1871,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0032445 </td>
+   <td style="text-align:center;"> 0.0038924 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 33.00 </td>
   </tr>
@@ -1894,10 +1894,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0032445 </td>
+   <td style="text-align:center;"> 0.0038924 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 33.00 </td>
   </tr>
@@ -1917,10 +1917,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 1.812 </td>
+   <td style="text-align:center;"> 1.208 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2091556 </td>
+   <td style="text-align:center;"> 0.2886071 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.75 </td>
   </tr>
@@ -1940,11 +1940,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0086988 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 0.0072328 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 40.00 </td>
   </tr>
   <tr>
@@ -1963,10 +1963,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0007881 </td>
+   <td style="text-align:center;"> 0.0004840 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 66.00 </td>
   </tr>
@@ -1986,10 +1986,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0032445 </td>
+   <td style="text-align:center;"> 0.0038924 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 33.00 </td>
   </tr>
@@ -2009,11 +2009,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 2.017 </td>
+   <td style="text-align:center;"> 1.348 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1592292 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 0.0314626 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 3.00 </td>
   </tr>
   <tr>
@@ -2032,11 +2032,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 0 <br> 35 </td>
    <td style="text-align:center;"> 3 <br> 0.26 </td>
-   <td style="text-align:center;"> -0.680 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.0449144 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.232 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1152539 </td>
+   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 8.00 </td>
   </tr>
   <tr>
@@ -2055,11 +2055,11 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 0 </td>
    <td style="text-align:center;"> 100 <br> 0 </td>
-   <td style="text-align:center;"> 1.620 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1.261 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0194438 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 0.0052571 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 20.00 </td>
   </tr>
   <tr>
@@ -2078,10 +2078,10 @@ Todays Racecard for Fairyhouse (IRE) including algorithm predictions and confide
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 27 <br> 1.5 </td>
-   <td style="text-align:center;"> 1.940 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 1.074 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0003014 </td>
+   <td style="text-align:center;"> 0.0001088 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 100.00 </td>
   </tr>
