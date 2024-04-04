@@ -1,9 +1,9 @@
 ---
-title: "Fakenham | Monday 01 April 2024"
-course: Fakenham
+title: "Naas (IRE) | Thursday 04 April 2024"
+course: Naas (IRE)
 image: course.png
 featured: false
-Date: 2024-04-01
+Date: 2024-04-04
 order: 0
 output:
   html_document:
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Fakenham including algorithm predictions and confidence %
+Todays Racecard for Naas (IRE) including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Fakenham") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Naas (IRE)") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
