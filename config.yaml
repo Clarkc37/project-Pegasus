@@ -33,7 +33,7 @@ menu:
       weight: 2
     - name: Todays Racecards
       parent: racecards
-      url: /racecards/
+      url: /racecards/today
       weight: 1
 markup:
   goldmark:
