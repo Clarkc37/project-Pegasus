@@ -1,4 +1,4 @@
 ---
-title: "Today's Racecards"
+title: "Yesterday's Racecards"
 type: racecards/today
 ---
