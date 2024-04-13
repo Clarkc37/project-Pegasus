@@ -1,9 +1,9 @@
 ---
-title: "Aintree | Saturday 13 April 2024"
+title: "Aintree | Friday 12 April 2024"
 course: Aintree
 image: course.png
 featured: true
-Date: 2024-04-13
+Date: 2024-04-12
 order: 0
 output:
   html_document:
