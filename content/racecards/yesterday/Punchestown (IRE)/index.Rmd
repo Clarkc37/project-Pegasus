@@ -1,9 +1,9 @@
 ---
-title: "Punchestown (IRE) | Wednesday 01 May 2024"
+title: "Punchestown (IRE) | Friday 03 May 2024"
 course: Punchestown (IRE)
 image: course.png
 featured: true
-Date: 2024-05-01
+Date: 2024-05-03
 order: 0
 output:
   html_document:
