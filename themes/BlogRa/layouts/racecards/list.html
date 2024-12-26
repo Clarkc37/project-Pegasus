@@ -3,23 +3,16 @@
 <main class="bg-offwhite">
     <div class="container-md">
         <div class="row">
-          {{ $today:= time.Now | time.Format "2006-01-02" }}
+            <h1>Course List</h1>
 
-            {{ $paginator := .Paginate ( .Pages.ByDate.Reverse ) 9 }}
-
-            <h1 class="section-title">
-                {{ .Title }} - (Page {{ $paginator.PageNumber }}/{{ $paginator.TotalPages }}) 
-            </h1>
-            
-            
-            {{ range $paginator.Pages }}
-            {{ partial "suggestion.html" . }}
-            
-            {{ end }}
-
-            <div class="text-center">
-                {{- template "_internal/pagination.html" . -}}
-            </div>
+            <ul>
+                {{ $data := .Site.Data."2024-11-29/racecard_data" | transform.Unmarshal }}
+                {{ range $data }}
+                <li>
+                  <strong>{{ .Course }}</strong><br>
+                </li>
+              {{ end }}
+            </ul>
         </div>
     </div>
 </main>

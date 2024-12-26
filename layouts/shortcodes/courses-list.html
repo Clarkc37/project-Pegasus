@@ -1,0 +1,8 @@
+<ul>
+    {{ $courses := index .Site.Data "2024-11-29" "racecard_data" }}
+    {{ range $courses }}
+      <li>
+        <strong>{{ .Course }}</strong>
+        
+      </li>
+    {{ end }}

@@ -1,0 +1,16 @@
+---
+title: "Warwick | Tuesday 05 November 2024"
+course: Warwick
+image: course.png
+featured: false
+Date: 2024-11-05
+order: 0
+output:
+  html_document:
+    keep_md: yes
+---
+
+
+Todays Racecard for Warwick including algorithm predictions and confidence %
+
+

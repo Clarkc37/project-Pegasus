@@ -6,3 +6,10 @@ title: DevRa
 ---
 
 <!-- You can add a short description if you want -->
+
+
+
+
+
+
+{{< courses-list >}}

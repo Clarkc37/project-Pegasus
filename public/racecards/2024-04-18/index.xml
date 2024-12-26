@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Today&#39;s Racecards on Global Guide Racing</title>
+    <link>https://globalguideracing.netlify.app/racecards/2024-04-18/</link>
+    <description>Recent content in Today&#39;s Racecards on Global Guide Racing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://globalguideracing.netlify.app/racecards/2024-04-18/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheltenham | Thursday 18 April 2024</title>
+      <link>https://globalguideracing.netlify.app/racecards/2024-04-18/cheltenham/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://globalguideracing.netlify.app/racecards/2024-04-18/cheltenham/</guid>
+      <description>Todays Racecard for Cheltenham including algorithm predictions and confidence %
+Ktda Fillies&#39; Juvenile Handicap Hurdle (Premier Handicap) (GBB Race) 13:30 Cheltenham 13:55 Race Type Hurdle Classifications (Class 1) (4YO only) Ground Good Distance 2m 179y Runners 11 Prize Money £22,780 No.</description>
+    </item>
+    
+    <item>
+      <title>Clonmel (IRE) | Thursday 18 April 2024</title>
+      <link>https://globalguideracing.netlify.app/racecards/2024-04-18/clonmel-ire/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://globalguideracing.netlify.app/racecards/2024-04-18/clonmel-ire/</guid>
+      <description>Todays Racecard for Clonmel (IRE) including algorithm predictions and confidence %
+Nire Valley Claiming Hurdle 16:00 Clonmel (IRE) 13:55 Race Type Hurdle Classifications (4YO plus) Ground Heavy Distance 2m 2f 152y Runners 10 Prize Money €6,000 No.</description>
+    </item>
+    
+  </channel>
+</rss>
