@@ -26,8 +26,8 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -44,14 +44,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Jinxs Link </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> M Rice &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> D P Maxwell  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M Rice <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D P Maxwell  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 102 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 9 &lt;br&gt; 2.52 </td>
+   <td style="text-align:center;"> 102 <br> 0 </td>
+   <td style="text-align:center;"> 9 <br> 2.52 </td>
    <td style="text-align:center;"> 0.019 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 9% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 9% </td>
    <td style="text-align:center;"> 0.0678135 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 6.50 </td>
@@ -63,14 +63,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Gladiatorial </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N C Kelly &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T P Harney  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N C Kelly <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T P Harney  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 101 &lt;br&gt; 40 </td>
-   <td style="text-align:center;"> 19 &lt;br&gt; 3.95 </td>
+   <td style="text-align:center;"> 101 <br> 40 </td>
+   <td style="text-align:center;"> 19 <br> 3.95 </td>
    <td style="text-align:center;"> 0.050 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 22% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 22% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 22% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 22% </td>
    <td style="text-align:center;"> 0.0180316 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 14.00 </td>
@@ -82,14 +82,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Darkened </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> N C Kelly &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P Hanlon  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N C Kelly <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P Hanlon  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 23 &lt;br&gt; 4.37 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
+   <td style="text-align:center;"> 23 <br> 4.37 </td>
    <td style="text-align:center;"> 0.693 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0968155 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.50 </td>
@@ -101,14 +101,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Kinbara Hills </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> L Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> L Quinlan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 99 &lt;br&gt; 193 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 2.82 </td>
+   <td style="text-align:center;"> 99 <br> 193 </td>
+   <td style="text-align:center;"> 18 <br> 2.82 </td>
    <td style="text-align:center;"> 0.521 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0425625 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 18.00 </td>
@@ -120,14 +120,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Nathaniel's Dream </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> A J Martin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C Owens  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A J Martin <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> C Owens  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 95 &lt;br&gt; 11 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 4.44 </td>
+   <td style="text-align:center;"> 95 <br> 11 </td>
+   <td style="text-align:center;"> 18 <br> 4.44 </td>
    <td style="text-align:center;"> 0.302 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0105040 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 16.00 </td>
@@ -139,14 +139,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Silent Dawn </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A Murray &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Eoin G Kelly  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Murray <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> Eoin G Kelly  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 95 &lt;br&gt; 125 </td>
-   <td style="text-align:center;"> 23 &lt;br&gt; 7 </td>
+   <td style="text-align:center;"> 95 <br> 125 </td>
+   <td style="text-align:center;"> 23 <br> 7 </td>
    <td style="text-align:center;"> 0.874 </td>
    <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0601608 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -158,14 +158,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> L'un Deux Trois </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> O McKiernan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J I Duggan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O McKiernan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> J I Duggan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 94 &lt;br&gt; 41 </td>
-   <td style="text-align:center;"> 28 &lt;br&gt; 6.29 </td>
+   <td style="text-align:center;"> 94 <br> 41 </td>
+   <td style="text-align:center;"> 28 <br> 6.29 </td>
    <td style="text-align:center;"> 0.629 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1107008 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 18.00 </td>
@@ -177,14 +177,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> St Denis's Well </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ian Patrick Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J Smith  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 40 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ian Patrick Donoghue <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> J Smith  <br> <div class = "badge rounded-pill hot "> 40 % <div> </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 94 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 1.62 </td>
+   <td style="text-align:center;"> 94 <br> 26 </td>
+   <td style="text-align:center;"> 14 <br> 1.62 </td>
    <td style="text-align:center;"> -0.153 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 1.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1.5% </td>
    <td style="text-align:center;"> 0.1590831 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 3.50 </td>
@@ -196,14 +196,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Albatala </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> J C McConnell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 2 % &lt;div&gt; </td>
-   <td style="text-align:left;"> A Harvey  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J C McConnell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
+   <td style="text-align:left;"> A Harvey  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 21 &lt;br&gt; 4.97 </td>
+   <td style="text-align:center;"> 93 <br> 12 </td>
+   <td style="text-align:center;"> 21 <br> 4.97 </td>
    <td style="text-align:center;"> 0.239 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
    <td style="text-align:center;"> 0.0450445 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 9.00 </td>
@@ -215,14 +215,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Fort Randall </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N C Kelly &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> L A McKenna  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N C Kelly <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> L A McKenna  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 130 </td>
-   <td style="text-align:center;"> 12 &lt;br&gt; 4.02 </td>
+   <td style="text-align:center;"> 93 <br> 130 </td>
+   <td style="text-align:center;"> 12 <br> 4.02 </td>
    <td style="text-align:center;"> 0.023 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 46.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 46.5% </td>
    <td style="text-align:center;"> 0.0898787 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.50 </td>
@@ -234,14 +234,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Pralognan </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A J Martin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> M J Molloy  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A J Martin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> M J Molloy  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 1.39 </td>
+   <td style="text-align:center;"> 93 <br> 0 </td>
+   <td style="text-align:center;"> 30 <br> 1.39 </td>
    <td style="text-align:center;"> 0.712 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0306484 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 6.50 </td>
@@ -253,14 +253,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Backfromtheraces </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T Power Roche  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 90 &lt;br&gt; 10 </td>
-   <td style="text-align:center;"> 13 &lt;br&gt; 3.93 </td>
+   <td style="text-align:center;"> 90 <br> 10 </td>
+   <td style="text-align:center;"> 13 <br> 3.93 </td>
    <td style="text-align:center;"> 0.181 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 20.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 20.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 20.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 20.5% </td>
    <td style="text-align:center;"> 0.1880043 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.75 </td>
@@ -272,14 +272,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Cowper Hall </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Liam Lennon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C Stone-Walsh &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Liam Lennon <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C Stone-Walsh <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 88 &lt;br&gt; 138 </td>
-   <td style="text-align:center;"> 29 &lt;br&gt; 6.29 </td>
+   <td style="text-align:center;"> 88 <br> 138 </td>
+   <td style="text-align:center;"> 29 <br> 6.29 </td>
    <td style="text-align:center;"> 1.124 </td>
    <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0216137 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 22.00 </td>
@@ -291,14 +291,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Gilded Moon </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> A Fleming &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C D Smithers  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Fleming <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C D Smithers  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 88 &lt;br&gt; 72 </td>
-   <td style="text-align:center;"> 25 &lt;br&gt; 4.3 </td>
+   <td style="text-align:center;"> 88 <br> 72 </td>
+   <td style="text-align:center;"> 25 <br> 4.3 </td>
    <td style="text-align:center;"> 0.402 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0130239 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 28.00 </td>
@@ -310,14 +310,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Adare Beauty </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Thomas Dowling &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C P Millar  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Thomas Dowling <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 87 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 4.56 </td>
+   <td style="text-align:center;"> 87 <br> 0 </td>
+   <td style="text-align:center;"> 17 <br> 4.56 </td>
    <td style="text-align:center;"> 0.874 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0584201 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -329,14 +329,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Maxios Prime </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> H E Sexton  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H E Sexton  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-4 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 18 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 5.98 </td>
+   <td style="text-align:center;"> 93 <br> 18 </td>
+   <td style="text-align:center;"> 30 <br> 5.98 </td>
    <td style="text-align:center;"> 1.002 </td>
    <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0086087 </td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 16.00 </td>
@@ -357,8 +357,8 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -375,14 +375,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Beau Walking </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Mrs J Harrington &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C D Smithers  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs J Harrington <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C D Smithers  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 2.25 </td>
+   <td style="text-align:center;"> 0 <br> 13 </td>
+   <td style="text-align:center;"> 17 <br> 2.25 </td>
    <td style="text-align:center;"> -0.164 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1325198 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.500 </td>
@@ -394,14 +394,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> El Champo </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T Power Roche  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 118 &lt;br&gt; 13 </td>
-   <td style="text-align:center;"> 8 &lt;br&gt; 0.62 </td>
+   <td style="text-align:center;"> 118 <br> 13 </td>
+   <td style="text-align:center;"> 8 <br> 0.62 </td>
    <td style="text-align:center;"> -0.508 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 50% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 50% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 50% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 50% </td>
    <td style="text-align:center;"> 0.7400903 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.250 </td>
@@ -413,14 +413,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Global Export </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C Stone-Walsh  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> C Stone-Walsh  <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 23 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 3.1 </td>
+   <td style="text-align:center;"> 0 <br> 23 </td>
+   <td style="text-align:center;"> 18 <br> 3.1 </td>
    <td style="text-align:center;"> -0.685 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 40.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 40.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 40.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 40.5% </td>
    <td style="text-align:center;"> 0.0316802 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 12.000 </td>
@@ -432,14 +432,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Lightkeeper </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C P Millar  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 3.02 </td>
+   <td style="text-align:center;"> 0 <br> 13 </td>
+   <td style="text-align:center;"> 18 <br> 3.02 </td>
    <td style="text-align:center;"> -0.190 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0971841 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.500 </td>
@@ -451,14 +451,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Make The Plan </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> O McKiernan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P T Enright &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O McKiernan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> P T Enright <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 10 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 5.89 </td>
+   <td style="text-align:center;"> 0 <br> 10 </td>
+   <td style="text-align:center;"> 30 <br> 5.89 </td>
    <td style="text-align:center;"> 1.193 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0256405 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 22.000 </td>
@@ -470,14 +470,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> On Lovers Walk </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> R O'Sullivan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T P Harney  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T P Harney  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 1.73 </td>
+   <td style="text-align:center;"> 0 <br> 13 </td>
+   <td style="text-align:center;"> 14 <br> 1.73 </td>
    <td style="text-align:center;"> 1.156 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0637508 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 25.000 </td>
@@ -489,14 +489,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Prince Palace </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P A Fahy &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> H E Sexton  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P A Fahy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H E Sexton  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 114 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 2.17 </td>
+   <td style="text-align:center;"> 114 <br> 26 </td>
+   <td style="text-align:center;"> 15 <br> 2.17 </td>
    <td style="text-align:center;"> 0.180 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0379482 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 7.500 </td>
@@ -508,14 +508,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Step Out </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> L Quinlan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> L Quinlan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 117 &lt;br&gt; 43 </td>
-   <td style="text-align:center;"> 9 &lt;br&gt; 1.81 </td>
+   <td style="text-align:center;"> 117 <br> 43 </td>
+   <td style="text-align:center;"> 9 <br> 1.81 </td>
    <td style="text-align:center;"> -0.504 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 9.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 9.5% </td>
    <td style="text-align:center;"> 0.1890726 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 6.500 </td>
@@ -527,14 +527,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Banprionsa </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 2.58 </td>
+   <td style="text-align:center;"> 0 <br> 26 </td>
+   <td style="text-align:center;"> 30 <br> 2.58 </td>
    <td style="text-align:center;"> 0.078 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1363721 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.333 </td>
@@ -555,8 +555,8 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -573,14 +573,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> One Night Standard </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C Stone-Walsh  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> C Stone-Walsh  <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 102 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 19 &lt;br&gt; 2.71 </td>
+   <td style="text-align:center;"> 102 <br> 12 </td>
+   <td style="text-align:center;"> 19 <br> 2.71 </td>
    <td style="text-align:center;"> -0.115 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 10% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 10% </td>
    <td style="text-align:center;"> 0.0378592 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.0 </td>
@@ -592,14 +592,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Tankardstown Diva </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Ian Patrick Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J Smith  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 40 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ian Patrick Donoghue <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> J Smith  <br> <div class = "badge rounded-pill hot "> 40 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 102 &lt;br&gt; 34 </td>
-   <td style="text-align:center;"> 22 &lt;br&gt; 5.75 </td>
+   <td style="text-align:center;"> 102 <br> 34 </td>
+   <td style="text-align:center;"> 22 <br> 5.75 </td>
    <td style="text-align:center;"> 0.269 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0256716 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 9.0 </td>
@@ -611,14 +611,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Room To Roam </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> J C McConnell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 2 % &lt;div&gt; </td>
-   <td style="text-align:left;"> A Harvey  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J C McConnell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
+   <td style="text-align:left;"> A Harvey  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 101 &lt;br&gt; 11 </td>
-   <td style="text-align:center;"> 12 &lt;br&gt; 1.66 </td>
+   <td style="text-align:center;"> 101 <br> 11 </td>
+   <td style="text-align:center;"> 12 <br> 1.66 </td>
    <td style="text-align:center;"> 0.182 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0071336 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -630,14 +630,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Finnians Row </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D A McLoughlin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P M O'Brien  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A McLoughlin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P M O'Brien  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 99 &lt;br&gt; 63 </td>
-   <td style="text-align:center;"> 9 &lt;br&gt; 1.73 </td>
+   <td style="text-align:center;"> 99 <br> 63 </td>
+   <td style="text-align:center;"> 9 <br> 1.73 </td>
    <td style="text-align:center;"> -0.153 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 15% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 15% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 15% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 15% </td>
    <td style="text-align:center;"> 0.0772242 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 7.5 </td>
@@ -649,14 +649,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> O'faolains Glory </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Ian Patrick Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C P Millar  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ian Patrick Donoghue <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 97 &lt;br&gt; 10 </td>
-   <td style="text-align:center;"> 23 &lt;br&gt; 5.13 </td>
+   <td style="text-align:center;"> 97 <br> 10 </td>
+   <td style="text-align:center;"> 23 <br> 5.13 </td>
    <td style="text-align:center;"> 0.063 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0210014 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 6.0 </td>
@@ -668,14 +668,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Le Malin </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> S McParlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr N McParlan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S McParlan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr N McParlan <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 95 &lt;br&gt; 16 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 3.31 </td>
+   <td style="text-align:center;"> 95 <br> 16 </td>
+   <td style="text-align:center;"> 15 <br> 3.31 </td>
    <td style="text-align:center;"> -0.548 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 65% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 65% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 65% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 65% </td>
    <td style="text-align:center;"> 0.1167686 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -687,14 +687,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Perfect Pupil </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> S McConville &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S McConville <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 95 &lt;br&gt; 16 </td>
-   <td style="text-align:center;"> 24 &lt;br&gt; 5.67 </td>
+   <td style="text-align:center;"> 95 <br> 16 </td>
+   <td style="text-align:center;"> 24 <br> 5.67 </td>
    <td style="text-align:center;"> 0.237 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0264521 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 8.5 </td>
@@ -706,14 +706,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> On The Tide </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> S Neville &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P K Donovan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Neville <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P K Donovan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 91 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 23 &lt;br&gt; 2.56 </td>
+   <td style="text-align:center;"> 91 <br> 25 </td>
+   <td style="text-align:center;"> 23 <br> 2.56 </td>
    <td style="text-align:center;"> 0.744 </td>
    <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0109864 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -725,14 +725,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Maimie's Magic </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> L Quinlan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> L Quinlan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 90 &lt;br&gt; 45 </td>
-   <td style="text-align:center;"> 20 &lt;br&gt; 3.86 </td>
+   <td style="text-align:center;"> 90 <br> 45 </td>
+   <td style="text-align:center;"> 20 <br> 3.86 </td>
    <td style="text-align:center;"> -0.016 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0095147 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 10.0 </td>
@@ -744,14 +744,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Ivar The Boneless </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> R K Watson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> D Robinson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R K Watson <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Robinson <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 87 &lt;br&gt; 54 </td>
-   <td style="text-align:center;"> 21 &lt;br&gt; 3.26 </td>
+   <td style="text-align:center;"> 87 <br> 54 </td>
+   <td style="text-align:center;"> 21 <br> 3.26 </td>
    <td style="text-align:center;"> 0.429 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0059198 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 28.0 </td>
@@ -763,14 +763,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Rose Of Kalanisi </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Paul Stafford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P J O'Hanlon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Paul Stafford <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J O'Hanlon <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 87 &lt;br&gt; 18 </td>
-   <td style="text-align:center;"> 24 &lt;br&gt; 5.6 </td>
+   <td style="text-align:center;"> 87 <br> 18 </td>
+   <td style="text-align:center;"> 24 <br> 5.6 </td>
    <td style="text-align:center;"> 0.119 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0061195 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -782,14 +782,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Cullenwaine </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P Hanlon  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> P Hanlon  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 82 &lt;br&gt; 5 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 2.3 </td>
+   <td style="text-align:center;"> 82 <br> 5 </td>
+   <td style="text-align:center;"> 14 <br> 2.3 </td>
    <td style="text-align:center;"> -0.308 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 10% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 10% </td>
    <td style="text-align:center;"> 0.8165331 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.5 </td>
@@ -801,14 +801,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> School Lane </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> Liam Lennon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Caragh Monaghan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Liam Lennon <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Caragh Monaghan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 81 &lt;br&gt; 297 </td>
-   <td style="text-align:center;"> 28 &lt;br&gt; 5.19 </td>
+   <td style="text-align:center;"> 81 <br> 297 </td>
+   <td style="text-align:center;"> 28 <br> 5.19 </td>
    <td style="text-align:center;"> 0.359 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0127522 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -820,14 +820,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Without Exception </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T Power Roche  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
    <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 81 &lt;br&gt; 30 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 6.69 </td>
+   <td style="text-align:center;"> 81 <br> 30 </td>
+   <td style="text-align:center;"> 15 <br> 6.69 </td>
    <td style="text-align:center;"> 0.753 </td>
    <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0190014 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 11.0 </td>
@@ -839,14 +839,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Mastermind </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> A Fleming &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> P T Enright &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Fleming <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P T Enright <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
    <td style="text-align:center;"> 10-4 </td>
-   <td style="text-align:center;"> 78 &lt;br&gt; 41 </td>
-   <td style="text-align:center;"> 19 &lt;br&gt; 2.75 </td>
+   <td style="text-align:center;"> 78 <br> 41 </td>
+   <td style="text-align:center;"> 19 <br> 2.75 </td>
    <td style="text-align:center;"> 0.018 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0028980 </td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -858,14 +858,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Tom Kelly </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> K Smith &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Reserve 1 &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K Smith <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Reserve 1 <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 29 &lt;br&gt; 8 </td>
+   <td style="text-align:center;"> 93 <br> 12 </td>
+   <td style="text-align:center;"> 29 <br> 8 </td>
    <td style="text-align:center;"> 1.234 </td>
    <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0312049 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -886,8 +886,8 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -904,14 +904,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Ask D'man </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> D M Christie &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr B Finn  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D M Christie <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr B Finn  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 7 &lt;br&gt; 0.38 </td>
+   <td style="text-align:center;"> 0 <br> 25 </td>
+   <td style="text-align:center;"> 7 <br> 0.38 </td>
    <td style="text-align:center;"> -0.057 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0100992 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 16.0 </td>
@@ -923,14 +923,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Big Interest </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D M Christie &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr B O'Neill &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D M Christie <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr B O'Neill <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 291 </td>
-   <td style="text-align:center;"> 7.5 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 291 </td>
+   <td style="text-align:center;"> 7.5 <br> 0 </td>
    <td style="text-align:center;"> 0.758 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0232152 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -942,14 +942,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Bold Fury </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr T C Kileff  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Mr T C Kileff  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 234 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 0.58 </td>
+   <td style="text-align:center;"> 0 <br> 234 </td>
+   <td style="text-align:center;"> 15 <br> 0.58 </td>
    <td style="text-align:center;"> 0.204 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0490153 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -961,14 +961,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Dorking Cock </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr S Connor  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Mr S Connor  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 123 &lt;br&gt; 234 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 1.44 </td>
+   <td style="text-align:center;"> 123 <br> 234 </td>
+   <td style="text-align:center;"> 17 <br> 1.44 </td>
    <td style="text-align:center;"> -0.197 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0403922 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -980,14 +980,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Go Another One </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:left;"> J C McConnell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 2 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr B T Stone  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J C McConnell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
+   <td style="text-align:left;"> Mr B T Stone  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 134 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 27 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 134 <br> 25 </td>
+   <td style="text-align:center;"> 27 <br> 0 </td>
    <td style="text-align:center;"> 0.018 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0253128 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -999,14 +999,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Hudson Duster </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Liam Lennon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr E P Powell  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Liam Lennon <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr E P Powell  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 18 </td>
-   <td style="text-align:center;"> 11 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 18 </td>
+   <td style="text-align:center;"> 11 <br> 0 </td>
    <td style="text-align:center;"> 0.144 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0007131 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 100.0 </td>
@@ -1018,14 +1018,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Its On The Line </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Miss M O'Sullivan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> E Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss M O'Sullivan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 137 &lt;br&gt; 237 </td>
-   <td style="text-align:center;"> 4 &lt;br&gt; 0.19 </td>
+   <td style="text-align:center;"> 137 <br> 237 </td>
+   <td style="text-align:center;"> 4 <br> 0.19 </td>
    <td style="text-align:center;"> -0.783 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
    <td style="text-align:center;"> 0.7325741 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.1 </td>
@@ -1037,14 +1037,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> My Prisoner </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Miss Curran &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr J P Collins  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Miss Curran <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr J P Collins  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 39 </td>
-   <td style="text-align:center;"> 24 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 39 </td>
+   <td style="text-align:center;"> 24 <br> 0 </td>
    <td style="text-align:center;"> 1.239 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0006260 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 100.0 </td>
@@ -1056,14 +1056,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Priory Park </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> E J O'Grady &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr E Staples  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 33 % &lt;div&gt; </td>
+   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr E Staples  <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 107 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 3 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 107 <br> 25 </td>
+   <td style="text-align:center;"> 3 <br> 0 </td>
    <td style="text-align:center;"> -0.575 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1126620 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 5.0 </td>
@@ -1075,14 +1075,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Ramillies </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> D M Christie &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr D McGill  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D M Christie <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr D McGill  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 140 &lt;br&gt; 39 </td>
-   <td style="text-align:center;"> 6 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 140 <br> 39 </td>
+   <td style="text-align:center;"> 6 <br> 0 </td>
    <td style="text-align:center;"> -0.309 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1287256 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 11.0 </td>
@@ -1094,14 +1094,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Vina Ardanza </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C A McBratney &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr D G Lavery &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C A McBratney <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr D G Lavery <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 137 &lt;br&gt; 40 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 1.21 </td>
+   <td style="text-align:center;"> 137 <br> 40 </td>
+   <td style="text-align:center;"> 17 <br> 1.21 </td>
    <td style="text-align:center;"> -0.001 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0134591 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -1113,14 +1113,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Welsh Saint </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> C A McBratney &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr O McGill  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C A McBratney <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr O McGill  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 98 &lt;br&gt; 32 </td>
-   <td style="text-align:center;"> 24 &lt;br&gt; 3.9 </td>
+   <td style="text-align:center;"> 98 <br> 32 </td>
+   <td style="text-align:center;"> 24 <br> 3.9 </td>
    <td style="text-align:center;"> 0.546 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0605528 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 28.0 </td>
@@ -1132,14 +1132,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Angels Dawn </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> S Curling &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr P A King  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Curling <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr P A King  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 143 &lt;br&gt; 33 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 0.66 </td>
+   <td style="text-align:center;"> 143 <br> 33 </td>
+   <td style="text-align:center;"> 14 <br> 0.66 </td>
    <td style="text-align:center;"> -0.295 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.2460238 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 2.5 </td>
@@ -1160,8 +1160,8 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -1178,14 +1178,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Balovale </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> E J O'Grady &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr E Staples  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 33 % &lt;div&gt; </td>
+   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr E Staples  <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 254 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 8.38 </td>
+   <td style="text-align:center;"> 0 <br> 254 </td>
+   <td style="text-align:center;"> 30 <br> 8.38 </td>
    <td style="text-align:center;"> 1.045 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0007298 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 100.00 </td>
@@ -1197,14 +1197,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Bective Thunder </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> F Brickley  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> F Brickley  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 3.83 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 3.83 </td>
    <td style="text-align:center;"> 1.717 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1004394 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 6.00 </td>
@@ -1216,14 +1216,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Bold Passion </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Peter Fahey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr O McGill  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Peter Fahey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr O McGill  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 27 </td>
-   <td style="text-align:center;"> 16 &lt;br&gt; 1.13 </td>
+   <td style="text-align:center;"> 0 <br> 27 </td>
+   <td style="text-align:center;"> 16 <br> 1.13 </td>
    <td style="text-align:center;"> 0.097 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0503870 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.50 </td>
@@ -1235,14 +1235,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Comanche Magic </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> P A Fahy &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> H E Sexton  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P A Fahy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H E Sexton  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 0 </td>
    <td style="text-align:center;"> 1.717 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0196350 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -1254,14 +1254,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Full Contact </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Peter J Flood &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Miss G Benson  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Peter J Flood <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss G Benson  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 10 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 1.53 </td>
+   <td style="text-align:center;"> 0 <br> 10 </td>
+   <td style="text-align:center;"> 30 <br> 1.53 </td>
    <td style="text-align:center;"> 1.553 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0012179 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 100.00 </td>
@@ -1273,14 +1273,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Kilwaughter </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr S Connor  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Mr S Connor  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 5.72 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 5.72 </td>
    <td style="text-align:center;"> 1.717 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0468637 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 9.00 </td>
@@ -1292,14 +1292,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Largy Spirit </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr N McParlan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr N McParlan <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 243 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 243 </td>
+   <td style="text-align:center;"> 15 <br> 0 </td>
    <td style="text-align:center;"> 0.542 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0232811 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 40.00 </td>
@@ -1311,14 +1311,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Mount Mason </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> O McKiernan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr J C Barry &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O McKiernan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> Mr J C Barry <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 263 </td>
-   <td style="text-align:center;"> 6 &lt;br&gt; 0.95 </td>
+   <td style="text-align:center;"> 0 <br> 263 </td>
+   <td style="text-align:center;"> 6 <br> 0.95 </td>
    <td style="text-align:center;"> 0.552 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0422132 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 14.00 </td>
@@ -1330,14 +1330,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Peekachoo </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A Murray &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Eoin G Kelly  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Murray <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> Eoin G Kelly  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 18 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 18 </td>
+   <td style="text-align:center;"> 30 <br> 0 </td>
    <td style="text-align:center;"> 1.716 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0190850 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 40.00 </td>
@@ -1349,14 +1349,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Polepatrick </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> D A McLoughlin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr D McGill  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A McLoughlin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr D McGill  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 234 </td>
-   <td style="text-align:center;"> 6 &lt;br&gt; 0.38 </td>
+   <td style="text-align:center;"> 0 <br> 234 </td>
+   <td style="text-align:center;"> 6 <br> 0.38 </td>
    <td style="text-align:center;"> 0.092 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1529473 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 4.00 </td>
@@ -1368,14 +1368,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Strong Link </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> R O'Sullivan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> T P Harney  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T P Harney  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 40 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 0.26 </td>
+   <td style="text-align:center;"> 0 <br> 40 </td>
+   <td style="text-align:center;"> 17 <br> 0.26 </td>
    <td style="text-align:center;"> -0.336 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
    <td style="text-align:center;"> 0.1228030 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 6.00 </td>
@@ -1387,14 +1387,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Takenasred </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> C D Smithers  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C D Smithers  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 383 </td>
-   <td style="text-align:center;"> 21 &lt;br&gt; 2.58 </td>
+   <td style="text-align:center;"> 0 <br> 383 </td>
+   <td style="text-align:center;"> 21 <br> 2.58 </td>
    <td style="text-align:center;"> 0.996 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0009512 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 100.00 </td>
@@ -1406,14 +1406,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Theflyingking </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr B O'Neill &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr B O'Neill <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 243 </td>
-   <td style="text-align:center;"> 3 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 0 <br> 243 </td>
+   <td style="text-align:center;"> 3 <br> 0 </td>
    <td style="text-align:center;"> 0.180 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.3652329 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.25 </td>
@@ -1425,14 +1425,14 @@ Todays Racecard for Down Royal (NI) including algorithm predictions and confiden
 </td>
    <td style="text-align:left;"> Boldplay </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr D G Lavery &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mr D G Lavery <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 1.74 </td>
+   <td style="text-align:center;"> 0 <br> 0 </td>
+   <td style="text-align:center;"> 100 <br> 1.74 </td>
    <td style="text-align:center;"> 1.933 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0135746 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 12.00 </td>

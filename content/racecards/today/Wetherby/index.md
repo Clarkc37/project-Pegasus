@@ -26,8 +26,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -44,14 +44,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Samazul </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> B Pauling &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Callum Pritchard  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B Pauling <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 21 </td>
-   <td style="text-align:center;"> 11 &lt;br&gt; 2.98 </td>
+   <td style="text-align:center;"> 100 <br> 21 </td>
+   <td style="text-align:center;"> 11 <br> 2.98 </td>
    <td style="text-align:center;"> 1.002 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0765551 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 8.000 </td>
@@ -63,14 +63,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hawkseye View </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Mrs S J Smith &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Nick Scholfield &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs S J Smith <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Nick Scholfield <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 94 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 3.31 </td>
+   <td style="text-align:center;"> 94 <br> 26 </td>
+   <td style="text-align:center;"> 15 <br> 3.31 </td>
    <td style="text-align:center;"> 0.014 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 21% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 21% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 21% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 21% </td>
    <td style="text-align:center;"> 0.2801866 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.500 </td>
@@ -82,14 +82,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Celestial Fashion </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> I A Duncan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
+   <td style="text-align:left;"> I A Duncan <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 90 &lt;br&gt; 15 </td>
-   <td style="text-align:center;"> 10 &lt;br&gt; 2.3 </td>
+   <td style="text-align:center;"> 90 <br> 15 </td>
+   <td style="text-align:center;"> 10 <br> 2.3 </td>
    <td style="text-align:center;"> -0.062 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 40% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 40% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 40% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 40% </td>
    <td style="text-align:center;"> 0.0747784 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 4.500 </td>
@@ -101,14 +101,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Empty Nest </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> M Walford &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Hamilton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M Walford <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> Jamie Hamilton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 83 &lt;br&gt; 30 </td>
-   <td style="text-align:center;"> 20 &lt;br&gt; 5.31 </td>
+   <td style="text-align:center;"> 83 <br> 30 </td>
+   <td style="text-align:center;"> 20 <br> 5.31 </td>
    <td style="text-align:center;"> 0.487 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0380146 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 9.000 </td>
@@ -120,14 +120,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Fiadh </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> C Grant &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 25 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Charlie Maggs  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C Grant <br> <div class = "badge rounded-pill hot "> 25 % <div> </td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 83 &lt;br&gt; 19 </td>
-   <td style="text-align:center;"> 11 &lt;br&gt; 3.13 </td>
+   <td style="text-align:center;"> 83 <br> 19 </td>
+   <td style="text-align:center;"> 11 <br> 3.13 </td>
    <td style="text-align:center;"> -0.209 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 39% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 39% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 39% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 39% </td>
    <td style="text-align:center;"> 0.2730846 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 3.333 </td>
@@ -139,14 +139,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Elusive Shine </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> S England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jonathan England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S England <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Jonathan England <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 91 &lt;br&gt; 29 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 3.96 </td>
+   <td style="text-align:center;"> 91 <br> 29 </td>
+   <td style="text-align:center;"> 17 <br> 3.96 </td>
    <td style="text-align:center;"> 0.383 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1304671 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 7.000 </td>
@@ -158,14 +158,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bravethewaves </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> O Greenall &amp; J Guerriero &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J M Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O Greenall &amp; J Guerriero <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> J M Quinlan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 78 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 27 &lt;br&gt; 6.89 </td>
+   <td style="text-align:center;"> 78 <br> 12 </td>
+   <td style="text-align:center;"> 27 <br> 6.89 </td>
    <td style="text-align:center;"> 0.639 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0672817 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 10.000 </td>
@@ -186,8 +186,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -204,14 +204,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jazz King </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> A Ralph &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Murray Dodd  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Ralph <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Murray Dodd  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 110 &lt;br&gt; 44 </td>
-   <td style="text-align:center;"> 8 &lt;br&gt; 1.56 </td>
+   <td style="text-align:center;"> 110 <br> 44 </td>
+   <td style="text-align:center;"> 8 <br> 1.56 </td>
    <td style="text-align:center;"> -0.469 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1571156 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 5.5 </td>
@@ -223,14 +223,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Chasingouttheblues </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> M Walford &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Hamilton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M Walford <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> Jamie Hamilton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 109 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 13 &lt;br&gt; 3.59 </td>
+   <td style="text-align:center;"> 109 <br> 25 </td>
+   <td style="text-align:center;"> 13 <br> 3.59 </td>
    <td style="text-align:center;"> 0.285 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0225870 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 16.0 </td>
@@ -242,14 +242,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Marlacoo </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> T Lacey &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Stan Sheppard &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 29 % &lt;div&gt; </td>
+   <td style="text-align:left;"> T Lacey <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Stan Sheppard <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 108 &lt;br&gt; 54 </td>
-   <td style="text-align:center;"> 6 &lt;br&gt; 1.28 </td>
+   <td style="text-align:center;"> 108 <br> 54 </td>
+   <td style="text-align:center;"> 6 <br> 1.28 </td>
    <td style="text-align:center;"> -0.392 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
    <td style="text-align:center;"> 0.3106437 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.5 </td>
@@ -261,14 +261,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Diamond Dealer </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> B Brookhouse &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J M Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B Brookhouse <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> J M Quinlan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 108 &lt;br&gt; 55 </td>
-   <td style="text-align:center;"> 11 &lt;br&gt; 3.4 </td>
+   <td style="text-align:center;"> 108 <br> 55 </td>
+   <td style="text-align:center;"> 11 <br> 3.4 </td>
    <td style="text-align:center;"> 0.151 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0404240 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 6.5 </td>
@@ -280,14 +280,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Horsesomeharry </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> O Greenall &amp; J Guerriero &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Charlie Maggs  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O Greenall &amp; J Guerriero <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 104 &lt;br&gt; 25 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 4.48 </td>
+   <td style="text-align:center;"> 104 <br> 25 </td>
+   <td style="text-align:center;"> 14 <br> 4.48 </td>
    <td style="text-align:center;"> -0.185 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0653393 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 9.0 </td>
@@ -299,14 +299,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bridge Court </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A M Thomson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A M Thomson <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
    <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 104 &lt;br&gt; 37 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 6.07 </td>
+   <td style="text-align:center;"> 104 <br> 37 </td>
+   <td style="text-align:center;"> 17 <br> 6.07 </td>
    <td style="text-align:center;"> 0.260 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1618192 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 5.5 </td>
@@ -318,14 +318,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Glen Road </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Mrs S J Smith &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Peter Kavanagh  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs S J Smith <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Peter Kavanagh  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 19 </td>
-   <td style="text-align:center;"> 19 &lt;br&gt; 4.7 </td>
+   <td style="text-align:center;"> 100 <br> 19 </td>
+   <td style="text-align:center;"> 19 <br> 4.7 </td>
    <td style="text-align:center;"> 0.404 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0428359 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 9.0 </td>
@@ -337,14 +337,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Joie More </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Mrs J Stephen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Nick Scholfield &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs J Stephen <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Nick Scholfield <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 97 &lt;br&gt; 18 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 4.11 </td>
+   <td style="text-align:center;"> 97 <br> 18 </td>
+   <td style="text-align:center;"> 18 <br> 4.11 </td>
    <td style="text-align:center;"> -0.010 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0060758 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -356,14 +356,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Looking Splendid </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Gary Rutherford &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Bruce Lynn &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Gary Rutherford <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> Bruce Lynn <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 96 &lt;br&gt; 27 </td>
-   <td style="text-align:center;"> 16 &lt;br&gt; 4.6 </td>
+   <td style="text-align:center;"> 96 <br> 27 </td>
+   <td style="text-align:center;"> 16 <br> 4.6 </td>
    <td style="text-align:center;"> -0.294 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0310762 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -375,14 +375,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Just Chasing May </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> B Pauling &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Callum Pritchard  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B Pauling <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 95 &lt;br&gt; 28 </td>
-   <td style="text-align:center;"> 7 &lt;br&gt; 2.03 </td>
+   <td style="text-align:center;"> 95 <br> 28 </td>
+   <td style="text-align:center;"> 7 <br> 2.03 </td>
    <td style="text-align:center;"> -0.852 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 99.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 99.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 99.5% </td>
    <td style="text-align:center;"> 0.1436278 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 6.5 </td>
@@ -403,8 +403,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -421,14 +421,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mr Incredible </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> A M Thomson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Ryan Mania &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A M Thomson <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 150 &lt;br&gt; 222 </td>
-   <td style="text-align:center;"> 30 &lt;br&gt; 0.39 </td>
+   <td style="text-align:center;"> 150 <br> 222 </td>
+   <td style="text-align:center;"> 30 <br> 0.39 </td>
    <td style="text-align:center;"> 1.631 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0244601 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -440,14 +440,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Tahmuras </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Nick Scholfield &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Nick Scholfield <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 143 &lt;br&gt; 33 </td>
-   <td style="text-align:center;"> 9 &lt;br&gt; 0.38 </td>
+   <td style="text-align:center;"> 143 <br> 33 </td>
+   <td style="text-align:center;"> 9 <br> 0.38 </td>
    <td style="text-align:center;"> -1.263 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 53.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 53.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 53.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 53.5% </td>
    <td style="text-align:center;"> 0.5815147 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.5 </td>
@@ -459,14 +459,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Cruz Control </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> T Lacey &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Stan Sheppard &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 29 % &lt;div&gt; </td>
+   <td style="text-align:left;"> T Lacey <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Stan Sheppard <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 140 &lt;br&gt; 60 </td>
-   <td style="text-align:center;"> 12 &lt;br&gt; 1.31 </td>
+   <td style="text-align:center;"> 140 <br> 60 </td>
+   <td style="text-align:center;"> 12 <br> 1.31 </td>
    <td style="text-align:center;"> -0.483 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.3081933 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 2.5 </td>
@@ -478,14 +478,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kinondo Kwetu </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> S England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jonathan England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S England <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Jonathan England <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 138 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 20 &lt;br&gt; 0.59 </td>
+   <td style="text-align:center;"> 138 <br> 12 </td>
+   <td style="text-align:center;"> 20 <br> 0.59 </td>
    <td style="text-align:center;"> -0.583 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0495651 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -497,14 +497,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Sine Nomine </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Fiona Needham &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> James Turner  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Fiona Needham <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> James Turner  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 133 &lt;br&gt; 29 </td>
-   <td style="text-align:center;"> 12 &lt;br&gt; 0.68 </td>
+   <td style="text-align:center;"> 133 <br> 29 </td>
+   <td style="text-align:center;"> 12 <br> 0.68 </td>
    <td style="text-align:center;"> -0.912 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 46.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 46.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 46.5% </td>
    <td style="text-align:center;"> 0.1086081 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 5.5 </td>
@@ -516,14 +516,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Young Buster </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> F O'Brien &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J J Burke &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> J J Burke <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 10-10 </td>
-   <td style="text-align:center;"> 132 &lt;br&gt; 61 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 0.86 </td>
+   <td style="text-align:center;"> 132 <br> 61 </td>
+   <td style="text-align:center;"> 17 <br> 0.86 </td>
    <td style="text-align:center;"> -0.094 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0219273 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 7.0 </td>
@@ -535,14 +535,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Good Boy Bobby </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> N A Twiston-Davies &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Brace  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 33 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Jamie Brace  <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
    <td style="text-align:center;"> 10-9 </td>
-   <td style="text-align:center;"> 131 &lt;br&gt; 22 </td>
-   <td style="text-align:center;"> 8 &lt;br&gt; 0.55 </td>
+   <td style="text-align:center;"> 131 <br> 22 </td>
+   <td style="text-align:center;"> 8 <br> 0.55 </td>
    <td style="text-align:center;"> -0.672 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1750247 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 9.0 </td>
@@ -554,14 +554,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Some Scope </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> R Hobson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Callum Pritchard  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R Hobson <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 124 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 0.63 </td>
+   <td style="text-align:center;"> 124 <br> 26 </td>
+   <td style="text-align:center;"> 18 <br> 0.63 </td>
    <td style="text-align:center;"> -0.329 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0746274 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 3.0 </td>
@@ -582,8 +582,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -600,14 +600,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Grain D'oudairies </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D McCain Jnr &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J J Burke &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D McCain Jnr <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> J J Burke <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 123 &lt;br&gt; 27 </td>
-   <td style="text-align:center;"> 7 &lt;br&gt; 1.26 </td>
+   <td style="text-align:center;"> 123 <br> 27 </td>
+   <td style="text-align:center;"> 7 <br> 1.26 </td>
    <td style="text-align:center;"> -1.777 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
    <td style="text-align:center;"> 0.5180285 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.50 </td>
@@ -619,14 +619,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Myretown </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
-   <td style="text-align:left;"> D R Fox &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> D R Fox <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 121 &lt;br&gt; 27 </td>
-   <td style="text-align:center;"> 16 &lt;br&gt; 2.04 </td>
+   <td style="text-align:center;"> 121 <br> 27 </td>
+   <td style="text-align:center;"> 16 <br> 2.04 </td>
    <td style="text-align:center;"> -0.257 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.3077633 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.50 </td>
@@ -638,14 +638,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Glory And Honour </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> S England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jonathan England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S England <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Jonathan England <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 119 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 1.51 </td>
+   <td style="text-align:center;"> 119 <br> 26 </td>
+   <td style="text-align:center;"> 14 <br> 1.51 </td>
    <td style="text-align:center;"> -0.428 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1450020 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 2.75 </td>
@@ -657,14 +657,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Rich Spirit </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Mrs S J Smith &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Peter Kavanagh  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs S J Smith <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Peter Kavanagh  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 117 &lt;br&gt; 29 </td>
-   <td style="text-align:center;"> 24 &lt;br&gt; 2.82 </td>
+   <td style="text-align:center;"> 117 <br> 29 </td>
+   <td style="text-align:center;"> 24 <br> 2.82 </td>
    <td style="text-align:center;"> 0.581 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0186395 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.50 </td>
@@ -685,8 +685,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -703,14 +703,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> American Sniper </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> D Pipe &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 18 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Callum Pritchard  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D Pipe <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 125 &lt;br&gt; 41 </td>
-   <td style="text-align:center;"> 16 &lt;br&gt; 1.58 </td>
+   <td style="text-align:center;"> 125 <br> 41 </td>
+   <td style="text-align:center;"> 16 <br> 1.58 </td>
    <td style="text-align:center;"> -0.231 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 54% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 54% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 54% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 54% </td>
    <td style="text-align:center;"> 0.3549666 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.5 </td>
@@ -722,14 +722,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Grozni </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> James Owen &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Mr Alex Chadwick  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
+   <td style="text-align:left;"> James Owen <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> Mr Alex Chadwick  <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 125 &lt;br&gt; 19 </td>
-   <td style="text-align:center;"> 21 &lt;br&gt; 1.26 </td>
+   <td style="text-align:center;"> 125 <br> 19 </td>
+   <td style="text-align:center;"> 21 <br> 1.26 </td>
    <td style="text-align:center;"> 0.479 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1983292 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 4.5 </td>
@@ -741,14 +741,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Foster'sisland </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Micky Hammond &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Emma Smith-Chaston  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Micky Hammond <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Emma Smith-Chaston  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 124 &lt;br&gt; 41 </td>
-   <td style="text-align:center;"> 15 &lt;br&gt; 1.68 </td>
+   <td style="text-align:center;"> 124 <br> 41 </td>
+   <td style="text-align:center;"> 15 <br> 1.68 </td>
    <td style="text-align:center;"> -0.322 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 30.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 30.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 30.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 30.5% </td>
    <td style="text-align:center;"> 0.2035915 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 8.5 </td>
@@ -760,14 +760,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Willaston </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> M Walford &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Hamilton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M Walford <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> Jamie Hamilton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 124 &lt;br&gt; 29 </td>
-   <td style="text-align:center;"> 11 &lt;br&gt; 0.86 </td>
+   <td style="text-align:center;"> 124 <br> 29 </td>
+   <td style="text-align:center;"> 11 <br> 0.86 </td>
    <td style="text-align:center;"> 0.129 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1212304 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -779,14 +779,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Castel Gandolfo </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> F O'Brien &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J J Burke &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> J J Burke <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 120 &lt;br&gt; 62 </td>
-   <td style="text-align:center;"> 22 &lt;br&gt; 1.71 </td>
+   <td style="text-align:center;"> 120 <br> 62 </td>
+   <td style="text-align:center;"> 22 <br> 1.71 </td>
    <td style="text-align:center;"> -0.089 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 3% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 3% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 3% </td>
    <td style="text-align:center;"> 0.0089498 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 10.0 </td>
@@ -798,14 +798,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Liffeydale Dreamer </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> S England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jonathan England &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S England <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Jonathan England <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 120 &lt;br&gt; 16 </td>
-   <td style="text-align:center;"> 12 &lt;br&gt; 2.28 </td>
+   <td style="text-align:center;"> 120 <br> 16 </td>
+   <td style="text-align:center;"> 12 <br> 2.28 </td>
    <td style="text-align:center;"> 0.390 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1637447 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 22.0 </td>
@@ -817,14 +817,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bois Guillbert </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
-   <td style="text-align:left;"> D R Fox &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> D R Fox <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 117 &lt;br&gt; 47 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 2.34 </td>
+   <td style="text-align:center;"> 117 <br> 47 </td>
+   <td style="text-align:center;"> 17 <br> 2.34 </td>
    <td style="text-align:center;"> -0.119 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 12.5% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 12.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 12.5% </td>
    <td style="text-align:center;"> 0.0505478 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 5.5 </td>
@@ -836,14 +836,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Eire Street </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Mrs J Stephen &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Charlie Maggs  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs J Stephen <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 110 &lt;br&gt; 63 </td>
-   <td style="text-align:center;"> 13 &lt;br&gt; 1.6 </td>
+   <td style="text-align:center;"> 110 <br> 63 </td>
+   <td style="text-align:center;"> 13 <br> 1.6 </td>
    <td style="text-align:center;"> 0.219 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.2172282 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 5.0 </td>
@@ -855,14 +855,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> North Parade </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Mrs S J Smith &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Peter Kavanagh  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs S J Smith <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Peter Kavanagh  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 108 &lt;br&gt; 32 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 4 </td>
+   <td style="text-align:center;"> 108 <br> 32 </td>
+   <td style="text-align:center;"> 18 <br> 4 </td>
    <td style="text-align:center;"> 0.521 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0548044 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 7.0 </td>
@@ -883,8 +883,8 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
-   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
+   <th style="text-align:center;"> OR <br> DSLR </th>
+   <th style="text-align:center;"> VDW <br> Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -901,14 +901,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Vocal Duke </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> James Moffatt &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Callum Pritchard  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> James Moffatt <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 100 &lt;br&gt; 63 </td>
-   <td style="text-align:center;"> 17 &lt;br&gt; 4.73 </td>
+   <td style="text-align:center;"> 100 <br> 63 </td>
+   <td style="text-align:center;"> 17 <br> 4.73 </td>
    <td style="text-align:center;"> 0.840 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0671867 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 9.000 </td>
@@ -920,14 +920,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Double Oban </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> O Murphy &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 22 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Lewis Stones  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> O Murphy <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> Lewis Stones  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 99 &lt;br&gt; 170 </td>
-   <td style="text-align:center;"> 8 &lt;br&gt; 1.82 </td>
+   <td style="text-align:center;"> 99 <br> 170 </td>
+   <td style="text-align:center;"> 8 <br> 1.82 </td>
    <td style="text-align:center;"> 0.107 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.2254191 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.875 </td>
@@ -939,14 +939,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Let's Sail Away </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> T Lacey &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Stan Sheppard &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 29 % &lt;div&gt; </td>
+   <td style="text-align:left;"> T Lacey <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Stan Sheppard <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 98 &lt;br&gt; 23 </td>
-   <td style="text-align:center;"> 18 &lt;br&gt; 6.47 </td>
+   <td style="text-align:center;"> 98 <br> 23 </td>
+   <td style="text-align:center;"> 18 <br> 6.47 </td>
    <td style="text-align:center;"> 0.981 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0854774 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 5.500 </td>
@@ -958,14 +958,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Opera King </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> N A Twiston-Davies &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Brace  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 33 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N A Twiston-Davies <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Jamie Brace  <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 97 &lt;br&gt; 44 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 4.97 </td>
+   <td style="text-align:center;"> 97 <br> 44 </td>
+   <td style="text-align:center;"> 14 <br> 4.97 </td>
    <td style="text-align:center;"> 0.394 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.1344677 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 8.500 </td>
@@ -977,14 +977,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lahire </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> D McCain Jnr &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Charlie Maggs  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D McCain Jnr <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 93 &lt;br&gt; 30 </td>
-   <td style="text-align:center;"> 20 &lt;br&gt; 6.31 </td>
+   <td style="text-align:center;"> 93 <br> 30 </td>
+   <td style="text-align:center;"> 20 <br> 6.31 </td>
    <td style="text-align:center;"> 0.135 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 2% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 2% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 2% </td>
    <td style="text-align:center;"> 0.1818993 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 4.000 </td>
@@ -996,14 +996,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lillistar </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Micky Hammond &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Emma Smith-Chaston  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Micky Hammond <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Emma Smith-Chaston  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 86 &lt;br&gt; 0 </td>
-   <td style="text-align:center;"> 20 &lt;br&gt; 8.08 </td>
+   <td style="text-align:center;"> 86 <br> 0 </td>
+   <td style="text-align:center;"> 20 <br> 8.08 </td>
    <td style="text-align:center;"> 1.878 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0193297 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 20.000 </td>
@@ -1015,14 +1015,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mister Smarty </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss T Jackson &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Jamie Hamilton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Miss T Jackson <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> Jamie Hamilton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 83 &lt;br&gt; 12 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 4.31 </td>
+   <td style="text-align:center;"> 83 <br> 12 </td>
+   <td style="text-align:center;"> 14 <br> 4.31 </td>
    <td style="text-align:center;"> 0.278 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.4322802 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.500 </td>
@@ -1034,14 +1034,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Treasured Company </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Mrs S J Smith &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Peter Kavanagh  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mrs S J Smith <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Peter Kavanagh  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 83 &lt;br&gt; 86 </td>
-   <td style="text-align:center;"> 14 &lt;br&gt; 3.3 </td>
+   <td style="text-align:center;"> 83 <br> 86 </td>
+   <td style="text-align:center;"> 14 <br> 3.3 </td>
    <td style="text-align:center;"> -0.365 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 98% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 98% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 98% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 98% </td>
    <td style="text-align:center;"> 0.0924154 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 6.500 </td>
@@ -1053,14 +1053,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Nut Wood </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> M Mullineaux &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> J M Quinlan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M Mullineaux <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J M Quinlan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 83 &lt;br&gt; 26 </td>
-   <td style="text-align:center;"> 22 &lt;br&gt; 4.24 </td>
+   <td style="text-align:center;"> 83 <br> 26 </td>
+   <td style="text-align:center;"> 22 <br> 4.24 </td>
    <td style="text-align:center;"> 0.964 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0060837 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 28.000 </td>
@@ -1072,14 +1072,14 @@ Todays Racecard for Wetherby including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Milajess </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Micky Hammond &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
-   <td style="text-align:left;"> Joshua Thompson  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Micky Hammond <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Joshua Thompson  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 80 &lt;br&gt; 51 </td>
-   <td style="text-align:center;"> 13 &lt;br&gt; 5.54 </td>
+   <td style="text-align:center;"> 80 <br> 51 </td>
+   <td style="text-align:center;"> 13 <br> 5.54 </td>
    <td style="text-align:center;"> 0.095 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0151206 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 12.000 </td>
