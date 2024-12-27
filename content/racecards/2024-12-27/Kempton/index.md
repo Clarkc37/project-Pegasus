@@ -26,8 +26,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -44,14 +44,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Inappropriate </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> Jedd O'Keeffe <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C O'Farrell <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> Jedd O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C O'Farrell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 0 <br> 27 </td>
-   <td style="text-align:center;"> 3 <br> 2.26 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 2.26 </td>
    <td style="text-align:center;"> -0.761 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.2538604 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 5.00 </td>
@@ -63,14 +63,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Knight Templar </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> R Stephens <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Ben Jones <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> R Stephens &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ben Jones &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 0 <br> 19 </td>
-   <td style="text-align:center;"> 6 <br> 1.41 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 19 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 1.41 </td>
    <td style="text-align:center;"> -0.553 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1436883 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -82,14 +82,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lucky Bere </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> K Woollacott <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> Mr Joshua Newman <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> K Woollacott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr Joshua Newman &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 0 <br> 32 </td>
-   <td style="text-align:center;"> 6 <br> 0.71 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 32 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.71 </td>
    <td style="text-align:center;"> 0.083 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0343171 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 10.00 </td>
@@ -101,14 +101,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Midnight Rumble </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> A King <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> A King &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Tom Cannon &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 0 <br> 0 </td>
-   <td style="text-align:center;"> 100 <br> 1.54 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 100 &lt;br&gt; 1.54 </td>
    <td style="text-align:center;"> 0.475 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1416550 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 5.00 </td>
@@ -120,14 +120,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Nardaran </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H Cobden &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 0 <br> 0 </td>
-   <td style="text-align:center;"> 100 <br> 0.26 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 100 &lt;br&gt; 0.26 </td>
    <td style="text-align:center;"> 0.715 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.5394184 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.25 </td>
@@ -139,14 +139,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Risk It All </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> G &amp; J Moore <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> N F Houlihan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G &amp; J Moore &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N F Houlihan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 0 <br> 0 </td>
-   <td style="text-align:center;"> 100 <br> 0.27 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 100 &lt;br&gt; 0.27 </td>
    <td style="text-align:center;"> 1.625 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1026981 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 3.50 </td>
@@ -158,14 +158,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kinetic </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> James Owen <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
-   <td style="text-align:left;"> James Bowen <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> James Owen &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
+   <td style="text-align:left;"> James Bowen &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 22 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 0 <br> 9 </td>
-   <td style="text-align:center;"> 12 <br> 1.26 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 9 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 1.26 </td>
    <td style="text-align:center;"> -0.401 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0406933 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 25.00 </td>
@@ -186,8 +186,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -204,14 +204,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> West Balboa </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> Miss Heidi Palin  <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> D Skelton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Miss Heidi Palin  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 141 <br> 13 </td>
-   <td style="text-align:center;"> 12 <br> 0.87 </td>
+   <td style="text-align:center;"> 141 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 0.87 </td>
    <td style="text-align:center;"> -0.701 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.0817298 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 6.000 </td>
@@ -223,14 +223,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Della Casa Lunga </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> C Boultbee-Brooks <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> R Patrick <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> C Boultbee-Brooks &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R Patrick &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 134 <br> 32 </td>
-   <td style="text-align:center;"> 18 <br> 1.22 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 32 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 1.22 </td>
    <td style="text-align:center;"> -0.058 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0914711 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 4.000 </td>
@@ -242,14 +242,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Pawapuri </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> N J Henderson &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N de Boinville &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 128 <br> 32 </td>
-   <td style="text-align:center;"> 10 <br> 0.68 </td>
+   <td style="text-align:center;"> 128 &lt;br&gt; 32 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 0.68 </td>
    <td style="text-align:center;"> -0.197 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1652136 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 4.000 </td>
@@ -261,14 +261,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Royale Margaux </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> T Symonds <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Benjamin Poste <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> T Symonds &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Benjamin Poste &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 4 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 120 <br> 13 </td>
-   <td style="text-align:center;"> 13 <br> 1.16 </td>
+   <td style="text-align:center;"> 120 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 1.16 </td>
    <td style="text-align:center;"> -0.288 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2396834 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 3.333 </td>
@@ -280,14 +280,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Larchmont Lass </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H Cobden &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 115 <br> 20 </td>
-   <td style="text-align:center;"> 9 <br> 0.6 </td>
+   <td style="text-align:center;"> 115 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.6 </td>
    <td style="text-align:center;"> 0.085 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1515574 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.500 </td>
@@ -299,14 +299,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Looking As You Are </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A M Hales <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Caoilin Quinn <br> <div class = "badge rounded-pill hot "> 24 % <div> </td>
+   <td style="text-align:left;"> A M Hales &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Caoilin Quinn &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 24 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 115 <br> 36 </td>
-   <td style="text-align:center;"> 10 <br> 1.88 </td>
+   <td style="text-align:center;"> 115 &lt;br&gt; 36 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 1.88 </td>
    <td style="text-align:center;"> 0.531 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0596335 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 25.000 </td>
@@ -318,14 +318,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Holly Hartingo </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> A Ralph <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> C Gethings <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> A Ralph &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C Gethings &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 115 <br> 35 </td>
-   <td style="text-align:center;"> 9 <br> 4.43 </td>
+   <td style="text-align:center;"> 115 &lt;br&gt; 35 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 4.43 </td>
    <td style="text-align:center;"> 0.062 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1034441 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 11.000 </td>
@@ -337,14 +337,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Fortuna Ligna </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A J Honeyball <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Chad Bament (10) <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> A J Honeyball &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Chad Bament (10) &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 115 <br> 34 </td>
-   <td style="text-align:center;"> 9 <br> 1.58 </td>
+   <td style="text-align:center;"> 115 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 1.58 </td>
    <td style="text-align:center;"> -0.186 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0719242 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 11.000 </td>
@@ -365,8 +365,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -383,14 +383,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ballyburn </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 24 % <div> </td>
-   <td style="text-align:left;"> P Townend <br> <div class = "badge rounded-pill hot "> 41 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 24 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P Townend &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 41 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 0 <br> 34 </td>
-   <td style="text-align:center;"> 3 <br> 0.18 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0.18 </td>
    <td style="text-align:center;"> -1.706 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 31% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 31% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 31% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 31% </td>
    <td style="text-align:center;"> 0.1839073 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.1 </td>
@@ -402,14 +402,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Brookie </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A J Honeyball <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Rex Dingle <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> A J Honeyball &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rex Dingle &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 130 <br> 28 </td>
-   <td style="text-align:center;"> 18 <br> 1.05 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 28 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 1.05 </td>
    <td style="text-align:center;"> -0.574 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0004367 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 200.0 </td>
@@ -421,14 +421,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Rubaud </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H Cobden &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 149 <br> 48 </td>
-   <td style="text-align:center;"> 8 <br> 0.13 </td>
+   <td style="text-align:center;"> 149 &lt;br&gt; 48 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.13 </td>
    <td style="text-align:center;"> -1.277 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1201447 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 16.0 </td>
@@ -440,14 +440,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Sir Gino </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> N J Henderson &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N de Boinville &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-12 </td>
-   <td style="text-align:center;"> 157 <br> 27 </td>
-   <td style="text-align:center;"> 3 <br> 0.19 </td>
+   <td style="text-align:center;"> 157 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0.19 </td>
    <td style="text-align:center;"> -1.826 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 69% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 69% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 69% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 69% </td>
    <td style="text-align:center;"> 0.8472309 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0.8 </td>
@@ -468,8 +468,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -486,14 +486,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Edwardstone </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> A King <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> A King &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Tom Cannon &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 163 <br> 20 </td>
-   <td style="text-align:center;"> 16 <br> 0.14 </td>
+   <td style="text-align:center;"> 163 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 16 &lt;br&gt; 0.14 </td>
    <td style="text-align:center;"> -0.284 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1999770 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.500 </td>
@@ -505,14 +505,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Boothill </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> H Fry <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> Bryan Carver <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> H Fry &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 9 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bryan Carver &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 160 <br> 42 </td>
-   <td style="text-align:center;"> 16 <br> 0.14 </td>
+   <td style="text-align:center;"> 160 &lt;br&gt; 42 </td>
+   <td style="text-align:center;"> 16 &lt;br&gt; 0.14 </td>
    <td style="text-align:center;"> -1.311 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 94% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 94% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 94% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 94% </td>
    <td style="text-align:center;"> 0.4394879 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.750 </td>
@@ -524,14 +524,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Martator </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Charlie Deutsch <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Miss V Williams &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlie Deutsch &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 151 <br> 34 </td>
-   <td style="text-align:center;"> 3 <br> 0.08 </td>
+   <td style="text-align:center;"> 151 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0.08 </td>
    <td style="text-align:center;"> -1.115 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 6% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 6% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 6% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 6% </td>
    <td style="text-align:center;"> 0.3379175 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.875 </td>
@@ -543,14 +543,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Editeur Du Gite </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> G &amp; J Moore <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Freddie Mitchell  <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> G &amp; J Moore &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Freddie Mitchell  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 150 <br> 41 </td>
-   <td style="text-align:center;"> 29 <br> 0.92 </td>
+   <td style="text-align:center;"> 150 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 29 &lt;br&gt; 0.92 </td>
    <td style="text-align:center;"> 0.138 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1043693 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 6.500 </td>
@@ -562,14 +562,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Soul Icon </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> K Burke <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> K Burke &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H Cobden &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 143 <br> 20 </td>
-   <td style="text-align:center;"> 8 <br> 0.15 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.15 </td>
    <td style="text-align:center;"> -0.729 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0810355 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 16.000 </td>
@@ -581,14 +581,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Traprain Law </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> P W Wadge <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P W Wadge &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 143 <br> 19 </td>
-   <td style="text-align:center;"> 9 <br> 0.57 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 19 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.57 </td>
    <td style="text-align:center;"> -0.199 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0101019 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 28.000 </td>
@@ -600,14 +600,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Sans Bruit </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Bryony Frost <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bryony Frost &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 143 <br> 34 </td>
-   <td style="text-align:center;"> 9 <br> 0.21 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.21 </td>
    <td style="text-align:center;"> 0.201 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0551240 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 9.000 </td>
@@ -628,8 +628,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -646,14 +646,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kitty's Light </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Christian Williams <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> R Patrick <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Christian Williams &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R Patrick &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-2 </td>
-   <td style="text-align:center;"> 137 <br> 34 </td>
-   <td style="text-align:center;"> 25 <br> 0.95 </td>
+   <td style="text-align:center;"> 137 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 25 &lt;br&gt; 0.95 </td>
    <td style="text-align:center;"> 0.324 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.3055466 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -665,14 +665,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jet Plane </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> Fergus Gillard <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Skelton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Fergus Gillard &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 135 <br> 27 </td>
-   <td style="text-align:center;"> 23 <br> 1.1 </td>
+   <td style="text-align:center;"> 135 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 23 &lt;br&gt; 1.1 </td>
    <td style="text-align:center;"> 0.541 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1033590 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 22.00 </td>
@@ -684,14 +684,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Highstakesplayer </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> T Lacey <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Tom Cannon <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> T Lacey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Tom Cannon &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 135 <br> 27 </td>
-   <td style="text-align:center;"> 8 <br> 0.35 </td>
+   <td style="text-align:center;"> 135 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.35 </td>
    <td style="text-align:center;"> -0.960 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.0590014 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 4.50 </td>
@@ -703,14 +703,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Slipway </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
-   <td style="text-align:left;"> Ben Jones <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> B Pauling &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ben Jones &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 134 <br> 34 </td>
-   <td style="text-align:center;"> 20 <br> 0.55 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 34 </td>
+   <td style="text-align:center;"> 20 &lt;br&gt; 0.55 </td>
    <td style="text-align:center;"> 0.761 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1223319 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.00 </td>
@@ -722,14 +722,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Frero Banbou </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Miss V Williams <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Charlie Deutsch <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> Miss V Williams &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Charlie Deutsch &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 134 <br> 27 </td>
-   <td style="text-align:center;"> 17 <br> 0.47 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 0.47 </td>
    <td style="text-align:center;"> -0.202 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1946065 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 2.25 </td>
@@ -741,14 +741,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Golden Son </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H Cobden &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-13 </td>
-   <td style="text-align:center;"> 134 <br> 28 </td>
-   <td style="text-align:center;"> 25 <br> 0.95 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 28 </td>
+   <td style="text-align:center;"> 25 &lt;br&gt; 0.95 </td>
    <td style="text-align:center;"> 0.042 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0838057 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -760,14 +760,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Deise Aba </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> Alexandra Dunn <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Bryony Frost <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Alexandra Dunn &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Bryony Frost &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 133 <br> 41 </td>
-   <td style="text-align:center;"> 18 <br> 1.35 </td>
+   <td style="text-align:center;"> 133 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 1.35 </td>
    <td style="text-align:center;"> -0.064 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0161557 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -779,14 +779,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Weveallbeencaught </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Christian Williams <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> James Turner  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Christian Williams &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> James Turner  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 130 <br> 41 </td>
-   <td style="text-align:center;"> 15 <br> 0.84 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 0.84 </td>
    <td style="text-align:center;"> 0.155 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0422442 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 5.50 </td>
@@ -798,14 +798,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Beachcomber </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Jonjo &amp; A J O'Neill <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> R P McLernon <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Jonjo &amp; A J O'Neill &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R P McLernon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 127 <br> 13 </td>
-   <td style="text-align:center;"> 15 <br> 1.77 </td>
+   <td style="text-align:center;"> 127 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 1.77 </td>
    <td style="text-align:center;"> -0.537 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2849885 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 10.00 </td>
@@ -817,14 +817,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Dreaming Blue </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A J Honeyball <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Rex Dingle <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> A J Honeyball &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rex Dingle &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 127 <br> 23 </td>
-   <td style="text-align:center;"> 5 <br> 0.6 </td>
+   <td style="text-align:center;"> 127 &lt;br&gt; 23 </td>
+   <td style="text-align:center;"> 5 &lt;br&gt; 0.6 </td>
    <td style="text-align:center;"> -0.737 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0568827 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 6.00 </td>
@@ -836,14 +836,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bass Rock </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G Nicholls <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
-   <td style="text-align:left;"> Lorcan Williams <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> G Nicholls &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Lorcan Williams &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 122 <br> 23 </td>
-   <td style="text-align:center;"> 23 <br> 2.26 </td>
+   <td style="text-align:center;"> 122 &lt;br&gt; 23 </td>
+   <td style="text-align:center;"> 23 &lt;br&gt; 2.26 </td>
    <td style="text-align:center;"> 0.377 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0508362 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 14.00 </td>
@@ -864,8 +864,8 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -882,14 +882,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hansard </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G &amp; J Moore <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> N F Houlihan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G &amp; J Moore &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N F Houlihan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-1 </td>
-   <td style="text-align:center;"> 141 <br> 370 </td>
-   <td style="text-align:center;"> 8 <br> 0.4 </td>
+   <td style="text-align:center;"> 141 &lt;br&gt; 370 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.4 </td>
    <td style="text-align:center;"> -0.001 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0333244 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 5.50 </td>
@@ -901,14 +901,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Valgrand </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> Fergus Gillard <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Skelton &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Fergus Gillard &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 137 <br> 14 </td>
-   <td style="text-align:center;"> 13 <br> 0.93 </td>
+   <td style="text-align:center;"> 137 &lt;br&gt; 14 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 0.93 </td>
    <td style="text-align:center;"> -0.508 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 5% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 5% </td>
    <td style="text-align:center;"> 0.2407954 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 4.00 </td>
@@ -920,14 +920,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Aucunrisque </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> C Gordon <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Rex Dingle <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> C Gordon &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rex Dingle &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 133 <br> 35 </td>
-   <td style="text-align:center;"> 7 <br> 0.69 </td>
+   <td style="text-align:center;"> 133 &lt;br&gt; 35 </td>
+   <td style="text-align:center;"> 7 &lt;br&gt; 0.69 </td>
    <td style="text-align:center;"> -1.023 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 95% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 95% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 95% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 95% </td>
    <td style="text-align:center;"> 0.2827454 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 4.50 </td>
@@ -939,14 +939,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Glory And Fortune </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> T Lacey <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Cameron Iles  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T Lacey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Cameron Iles  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 130 <br> 41 </td>
-   <td style="text-align:center;"> 20 <br> 1.48 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 20 &lt;br&gt; 1.48 </td>
    <td style="text-align:center;"> -0.145 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0410678 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -958,14 +958,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Willmount </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> N J Henderson &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> N de Boinville &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 21 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 130 <br> 14 </td>
-   <td style="text-align:center;"> 21 <br> 1.59 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 14 </td>
+   <td style="text-align:center;"> 21 &lt;br&gt; 1.59 </td>
    <td style="text-align:center;"> 0.027 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.3975822 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.75 </td>
@@ -977,14 +977,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ooh Betty </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ben Clarke <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Ben Jones <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> Ben Clarke &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ben Jones &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-2 </td>
-   <td style="text-align:center;"> 128 <br> 27 </td>
-   <td style="text-align:center;"> 13 <br> 0.62 </td>
+   <td style="text-align:center;"> 128 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 0.62 </td>
    <td style="text-align:center;"> -0.202 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0768144 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -996,14 +996,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jet Powered </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> James Bowen <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> N J Henderson &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> James Bowen &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 22 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 127 <br> 391 </td>
-   <td style="text-align:center;"> 16 <br> 1.72 </td>
+   <td style="text-align:center;"> 127 &lt;br&gt; 391 </td>
+   <td style="text-align:center;"> 16 &lt;br&gt; 1.72 </td>
    <td style="text-align:center;"> 0.762 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0375059 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 8.50 </td>
@@ -1015,14 +1015,14 @@ Todays Racecard for Kempton including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Big Boy Bobby </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> A King <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> Phillip Armson  <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> A King &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 19 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Phillip Armson  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 114 <br> 629 </td>
-   <td style="text-align:center;"> 20 <br> 1.1 </td>
+   <td style="text-align:center;"> 114 &lt;br&gt; 629 </td>
+   <td style="text-align:center;"> 20 &lt;br&gt; 1.1 </td>
    <td style="text-align:center;"> -0.513 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2480874 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 14.00 </td>

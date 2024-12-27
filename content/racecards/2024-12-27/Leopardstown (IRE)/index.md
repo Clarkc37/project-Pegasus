@@ -26,8 +26,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -44,14 +44,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Backtonormal </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K M Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 20 </td>
-   <td style="text-align:center;"> 15 <br> 1.97 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 1.97 </td>
    <td style="text-align:center;"> 0.348 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0160442 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 33.00 </td>
@@ -63,14 +63,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Doctor Glide </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Tom Dreaper <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> B W Harvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Tom Dreaper &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B W Harvey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 13 </td>
-   <td style="text-align:center;"> 17 <br> 2.77 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 2.77 </td>
    <td style="text-align:center;"> 0.008 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0003934 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 150.00 </td>
@@ -82,14 +82,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> It's For Me </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 23 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 407 </td>
-   <td style="text-align:center;"> 11 <br> 0.35 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 407 </td>
+   <td style="text-align:center;"> 11 &lt;br&gt; 0.35 </td>
    <td style="text-align:center;"> -0.202 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2224356 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.25 </td>
@@ -101,14 +101,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Jeannot Lapin </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Gearoid O'Loughlin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> R A Doyle <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> Gearoid O'Loughlin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R A Doyle &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 244 </td>
-   <td style="text-align:center;"> 16 <br> 0 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 244 </td>
+   <td style="text-align:center;"> 16 &lt;br&gt; 0 </td>
    <td style="text-align:center;"> 0.462 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0010557 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 200.00 </td>
@@ -120,14 +120,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lisnagar Fortune </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 348 </td>
-   <td style="text-align:center;"> 6 <br> 0.87 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 348 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.87 </td>
    <td style="text-align:center;"> -0.009 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0979630 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 4.50 </td>
@@ -139,14 +139,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Mint Boy </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 13 </td>
-   <td style="text-align:center;"> 17 <br> 1.34 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 1.34 </td>
    <td style="text-align:center;"> -0.257 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0074828 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 25.00 </td>
@@ -158,14 +158,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> No Flies On Him </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M M McDonagh <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E J O'Grady &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M M McDonagh &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 20 </td>
-   <td style="text-align:center;"> 26 <br> 4 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 26 &lt;br&gt; 4 </td>
    <td style="text-align:center;"> 0.581 </td>
    <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0162486 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 66.00 </td>
@@ -177,14 +177,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Shanbally Kid </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M J M O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M J M O'Sullivan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 11 </td>
-   <td style="text-align:center;"> 19 <br> 1.39 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 11 </td>
+   <td style="text-align:center;"> 19 &lt;br&gt; 1.39 </td>
    <td style="text-align:center;"> -0.114 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0040990 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 28.00 </td>
@@ -196,14 +196,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> The Big Doyen </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Peter Fahey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> Peter Fahey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 178 </td>
-   <td style="text-align:center;"> 18 <br> 1.51 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 178 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 1.51 </td>
    <td style="text-align:center;"> 0.350 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0056100 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 28.00 </td>
@@ -215,14 +215,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Western Diego </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S F O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 271 </td>
-   <td style="text-align:center;"> 9 <br> 0.78 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 271 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.78 </td>
    <td style="text-align:center;"> -0.041 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0122701 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -234,14 +234,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> What's Up Darling </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 20 </td>
-   <td style="text-align:center;"> 10 <br> 0.87 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 0.87 </td>
    <td style="text-align:center;"> -0.706 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0115224 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 12.00 </td>
@@ -253,14 +253,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> In The Trenches </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> K E Buckley <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K E Buckley &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 0 <br> 13 </td>
-   <td style="text-align:center;"> 14 <br> 2.14 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 13 </td>
+   <td style="text-align:center;"> 14 &lt;br&gt; 2.14 </td>
    <td style="text-align:center;"> -0.087 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0020246 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 66.00 </td>
@@ -272,14 +272,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Nurburgring </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class = "badge rounded-pill hot "> 28 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> J P O'Brien &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 28 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J J Slevin &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 0 <br> 33 </td>
-   <td style="text-align:center;"> 7 <br> 0.54 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 33 </td>
+   <td style="text-align:center;"> 7 &lt;br&gt; 0.54 </td>
    <td style="text-align:center;"> -0.787 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.2195858 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 4.50 </td>
@@ -291,14 +291,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Birdie Or Bust </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rachael Blackmore &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 0 <br> 41 </td>
-   <td style="text-align:center;"> 8 <br> 0.61 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.61 </td>
    <td style="text-align:center;"> -0.417 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2200751 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 2.75 </td>
@@ -319,8 +319,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -337,14 +337,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Blue Lord </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 23 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 157 <br> 19 </td>
-   <td style="text-align:center;"> 11 <br> 0.25 </td>
+   <td style="text-align:center;"> 157 &lt;br&gt; 19 </td>
+   <td style="text-align:center;"> 11 &lt;br&gt; 0.25 </td>
    <td style="text-align:center;"> -0.813 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0151733 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -356,14 +356,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Captain Guinness </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rachael Blackmore &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 164 <br> 41 </td>
-   <td style="text-align:center;"> 13 <br> 0.25 </td>
+   <td style="text-align:center;"> 164 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 0.25 </td>
    <td style="text-align:center;"> -0.206 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0283435 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -375,14 +375,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Found A Fifty </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 162 <br> 41 </td>
-   <td style="text-align:center;"> 3 <br> 0.09 </td>
+   <td style="text-align:center;"> 162 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0.09 </td>
    <td style="text-align:center;"> -1.637 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 71% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 71% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 71% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 71% </td>
    <td style="text-align:center;"> 0.1840382 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 4.0 </td>
@@ -394,14 +394,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Gaelic Warrior </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class = "badge rounded-pill hot "> 44 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr P W Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 44 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 166 <br> 239 </td>
-   <td style="text-align:center;"> 13 <br> 0.06 </td>
+   <td style="text-align:center;"> 166 &lt;br&gt; 239 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 0.06 </td>
    <td style="text-align:center;"> -1.234 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0.5% </td>
    <td style="text-align:center;"> 0.4531619 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.0 </td>
@@ -413,14 +413,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Gentleman De Mee </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 160 <br> 41 </td>
-   <td style="text-align:center;"> 18 <br> 0.45 </td>
+   <td style="text-align:center;"> 160 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 0.45 </td>
    <td style="text-align:center;"> 0.208 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0142998 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -432,14 +432,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Marine Nationale </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> B Connell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> B Connell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 47 </td>
-   <td style="text-align:center;"> 8 <br> 0.3 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 47 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.3 </td>
    <td style="text-align:center;"> -1.199 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 28.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 28.5% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 28.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 28.5% </td>
    <td style="text-align:center;"> 0.0434246 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 5.5 </td>
@@ -451,14 +451,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Senecia </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> V Halley <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr B O'Neill <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> V Halley &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr B O'Neill &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 50 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 139 <br> 41 </td>
-   <td style="text-align:center;"> 17 <br> 0.57 </td>
+   <td style="text-align:center;"> 139 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 0.57 </td>
    <td style="text-align:center;"> -0.174 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0025228 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 150.0 </td>
@@ -470,14 +470,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Solness </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class = "badge rounded-pill hot "> 28 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> J P O'Brien &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 28 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J J Slevin &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 153 <br> 20 </td>
-   <td style="text-align:center;"> 9 <br> 0.21 </td>
+   <td style="text-align:center;"> 153 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.21 </td>
    <td style="text-align:center;"> -0.786 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0261113 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -489,14 +489,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Visionarian </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K M Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 150 <br> 27 </td>
-   <td style="text-align:center;"> 15 <br> 0.95 </td>
+   <td style="text-align:center;"> 150 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 0.95 </td>
    <td style="text-align:center;"> -0.407 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0011257 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 80.0 </td>
@@ -508,14 +508,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Dinoblue </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class = "badge rounded-pill hot "> 28 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M P Walsh &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 28 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 157 <br> 19 </td>
-   <td style="text-align:center;"> 7 <br> 0.09 </td>
+   <td style="text-align:center;"> 157 &lt;br&gt; 19 </td>
+   <td style="text-align:center;"> 7 &lt;br&gt; 0.09 </td>
    <td style="text-align:center;"> -0.886 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0874818 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 5.0 </td>
@@ -536,8 +536,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -554,14 +554,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Bleu De Vassy </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> D J Gilligan <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J Gilligan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 41 </td>
-   <td style="text-align:center;"> 3 <br> 0.43 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0.43 </td>
    <td style="text-align:center;"> -1.191 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.3586676 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2.500 </td>
@@ -573,14 +573,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Court Of Appeal </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N G Hynds <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> N G Hynds &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 0 </td>
-   <td style="text-align:center;"> 100 <br> 5.2 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 100 &lt;br&gt; 5.2 </td>
    <td style="text-align:center;"> 0.997 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0012038 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 200.000 </td>
@@ -592,14 +592,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Eastern Legend </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J S Bolger <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> J S Bolger &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K M Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 11 </td>
-   <td style="text-align:center;"> 8 <br> 1.23 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 11 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 1.23 </td>
    <td style="text-align:center;"> -0.880 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1250465 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 33.000 </td>
@@ -611,14 +611,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Karafon </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 23 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 24 </td>
-   <td style="text-align:center;"> 9 <br> 1.93 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 24 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 1.93 </td>
    <td style="text-align:center;"> -0.663 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0680296 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 8.000 </td>
@@ -630,14 +630,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Karniquet </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class = "badge rounded-pill hot "> 44 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr P W Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 44 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 31 </td>
-   <td style="text-align:center;"> 5 <br> 0.42 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 31 </td>
+   <td style="text-align:center;"> 5 &lt;br&gt; 0.42 </td>
    <td style="text-align:center;"> -0.872 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2312987 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 3.333 </td>
@@ -649,14 +649,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Romeo Coolio </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 26 </td>
-   <td style="text-align:center;"> 8 <br> 0.33 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.33 </td>
    <td style="text-align:center;"> -0.627 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.3400518 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 1.750 </td>
@@ -668,14 +668,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sea Of Sands </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 0 <br> 26 </td>
-   <td style="text-align:center;"> 6 <br> 0.35 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.35 </td>
    <td style="text-align:center;"> -0.580 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0524715 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 6.000 </td>
@@ -696,8 +696,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -714,14 +714,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Best Years Yet </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> M Brassil <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> R A Doyle <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> M Brassil &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R A Doyle &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 141 <br> 17 </td>
-   <td style="text-align:center;"> 10 <br> 1.25 </td>
+   <td style="text-align:center;"> 141 &lt;br&gt; 17 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 1.25 </td>
    <td style="text-align:center;"> 0.169 </td>
    <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0007904 </td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 50.0 </td>
@@ -733,14 +733,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Suprise Package </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Peter Fahey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> Peter Fahey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 135 <br> 26 </td>
-   <td style="text-align:center;"> 15 <br> 0.83 </td>
+   <td style="text-align:center;"> 135 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 0.83 </td>
    <td style="text-align:center;"> -0.364 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0065502 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -752,14 +752,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Enniskerry </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> B Connell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> B Connell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 134 <br> 26 </td>
-   <td style="text-align:center;"> 11 <br> 0.36 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 11 &lt;br&gt; 0.36 </td>
    <td style="text-align:center;"> -0.708 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0386153 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -771,14 +771,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ethical Diamond </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
-   <td style="text-align:left;"> M J M O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 23 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M J M O'Sullivan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 132 <br> 0 </td>
-   <td style="text-align:center;"> 26 <br> 0.45 </td>
+   <td style="text-align:center;"> 132 &lt;br&gt; 0 </td>
+   <td style="text-align:center;"> 26 &lt;br&gt; 0.45 </td>
    <td style="text-align:center;"> 0.380 </td>
    <td style="text-align:center;"> 18 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.7173389 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 4.0 </td>
@@ -790,14 +790,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Gaucher </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 132 <br> 26 </td>
-   <td style="text-align:center;"> 9 <br> 0.41 </td>
+   <td style="text-align:center;"> 132 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.41 </td>
    <td style="text-align:center;"> -0.352 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0076540 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 9.0 </td>
@@ -809,14 +809,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Glan </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C P Millar  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 132 <br> 26 </td>
-   <td style="text-align:center;"> 26 <br> 2.5 </td>
+   <td style="text-align:center;"> 132 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 26 &lt;br&gt; 2.5 </td>
    <td style="text-align:center;"> 0.700 </td>
    <td style="text-align:center;"> 19 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0012103 </td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 20.0 </td>
@@ -828,14 +828,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Pinot Gris </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K M Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 132 <br> 47 </td>
-   <td style="text-align:center;"> 4 <br> 0.4 </td>
+   <td style="text-align:center;"> 132 &lt;br&gt; 47 </td>
+   <td style="text-align:center;"> 4 &lt;br&gt; 0.4 </td>
    <td style="text-align:center;"> -1.602 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.0156212 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 7.0 </td>
@@ -847,14 +847,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Batman Girac </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D A Jacob &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 130 <br> 237 </td>
-   <td style="text-align:center;"> 21 <br> 0.62 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 237 </td>
+   <td style="text-align:center;"> 21 &lt;br&gt; 0.62 </td>
    <td style="text-align:center;"> -0.869 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0670154 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -866,14 +866,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lark In The Mornin </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class = "badge rounded-pill hot "> 28 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> J P O'Brien &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 28 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J J Slevin &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-1 </td>
-   <td style="text-align:center;"> 130 <br> 230 </td>
-   <td style="text-align:center;"> 9 <br> 1.47 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 230 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 1.47 </td>
    <td style="text-align:center;"> -0.903 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0573904 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 6.5 </td>
@@ -885,14 +885,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Aeros Luck </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J Kearney  <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J Kearney  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-12 </td>
-   <td style="text-align:center;"> 127 <br> 27 </td>
-   <td style="text-align:center;"> 15 <br> 2.39 </td>
+   <td style="text-align:center;"> 127 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 2.39 </td>
    <td style="text-align:center;"> 0.943 </td>
    <td style="text-align:center;"> 21 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0048055 </td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 22.0 </td>
@@ -904,14 +904,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Little Mixup </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> D Hogan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Hogan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D King &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-10 </td>
-   <td style="text-align:center;"> 125 <br> 6 </td>
-   <td style="text-align:center;"> 30 <br> 2.49 </td>
+   <td style="text-align:center;"> 125 &lt;br&gt; 6 </td>
+   <td style="text-align:center;"> 30 &lt;br&gt; 2.49 </td>
    <td style="text-align:center;"> -0.181 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0003446 </td>
    <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> 100.0 </td>
@@ -923,14 +923,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Special Cadeau </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-10 </td>
-   <td style="text-align:center;"> 125 <br> 27 </td>
-   <td style="text-align:center;"> 8 <br> 1.25 </td>
+   <td style="text-align:center;"> 125 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 1.25 </td>
    <td style="text-align:center;"> -1.038 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0089997 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 8.5 </td>
@@ -942,14 +942,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ballystone </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J C McConnell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> B W Harvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J C McConnell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 2 % &lt;div&gt; </td>
+   <td style="text-align:left;"> B W Harvey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 123 <br> 384 </td>
-   <td style="text-align:center;"> 11 <br> 0.71 </td>
+   <td style="text-align:center;"> 123 &lt;br&gt; 384 </td>
+   <td style="text-align:center;"> 11 &lt;br&gt; 0.71 </td>
    <td style="text-align:center;"> 0.778 </td>
    <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0050854 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -961,14 +961,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Indiana Jones </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> M F Morris <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> G Brouder  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> M F Morris &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> G Brouder  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 123 <br> 127 </td>
-   <td style="text-align:center;"> 26 <br> 1.88 </td>
+   <td style="text-align:center;"> 123 &lt;br&gt; 127 </td>
+   <td style="text-align:center;"> 26 &lt;br&gt; 1.88 </td>
    <td style="text-align:center;"> 0.227 </td>
    <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0067428 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -980,14 +980,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Wee Charlie </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Gerard O'Leary <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> A P Kelly  <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
+   <td style="text-align:left;"> Gerard O'Leary &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A P Kelly  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 18 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 123 <br> 6 </td>
-   <td style="text-align:center;"> 5 <br> 0.65 </td>
+   <td style="text-align:center;"> 123 &lt;br&gt; 6 </td>
+   <td style="text-align:center;"> 5 &lt;br&gt; 0.65 </td>
    <td style="text-align:center;"> -0.772 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0281702 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -999,14 +999,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Cappucino </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Liz Doyle <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> Liz Doyle &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S F O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-5 </td>
-   <td style="text-align:center;"> 120 <br> 26 </td>
-   <td style="text-align:center;"> 12 <br> 0.54 </td>
+   <td style="text-align:center;"> 120 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 0.54 </td>
    <td style="text-align:center;"> -0.645 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0192068 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 16.0 </td>
@@ -1018,14 +1018,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lieber Nicc </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rachael Blackmore &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-4 </td>
-   <td style="text-align:center;"> 119 <br> 55 </td>
-   <td style="text-align:center;"> 8 <br> 0.67 </td>
+   <td style="text-align:center;"> 119 &lt;br&gt; 55 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.67 </td>
    <td style="text-align:center;"> -0.500 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0328383 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -1037,14 +1037,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Clarens </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J P Flavin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> A Harvey  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J P Flavin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Harvey  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-3 </td>
-   <td style="text-align:center;"> 118 <br> 41 </td>
-   <td style="text-align:center;"> 11 <br> 1.34 </td>
+   <td style="text-align:center;"> 118 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 11 &lt;br&gt; 1.34 </td>
    <td style="text-align:center;"> 0.106 </td>
    <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0010793 </td>
    <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 18.0 </td>
@@ -1056,14 +1056,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Jacovec Cavern </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> E Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Conor Clarke  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Conor Clarke  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-3 </td>
-   <td style="text-align:center;"> 118 <br> 40 </td>
-   <td style="text-align:center;"> 22 <br> 0.36 </td>
+   <td style="text-align:center;"> 118 &lt;br&gt; 40 </td>
+   <td style="text-align:center;"> 22 &lt;br&gt; 0.36 </td>
    <td style="text-align:center;"> -0.414 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0184121 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -1075,14 +1075,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Diamond Nora </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Queally <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P K Donovan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Queally &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P K Donovan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 117 <br> 38 </td>
-   <td style="text-align:center;"> 10 <br> 1.26 </td>
+   <td style="text-align:center;"> 117 &lt;br&gt; 38 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 1.26 </td>
    <td style="text-align:center;"> -0.503 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0220898 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -1094,14 +1094,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Metamorpheus </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
-   <td style="text-align:left;"> C M Quirke  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P Nolan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 18 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C M Quirke  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-1 </td>
-   <td style="text-align:center;"> 116 <br> 41 </td>
-   <td style="text-align:center;"> 22 <br> 1.88 </td>
+   <td style="text-align:center;"> 116 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 22 &lt;br&gt; 1.88 </td>
    <td style="text-align:center;"> -0.133 </td>
    <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0009428 </td>
    <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -1122,8 +1122,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -1140,14 +1140,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Nick Rockett </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
-   <td style="text-align:left;"> S Cleary-Farrell  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 23 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S Cleary-Farrell  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-12 </td>
-   <td style="text-align:center;"> 150 <br> 244 </td>
-   <td style="text-align:center;"> 12 <br> 0.21 </td>
+   <td style="text-align:center;"> 150 &lt;br&gt; 244 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 0.21 </td>
    <td style="text-align:center;"> -0.188 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0246346 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 14.0 </td>
@@ -1159,14 +1159,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Meetingofthewaters </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P T Smithers  <br> <div class = "badge rounded-pill hot "> 25 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P T Smithers  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 25 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-11 </td>
-   <td style="text-align:center;"> 149 <br> 258 </td>
-   <td style="text-align:center;"> 20 <br> 0.38 </td>
+   <td style="text-align:center;"> 149 &lt;br&gt; 258 </td>
+   <td style="text-align:center;"> 20 &lt;br&gt; 0.38 </td>
    <td style="text-align:center;"> 0.081 </td>
    <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0088534 </td>
    <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 10.0 </td>
@@ -1178,14 +1178,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Janidil </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> A P Kelly  <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A P Kelly  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 18 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-10 </td>
-   <td style="text-align:center;"> 148 <br> 41 </td>
-   <td style="text-align:center;"> 20 <br> 0.54 </td>
+   <td style="text-align:center;"> 148 &lt;br&gt; 41 </td>
+   <td style="text-align:center;"> 20 &lt;br&gt; 0.54 </td>
    <td style="text-align:center;"> 0.089 </td>
    <td style="text-align:center;"> 14 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0006183 </td>
    <td style="text-align:center;"> 28 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1197,14 +1197,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Three Card Brag </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C P Millar  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-10 </td>
-   <td style="text-align:center;"> 148 <br> 24 </td>
-   <td style="text-align:center;"> 8 <br> 0.7 </td>
+   <td style="text-align:center;"> 148 &lt;br&gt; 24 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 0.7 </td>
    <td style="text-align:center;"> 0.198 </td>
    <td style="text-align:center;"> 18 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0233040 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 8.0 </td>
@@ -1216,14 +1216,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Horantzau D'airy </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P Hanlon  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> P Hanlon  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 147 <br> 27 </td>
-   <td style="text-align:center;"> 13 <br> 0.12 </td>
+   <td style="text-align:center;"> 147 &lt;br&gt; 27 </td>
+   <td style="text-align:center;"> 13 &lt;br&gt; 0.12 </td>
    <td style="text-align:center;"> -0.260 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0194293 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 18.0 </td>
@@ -1235,14 +1235,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Pinkerton </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> N Meade <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> Mr R James  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> N Meade &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 7 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr R James  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-9 </td>
-   <td style="text-align:center;"> 147 <br> 55 </td>
-   <td style="text-align:center;"> 4 <br> 0.56 </td>
+   <td style="text-align:center;"> 147 &lt;br&gt; 55 </td>
+   <td style="text-align:center;"> 4 &lt;br&gt; 0.56 </td>
    <td style="text-align:center;"> -0.669 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 29.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 29.5% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 29.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 29.5% </td>
    <td style="text-align:center;"> 0.0388412 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.5 </td>
@@ -1254,14 +1254,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Adamantly Chosen </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C G O'Dwyer  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C G O'Dwyer  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-8 </td>
-   <td style="text-align:center;"> 146 <br> 20 </td>
-   <td style="text-align:center;"> 26 <br> 0.56 </td>
+   <td style="text-align:center;"> 146 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 26 &lt;br&gt; 0.56 </td>
    <td style="text-align:center;"> 0.323 </td>
    <td style="text-align:center;"> 21 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0048452 </td>
    <td style="text-align:center;"> 18 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1273,14 +1273,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lucid Dreams </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> J P Ryan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J P Ryan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D King &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 145 <br> 20 </td>
-   <td style="text-align:center;"> 12 <br> 0.56 </td>
+   <td style="text-align:center;"> 145 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 0.56 </td>
    <td style="text-align:center;"> 0.459 </td>
    <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0027937 </td>
    <td style="text-align:center;"> 21 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1292,14 +1292,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Favori De Champdou </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr J H Williamson  <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr J H Williamson  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-6 </td>
-   <td style="text-align:center;"> 144 <br> 252 </td>
-   <td style="text-align:center;"> 15 <br> 1.13 </td>
+   <td style="text-align:center;"> 144 &lt;br&gt; 252 </td>
+   <td style="text-align:center;"> 15 &lt;br&gt; 1.13 </td>
    <td style="text-align:center;"> 0.443 </td>
    <td style="text-align:center;"> 24 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0024689 </td>
    <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 28.0 </td>
@@ -1311,14 +1311,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Desertmore House </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> M Brassil <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> R A Doyle <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> M Brassil &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> R A Doyle &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 15 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 143 <br> 33 </td>
-   <td style="text-align:center;"> 17 <br> 0.69 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 33 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 0.69 </td>
    <td style="text-align:center;"> 0.195 </td>
    <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0343524 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 12.0 </td>
@@ -1330,14 +1330,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Life In The Park </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Rachael Blackmore &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 143 <br> 40 </td>
-   <td style="text-align:center;"> 24 <br> 0.54 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 40 </td>
+   <td style="text-align:center;"> 24 &lt;br&gt; 0.54 </td>
    <td style="text-align:center;"> 0.578 </td>
    <td style="text-align:center;"> 26 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0102805 </td>
    <td style="text-align:center;"> 14 </td>
    <td style="text-align:center;"> 25.0 </td>
@@ -1349,14 +1349,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Panda Boy </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> M Brassil <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> M Brassil &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J J Slevin &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 17 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-5 </td>
-   <td style="text-align:center;"> 143 <br> 68 </td>
-   <td style="text-align:center;"> 21 <br> 0.24 </td>
+   <td style="text-align:center;"> 143 &lt;br&gt; 68 </td>
+   <td style="text-align:center;"> 21 &lt;br&gt; 0.24 </td>
    <td style="text-align:center;"> -0.420 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0665216 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 7.5 </td>
@@ -1368,14 +1368,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Macdermott </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D E Mullins &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 13 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 142 <br> 20 </td>
-   <td style="text-align:center;"> 12 <br> 0.89 </td>
+   <td style="text-align:center;"> 142 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 0.89 </td>
    <td style="text-align:center;"> -0.647 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 41% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 41% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 41% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 41% </td>
    <td style="text-align:center;"> 0.0079296 </td>
    <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 18.0 </td>
@@ -1387,14 +1387,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Perceval Legallois </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class = "badge rounded-pill hot "> 28 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 16 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M P Walsh &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 28 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-4 </td>
-   <td style="text-align:center;"> 142 <br> 40 </td>
-   <td style="text-align:center;"> 18 <br> 0.36 </td>
+   <td style="text-align:center;"> 142 &lt;br&gt; 40 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 0.36 </td>
    <td style="text-align:center;"> -0.650 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 10.5% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 10.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 10.5% </td>
    <td style="text-align:center;"> 0.0405818 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 11.0 </td>
@@ -1406,14 +1406,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Hgranca De Thaix </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> B Connell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> B Connell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S W Flanagan &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 11 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-3 </td>
-   <td style="text-align:center;"> 141 <br> 62 </td>
-   <td style="text-align:center;"> 6 <br> 0.49 </td>
+   <td style="text-align:center;"> 141 &lt;br&gt; 62 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.49 </td>
    <td style="text-align:center;"> 0.381 </td>
    <td style="text-align:center;"> 22 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0119688 </td>
    <td style="text-align:center;"> 13 </td>
    <td style="text-align:center;"> 10.0 </td>
@@ -1425,14 +1425,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Spanish Harlem </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> S F O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 8 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-0 </td>
-   <td style="text-align:center;"> 138 <br> 237 </td>
-   <td style="text-align:center;"> 19 <br> 0.97 </td>
+   <td style="text-align:center;"> 138 &lt;br&gt; 237 </td>
+   <td style="text-align:center;"> 19 &lt;br&gt; 0.97 </td>
    <td style="text-align:center;"> -0.555 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0119968 </td>
    <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1444,14 +1444,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Hartur D'arc </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K M Donoghue &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 12 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-13 </td>
-   <td style="text-align:center;"> 137 <br> 6 </td>
-   <td style="text-align:center;"> 29 <br> 0.29 </td>
+   <td style="text-align:center;"> 137 &lt;br&gt; 6 </td>
+   <td style="text-align:center;"> 29 &lt;br&gt; 0.29 </td>
    <td style="text-align:center;"> 0.114 </td>
    <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0010685 </td>
    <td style="text-align:center;"> 27 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1463,14 +1463,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Aime Desjy </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> K Callaghan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> K Callaghan  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 135 <br> 20 </td>
-   <td style="text-align:center;"> 25 <br> 1.03 </td>
+   <td style="text-align:center;"> 135 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 25 &lt;br&gt; 1.03 </td>
    <td style="text-align:center;"> 0.405 </td>
    <td style="text-align:center;"> 23 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0031767 </td>
    <td style="text-align:center;"> 20 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -1482,14 +1482,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Toss Again </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J O'Keeffe &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-11 </td>
-   <td style="text-align:center;"> 135 <br> 76 </td>
-   <td style="text-align:center;"> 24 <br> 0.74 </td>
+   <td style="text-align:center;"> 135 &lt;br&gt; 76 </td>
+   <td style="text-align:center;"> 24 &lt;br&gt; 0.74 </td>
    <td style="text-align:center;"> 0.598 </td>
    <td style="text-align:center;"> 27 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0208360 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -1501,14 +1501,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Fakir D'alene </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J S McGarvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> J S McGarvey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-10 </td>
-   <td style="text-align:center;"> 134 <br> 40 </td>
-   <td style="text-align:center;"> 29 <br> 1.12 </td>
+   <td style="text-align:center;"> 134 &lt;br&gt; 40 </td>
+   <td style="text-align:center;"> 29 &lt;br&gt; 1.12 </td>
    <td style="text-align:center;"> 1.054 </td>
    <td style="text-align:center;"> 28 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0065463 </td>
    <td style="text-align:center;"> 17 </td>
    <td style="text-align:center;"> 66.0 </td>
@@ -1520,14 +1520,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Mars Harper </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J Gilligan <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> D J Gilligan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 5 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-8 </td>
-   <td style="text-align:center;"> 132 <br> 20 </td>
-   <td style="text-align:center;"> 17 <br> 0.56 </td>
+   <td style="text-align:center;"> 132 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 17 &lt;br&gt; 0.56 </td>
    <td style="text-align:center;"> -0.784 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 19% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 19% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 19% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 19% </td>
    <td style="text-align:center;"> 0.0308589 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 22.0 </td>
@@ -1539,14 +1539,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Chavez </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M J M O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> M J M O'Sullivan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-7 </td>
-   <td style="text-align:center;"> 131 <br> 288 </td>
-   <td style="text-align:center;"> 25 <br> 1.02 </td>
+   <td style="text-align:center;"> 131 &lt;br&gt; 288 </td>
+   <td style="text-align:center;"> 25 &lt;br&gt; 1.02 </td>
    <td style="text-align:center;"> 0.170 </td>
    <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0034797 </td>
    <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -1558,14 +1558,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Klarc Kent </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Anna McGuinness  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Anna McGuinness  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-6 </td>
-   <td style="text-align:center;"> 130 <br> 20 </td>
-   <td style="text-align:center;"> 24 <br> 1.78 </td>
+   <td style="text-align:center;"> 130 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 24 &lt;br&gt; 1.78 </td>
    <td style="text-align:center;"> 0.255 </td>
    <td style="text-align:center;"> 19 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0027733 </td>
    <td style="text-align:center;"> 22 </td>
    <td style="text-align:center;"> 50.0 </td>
@@ -1577,14 +1577,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> History Of Fashion </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> P A Fahy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> H E Sexton  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P A Fahy &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> H E Sexton  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-5 </td>
-   <td style="text-align:center;"> 129 <br> 26 </td>
-   <td style="text-align:center;"> 12 <br> 1.76 </td>
+   <td style="text-align:center;"> 129 &lt;br&gt; 26 </td>
+   <td style="text-align:center;"> 12 &lt;br&gt; 1.76 </td>
    <td style="text-align:center;"> -0.113 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0011811 </td>
    <td style="text-align:center;"> 26 </td>
    <td style="text-align:center;"> 28.0 </td>
@@ -1596,14 +1596,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Positive Thinker </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> M J McDonagh <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C M Quirke  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> M J McDonagh &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C M Quirke  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-5 </td>
-   <td style="text-align:center;"> 129 <br> 54 </td>
-   <td style="text-align:center;"> 9 <br> 1.14 </td>
+   <td style="text-align:center;"> 129 &lt;br&gt; 54 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 1.14 </td>
    <td style="text-align:center;"> 0.306 </td>
    <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0024029 </td>
    <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 33.0 </td>
@@ -1615,14 +1615,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Midnight Our Fred </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J P Flavin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> A Harvey  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J P Flavin &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> A Harvey  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-4 </td>
-   <td style="text-align:center;"> 128 <br> 83 </td>
-   <td style="text-align:center;"> 6 <br> 0.42 </td>
+   <td style="text-align:center;"> 128 &lt;br&gt; 83 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.42 </td>
    <td style="text-align:center;"> 0.055 </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0215004 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 8.5 </td>
@@ -1634,14 +1634,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Will Do </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Sam Ewing &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-2 </td>
-   <td style="text-align:center;"> 126 <br> 45 </td>
-   <td style="text-align:center;"> 8 <br> 1.16 </td>
+   <td style="text-align:center;"> 126 &lt;br&gt; 45 </td>
+   <td style="text-align:center;"> 8 &lt;br&gt; 1.16 </td>
    <td style="text-align:center;"> -0.007 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1176699 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 7.0 </td>
@@ -1653,14 +1653,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Galon De Vauzelle </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 3 % <div> </td>
-   <td style="text-align:left;"> C M Hogan  <br> <div class = "badge rounded-pill hot "> 25 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 3 % &lt;div&gt; </td>
+   <td style="text-align:left;"> C M Hogan  &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 25 % &lt;div&gt; </td>
    <td style="text-align:center;"> 10-0 </td>
-   <td style="text-align:center;"> 124 <br> 48 </td>
-   <td style="text-align:center;"> 18 <br> 1.42 </td>
+   <td style="text-align:center;"> 124 &lt;br&gt; 48 </td>
+   <td style="text-align:center;"> 18 &lt;br&gt; 1.42 </td>
    <td style="text-align:center;"> 0.072 </td>
    <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0015225 </td>
    <td style="text-align:center;"> 25 </td>
    <td style="text-align:center;"> 40.0 </td>
@@ -1681,8 +1681,8 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
    <th style="text-align:left;"> Trainer </th>
    <th style="text-align:left;"> Jockey </th>
    <th style="text-align:center;"> weight </th>
-   <th style="text-align:center;"> OR <br> DSLR </th>
-   <th style="text-align:center;"> VDW <br> Alt VDW </th>
+   <th style="text-align:center;"> OR &lt;br&gt; DSLR </th>
+   <th style="text-align:center;"> VDW &lt;br&gt; Alt VDW </th>
    <th style="text-align:center;"> Pred Score </th>
    <th style="text-align:center;"> Predicted Position </th>
    <th style="text-align:center;"> Win % </th>
@@ -1699,14 +1699,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> American Jukebox </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Mr H C Swan <br> <div class = "badge rounded-pill hot "> 25 % <div> </td>
+   <td style="text-align:left;"> G Elliott &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 10 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr H C Swan &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 25 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 45 </td>
-   <td style="text-align:center;"> 9 <br> 0.77 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 45 </td>
+   <td style="text-align:center;"> 9 &lt;br&gt; 0.77 </td>
    <td style="text-align:center;"> -0.080 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0866863 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 3.00 </td>
@@ -1718,14 +1718,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Coolberrin Hill </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N G Hynds <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr E P O'Brien  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> N G Hynds &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr E P O'Brien  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 222 </td>
-   <td style="text-align:center;"> 7 <br> 0 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 222 </td>
+   <td style="text-align:center;"> 7 &lt;br&gt; 0 </td>
    <td style="text-align:center;"> -0.218 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 100% </td>
    <td style="text-align:center;"> 0.0793351 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -1737,14 +1737,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Eclipse Chaser </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill hot "> 24 % <div> </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class = "badge rounded-pill hot "> 44 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 24 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr P W Mullins &lt;br&gt; &lt;div class = "badge rounded-pill hot "&gt; 44 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 299 </td>
-   <td style="text-align:center;"> 30 <br> 0 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 299 </td>
+   <td style="text-align:center;"> 30 &lt;br&gt; 0 </td>
    <td style="text-align:center;"> 0.676 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2866955 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 1.75 </td>
@@ -1756,14 +1756,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> God Help Me </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S R B Crawford <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Mr S Connor  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> S R B Crawford &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 6 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr S Connor  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 321 </td>
-   <td style="text-align:center;"> 6 <br> 0 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 321 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0 </td>
    <td style="text-align:center;"> 1.356 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0217364 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 7.00 </td>
@@ -1775,14 +1775,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Karate Kid </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Colm Ryan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr R W Barron  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Colm Ryan &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr R W Barron  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 81 </td>
-   <td style="text-align:center;"> 6 <br> 0.26 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 81 </td>
+   <td style="text-align:center;"> 6 &lt;br&gt; 0.26 </td>
    <td style="text-align:center;"> 0.174 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.1003446 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 7.00 </td>
@@ -1794,14 +1794,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Leaky Cauldron </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr E Ohgren  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> W P Mullins &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr E Ohgren  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 432 </td>
-   <td style="text-align:center;"> 3 <br> 0 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 432 </td>
+   <td style="text-align:center;"> 3 &lt;br&gt; 0 </td>
    <td style="text-align:center;"> 1.110 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.2360411 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 2.50 </td>
@@ -1813,14 +1813,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Matter Of Opinion </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> William Harvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Ms L A Byrne  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> William Harvey &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Ms L A Byrne  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 0 <br> 80 </td>
-   <td style="text-align:center;"> 10 <br> 1.92 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 80 </td>
+   <td style="text-align:center;"> 10 &lt;br&gt; 1.92 </td>
    <td style="text-align:center;"> 0.267 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0282949 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 20.00 </td>
@@ -1832,14 +1832,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Katie's World </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> K F O'Donnell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr A W O'Donnell  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> K F O'Donnell &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr A W O'Donnell  &lt;br&gt; &lt;div class = "badge rounded-pill cool "&gt; 0 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 0 <br> 84 </td>
-   <td style="text-align:center;"> 30 <br> 0.83 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 84 </td>
+   <td style="text-align:center;"> 30 &lt;br&gt; 0.83 </td>
    <td style="text-align:center;"> 1.631 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0059438 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> 200.00 </td>
@@ -1851,14 +1851,14 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Meetmeinstlouis </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> M F Morris <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> Mr J H Williamson  <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> M F Morris &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 20 % &lt;div&gt; </td>
+   <td style="text-align:left;"> Mr J H Williamson  &lt;br&gt; &lt;div class = "badge rounded-pill average "&gt; 14 % &lt;div&gt; </td>
    <td style="text-align:center;"> 11-7 </td>
-   <td style="text-align:center;"> 0 <br> 20 </td>
-   <td style="text-align:center;"> 30 <br> 1.53 </td>
+   <td style="text-align:center;"> 0 &lt;br&gt; 20 </td>
+   <td style="text-align:center;"> 30 &lt;br&gt; 1.53 </td>
    <td style="text-align:center;"> 1.101 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> &lt;div class="progress" style="height:5px"&gt;     &lt;div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"&gt;&lt;/div&gt; &lt;/div&gt; &lt;br&gt; 0% </td>
    <td style="text-align:center;"> 0.0112331 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 33.00 </td>
