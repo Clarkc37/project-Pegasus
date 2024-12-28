@@ -1,9 +1,9 @@
 ---
-title: "Chepstow | Saturday 13 April 2024"
+title: "Chepstow | Friday 27 December 2024"
 course: Chepstow
 image: course.png
 featured: false
-Date: 2024-04-13
+Date: 2024-12-27
 order: 0
 output:
   html_document:
@@ -48,47 +48,50 @@ raceinfobox(tabledata$Title[1],
   cat("\n")
  cat('<div class="table-responsive">',"\n")
   kibble <-
-   tabledata %>% ungroup() %>% filter(QueryID == i) %>% mutate(Silk = "",
-                                                               prediction.score=round(prediction.score,3)) %>% select(
-                                                                            Horse.Number,
-                                                                            Form,
-                                                                            Silk,
-                                                                            Name,
-                                                                            Age,
-                                                                            Trainer,
-                                                                            Jockey,
-                                                                            Weight,
-                                                                            OR,
-                                                                            VDW,
-                                                                            prediction.score,
-                                                                            Rank,
-                                                                            win.pct,
-                                                                            bet.prediction.score,
-                                                                            Bet.Rank,
-                                                                            Odds
-                                                                          ) %>%  kable(
-                                                                            align = 'clclcllccccccccc',
-                                                                            table.attr = "class=\'racecard\'",
-                                                                            escape = F,
-                                                                            col.names = c(
-                                                                              'No.',
-                                                                              "Form",
-                                                                              "Horse",
-                                                                              "",
-                                                                              'Age',
-                                                                              'Trainer',
-                                                                              'Jockey',
-                                                                              "weight",
-                                                                              'OR <br> DSLR',
-                                                                              'VDW <br> Alt VDW',
-                                                                              'Pred Score',
-                                                                              'Predicted Position',
-                                                                              'Win %',
-                                                                              'ew probability',
-                                                                              'ew preference',
-                                                                              'Odds'
-                                                                            )
-                                                                          ) %>% kable_styling('hover', full_width = F) %>% column_spec(1, width =
+   tabledata %>%
+    ungroup() %>%
+    filter(QueryID == i) %>% 
+    mutate(Silk = "",
+           prediction.score=round(prediction.score,3)) %>% 
+    select(Horse.Number,
+           Form,
+           Silk,
+           Name,
+           Age,
+           Trainer,
+           Jockey,
+           Weight,
+           OR,
+           VDW,
+           prediction.score,
+           Rank,
+           win.pct,
+           bet.prediction.score,
+           Bet.Rank,
+           Odds) %>%  
+    kable(align = 'clclcllccccccccc',
+          table.attr = "class=\'racecard\'",
+          escape = FALSE,
+          col.names = c(
+          'No.',
+          "Form",
+          "Horse",
+          "",
+          'Age',
+          'Trainer',
+          'Jockey',
+          "weight",
+          'OR <br> DSLR',
+          'VDW <br> Alt VDW',
+          'Pred Score',
+          'Predicted Position',
+          'Win %',
+          'ew probability',
+          'ew preference',
+          'Odds')) %>% 
+    kable_styling('hover', 
+                  full_width = F) %>% 
+    column_spec(1, width =
                                                                                                                                          "65px")%>% column_spec(3, width =
                                                                                                                                          "40px")  %>%  column_spec(3, image = Todays.Prediction[Todays.Prediction$QueryID ==
                                                                                                                                                                                                   i,]$url.silk[])

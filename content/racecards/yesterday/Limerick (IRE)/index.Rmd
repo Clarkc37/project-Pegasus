@@ -1,9 +1,9 @@
 ---
-title: "Limerick (IRE) | Thursday 26 December 2024"
+title: "Limerick (IRE) | Friday 27 December 2024"
 course: Limerick (IRE)
 image: course.png
 featured: false
-Date: 2024-12-26
+Date: 2024-12-27
 order: 0
 output:
   html_document:

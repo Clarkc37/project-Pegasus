@@ -1,9 +1,9 @@
 ---
-title: "Chepstow | Friday 27 December 2024"
-course: Chepstow
+title: "Catterick | Saturday 28 December 2024"
+course: Catterick
 image: course.png
 featured: false
-Date: 2024-12-27
+Date: 2024-12-28
 order: 0
 output:
   html_document:
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Chepstow including algorithm predictions and confidence %
+Todays Racecard for Catterick including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Chepstow") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Catterick") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
