@@ -1,6 +1,6 @@
 ---
-title: "Limerick (IRE) | Sunday 29 December 2024"
-course: Limerick (IRE)
+title: "Kelso | Sunday 29 December 2024"
+course: Kelso
 image: course.png
 featured: false
 Date: 2024-12-29
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Limerick (IRE) including algorithm predictions and confidence %
+Todays Racecard for Kelso including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -22,7 +22,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Limerick (IRE)") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Kelso") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
