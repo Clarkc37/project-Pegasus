@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output:
+  html_document:
+    keep_md: yes
+  
+date: "2023-03-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+``` {r echo=FALSE, results = "asis"}
+library(dplyr)
+library(knitr)
+Todays.Prediction  %>% mutate(Jockey = paste(Jockey,"\n",paste(round(Jockey.sr*100,2),"%",sep=""))) %>% ungroup() %>% select(Jockey) %>% kable(escape=FALSE)
+```

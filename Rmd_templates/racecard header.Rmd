@@ -1,0 +1,16 @@
+---
+title: "Course_Placeholder | Dateformatted"
+course: Course_Placeholder
+image: course.png
+featured: featured_placeholder
+Date: Date_Placeholder
+order: 0
+output:
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+options(kableExtra_view_html = F)
+```
