@@ -4,7 +4,7 @@ library(lubridate)
 library(httr)
 
 source('./R_Scripts/Racecard Webpages functions.R')
-tmpath<- "/Users/colinclarke/Library/CloudStorage/GoogleDrive-colin.clarke137@gmail.com/My Drive/R Projects/project-Pegasus/project-Pegasus/content/racecards/today"
+tmpath<- paste0(getwd(),"/content/racecards/today")
 
 Todays.Prediction <- readRDS('./R_Scripts/Todays_Prediction.rds')
 Todays.Prediction <- Todays.Prediction %>% mutate(JSR.css=case_when(Jockey.sr<.1~"cool",
