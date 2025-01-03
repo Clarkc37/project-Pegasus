@@ -1,8 +1,6 @@
 library(dplyr)
 library(stringr)
 library(lubridate)
-
-library(git2r)
 library(httr)
 
 source('./R_Scripts/Racecard Webpages functions.R')
