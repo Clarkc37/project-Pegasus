@@ -16,7 +16,7 @@ raceinfobox <- function(race_name,
                         prize_money){
   
   #read in the html template
-  tmplate <- read_lines('./Rmd_templates/race info template.txt')
+  tmplate <- read_lines('../../../../Rmd_Templates/race info template.txt')
   
   #replace placeholders with variables
   tmplate <- tmplate %>% str_replace_all("race_name_placeholder",race_name)
