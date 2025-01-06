@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<main class="blog-content">
+    <div class="container">
+        <div class="row">
+            {{ with .Page.Params.image }}
+                <figure>
+                    {{ $image := $.Page.Resources.GetMatch . }}
+                    <img id="cover-image" src={{ $image.RelPermalink }} alt="{{ $.Title }}">
+                </figure>
+                {{ end }}
+            <!-- <div class="col-lg-8 offset-lg-2 px-lg-4"> -->
+            <div class="col px-2">
+                {{ partial "ads.html" "ads/horizontal-ad.js" }}
+
+                <div id="title-box" class="flex flex-col">
+                    <span id="title-text" class="text-3xl font-bold">
+                        {{ .Title}}
+                    </span>
+                    <span id="date-text" class="font-light text-base">
+                        {{ .Date.Format "2 Jan 2006" }}
+
+                    </span>
+                </div>
+
+                <div class="container-fluid px-0 mb-4">
+                    <div class="row align-items-end">
+                        
+                        <div class="col-md-8 tags ">
+                            {{ range .Params.tags }}
+                            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}"><span
+                                    class="tag bg-dark">{{ . }}</span></a>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                {{ .Content }}
+
+                {{ partial "social-media-share.html" . }}
+
+                {{ partial "ads.html" "ads/horizontal-ad.js" }}
+                <br>
+                {{ partial "disqus.html" . }}
+            </div>
+
+    </div>
+</main>
+
+{{ end }}

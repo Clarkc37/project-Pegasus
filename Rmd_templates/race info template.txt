@@ -12,9 +12,6 @@
                  <span class="pe-0">
                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> course_placeholder </button>
                  </span>
-                 <span class="ps-0">
-                   <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>
-                 </span>
                </div>
              </div>
            </div>

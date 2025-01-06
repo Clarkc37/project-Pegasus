@@ -1,13 +1,11 @@
 ---
-title: "Course_Placeholder | Dateformatted"
+title: "Course_Placeholder"
 course: Course_Placeholder
 image: course.png
 featured: featured_placeholder
 Date: Date_Placeholder
 order: 0
-output:
-  html_document:
-    keep_md: yes
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
