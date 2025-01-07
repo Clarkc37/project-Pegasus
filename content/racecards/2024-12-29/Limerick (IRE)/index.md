@@ -13,9 +13,9 @@ output:
 
 Todays Racecard for Limerick (IRE) including algorithm predictions and confidence %
 
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Limerick Racecourse Vets Novice Handicap Chase (0-109)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:32 Limerick (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 120y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">12 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,900 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Limerick Racecourse Vets Novice Handicap Chase (0-109)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:32 Limerick (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 120y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">12 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,900 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="12:32 Limerick (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -44,8 +44,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Atacanter </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> R O'Sullivan <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Mr L P Shanahan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> R O'Sullivan <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr L P Shanahan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 107 <br> 28 </td>
    <td style="text-align:center;"> 17 <br> 1.73 </td>
@@ -63,8 +67,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Brave Adam </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> T Cooper <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> T Joseph Kelly  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> T Cooper <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T Joseph Kelly  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 107 <br> 19 </td>
    <td style="text-align:center;"> 15 <br> 3.46 </td>
@@ -82,8 +90,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Drop The Anchor </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> P A Fahy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J S McGarvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P A Fahy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J S McGarvey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 107 <br> 26 </td>
    <td style="text-align:center;"> 24 <br> 4.05 </td>
@@ -101,8 +113,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Muskerry Rock </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> M F Morris <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> G Brouder  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> M F Morris <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G Brouder  <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 104 <br> 16 </td>
    <td style="text-align:center;"> 17 <br> 2.44 </td>
@@ -120,8 +136,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Quornofamonday </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J P Dempsey <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> E Walsh <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> J P Dempsey <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> E Walsh <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 102 <br> 15 </td>
    <td style="text-align:center;"> 26 <br> 5.19 </td>
@@ -139,8 +159,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Rusheen </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J Dullea <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
+   <td style="text-align:left;"> J Dullea <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 100 <br> 26 </td>
    <td style="text-align:center;"> 24 <br> 4.25 </td>
@@ -158,8 +182,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Whateys Quest </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> C Byrnes <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> P Byrnes <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> C Byrnes <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Byrnes <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 100 <br> 13 </td>
    <td style="text-align:center;"> 30 <br> 5.97 </td>
@@ -177,8 +205,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Duffys Getaway </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> J P O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 2 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J P O'Sullivan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 95 <br> 22 </td>
    <td style="text-align:center;"> 17 <br> 3.26 </td>
@@ -196,8 +228,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Soldier Of Honour </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> E McCarthy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> G B Noonan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E McCarthy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G B Noonan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 93 <br> 250 </td>
    <td style="text-align:center;"> 24 <br> 5.09 </td>
@@ -215,8 +251,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Bearwithmenow </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J P Flavin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> L Quinlan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J P Flavin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> L Quinlan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 84 <br> 8 </td>
    <td style="text-align:center;"> 23 <br> 5.27 </td>
@@ -234,8 +274,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Starlight Cato </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> D Howard <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Howard <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 81 <br> 33 </td>
    <td style="text-align:center;"> 20 <br> 4.23 </td>
@@ -253,8 +297,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Da Big Fella </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> Eamon Courtney <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M P O'Connor <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> Eamon Courtney <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M P O'Connor <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 79 <br> 33 </td>
    <td style="text-align:center;"> 14 <br> 2.61 </td>
@@ -268,9 +316,9 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">QuinnBet Handicap Hurdle (Listed)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:07 Limerick (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (3YO to 4YO)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">9 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€27,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">QuinnBet Handicap Hurdle (Listed)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:07 Limerick (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (3YO to 4YO)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">9 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€27,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:07 Limerick (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -299,8 +347,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Eagles Reign </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> R O'Sullivan <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> T P Harney  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> R O'Sullivan <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T P Harney  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 130 <br> 29 </td>
    <td style="text-align:center;"> 17 <br> 3.29 </td>
@@ -318,8 +370,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Bright Legend </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> D Hogan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Hogan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 117 <br> 44 </td>
    <td style="text-align:center;"> 21 <br> 3.44 </td>
@@ -337,8 +393,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> St Faz </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
+   <td style="text-align:left;"> E J O'Grady <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 116 <br> 26 </td>
    <td style="text-align:center;"> 12 <br> 1.51 </td>
@@ -356,8 +416,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Balko D'ange </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> P Fenton <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
-   <td style="text-align:left;"> Niall Moore  <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> P Fenton <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Niall Moore  <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 114 <br> 40 </td>
    <td style="text-align:center;"> 14 <br> 3.18 </td>
@@ -375,8 +439,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Club Manager </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> S Fitzgerald <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Fitzgerald <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 114 <br> 42 </td>
    <td style="text-align:center;"> 16 <br> 1.08 </td>
@@ -394,8 +462,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Messerschmitt </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> N Meade <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> K C Sexton <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> N Meade <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> K C Sexton <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-6 </td>
    <td style="text-align:center;"> 125 <br> 28 </td>
    <td style="text-align:center;"> 14 <br> 0.73 </td>
@@ -413,8 +485,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Ifitwasme </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> E McNamara <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> C P McNamara <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> E McNamara <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C P McNamara <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 108 <br> 0 </td>
    <td style="text-align:center;"> 16 <br> 3.98 </td>
@@ -432,8 +508,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> The Blaggard </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> E McCarthy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> G B Noonan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E McCarthy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G B Noonan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-4 </td>
    <td style="text-align:center;"> 108 <br> 80 </td>
    <td style="text-align:center;"> 15 <br> 2.58 </td>
@@ -451,8 +531,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Robbies Rock </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J Kearney  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J Kearney  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 119 <br> 16 </td>
    <td style="text-align:center;"> 14 <br> 2.17 </td>
@@ -466,9 +550,9 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Prestige Tarmacadam Rated Novice Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:42 Limerick (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,900 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Prestige Tarmacadam Rated Novice Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:42 Limerick (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,900 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:42 Limerick (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -497,8 +581,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Killaney King </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> M P O'Connor <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M P O'Connor <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 116 <br> 21 </td>
    <td style="text-align:center;"> 18 <br> 2.89 </td>
@@ -516,8 +604,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Summer Melody </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C Byrnes <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> P Byrnes <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> C Byrnes <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Byrnes <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 114 <br> 37 </td>
    <td style="text-align:center;"> 30 <br> 5.54 </td>
@@ -535,8 +627,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Maroto </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A McNamara <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J J Slevin <br> <div class = "badge rounded-pill hot "> 23 % <div> </td>
+   <td style="text-align:left;"> A McNamara <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Slevin <br> <div class="badge rounded-pill hot "> 23 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 113 <br> 145 </td>
    <td style="text-align:center;"> 15 <br> 2.14 </td>
@@ -554,8 +650,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Attaboyarchie </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> K Thornton <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Miss E J Sweeney  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> K Thornton <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss E J Sweeney  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 112 <br> 22 </td>
    <td style="text-align:center;"> 22 <br> 3.44 </td>
@@ -573,8 +673,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Rut Daniels </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D H Kelly <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> R P Treacy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D H Kelly <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R P Treacy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 107 <br> 40 </td>
    <td style="text-align:center;"> 11 <br> 1.79 </td>
@@ -592,8 +696,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Say It So </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> E McNamara <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> C P McNamara <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> E McNamara <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C P McNamara <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 107 <br> 0 </td>
    <td style="text-align:center;"> 5 <br> 0.57 </td>
@@ -611,8 +719,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Ad Caelum </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> J P Ryan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr D Doyle  <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> J P Ryan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr D Doyle  <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 102 <br> 3 </td>
    <td style="text-align:center;"> 9 <br> 1.15 </td>
@@ -630,8 +742,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Ask The Bookie </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Gillian Scott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Gillian Scott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 105 <br> 56 </td>
    <td style="text-align:center;"> 18 <br> 5.9 </td>
@@ -645,9 +761,9 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">RAYN Safety & Security Handicap Hurdle (80-102)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:27 Limerick (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">18 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,300 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">RAYN Safety & Security Handicap Hurdle (80-102)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:27 Limerick (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Yielding to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">18 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€6,300 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="15:27 Limerick (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -676,8 +792,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Elusive Guy </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> J P Fahey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> T P Harney  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> J P Fahey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T P Harney  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 102 <br> 0 </td>
    <td style="text-align:center;"> 28 <br> 6.41 </td>
@@ -695,8 +815,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Jack In The Box </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> E O'Connell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr J H Williamson  <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> E O'Connell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr J H Williamson  <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 100 <br> 309 </td>
    <td style="text-align:center;"> 28 <br> 3.71 </td>
@@ -714,8 +838,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> River Vale </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> M Winters <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> G Brouder  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> M Winters <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G Brouder  <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 97 <br> 26 </td>
    <td style="text-align:center;"> 25 <br> 6.1 </td>
@@ -733,8 +861,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Another Ocana </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> L J Archdeacon <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> E Walsh <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> L J Archdeacon <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> E Walsh <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 96 <br> 21 </td>
    <td style="text-align:center;"> 26 <br> 4.34 </td>
@@ -752,8 +884,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> French Hill </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K C Sexton <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> K C Sexton <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 96 <br> 19 </td>
    <td style="text-align:center;"> 21 <br> 4.29 </td>
@@ -771,8 +907,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Stellar Symphony </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> T O'Brien <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> J P Shinnick  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> T O'Brien <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J P Shinnick  <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 96 <br> 37 </td>
    <td style="text-align:center;"> 22 <br> 4.78 </td>
@@ -790,8 +930,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Ag Obair Go Crua </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> J P Flavin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> H Morgan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> J P Flavin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Morgan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 95 <br> 33 </td>
    <td style="text-align:center;"> 25 <br> 7.56 </td>
@@ -809,8 +953,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Nephin Beg </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Sean Thomas Doyle <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr J L Scallan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Sean Thomas Doyle <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr J L Scallan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 95 <br> 180 </td>
    <td style="text-align:center;"> 25 <br> 5.78 </td>
@@ -828,8 +976,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Knockbrack Rambler </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Brendan Walsh <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr C J Shine  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Brendan Walsh <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr C J Shine  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 94 <br> 26 </td>
    <td style="text-align:center;"> 19 <br> 3.36 </td>
@@ -847,8 +999,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Cullagh Pride </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> S Fahey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> B W Harvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> S Fahey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B W Harvey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 93 <br> 63 </td>
    <td style="text-align:center;"> 23 <br> 4.72 </td>
@@ -866,8 +1022,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Duffys Hodey </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> P Hanlon  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 2 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Hanlon  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 93 <br> 26 </td>
    <td style="text-align:center;"> 8 <br> 4.59 </td>
@@ -885,8 +1045,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> New Barn Lane </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C O'Dwyer <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C G O'Dwyer  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> C O'Dwyer <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C G O'Dwyer  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 93 <br> 15 </td>
    <td style="text-align:center;"> 15 <br> 5.45 </td>
@@ -904,8 +1068,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Getaway Master </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Richard Daniels <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P K Donovan  <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> Richard Daniels <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P K Donovan  <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 92 <br> 220 </td>
    <td style="text-align:center;"> 15 <br> 5.84 </td>
@@ -923,8 +1091,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Lispopple </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Fenton <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
-   <td style="text-align:left;"> Niall Moore  <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> P Fenton <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Niall Moore  <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 92 <br> 71 </td>
    <td style="text-align:center;"> 21 <br> 5.73 </td>
@@ -942,8 +1114,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Spatman De Cerisy </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> R Deegan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R Deegan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 92 <br> 214 </td>
    <td style="text-align:center;"> 19 <br> 5.28 </td>
@@ -961,8 +1137,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> The Lucky Lobster </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Queally <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> S Fitzgerald <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Queally <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Fitzgerald <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 92 <br> 195 </td>
    <td style="text-align:center;"> 18 <br> 3.63 </td>
@@ -980,8 +1160,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Beeverstown Place </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> M A Cahill <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> L Quinlan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> M A Cahill <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> L Quinlan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 91 <br> 254 </td>
    <td style="text-align:center;"> 15 <br> 3.4 </td>
@@ -999,8 +1183,12 @@ Todays Racecard for Limerick (IRE) including algorithm predictions and confidenc
 </td>
    <td style="text-align:left;"> Job Well Done </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> E Bolger <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J S McGarvey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E Bolger <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J S McGarvey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 90 <br> 26 </td>
    <td style="text-align:center;"> 27 <br> 5.4 </td>

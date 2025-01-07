@@ -13,9 +13,9 @@ output:
 
 Todays Racecard for Leopardstown (IRE) including algorithm predictions and confidence %
 
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">SIS Supporting Irish Racing Irish EBF Novice Handicap Hurdle (80-130)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:45 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">12 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€14,999 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">SIS Supporting Irish Racing Irish EBF Novice Handicap Hurdle (80-130)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:45 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">12 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€14,999 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="12:45 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -44,8 +44,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Patter Merchant </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C P Millar  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 130 <br> 22 </td>
    <td style="text-align:center;"> 9 <br> 0.86 </td>
@@ -63,8 +67,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> All For Rachel </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> O McKiernan <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> P T Enright <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> O McKiernan <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P T Enright <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 129 <br> 42 </td>
    <td style="text-align:center;"> 8 <br> 0.63 </td>
@@ -82,8 +90,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Big Chou </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> N Meade <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> C Stone-Walsh  <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> N Meade <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C Stone-Walsh  <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 124 <br> 29 </td>
    <td style="text-align:center;"> 11 <br> 1.1 </td>
@@ -101,8 +113,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Churchroad Prince </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Jonathan Sweeney <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M J M O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Jonathan Sweeney <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M J M O'Sullivan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 123 <br> 21 </td>
    <td style="text-align:center;"> 11 <br> 1.15 </td>
@@ -120,8 +136,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Taponthego </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 123 <br> 37 </td>
    <td style="text-align:center;"> 5 <br> 2.24 </td>
@@ -139,8 +159,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Fenway Park </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 122 <br> 42 </td>
    <td style="text-align:center;"> 9 <br> 0.78 </td>
@@ -158,8 +182,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ol Man Dingle </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> E Griffin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> R A Doyle <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> E Griffin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R A Doyle <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 122 <br> 62 </td>
    <td style="text-align:center;"> 5 <br> 0.65 </td>
@@ -177,8 +205,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sonny May </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> D Hickey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> D Hickey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S F O'Keeffe <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 122 <br> 35 </td>
    <td style="text-align:center;"> 6 <br> 0.94 </td>
@@ -196,8 +228,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Savante </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Colm Murphy <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> B Hayes <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> Colm Murphy <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B Hayes <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 120 <br> 58 </td>
    <td style="text-align:center;"> 16 <br> 2.26 </td>
@@ -215,8 +251,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Artic Lane </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Queally <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> L A McKenna  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Queally <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> L A McKenna  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 116 <br> 30 </td>
    <td style="text-align:center;"> 14 <br> 2.84 </td>
@@ -234,8 +274,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ballybrittas </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 2 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-7 </td>
    <td style="text-align:center;"> 109 <br> 70 </td>
    <td style="text-align:center;"> 7 <br> 3.8 </td>
@@ -253,8 +297,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Young Lucy </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A J Martin <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A J Martin <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 104 <br> 21 </td>
    <td style="text-align:center;"> 14 <br> 2 </td>
@@ -268,9 +316,9 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Beat The Bank.ie Irish EBF Mares Hurdle (Fillies' And Mares' Grade 3)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:20 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€24,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Beat The Bank.ie Irish EBF Mares Hurdle (Fillies' And Mares' Grade 3)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:20 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€24,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:20 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -299,8 +347,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Kala Conti </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> D J Gilligan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J Gilligan <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 138 <br> 29 </td>
    <td style="text-align:center;"> 8 <br> 0.24 </td>
@@ -318,8 +370,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Hispanic Moon </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 140 <br> 239 </td>
    <td style="text-align:center;"> 14 <br> 0.19 </td>
@@ -337,8 +393,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Jetara </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Mrs J Harrington <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D Meyler <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mrs J Harrington <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D Meyler <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 145 <br> 43 </td>
    <td style="text-align:center;"> 8 <br> 0.36 </td>
@@ -356,8 +416,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Risk Belle </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 135 <br> 35 </td>
    <td style="text-align:center;"> 22 <br> 0.47 </td>
@@ -375,8 +439,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> World Of Fortunes </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Liam Kenny <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J C Gainford <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> Liam Kenny <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J C Gainford <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 132 <br> 71 </td>
    <td style="text-align:center;"> 3 <br> 0.36 </td>
@@ -394,8 +462,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> July Flower </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Rachael Blackmore <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Rachael Blackmore <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 225 </td>
    <td style="text-align:center;"> 8 <br> 0.1 </td>
@@ -413,8 +485,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lot of Joy </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P Townend <br> <div class = "badge rounded-pill hot "> 37 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 135 <br> 35 </td>
    <td style="text-align:center;"> 10 <br> 0.28 </td>
@@ -432,8 +508,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Got Glory </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D E Mullins <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D E Mullins <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-11 </td>
    <td style="text-align:center;"> 0 <br> 19 </td>
    <td style="text-align:center;"> 13 <br> 1.34 </td>
@@ -447,9 +527,9 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Adare Manor Opportunity Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:55 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 100y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">17 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€12,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Adare Manor Opportunity Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:55 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 100y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">17 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€12,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:55 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -478,8 +558,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Dunboyne </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> J Coen <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J Coen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 130 <br> 272 </td>
    <td style="text-align:center;"> 30 <br> 0.92 </td>
@@ -497,8 +581,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Peaches And Cream </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> A Balfe  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> A Balfe  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 127 <br> 28 </td>
    <td style="text-align:center;"> 23 <br> 1.08 </td>
@@ -516,8 +604,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Outside The Door </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P Roche <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> A P Kelly <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> P Roche <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> A P Kelly <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 126 <br> 28 </td>
    <td style="text-align:center;"> 8 <br> 0.47 </td>
@@ -535,8 +627,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sequestered </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P J Gilligan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J G Gilligan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Gilligan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J G Gilligan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 125 <br> 54 </td>
    <td style="text-align:center;"> 16 <br> 1.73 </td>
@@ -554,8 +650,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Hascoeur Clermont </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P M O'Brien  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P M O'Brien  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 124 <br> 57 </td>
    <td style="text-align:center;"> 19 <br> 2.87 </td>
@@ -573,8 +673,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Big Stage </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C P Millar  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 123 <br> 29 </td>
    <td style="text-align:center;"> 16 <br> 1.46 </td>
@@ -592,8 +696,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sam Magee </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> R J Condon  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R J Condon  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 123 <br> 29 </td>
    <td style="text-align:center;"> 9 <br> 1.41 </td>
@@ -611,8 +719,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> St Denis's Well </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ian Patrick Donoghue <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> O R Brown  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Ian Patrick Donoghue <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> O R Brown  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 122 <br> 3 </td>
    <td style="text-align:center;"> 5 <br> 0.66 </td>
@@ -630,8 +742,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ballybawn Belter </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Liz Doyle <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P T Smithers  <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> Liz Doyle <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P T Smithers  <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 120 <br> 28 </td>
    <td style="text-align:center;"> 12 <br> 1.44 </td>
@@ -649,8 +765,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Shajak </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J Smith  <br> <div class = "badge rounded-pill hot "> 38 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J Smith  <br> <div class="badge rounded-pill hot "> 38 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 120 <br> 14 </td>
    <td style="text-align:center;"> 16 <br> 1.96 </td>
@@ -668,8 +788,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Jasmin De Cotte </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> C D Smithers  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C D Smithers  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-12 </td>
    <td style="text-align:center;"> 116 <br> 36 </td>
    <td style="text-align:center;"> 22 <br> 2.13 </td>
@@ -687,8 +811,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Jouster </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C Stone-Walsh <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C Stone-Walsh <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 114 <br> 15 </td>
    <td style="text-align:center;"> 4 <br> 0.71 </td>
@@ -706,8 +834,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Garde La Peche </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S D Greene  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S D Greene  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 109 <br> 33 </td>
    <td style="text-align:center;"> 21 <br> 3.26 </td>
@@ -725,8 +857,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Harvey's Quay </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C M Hogan  <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> E J O'Grady <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C M Hogan  <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 109 <br> 129 </td>
    <td style="text-align:center;"> 20 <br> 2.79 </td>
@@ -744,8 +880,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Dorans Law </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 2 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 106 <br> 19 </td>
    <td style="text-align:center;"> 26 <br> 2.98 </td>
@@ -763,8 +903,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ballybrack Wood </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> E M O'Sullivan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> E M O'Sullivan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 104 <br> 49 </td>
    <td style="text-align:center;"> 7 <br> 1.1 </td>
@@ -782,8 +926,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Secrecies Of Stone </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C M Quirke <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C M Quirke <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 104 <br> 37 </td>
    <td style="text-align:center;"> 24 <br> 4.7 </td>
@@ -797,9 +945,9 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Neville Hotels Hurdle (Grade 1)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:30 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€90,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Neville Hotels Hurdle (Grade 1)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:30 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€90,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="14:30 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -828,8 +976,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Fils D'oudairies </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> J C Gainford <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J C Gainford <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 144 <br> 366 </td>
    <td style="text-align:center;"> 8 <br> 0.14 </td>
@@ -847,8 +999,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> King Of Kingsfield </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J Gilligan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J Gilligan <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 144 <br> 43 </td>
    <td style="text-align:center;"> 8 <br> 0.39 </td>
@@ -866,8 +1022,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Mystical Power </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 154 <br> 29 </td>
    <td style="text-align:center;"> 8 <br> 0.12 </td>
@@ -885,8 +1045,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> State Man </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P Townend <br> <div class = "badge rounded-pill hot "> 37 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 169 <br> 36 </td>
    <td style="text-align:center;"> 4 <br> 0.04 </td>
@@ -904,8 +1068,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Winter Fog </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> B Hayes <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B Hayes <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 150 <br> 36 </td>
    <td style="text-align:center;"> 10 <br> 0.54 </td>
@@ -923,8 +1091,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Brighterdaysahead </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sam Ewing <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 155 <br> 36 </td>
    <td style="text-align:center;"> 3 <br> 0.07 </td>
@@ -938,9 +1110,9 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Neville Hotels Premier Handicap Hurdle (0-150) (Listed)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:05 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">20 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€60,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Neville Hotels Premier Handicap Hurdle (0-150) (Listed)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:05 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">20 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€60,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="15:05 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -969,8 +1141,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Maxxum </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> C P Millar  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C P Millar  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 149 <br> 28 </td>
    <td style="text-align:center;"> 22 <br> 1.12 </td>
@@ -988,8 +1164,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Tounsivator </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> P Townend <br> <div class = "badge rounded-pill hot "> 37 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P Townend <br> <div class="badge rounded-pill hot "> 37 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 144 <br> 28 </td>
    <td style="text-align:center;"> 7 <br> 0.24 </td>
@@ -1007,8 +1187,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Bottler'secret </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> K M Donoghue <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> K M Donoghue <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 140 <br> 29 </td>
    <td style="text-align:center;"> 10 <br> 0.53 </td>
@@ -1026,8 +1210,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Mr Percy </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class = "badge rounded-pill hot "> 31 % <div> </td>
-   <td style="text-align:left;"> D A Jacob <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill hot "> 31 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D A Jacob <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 136 <br> 43 </td>
    <td style="text-align:center;"> 13 <br> 2.91 </td>
@@ -1045,8 +1233,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Shadow Rider </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> P Roche <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> A P Kelly  <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> P Roche <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> A P Kelly  <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 136 <br> 35 </td>
    <td style="text-align:center;"> 10 <br> 0.79 </td>
@@ -1064,8 +1256,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Hms Seahorse </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> S F O'Keeffe <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S F O'Keeffe <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 133 <br> 28 </td>
    <td style="text-align:center;"> 19 <br> 0.84 </td>
@@ -1083,8 +1279,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lucky Lyreen </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> D J Gilligan <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J Gilligan <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 133 <br> 22 </td>
    <td style="text-align:center;"> 21 <br> 1.3 </td>
@@ -1102,8 +1302,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sa Fureur </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sam Ewing <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sam Ewing <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 133 <br> 22 </td>
    <td style="text-align:center;"> 7 <br> 0.18 </td>
@@ -1121,8 +1325,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Al Gasparo </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C Stone-Walsh  <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C Stone-Walsh  <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 132 <br> 64 </td>
    <td style="text-align:center;"> 14 <br> 1.54 </td>
@@ -1140,8 +1348,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Any Road </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> E J O'Grady <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M M McDonagh <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> E J O'Grady <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M M McDonagh <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 132 <br> 54 </td>
    <td style="text-align:center;"> 14 <br> 0.83 </td>
@@ -1159,8 +1371,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> So Scottish </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> E Mullins <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> M P Walsh <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
+   <td style="text-align:left;"> E Mullins <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M P Walsh <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-9 </td>
    <td style="text-align:center;"> 132 <br> 28 </td>
    <td style="text-align:center;"> 14 <br> 0.36 </td>
@@ -1178,8 +1394,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Comfort Zone </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> J P O'Brien <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S D Torrens <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> J P O'Brien <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S D Torrens <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 131 <br> 0 </td>
    <td style="text-align:center;"> 16 <br> 0.3 </td>
@@ -1197,8 +1417,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Kings Hill </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> P J Gilligan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J G Gilligan  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Gilligan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J G Gilligan  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 131 <br> 43 </td>
    <td style="text-align:center;"> 12 <br> 1.29 </td>
@@ -1216,8 +1440,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Lucky Zebo </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> H De Bromhead <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> D J O'Keeffe <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> H De Bromhead <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D J O'Keeffe <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 131 <br> 78 </td>
    <td style="text-align:center;"> 24 <br> 0.84 </td>
@@ -1235,8 +1463,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> The Busy Fool </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P J Rothwell <br> <div class = "badge rounded-pill cool "> 2 % <div> </td>
-   <td style="text-align:left;"> T Power Roche  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> P J Rothwell <br> <div class="badge rounded-pill cool "> 2 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> T Power Roche  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 128 <br> 49 </td>
    <td style="text-align:center;"> 5 <br> 0.65 </td>
@@ -1254,8 +1486,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Harsh </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C M Hogan  <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C M Hogan  <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 125 <br> 29 </td>
    <td style="text-align:center;"> 23 <br> 2.09 </td>
@@ -1273,8 +1509,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Slane Hill </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> B Connell <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> A Harvey  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> B Connell <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> A Harvey  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 125 <br> 43 </td>
    <td style="text-align:center;"> 17 <br> 1.55 </td>
@@ -1292,8 +1532,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Park Of Kings </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> P Nolan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> P T Smithers  <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> P Nolan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P T Smithers  <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 123 <br> 49 </td>
    <td style="text-align:center;"> 13 <br> 1.41 </td>
@@ -1311,8 +1555,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sir Allen </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> A Slattery <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> C M Quirke  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A Slattery <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C M Quirke  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 123 <br> 49 </td>
    <td style="text-align:center;"> 14 <br> 1.36 </td>
@@ -1330,8 +1578,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Ms Agartha Yeats </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> F G Hand <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> M J M O'Sullivan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> F G Hand <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> M J M O'Sullivan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-0 </td>
    <td style="text-align:center;"> 123 <br> 63 </td>
    <td style="text-align:center;"> 19 <br> 2.35 </td>
@@ -1345,9 +1597,9 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Plusvital Flat Race</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:40 Leopardstown (IRE) </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">0</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€12,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Plusvital Flat Race</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:40 Leopardstown (IRE) </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">0</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Yielding</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">€12,000 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="15:40 Leopardstown (IRE)" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -1376,8 +1628,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Koktail Brut </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Mr H C Swan <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr H C Swan <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 0 <br> 28 </td>
    <td style="text-align:center;"> 3 <br> 3.36 </td>
@@ -1395,8 +1651,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Sortudo </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> W P Mullins <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> Mr P W Mullins <br> <div class = "badge rounded-pill hot "> 36 % <div> </td>
+   <td style="text-align:left;"> W P Mullins <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr P W Mullins <br> <div class="badge rounded-pill hot "> 36 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 0 <br> 33 </td>
    <td style="text-align:center;"> 4.5 <br> 0.19 </td>
@@ -1414,8 +1674,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> William Butler </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> G Elliott <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Mr J M Halford  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> G Elliott <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr J M Halford  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 0 <br> 29 </td>
    <td style="text-align:center;"> 3 <br> 2.1 </td>
@@ -1433,8 +1697,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Carrigmoornaspruce </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> D Queally <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> Mr D L Queally <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> D Queally <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr D L Queally <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 49 </td>
    <td style="text-align:center;"> 4.5 <br> 0.49 </td>
@@ -1452,8 +1720,12 @@ Todays Racecard for Leopardstown (IRE) including algorithm predictions and confi
 </td>
    <td style="text-align:left;"> Switch From Diesel </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> R O'Sullivan <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Mr R W Barron  <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> R O'Sullivan <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr R W Barron  <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 71 </td>
    <td style="text-align:center;"> 13 <br> 0.81 </td>

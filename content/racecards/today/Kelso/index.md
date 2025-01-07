@@ -13,9 +13,9 @@ output:
 
 Todays Racecard for Kelso including algorithm predictions and confidence %
 
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Visit Kelso In 2025 Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:18 Kelso </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 151y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,357 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Visit Kelso In 2025 Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:18 Kelso </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 151y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,357 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="12:18 Kelso" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -44,8 +44,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ace Of Spades </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 123 <br> 42 </td>
    <td style="text-align:center;"> 7 <br> 1.62 </td>
@@ -63,8 +67,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lunar Chief </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ruth Jefferson <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
-   <td style="text-align:left;"> Sean Quinlan <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Ruth Jefferson <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 113 <br> 21 </td>
    <td style="text-align:center;"> 13 <br> 4.43 </td>
@@ -82,8 +90,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Small Town Kid </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> J Ewart <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> J Ewart <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 0 <br> 29 </td>
    <td style="text-align:center;"> 5 <br> 0.09 </td>
@@ -101,8 +113,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Always A Reason </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> R Menzies <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> Ross Chapman <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> R Menzies <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ross Chapman <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 18 </td>
    <td style="text-align:center;"> 11 <br> 1.43 </td>
@@ -120,8 +136,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bogleyburn </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Gary Rutherford <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> Bruce Lynn <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Gary Rutherford <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Bruce Lynn <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 28 </td>
    <td style="text-align:center;"> 17 <br> 5.53 </td>
@@ -139,8 +159,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Far From Over </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> C Boultbee-Brooks <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> R Patrick <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> C Boultbee-Brooks <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R Patrick <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 37 </td>
    <td style="text-align:center;"> 10 <br> 1.43 </td>
@@ -158,8 +182,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Sea God </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> D R Fox <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D R Fox <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 66 </td>
    <td style="text-align:center;"> 15 <br> 6.25 </td>
@@ -177,8 +205,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Wee Alki </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S Corbett <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> Nathan Moscrop <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> S Corbett <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Nathan Moscrop <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 18 </td>
    <td style="text-align:center;"> 16 <br> 4.24 </td>
@@ -192,9 +224,9 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Slainte Mhath Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:53 Kelso </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 151y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">11 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£7,922 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Slainte Mhath Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:53 Kelso </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 6f 151y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">11 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£7,922 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="12:53 Kelso" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -223,8 +255,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Idem </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> P W Wadge <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> P W Wadge <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 124 <br> 32 </td>
    <td style="text-align:center;"> 20 <br> 1.68 </td>
@@ -242,8 +278,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Nab Wood </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N G Richards <br> <div class = "badge rounded-pill hot "> 26 % <div> </td>
-   <td style="text-align:left;"> Sean Quinlan <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> N G Richards <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 122 <br> 317 </td>
    <td style="text-align:center;"> 4 <br> 1.51 </td>
@@ -261,8 +301,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Young Jack </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> C Grant <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Danny McMenamin <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> C Grant <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Danny McMenamin <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 121 <br> 21 </td>
    <td style="text-align:center;"> 15 <br> 1.25 </td>
@@ -280,8 +324,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Fingal's Hill </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P G Atkinson <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
-   <td style="text-align:left;"> B S Hughes <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> P G Atkinson <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 120 <br> 32 </td>
    <td style="text-align:center;"> 15 <br> 1.12 </td>
@@ -299,8 +347,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bertie B </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> C Boultbee-Brooks <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> R Patrick <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> C Boultbee-Brooks <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> R Patrick <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 118 <br> 27 </td>
    <td style="text-align:center;"> 6 <br> 1.25 </td>
@@ -318,8 +370,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Ballytechno </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> James Owen <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
-   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> James Owen <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 117 <br> 23 </td>
    <td style="text-align:center;"> 12 <br> 0.6 </td>
@@ -337,8 +393,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kingston Bridge </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Ewan Whillans <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> Craig Nichol <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
+   <td style="text-align:left;"> Ewan Whillans <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Craig Nichol <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 112 <br> 21 </td>
    <td style="text-align:center;"> 25 <br> 2.15 </td>
@@ -356,8 +416,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> I Am Max </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> A M Thomson <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> A M Thomson <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 112 <br> 74 </td>
    <td style="text-align:center;"> 14 <br> 3.69 </td>
@@ -375,8 +439,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Dunnet Head </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> I Jardine <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
-   <td style="text-align:left;"> C O'Farrell <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> I Jardine <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C O'Farrell <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 109 <br> 21 </td>
    <td style="text-align:center;"> 11 <br> 1.09 </td>
@@ -394,8 +462,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Guernesey </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Mrs J Stephen <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Joshua Thompson  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Mrs J Stephen <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Joshua Thompson  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 104 <br> 18 </td>
    <td style="text-align:center;"> 17 <br> 3.46 </td>
@@ -413,8 +485,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Gypsey's Secret </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> Miss S E Forster <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Emma Smith-Chaston  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss S E Forster <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Emma Smith-Chaston  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 98 <br> 21 </td>
    <td style="text-align:center;"> 11 <br> 4.08 </td>
@@ -428,9 +504,9 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Children's Hospices Across Scotland Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:03 Kelso </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 1f 14y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£7,922 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Children's Hospices Across Scotland Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:03 Kelso </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 1f 14y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£7,922 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="14:03 Kelso" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -459,8 +535,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Escapeandevade </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> J Ewart <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> B S Hughes <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> J Ewart <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 129 <br> 43 </td>
    <td style="text-align:center;"> 16 <br> 1.7 </td>
@@ -478,8 +558,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Caithness </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> D R Fox <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> D R Fox <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 127 <br> 32 </td>
    <td style="text-align:center;"> 6 <br> 1.13 </td>
@@ -497,8 +581,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Beat Box </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 120 <br> 18 </td>
    <td style="text-align:center;"> 6 <br> 2.18 </td>
@@ -516,8 +604,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Carcaci Castle </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> A M Thomson <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Ryan Mania <br> <div class = "badge rounded-pill cool "> 5 % <div> </td>
+   <td style="text-align:left;"> A M Thomson <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ryan Mania <br> <div class="badge rounded-pill cool "> 5 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 119 <br> 62 </td>
    <td style="text-align:center;"> 9 <br> 1.59 </td>
@@ -535,8 +627,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Duty Calls </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> Miss S E Forster <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Lewis Stones  <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
+   <td style="text-align:left;"> Miss S E Forster <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Lewis Stones  <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 103 <br> 28 </td>
    <td style="text-align:center;"> 21 <br> 4.08 </td>
@@ -550,9 +646,9 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">racingtv.com/sale Mares' Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:38 Kelso </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 2f 25y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,753 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">racingtv.com/sale Mares' Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:38 Kelso </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 2f 25y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">7 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,753 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="14:38 Kelso" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -581,8 +677,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Komedy Kicks </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> D Skelton <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Harry Skelton <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> D Skelton <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Harry Skelton <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 102 <br> 25 </td>
    <td style="text-align:center;"> 16 <br> 1.98 </td>
@@ -600,8 +700,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> She's Notjoeking </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Conner McCann  <br> <div class = "badge rounded-pill hot "> 50 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Conner McCann  <br> <div class="badge rounded-pill hot "> 50 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 100 <br> 48 </td>
    <td style="text-align:center;"> 13 <br> 3.54 </td>
@@ -619,8 +723,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bellbird </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> D McCain Jnr <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> Charlie Maggs  <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> D McCain Jnr <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Charlie Maggs  <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-12 </td>
    <td style="text-align:center;"> 100 <br> 14 </td>
    <td style="text-align:center;"> 12 <br> 2.54 </td>
@@ -638,8 +746,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Theirshegoes </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A M Thomson <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> Lewis Dobb  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A M Thomson <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Lewis Dobb  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 98 <br> 20 </td>
    <td style="text-align:center;"> 10 <br> 2.34 </td>
@@ -657,8 +769,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> My Lady Elektra </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N W Alexander <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Sean Quinlan <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> N W Alexander <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sean Quinlan <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 96 <br> 30 </td>
    <td style="text-align:center;"> 22 <br> 2.92 </td>
@@ -676,8 +792,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Inspire Hope </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:left;"> R Menzies <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> B S Hughes <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
+   <td style="text-align:left;"> R Menzies <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> B S Hughes <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 110 <br> 30 </td>
    <td style="text-align:center;"> 16 <br> 0.9 </td>
@@ -695,8 +815,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Not In Kansas </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> N W Alexander <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Bruce Lynn <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> N W Alexander <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Bruce Lynn <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 89 <br> 30 </td>
    <td style="text-align:center;"> 13 <br> 3.18 </td>
@@ -710,9 +834,9 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">AJA Amateur Jockeys' Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:13 Kelso </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 2f 39y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,967 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">AJA Amateur Jockeys' Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:13 Kelso </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 2f 39y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,967 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="15:13 Kelso" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -741,8 +865,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Back On The Lash </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> M Keighley <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> Mr Freddie Keighley  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> M Keighley <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr Freddie Keighley  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 122 <br> 44 </td>
    <td style="text-align:center;"> 23 <br> 2.39 </td>
@@ -760,8 +888,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Foxboro </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> A Watson <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Miss Brodie Hampson <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A Watson <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss Brodie Hampson <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 119 <br> 13 </td>
    <td style="text-align:center;"> 14 <br> 1.09 </td>
@@ -779,8 +911,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Haute Estime </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill average "> 11 % <div> </td>
-   <td style="text-align:left;"> Mr Nick Orpwood  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill average "> 11 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr Nick Orpwood  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 114 <br> 21 </td>
    <td style="text-align:center;"> 22 <br> 1.55 </td>
@@ -798,8 +934,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Senor Lombardy </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> N G Richards <br> <div class = "badge rounded-pill hot "> 26 % <div> </td>
-   <td style="text-align:left;"> Mr Paddy Barlow  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> N G Richards <br> <div class="badge rounded-pill hot "> 26 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr Paddy Barlow  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 112 <br> 32 </td>
    <td style="text-align:center;"> 6 <br> 1.25 </td>
@@ -817,8 +957,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Camp Belan </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Mr Gregor Walkingshaw  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Miss Lucinda V Russell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Mr Gregor Walkingshaw  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 109 <br> 32 </td>
    <td style="text-align:center;"> 13 <br> 2.08 </td>
@@ -836,8 +980,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hold The Note </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> Ewan Whillans <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> Miss Megan Fox  <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> Ewan Whillans <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss Megan Fox  <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 100 <br> 28 </td>
    <td style="text-align:center;"> 23 <br> 4.41 </td>
@@ -855,8 +1003,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> C'est Quelqu'un </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> A B Hamilton <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Miss Becky Smith <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A B Hamilton <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss Becky Smith <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-5 </td>
    <td style="text-align:center;"> 97 <br> 14 </td>
    <td style="text-align:center;"> 25 <br> 5.54 </td>
@@ -874,8 +1026,12 @@ Todays Racecard for Kelso including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Skyhill </td>
    <td style="text-align:center;"> 11 </td>
-   <td style="text-align:left;"> Mrs A C Hamilton <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Miss Heidi Palin  <br> <div class = "badge rounded-pill hot "> 33 % <div> </td>
+   <td style="text-align:left;"> Mrs A C Hamilton <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Miss Heidi Palin  <br> <div class="badge rounded-pill hot "> 33 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 94 <br> 248 </td>
    <td style="text-align:center;"> 17 <br> 3.42 </td>

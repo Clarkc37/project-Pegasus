@@ -1,7 +1,7 @@
 ---
 title: "How To Guide"
 author: "Colin Clarke"
-date: "2023-10-07"
+date: "2025-01-06"
 image: how-to-logo.png
 featured: true
 order: 2
@@ -20,7 +20,7 @@ Strike rates: the strike rates of the trainer and jockey for the past 21 days ar
 
 
 
-```r
+``` r
 summary(cars)
 ```
 

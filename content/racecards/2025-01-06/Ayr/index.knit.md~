@@ -1,0 +1,16 @@
+---
+title: "Ayr | Monday 06 January 2025"
+course: Ayr
+image: course.png
+featured: true
+Date: 2025-01-06
+order: 0
+output:
+  html_document:
+    keep_md: yes
+---
+
+
+Todays Racecard for Ayr including algorithm predictions and confidence %
+
+

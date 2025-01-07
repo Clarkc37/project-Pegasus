@@ -1,7 +1,8 @@
 ---
-title: "Doncaster | Sunday 29 December 2024"
+title: "Doncaster"
 course: Doncaster
 image: course.png
+layout: "racecards"
 featured: false
 Date: 2024-12-29
 order: 0
@@ -10,12 +11,9 @@ output:
     keep_md: yes
 ---
 
-
-Todays Racecard for Doncaster including algorithm predictions and confidence %
-
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Download The At The Races App Novices' Limited Handicap Chase (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:27 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 115y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£6,179 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Download The At The Races App Novices' Limited Handicap Chase (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 12:27 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 115y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£6,179 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="12:27 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -44,8 +42,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Insurrection </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 135 <br> 50 </td>
    <td style="text-align:center;"> 6 <br> 0.39 </td>
@@ -63,8 +65,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Idy Wood </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Jamie Snowden <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> G Sheehan <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 125 <br> 30 </td>
    <td style="text-align:center;"> 16 <br> 1.53 </td>
@@ -82,8 +88,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Hurlerontheditch </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> K C Bailey <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
-   <td style="text-align:left;"> Thomas Bellamy <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> K C Bailey <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Thomas Bellamy <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-6 </td>
    <td style="text-align:center;"> 117 <br> 47 </td>
    <td style="text-align:center;"> 5 <br> 1.05 </td>
@@ -97,9 +107,9 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Sky Sports Racing Sky 415 British EBF 'National Hunt' Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:02 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO to 6YO)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f 88y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,193 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Sky Sports Racing Sky 415 British EBF 'National Hunt' Novices' Hurdle (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:02 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (4YO to 6YO)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 3f 88y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">5 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,193 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:02 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -128,8 +138,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Barrabooka </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> D McCain Jnr <br> <div class = "badge rounded-pill cool "> 9 % <div> </td>
-   <td style="text-align:left;"> Theo Gillard <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
+   <td style="text-align:left;"> D McCain Jnr <br> <div class="badge rounded-pill cool "> 9 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Theo Gillard <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 111 <br> 22 </td>
    <td style="text-align:center;"> 5 <br> 1.13 </td>
@@ -147,8 +161,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jordans Cross </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> A J Honeyball <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
-   <td style="text-align:left;"> Ben Godfrey <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> A J Honeyball <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ben Godfrey <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 0 <br> 26 </td>
    <td style="text-align:center;"> 4 <br> 1.05 </td>
@@ -166,8 +184,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Eternal Angel </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 21 </td>
    <td style="text-align:center;"> 7.5 <br> 1.1 </td>
@@ -185,8 +207,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Groovy Blue </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> B Pauling <br> <div class = "badge rounded-pill average "> 19 % <div> </td>
-   <td style="text-align:left;"> Ben Jones <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
+   <td style="text-align:left;"> B Pauling <br> <div class="badge rounded-pill average "> 19 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Ben Jones <br> <div class="badge rounded-pill average "> 18 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 34 </td>
    <td style="text-align:center;"> 15 <br> 3.72 </td>
@@ -204,8 +230,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Jus De Citron </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> Harry Derham <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Paul O'Brien <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-0 </td>
    <td style="text-align:center;"> 0 <br> 253 </td>
    <td style="text-align:center;"> 12 <br> 0.83 </td>
@@ -219,9 +249,9 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Download The Raceday Ready App Yorkshire Silver Vase Mares' Chase (Fillies' & Mares' Listed) (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:38 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 115y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">4 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£42,202 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Download The Raceday Ready App Yorkshire Silver Vase Mares' Chase (Fillies' & Mares' Listed) (GBB Race)</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 13:38 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 1) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 4f 115y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">4 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£42,202 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="13:38 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -250,8 +280,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Brides Hill </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> G P Cromwell <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
-   <td style="text-align:left;"> S W Flanagan <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> G P Cromwell <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S W Flanagan <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 154 <br> 240 </td>
    <td style="text-align:center;"> 3 <br> 0.19 </td>
@@ -269,8 +303,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Fantastic Lady </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 147 <br> 32 </td>
    <td style="text-align:center;"> 11 <br> 0.3 </td>
@@ -288,8 +326,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Effernock Fizz </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> C Collins <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> S Bowen <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> C Collins <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 135 <br> 28 </td>
    <td style="text-align:center;"> 19 <br> 2.02 </td>
@@ -307,8 +349,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> La Renommee </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Dr R Newland &amp; J Insole <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Charlie Hammond <br> <div class = "badge rounded-pill hot "> 21 % <div> </td>
+   <td style="text-align:left;"> Dr R Newland &amp; J Insole <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Charlie Hammond <br> <div class="badge rounded-pill hot "> 21 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 140 <br> 32 </td>
    <td style="text-align:center;"> 14 <br> 0.55 </td>
@@ -322,9 +368,9 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">attheraces.com/marketmovers Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:12 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 7f 214y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£6,179 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">attheraces.com/marketmovers Handicap Chase</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:12 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Chase</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (4YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 7f 214y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£6,179 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="14:12 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -353,8 +399,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Onemorefortheroad </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N B King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J M Quinlan <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> N B King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J M Quinlan <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 128 <br> 30 </td>
    <td style="text-align:center;"> 10 <br> 1.01 </td>
@@ -372,8 +422,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Mofasa </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> P F Nicholls <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> H Cobden <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> P F Nicholls <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> H Cobden <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 127 <br> 50 </td>
    <td style="text-align:center;"> 25 <br> 1.21 </td>
@@ -391,8 +445,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bodhisattva </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> J C McConnell <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Callum Pritchard  <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> J C McConnell <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Callum Pritchard  <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 122 <br> 35 </td>
    <td style="text-align:center;"> 24 <br> 3.53 </td>
@@ -410,8 +468,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Chemical Warfare </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> D Pipe <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
-   <td style="text-align:left;"> Jack Tudor <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
+   <td style="text-align:left;"> D Pipe <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jack Tudor <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 117 <br> 15 </td>
    <td style="text-align:center;"> 6 <br> 1.37 </td>
@@ -429,8 +491,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Magna Sam </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:left;"> A Ralph <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
-   <td style="text-align:left;"> J J Burke <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> A Ralph <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-1 </td>
    <td style="text-align:center;"> 115 <br> 211 </td>
    <td style="text-align:center;"> 30 <br> 2.42 </td>
@@ -448,8 +514,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Finn Lough </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> O Greenall &amp; J Guerriero <br> <div class = "badge rounded-pill cool "> 7 % <div> </td>
-   <td style="text-align:left;"> Henry Brooke <br> <div class = "badge rounded-pill average "> 18 % <div> </td>
+   <td style="text-align:left;"> O Greenall &amp; J Guerriero <br> <div class="badge rounded-pill cool "> 7 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Henry Brooke <br> <div class="badge rounded-pill average "> 18 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 108 <br> 29 </td>
    <td style="text-align:center;"> 6 <br> 1.16 </td>
@@ -463,9 +533,9 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Sky Sports Racing Virgin 535 Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:47 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 84y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£5,651 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">Sky Sports Racing Virgin 535 Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 14:47 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 3) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">3m 84y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">6 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£5,651 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="14:47 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -494,8 +564,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bugise Seagull </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> C E Longsdon <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> S Bowen <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> C E Longsdon <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 137 <br> 30 </td>
    <td style="text-align:center;"> 15 <br> 0.44 </td>
@@ -513,8 +587,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Erne River </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:left;"> N Kent <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> Tom Broughton  <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> N Kent <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Tom Broughton  <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-4 </td>
    <td style="text-align:center;"> 127 <br> 15 </td>
    <td style="text-align:center;"> 30 <br> 1.68 </td>
@@ -532,8 +610,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Quick Draw </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> N de Boinville <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> N de Boinville <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 126 <br> 43 </td>
    <td style="text-align:center;"> 25 <br> 1.92 </td>
@@ -551,8 +633,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Pyffo </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> Harry Derham <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> Paul O'Brien <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> Harry Derham <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Paul O'Brien <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 125 <br> 38 </td>
    <td style="text-align:center;"> 8 <br> 0.67 </td>
@@ -570,8 +656,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Bridge North </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> H D Daly <br> <div class = "badge rounded-pill hot "> 29 % <div> </td>
-   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class = "badge rounded-pill average "> 15 % <div> </td>
+   <td style="text-align:left;"> H D Daly <br> <div class="badge rounded-pill hot "> 29 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill average "> 15 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 122 <br> 63 </td>
    <td style="text-align:center;"> 17 <br> 1.82 </td>
@@ -589,8 +679,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Super Survivor </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:left;"> Jamie Snowden <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
-   <td style="text-align:left;"> G Sheehan <br> <div class = "badge rounded-pill average "> 16 % <div> </td>
+   <td style="text-align:left;"> Jamie Snowden <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> G Sheehan <br> <div class="badge rounded-pill average "> 16 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 122 <br> 22 </td>
    <td style="text-align:center;"> 13 <br> 1.41 </td>
@@ -604,9 +698,9 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </tbody>
 </table>
 </div>
- <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">attheraces.com/marketmovers Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:22 Doncaster </button>                  </span>                  <span class="ps-0">                    <button class="fs-0" style="background-color: transparent;border: none;" type="button"> 13:55 </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 128y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,066 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
+ <div class="row">    <div class="col-md-8 gx-3">      <div class="card m-3 h-lg-100">        <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">          <div class="d-flex flex-between-center row">            <div class="col-auto">              <h6 class="m-0 fw-bold fs--1">attheraces.com/marketmovers Handicap Hurdle</h6>            </div>            <div class="col-auto d-flex">              <div class="pe-2">                <div class="mb-0">                  <span class="pe-0">                    <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 15:22 Doncaster </button>                  </span>                </div>              </div>            </div>          </div>        </div>        <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">          <div class="fs--1 mb-0">            <div class="row">              <div class="col ms-0">                <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Hurdle</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">(Class 4) (3YO plus)</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">Good to Soft </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">2m 128y</div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">8 </div>              </div>              <div class="col">                <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>                <div class="ps-0 pt-1 pe-0 pb-1 text-center">£4,066 </div>              </div>            </div>          </div>        </div>      </div>    </div>  </div>
 <div class="table-responsive"> 
-<table class="table table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="racecard table table-hover" id="15:22 Doncaster" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:center;"> No. </th>
@@ -635,8 +729,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Kourosh </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> Henry Oliver <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> S Bowen <br> <div class = "badge rounded-pill hot "> 22 % <div> </td>
+   <td style="text-align:left;"> Henry Oliver <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> S Bowen <br> <div class="badge rounded-pill hot "> 22 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 12-2 </td>
    <td style="text-align:center;"> 112 <br> 36 </td>
    <td style="text-align:center;"> 26 <br> 4.83 </td>
@@ -654,8 +752,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Lady D'arbanville </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N J Henderson <br> <div class = "badge rounded-pill average "> 17 % <div> </td>
-   <td style="text-align:left;"> James Bowen <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> N J Henderson <br> <div class="badge rounded-pill average "> 17 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> James Bowen <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 107 <br> 24 </td>
    <td style="text-align:center;"> 13 <br> 3.45 </td>
@@ -673,8 +775,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> No No Fizz </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> F O'Brien <br> <div class = "badge rounded-pill average "> 14 % <div> </td>
-   <td style="text-align:left;"> J J Burke <br> <div class = "badge rounded-pill average "> 20 % <div> </td>
+   <td style="text-align:left;"> F O'Brien <br> <div class="badge rounded-pill average "> 14 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J J Burke <br> <div class="badge rounded-pill average "> 20 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 106 <br> 20 </td>
    <td style="text-align:center;"> 6 <br> 2.73 </td>
@@ -692,8 +798,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Book Of Tales </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> C E Longsdon <br> <div class = "badge rounded-pill average "> 13 % <div> </td>
-   <td style="text-align:left;"> Lily Pinchin <br> <div class = "badge rounded-pill average "> 10 % <div> </td>
+   <td style="text-align:left;"> C E Longsdon <br> <div class="badge rounded-pill average "> 13 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Lily Pinchin <br> <div class="badge rounded-pill average "> 10 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-8 </td>
    <td style="text-align:center;"> 104 <br> 0 </td>
    <td style="text-align:center;"> 3 <br> 4.64 </td>
@@ -711,8 +821,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Willie Shake Hands </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:left;"> S England <br> <div class = "badge rounded-pill average "> 12 % <div> </td>
-   <td style="text-align:left;"> Jonathan England <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
+   <td style="text-align:left;"> S England <br> <div class="badge rounded-pill average "> 12 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> Jonathan England <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 102 <br> 16 </td>
    <td style="text-align:center;"> 13 <br> 2.8 </td>
@@ -730,8 +844,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Legendary Day </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> F Brennan <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> James Best <br> <div class = "badge rounded-pill cool "> 6 % <div> </td>
+   <td style="text-align:left;"> F Brennan <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> James Best <br> <div class="badge rounded-pill cool "> 6 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 102 <br> 20 </td>
    <td style="text-align:center;"> 12 <br> 2.97 </td>
@@ -749,8 +867,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Granny B </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:left;"> M Mullineaux <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> C J Todd <br> <div class = "badge rounded-pill cool "> 8 % <div> </td>
+   <td style="text-align:left;"> M Mullineaux <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> C J Todd <br> <div class="badge rounded-pill cool "> 8 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-8 </td>
    <td style="text-align:center;"> 90 <br> 18 </td>
    <td style="text-align:center;"> 16 <br> 5.47 </td>
@@ -768,8 +890,12 @@ Todays Racecard for Doncaster including algorithm predictions and confidence %
 </td>
    <td style="text-align:left;"> Cuban Court </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> N B King <br> <div class = "badge rounded-pill cool "> 0 % <div> </td>
-   <td style="text-align:left;"> J M Quinlan <br> <div class = "badge rounded-pill cool "> 4 % <div> </td>
+   <td style="text-align:left;"> N B King <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
+</div>
+</td>
+   <td style="text-align:left;"> J M Quinlan <br> <div class="badge rounded-pill cool "> 4 % <div> </div>
+</div>
+</td>
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 84 <br> 30 </td>
    <td style="text-align:center;"> 16 <br> 6.47 </td>
