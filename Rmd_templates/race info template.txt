@@ -1,52 +1,82 @@
- <div class="row">
-   <div class="col-md-8 gx-3">
-     <div class="card m-3 h-lg-100">
-       <div class="card-header bg-light btn-reveal-trigger pt-2 pb-2">
-         <div class="d-flex flex-between-center row">
-           <div class="col-auto">
-             <h6 class="m-0 fw-bold fs--1">race_name_placeholder</h6>
-           </div>
-           <div class="col-auto d-flex">
-             <div class="pe-2">
-               <div class="mb-0">
-                 <span class="pe-0">
-                   <button class="dropdown-toggle fs-0" style="background-color: transparent;border: none;" id="courseToggleDD" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> course_placeholder </button>
-                 </span>
-               </div>
-             </div>
-           </div>
-         </div>
-       </div>
-       <div class="card-body pt-2 pb-2" id="race-information-div" style="font-size: .8333em;">
-         <div class="fs--1 mb-0">
-           <div class="row">
-             <div class="col ms-0">
-               <div class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Race Type</div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">race_type_placeholder</div>
-             </div>
-             <div class="col">
-               <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Classifications</div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">conditions_placeholder</div>
-             </div>
-             <div class="col">
-               <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Ground</div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">going_placeholder</div>
-             </div>
-             <div class="col">
-               <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Distance</div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">distance_placeholder</div>
-             </div>
-             <div class="col">
-               <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Runners </div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">no_runners_placeholder </div>
-             </div>
-             <div class="col">
-               <div scope="col" class="ps-0 pt-0 pe-0 pb-1 text-center fw-bold text-nowrap">Prize Money </div>
-               <div class="ps-0 pt-1 pe-0 pb-1 text-center">prize_money_placeholder </div>
-             </div>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>
- </div>
+<div class="w-full lg:w-2/3">
+    <div class="card m-3">
+      <div class="card-header bg-light btn-reveal-trigger py-2 px-4">
+        <div class="flex flex-row justify-between flex-grow ">
+          <div>
+            <span class="text-lg font-bold">
+              race_name_placeholder
+            </span>
+          </div>
+          <div>
+            <span class="text-base font-semibold">
+              time_placeholder
+            </span>
+          </div>
+          
+        </div>
+      </div>
+      <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Race Type
+            </span>
+            <span class="text-xs">
+              race_type_placeholder
+            </span>
+          </div>
+        </div>
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Classifications
+            </span>
+            <span class="text-xs">
+              conditions_placeholder
+            </span>
+          </div>
+        </div>
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Ground
+            </span>
+            <span class="text-xs">
+              going_placeholder
+            </span>
+          </div>
+        </div>
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Distance
+            </span>
+            <span class="text-xs">
+              distance_placeholder
+            </span>
+          </div>
+        </div>
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Runners
+            </span>
+            <span class="text-xs">
+              no_runners_placeholder
+            </span>
+          </div>
+        </div>
+        <div class="bg-gray-400 w-1/6">
+          <div class="flex flex-col items-center">
+            <span class="font-semibold text-sm">
+              Prize Money
+            </span>
+            <span class="text-xs">
+              prize_money_placeholder
+            </span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>

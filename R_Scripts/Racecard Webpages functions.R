@@ -7,7 +7,7 @@ p_load(readr,
 Sys.setenv(RSTUDIO_PANDOC="/Applications/RStudio.app/Contents/Resources/app/quarto/bin/tools/aarch64")
 
 raceinfobox <- function(race_name,
-                        course,
+                        timeDisplay,
                         race_type,
                         conditions,
                         going,
@@ -20,7 +20,7 @@ raceinfobox <- function(race_name,
   
   #replace placeholders with variables
   tmplate <- tmplate %>% str_replace_all("race_name_placeholder",race_name)
-  tmplate <- tmplate %>% str_replace_all("course_placeholder",course)
+  tmplate <- tmplate %>% str_replace_all("time_placeholder",timeDisplay)
   tmplate <- tmplate %>% str_replace_all("race_type_placeholder",race_type)
   tmplate <- tmplate %>% str_replace_all("conditions_placeholder",conditions)
   tmplate <- tmplate %>% str_replace_all("going_placeholder",going)
