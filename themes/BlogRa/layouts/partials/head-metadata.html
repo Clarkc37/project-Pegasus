@@ -34,9 +34,7 @@
 {{ end }}
 
 <!-- Google Analytics -->
-{{ if not .Site.IsServer }}
-    {{ partial "googleAnalytics.html" . }}
-{{ end }}
+
 
 <!-- Katex math equations -->
 {{ if or .Params.math .Site.Params.math }}
