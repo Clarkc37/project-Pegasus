@@ -5,7 +5,8 @@ image: course.png
 featured: featured_placeholder
 Date: Date_Placeholder
 order: 0
-output: md_document
+output: html_document:
+        keep_md: true
 ---
 
 ```{r setup, include=FALSE}
