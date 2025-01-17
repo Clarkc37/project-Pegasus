@@ -39,10 +39,8 @@ dir.tidyup <- function(){
 dir_path <- paste('./content/racecards/',race.date,sep = "")
   if (!dir.exists(dir_path)) {
       dir.create(dir_path, recursive = TRUE)
-      return(paste("Directory successfully created:", dir_path))
-    } else {
-      return(paste("Directory already exists:", dir_path))
-    }
+      message(paste("Directory successfully created:", dir_path))
+    } 
   todays.old.files <- list.files("./content/racecards/today",full.names = T,
                                  recursive = T)
   todays.old.files <- todays.old.files[!todays.old.files=="./content/racecards/today/_index.md" ]
