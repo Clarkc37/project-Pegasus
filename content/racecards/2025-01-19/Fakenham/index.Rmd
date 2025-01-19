@@ -1,9 +1,9 @@
 ---
-title: "Market Rasen"
-course: Market Rasen
+title: "Fakenham"
+course: Fakenham
 image: course.png
 featured: false
-Date: 2025-01-17
+Date: 2025-01-19
 order: 0
 output:
   html_document:
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Market Rasen") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Fakenham") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
