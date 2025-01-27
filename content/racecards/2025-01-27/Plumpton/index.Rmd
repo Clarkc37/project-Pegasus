@@ -2,7 +2,7 @@
 title: "Plumpton"
 course: Plumpton
 image: course.png
-featured: false
+featured: true
 Date: 2025-01-27
 order: 0
 output:
