@@ -3,9 +3,11 @@ title: "Taunton"
 course: Taunton
 image: course.png
 featured: true
-Date: 2025-01-08
+Date: 2025-02-04
 order: 0
-output: md_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
