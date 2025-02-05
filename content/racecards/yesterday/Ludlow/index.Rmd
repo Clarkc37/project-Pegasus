@@ -2,8 +2,8 @@
 title: "Ludlow"
 course: Ludlow
 image: course.png
-featured: false
-Date: 2025-01-16
+featured: true
+Date: 2025-02-05
 order: 0
 output:
   html_document:
