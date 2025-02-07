@@ -1,8 +1,8 @@
 ---
-title: "Kempton"
-course: Kempton
+title: "Bangor-On-Dee"
+course: Bangor-On-Dee
 image: course.png
-featured: true
+featured: false
 Date: 2025-02-07
 order: 0
 output:
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Kempton") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Bangor-On-Dee") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
