@@ -1,8 +1,8 @@
 ---
-title: "Ayr"
-course: Ayr
+title: "Lingfield"
+course: Lingfield
 image: course.png
-featured: false
+featured: true
 Date: 2025-02-11
 order: 0
 output:
@@ -21,7 +21,7 @@ library(knitr)
 library(kableExtra)
 
 i <- 1
-Index <- Todays.Prediction %>% filter(Course=="Ayr") %>% select(QueryID) %>% distinct()
+Index <- Todays.Prediction %>% filter(Course=="Lingfield") %>% select(QueryID) %>% distinct()
 
 for (i in Index$QueryID) {
   tabledata <- Todays.Prediction %>% filter(QueryID == i)
