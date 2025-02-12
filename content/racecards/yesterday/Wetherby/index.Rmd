@@ -2,8 +2,8 @@
 title: "Wetherby"
 course: Wetherby
 image: course.png
-featured: false
-Date: 2025-01-23
+featured: true
+Date: 2025-02-12
 order: 0
 output:
   html_document:
