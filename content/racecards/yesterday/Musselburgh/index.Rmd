@@ -2,8 +2,8 @@
 title: "Musselburgh"
 course: Musselburgh
 image: course.png
-featured: false
-Date: 2025-02-02
+featured: true
+Date: 2025-02-16
 order: 0
 output:
   html_document:
