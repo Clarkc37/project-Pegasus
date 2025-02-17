@@ -12,7 +12,7 @@ output:
 
 
 
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Download The Racing App Now Handicap Chase             </span>           </div>           <div>             <span class="text-base font-semibold">               13:35             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Chase             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (5YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               3m             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               10             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Download The Racing App Now Handicap Chase             </span>           </div>           <div>             <span class="text-base font-semibold">               13:35             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Chase             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (5YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               3m             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               10             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="13:35 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -55,9 +55,9 @@ output:
    <td style="text-align:center;"> 0.455 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3894235 </td>
+   <td style="text-align:center;"> 0.2798273 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2.250 </td>
+   <td style="text-align:center;"> 4.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -78,9 +78,9 @@ output:
    <td style="text-align:center;"> 1.220 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0818217 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 11.000 </td>
+   <td style="text-align:center;"> 0.0609375 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -100,10 +100,10 @@ output:
    <td style="text-align:center;"> 15 <br> 3.21 </td>
    <td style="text-align:center;"> 0.083 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 8% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 8% </td>
-   <td style="text-align:center;"> 0.0588631 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 5.500 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 7.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 7.5% </td>
+   <td style="text-align:center;"> 0.0725976 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 7.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -124,9 +124,9 @@ output:
    <td style="text-align:center;"> 0.750 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0507792 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 5.000 </td>
+   <td style="text-align:center;"> 0.0301738 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 6.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -146,10 +146,10 @@ output:
    <td style="text-align:center;"> 15 <br> 3.88 </td>
    <td style="text-align:center;"> 0.234 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 11.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 11.5% </td>
-   <td style="text-align:center;"> 0.1113561 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 6.000 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 7% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 7% </td>
+   <td style="text-align:center;"> 0.1006190 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 6.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -169,10 +169,10 @@ output:
    <td style="text-align:center;"> 9 <br> 2.17 </td>
    <td style="text-align:center;"> 0.092 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 73% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 73% </td>
-   <td style="text-align:center;"> 0.1034868 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.333 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 71.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 71.5% </td>
+   <td style="text-align:center;"> 0.1097937 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 2.75 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -193,9 +193,9 @@ output:
    <td style="text-align:center;"> 0.500 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0849470 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 12.000 </td>
+   <td style="text-align:center;"> 0.0571518 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 16.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -215,10 +215,10 @@ output:
    <td style="text-align:center;"> 20 <br> 5.43 </td>
    <td style="text-align:center;"> 0.060 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 7.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 7.5% </td>
-   <td style="text-align:center;"> 0.0451202 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 14% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 14% </td>
+   <td style="text-align:center;"> 0.0414760 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 14.000 </td>
+   <td style="text-align:center;"> 12.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -239,9 +239,9 @@ output:
    <td style="text-align:center;"> 1.029 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0677010 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 10.000 </td>
+   <td style="text-align:center;"> 0.0868430 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 7.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
@@ -262,14 +262,14 @@ output:
    <td style="text-align:center;"> 1.838 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0282314 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 18.000 </td>
+   <td style="text-align:center;"> 0.0842821 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 40.00 </td>
   </tr>
 </tbody>
 </table>
 </div>
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Grace And Dotty Fedora's And Feathers Handicap Chase (GBB Race)             </span>           </div>           <div>             <span class="text-base font-semibold">               14:05             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Chase             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 4) (5YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               9             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £4,700             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Grace And Dotty Fedora's And Feathers Handicap Chase (GBB Race)             </span>           </div>           <div>             <span class="text-base font-semibold">               14:05             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Chase             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 4) (5YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               9             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £4,700             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="14:05 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -311,10 +311,10 @@ output:
    <td style="text-align:center;"> 5 <br> 1.01 </td>
    <td style="text-align:center;"> -0.879 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 6% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 6% </td>
-   <td style="text-align:center;"> 0.6348352 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 9.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 9.5% </td>
+   <td style="text-align:center;"> 0.4281617 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.75 </td>
+   <td style="text-align:center;"> 2.4 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -335,9 +335,9 @@ output:
    <td style="text-align:center;"> 0.387 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0910423 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 10.00 </td>
+   <td style="text-align:center;"> 0.0572045 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 14.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -357,10 +357,10 @@ output:
    <td style="text-align:center;"> 4 <br> 1.68 </td>
    <td style="text-align:center;"> -1.262 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 94% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 94% </td>
-   <td style="text-align:center;"> 0.5386575 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 90% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 90% </td>
+   <td style="text-align:center;"> 0.3528851 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3.00 </td>
+   <td style="text-align:center;"> 7.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -381,9 +381,9 @@ output:
    <td style="text-align:center;"> -0.100 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0305119 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 12.00 </td>
+   <td style="text-align:center;"> 0.0163719 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 22.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -395,7 +395,7 @@ output:
    <td style="text-align:left;"> A M Hales <br> <div class="badge rounded-pill average "> 13 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Kielan Woods <br> <div class="badge rounded-pill hot "> 31 % <div> </div>
+   <td style="text-align:left;"> Sam Twiston-Davies <br> <div class="badge rounded-pill hot "> 31 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 11-7 </td>
@@ -403,10 +403,10 @@ output:
    <td style="text-align:center;"> 9 <br> 1.66 </td>
    <td style="text-align:center;"> -0.650 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1183208 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 5.50 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.2271183 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -427,9 +427,9 @@ output:
    <td style="text-align:center;"> 0.444 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0412281 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 7.50 </td>
+   <td style="text-align:center;"> 0.0849416 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 12.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -450,9 +450,9 @@ output:
    <td style="text-align:center;"> -0.571 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1341712 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5.50 </td>
+   <td style="text-align:center;"> 0.2014760 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 4.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -473,9 +473,9 @@ output:
    <td style="text-align:center;"> -0.139 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.3019151 </td>
+   <td style="text-align:center;"> 0.2842557 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 6.00 </td>
+   <td style="text-align:center;"> 5.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -496,14 +496,14 @@ output:
    <td style="text-align:center;"> -0.083 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0093068 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 22.00 </td>
+   <td style="text-align:center;"> 0.0390753 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 8.0 </td>
   </tr>
 </tbody>
 </table>
 </div>
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Join Southwell Golf Club Open NH Flat Race (GBB Race)             </span>           </div>           <div>             <span class="text-base font-semibold">               14:35             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Bumper             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO to 6YO)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               1m 7f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               7             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £2,451             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Join Southwell Golf Club Open NH Flat Race (GBB Race)             </span>           </div>           <div>             <span class="text-base font-semibold">               14:35             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Bumper             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO to 6YO)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               1m 7f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               7             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £2,451             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="14:35 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -546,9 +546,9 @@ output:
    <td style="text-align:center;"> -0.748 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.4680655 </td>
+   <td style="text-align:center;"> 0.6741056 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.50 </td>
+   <td style="text-align:center;"> 1.200 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -569,9 +569,9 @@ output:
    <td style="text-align:center;"> -0.497 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2424711 </td>
+   <td style="text-align:center;"> 0.3448842 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.25 </td>
+   <td style="text-align:center;"> 1.875 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -592,9 +592,9 @@ output:
    <td style="text-align:center;"> 0.813 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0295947 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 10.00 </td>
+   <td style="text-align:center;"> 0.0106958 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -615,9 +615,9 @@ output:
    <td style="text-align:center;"> 1.026 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0086935 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 20.00 </td>
+   <td style="text-align:center;"> 0.0140167 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 25.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -638,9 +638,9 @@ output:
    <td style="text-align:center;"> 0.710 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0214278 </td>
+   <td style="text-align:center;"> 0.0121103 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 16.00 </td>
+   <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -661,9 +661,9 @@ output:
    <td style="text-align:center;"> 0.010 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1131403 </td>
+   <td style="text-align:center;"> 0.0588907 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 5.00 </td>
+   <td style="text-align:center;"> 7.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -684,14 +684,14 @@ output:
    <td style="text-align:center;"> 1.811 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0294776 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 6.00 </td>
+   <td style="text-align:center;"> 0.0282577 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 9.000 </td>
   </tr>
 </tbody>
 </table>
 </div>
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Watch Unbridled On attheraces.com Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               15:40             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               11             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Watch Unbridled On attheraces.com Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               15:40             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               9             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="15:40 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -716,29 +716,6 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;width: 65px; "> 1 </td>
-   <td style="text-align:left;"> 33-6528 </td>
-   <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20250217/20250217sth154001.png?v=2"></body></html>
-</td>
-   <td style="text-align:left;"> Pottersjetamay </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:left;"> M Crawley <br> <div class="badge rounded-pill cool "> 0 % <div> </div>
-</div>
-</td>
-   <td style="text-align:left;"> J M Quinlan <br> <div class="badge rounded-pill average "> 19 % <div> </div>
-</div>
-</td>
-   <td style="text-align:center;"> 12-0 </td>
-   <td style="text-align:center;"> 98 <br> 25 </td>
-   <td style="text-align:center;"> 15 <br> 4.68 </td>
-   <td style="text-align:center;"> 0.231 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
-   <td style="text-align:center;"> 0.0709612 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 14.00 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
    <td style="text-align:left;"> 36-47F4 </td>
    <td style="text-align:center;width: 40px; ">  <html><body><img src="https://www.attheraces.com/images/silks/20250217/20250217sth154002.png?v=2"></body></html>
@@ -754,12 +731,12 @@ output:
    <td style="text-align:center;"> 11-13 </td>
    <td style="text-align:center;"> 97 <br> 51 </td>
    <td style="text-align:center;"> 21 <br> 3.38 </td>
-   <td style="text-align:center;"> 0.233 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1134589 </td>
+   <td style="text-align:center;"> 0.256 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 6.00 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.3375552 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 3.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -777,12 +754,12 @@ output:
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 95 <br> 12 </td>
    <td style="text-align:center;"> 13 <br> 3.31 </td>
-   <td style="text-align:center;"> -0.086 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 30% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 30% </td>
-   <td style="text-align:center;"> 0.0812970 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 4.00 </td>
+   <td style="text-align:center;"> -0.075 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 36.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 36.5% </td>
+   <td style="text-align:center;"> 0.1413961 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 3.333 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -800,12 +777,12 @@ output:
    <td style="text-align:center;"> 11-5 </td>
    <td style="text-align:center;"> 89 <br> 14 </td>
    <td style="text-align:center;"> 21 <br> 5.58 </td>
-   <td style="text-align:center;"> -0.186 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 68% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 68% </td>
-   <td style="text-align:center;"> 0.0500280 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 11.00 </td>
+   <td style="text-align:center;"> 0.042 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 63% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 63% </td>
+   <td style="text-align:center;"> 0.0956869 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 7.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -823,12 +800,12 @@ output:
    <td style="text-align:center;"> 11-3 </td>
    <td style="text-align:center;"> 87 <br> 236 </td>
    <td style="text-align:center;"> 19 <br> 4.58 </td>
-   <td style="text-align:center;"> 0.857 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 1.106 </td>
+   <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.2847343 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.75 </td>
+   <td style="text-align:center;"> 0.0840875 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 7.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -846,12 +823,12 @@ output:
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 104 </td>
    <td style="text-align:center;"> 19 <br> 4.18 </td>
-   <td style="text-align:center;"> 0.759 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.771 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0424581 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 25.00 </td>
+   <td style="text-align:center;"> 0.0263808 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 16.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -869,12 +846,12 @@ output:
    <td style="text-align:center;"> 11-2 </td>
    <td style="text-align:center;"> 86 <br> 23 </td>
    <td style="text-align:center;"> 21 <br> 5.85 </td>
-   <td style="text-align:center;"> 0.141 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 1.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 1.5% </td>
-   <td style="text-align:center;"> 0.3383563 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.50 </td>
+   <td style="text-align:center;"> 0.310 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0.5% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0.5% </td>
+   <td style="text-align:center;"> 0.1914255 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -892,12 +869,12 @@ output:
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 83 <br> 76 </td>
    <td style="text-align:center;"> 30 <br> 9.61 </td>
-   <td style="text-align:center;"> 1.328 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 1.335 </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0019081 </td>
+   <td style="text-align:center;"> 0.0003885 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 50.00 </td>
+   <td style="text-align:center;"> 80.000 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
@@ -915,12 +892,12 @@ output:
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 80 <br> 345 </td>
    <td style="text-align:center;"> 19 <br> 8.28 </td>
-   <td style="text-align:center;"> 0.844 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 0.805 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0483995 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 8.50 </td>
+   <td style="text-align:center;"> 0.1393961 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4.500 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 11 </td>
@@ -938,17 +915,17 @@ output:
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 72 <br> 32 </td>
    <td style="text-align:center;"> 21 <br> 6.61 </td>
-   <td style="text-align:center;"> 1.518 </td>
-   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 1.397 </td>
+   <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0014929 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 66.00 </td>
+   <td style="text-align:center;"> 0.0027414 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 50.000 </td>
   </tr>
 </tbody>
 </table>
 </div>
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Golf And Gallop Package Mares' Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               16:15             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               3m             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               10             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Golf And Gallop Package Mares' Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               16:15             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               3m             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               9             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="16:15 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -988,12 +965,12 @@ output:
    <td style="text-align:center;"> 12-0 </td>
    <td style="text-align:center;"> 98 <br> 24 </td>
    <td style="text-align:center;"> 21 <br> 6.43 </td>
-   <td style="text-align:center;"> 0.319 </td>
+   <td style="text-align:center;"> 0.424 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0525953 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 40.000 </td>
+   <td style="text-align:center;"> 0.0581475 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 12.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -1011,12 +988,12 @@ output:
    <td style="text-align:center;"> 11-11 </td>
    <td style="text-align:center;"> 95 <br> 7 </td>
    <td style="text-align:center;"> 4 <br> 0.97 </td>
-   <td style="text-align:center;"> -1.068 </td>
+   <td style="text-align:center;"> -0.886 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.3931466 </td>
+   <td style="text-align:center;"> 0.4761776 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.875 </td>
+   <td style="text-align:center;"> 1.75 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -1034,12 +1011,12 @@ output:
    <td style="text-align:center;"> 11-10 </td>
    <td style="text-align:center;"> 94 <br> 12 </td>
    <td style="text-align:center;"> 20 <br> 5.59 </td>
-   <td style="text-align:center;"> 0.673 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0606147 </td>
+   <td style="text-align:center;"> 0.839 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 6.000 </td>
+   <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
+   <td style="text-align:center;"> 0.1232290 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 8.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -1057,12 +1034,12 @@ output:
    <td style="text-align:center;"> 11-9 </td>
    <td style="text-align:center;"> 93 <br> 31 </td>
    <td style="text-align:center;"> 15 <br> 2.98 </td>
-   <td style="text-align:center;"> 0.811 </td>
+   <td style="text-align:center;"> 0.957 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0355211 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 10.000 </td>
+   <td style="text-align:center;"> 0.0765307 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 14.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -1080,12 +1057,12 @@ output:
    <td style="text-align:center;"> 11-7 </td>
    <td style="text-align:center;"> 91 <br> 29 </td>
    <td style="text-align:center;"> 22 <br> 5.71 </td>
-   <td style="text-align:center;"> 0.736 </td>
-   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0.626 </td>
+   <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0942331 </td>
+   <td style="text-align:center;"> 0.1091220 </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 4.500 </td>
+   <td style="text-align:center;"> 5.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -1103,12 +1080,12 @@ output:
    <td style="text-align:center;"> 11-6 </td>
    <td style="text-align:center;"> 90 <br> 59 </td>
    <td style="text-align:center;"> 15 <br> 3.75 </td>
-   <td style="text-align:center;"> 0.965 </td>
+   <td style="text-align:center;"> 1.040 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0879839 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 7.000 </td>
+   <td style="text-align:center;"> 0.0619365 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 9.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1126,12 +1103,12 @@ output:
    <td style="text-align:center;"> 10-13 </td>
    <td style="text-align:center;"> 83 <br> 12 </td>
    <td style="text-align:center;"> 21 <br> 4.83 </td>
-   <td style="text-align:center;"> -0.383 </td>
+   <td style="text-align:center;"> -0.254 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1787679 </td>
+   <td style="text-align:center;"> 0.3096879 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2.500 </td>
+   <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -1149,12 +1126,12 @@ output:
    <td style="text-align:center;"> 10-10 </td>
    <td style="text-align:center;"> 80 <br> 47 </td>
    <td style="text-align:center;"> 23 <br> 8.56 </td>
-   <td style="text-align:center;"> 1.108 </td>
+   <td style="text-align:center;"> 1.110 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0239536 </td>
+   <td style="text-align:center;"> 0.0099131 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 22.000 </td>
+   <td style="text-align:center;"> 22.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
@@ -1172,17 +1149,17 @@ output:
    <td style="text-align:center;"> 10-2 </td>
    <td style="text-align:center;"> 72 <br> 12 </td>
    <td style="text-align:center;"> 23 <br> 6.57 </td>
-   <td style="text-align:center;"> 0.390 </td>
+   <td style="text-align:center;"> 0.435 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1380717 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 25.000 </td>
+   <td style="text-align:center;"> 0.0760926 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 20.00 </td>
   </tr>
 </tbody>
 </table>
 </div>
-<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Southwell Racecourse Novices' Limited Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               16:45             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to soft-soft in places             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               11             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
+<div class="w-full lg:w-2/3">     <div class="card m-3">       <div class="card-header bg-light btn-reveal-trigger py-2 px-4">         <div class="flex flex-row justify-between flex-grow ">           <div>             <span class="text-lg font-bold">               Southwell Racecourse Novices' Limited Handicap Hurdle             </span>           </div>           <div>             <span class="text-base font-semibold">               16:45             </span>           </div>                    </div>       </div>       <div class="card-body pt-2 pb-2 flex flex-row gap-2 px-4" id="race-information-div">         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Race Type             </span>             <span class="text-xs">               Hurdle             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Classifications             </span>             <span class="text-xs">               (Class 5) (4YO plus)             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Ground             </span>             <span class="text-xs">               Good to Soft              </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Distance             </span>             <span class="text-xs">               2m 4f             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Runners             </span>             <span class="text-xs">               11             </span>           </div>         </div>         <div class="bg-gray-400 w-1/6">           <div class="flex flex-col items-center">             <span class="font-semibold text-sm">               Prize Money             </span>             <span class="text-xs">               £3,248             </span>           </div>         </div>        </div>     </div>   </div>
 <div class="table-responsive"> 
 <table class="racecard table table-hover" id="16:45 Southwell" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -1225,9 +1202,9 @@ output:
    <td style="text-align:center;"> 0.895 </td>
    <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0491078 </td>
+   <td style="text-align:center;"> 0.0791141 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 20.0 </td>
+   <td style="text-align:center;"> 18.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 2 </td>
@@ -1248,9 +1225,9 @@ output:
    <td style="text-align:center;"> 0.015 </td>
    <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1351935 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.0 </td>
+   <td style="text-align:center;"> 0.1687565 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2.75 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 3 </td>
@@ -1271,9 +1248,9 @@ output:
    <td style="text-align:center;"> 0.697 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0651651 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 10.0 </td>
+   <td style="text-align:center;"> 0.0843598 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 7.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 4 </td>
@@ -1294,9 +1271,9 @@ output:
    <td style="text-align:center;"> 0.313 </td>
    <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1695853 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 4.5 </td>
+   <td style="text-align:center;"> 0.1158540 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 8.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 5 </td>
@@ -1317,9 +1294,9 @@ output:
    <td style="text-align:center;"> -1.075 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 100% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 100% </td>
-   <td style="text-align:center;"> 0.1286035 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 2.5 </td>
+   <td style="text-align:center;"> 0.0876534 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 6 </td>
@@ -1340,9 +1317,9 @@ output:
    <td style="text-align:center;"> 1.080 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0189476 </td>
-   <td style="text-align:center;"> 11 </td>
-   <td style="text-align:center;"> 33.0 </td>
+   <td style="text-align:center;"> 0.0235786 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 40.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 7 </td>
@@ -1363,9 +1340,9 @@ output:
    <td style="text-align:center;"> 0.414 </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.1372715 </td>
+   <td style="text-align:center;"> 0.1612308 </td>
    <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 8.5 </td>
+   <td style="text-align:center;"> 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 8 </td>
@@ -1386,9 +1363,9 @@ output:
    <td style="text-align:center;"> 0.582 </td>
    <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0709859 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 6.5 </td>
+   <td style="text-align:center;"> 0.0913383 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 11.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 9 </td>
@@ -1409,9 +1386,9 @@ output:
    <td style="text-align:center;"> 0.114 </td>
    <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0825911 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 9.0 </td>
+   <td style="text-align:center;"> 0.0797533 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 5.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 10 </td>
@@ -1423,7 +1400,7 @@ output:
    <td style="text-align:left;"> A M Hales <br> <div class="badge rounded-pill average "> 13 % <div> </div>
 </div>
 </td>
-   <td style="text-align:left;"> Kielan Woods <br> <div class="badge rounded-pill hot "> 31 % <div> </div>
+   <td style="text-align:left;"> Luke Scott  <br> <div class="badge rounded-pill hot "> 31 % <div> </div>
 </div>
 </td>
    <td style="text-align:center;"> 10-5 </td>
@@ -1433,8 +1410,8 @@ output:
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
    <td style="text-align:center;"> 0.0802844 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 6.5 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 6.50 </td>
   </tr>
   <tr>
    <td style="text-align:center;width: 65px; "> 11 </td>
@@ -1455,9 +1432,9 @@ output:
    <td style="text-align:center;"> 1.568 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> <div class="progress" style="height:5px">     <div class="progress-bar rounded-3 bg-primary" role="progressbar" style="width: 0% " aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div> </div> <br> 0% </td>
-   <td style="text-align:center;"> 0.0305597 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 33.0 </td>
+   <td style="text-align:center;"> 0.0043145 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 66.00 </td>
   </tr>
 </tbody>
 </table>
