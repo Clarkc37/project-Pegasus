@@ -3,7 +3,7 @@ title: "Ayr"
 course: Ayr
 image: course.png
 featured: false
-Date: 2025-02-11
+Date: 2025-02-24
 order: 0
 output:
   html_document:
