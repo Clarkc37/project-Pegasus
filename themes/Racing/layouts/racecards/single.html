@@ -110,7 +110,7 @@
 
     <section id="racecardElements">
 
-      <template x-for="horse in racecardData.horses.sort((a,b) => a.Rank - b.Rank)" :key="horse.Rank">
+      <template x-for="horse in racecardData.horses.sort((a,b) => a['pred.position'] - b['pred.position'])" :key="horse['pred.position']">
         <div class="rounded bg-white shadow m-2">
           <div class="flex w-full">
 
@@ -123,7 +123,7 @@
               <div class="grid grid-cols-2 text-xs font-light">
                 <div>
                   <span class="text-gray-600">Prediction:</span>
-                  <span x-text="horse.Rank"></span>
+                  <span x-text="horse['pred.position']"></span>
                 </div>
                 <div>
                   <span class="text-gray-600">Win %</span>
@@ -289,7 +289,7 @@
             <div class="flex flex-row  flex-grow">
               <div x-data="{ 
           winPct: horse['win.pct'] ? horse['win.pct'] * 100 : 0, 
-          position: horse['Rank'] ?? '?',
+          position: horse['pred.position'] ?? '?',
           circumference: 2 * Math.PI * 16 // Precompute the circle length
         }" class="relative w-[49px] h-[36px] flex-grow items-left">
 

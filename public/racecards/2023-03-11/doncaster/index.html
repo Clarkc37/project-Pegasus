@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=57824&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>Doncaster | Friday 17 March 2023 | Global Guide Racing</title>
 
-    <link rel="stylesheet" href="http://localhost:1313/css/main.css">
+    <link rel="stylesheet" href="http://localhost:57824/css/main.css">
 
 
-      <script src="http://localhost:1313/js/main.js"></script>
+      <script src="http://localhost:57824/js/main.js"></script>
 
 <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -19,7 +19,7 @@
   <header>
     <nav class="bg-gray-800 text-white p-4 w-full" x-data="{ open: false }">
     <div class="container mx-auto flex justify-between items-center">
-        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
+        <a href="http://localhost:57824/" class="text-xl font-bold">Global Guide Racing</a>
         
         <button @click="open = !open" class="md:hidden focus:outline-none">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -29,9 +29,9 @@
 
         <ul class="hidden md:flex space-x-4">
             
-                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+                <li><a href="http://localhost:57824/" class="hover:text-gray-300">Home</a></li>
             
-                <li><a href="http://localhost:1313/racecards/" class="hover:text-gray-300">Racecards</a></li>
+                <li><a href="http://localhost:57824/racecards/" class="hover:text-gray-300">Racecards</a></li>
             
         </ul>
     </div>
@@ -39,9 +39,9 @@
     <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
         <ul>
             
-                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+                <li><a href="http://localhost:57824/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
             
-                <li><a href="http://localhost:1313/racecards/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+                <li><a href="http://localhost:57824/racecards/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
             
         </ul>
     </div>
@@ -162,7 +162,7 @@
 
     <section id="racecardElements">
 
-      <template x-for="horse in racecardData.horses.sort((a,b) => a.Rank - b.Rank)" :key="horse.Rank">
+      <template x-for="horse in racecardData.horses.sort((a,b) => a['pred.position'] - b['pred.position'])" :key="horse['pred.position']">
         <div class="rounded bg-white shadow m-2">
           <div class="flex w-full">
 
@@ -175,7 +175,7 @@
               <div class="grid grid-cols-2 text-xs font-light">
                 <div>
                   <span class="text-gray-600">Prediction:</span>
-                  <span x-text="horse.Rank"></span>
+                  <span x-text="horse['pred.position']"></span>
                 </div>
                 <div>
                   <span class="text-gray-600">Win %</span>
@@ -341,7 +341,7 @@
             <div class="flex flex-row  flex-grow">
               <div x-data="{ 
           winPct: horse['win.pct'] ? horse['win.pct'] * 100 : 0, 
-          position: horse['Rank'] ?? '?',
+          position: horse['pred.position'] ?? '?',
           circumference: 2 * Math.PI * 16 // Precompute the circle length
         }" class="relative w-[49px] h-[36px] flex-grow items-left">
 

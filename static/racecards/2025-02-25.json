@@ -81,7 +81,8 @@
             "courseGroup": 5,
             "prediction.score": -0.6163,
             "pred.position": 4,
-            "win.return": 3.75
+            "win.return": 3.75,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -151,7 +152,8 @@
             "courseGroup": 5,
             "prediction.score": -0.5694,
             "pred.position": 6,
-            "win.return": 10
+            "win.return": 10,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -221,7 +223,8 @@
             "courseGroup": 5,
             "prediction.score": 0.1128,
             "pred.position": 8,
-            "win.return": 26
+            "win.return": 26,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -291,7 +294,8 @@
             "courseGroup": 5,
             "prediction.score": -0.6012,
             "pred.position": 5,
-            "win.return": 13
+            "win.return": 13,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -361,7 +365,8 @@
             "courseGroup": 5,
             "prediction.score": -0.7419,
             "pred.position": 2,
-            "win.return": 9.5
+            "win.return": 9.5,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -431,7 +436,8 @@
             "courseGroup": 5,
             "prediction.score": -0.2312,
             "pred.position": 7,
-            "win.return": 8
+            "win.return": 8,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -501,7 +507,8 @@
             "courseGroup": 5,
             "prediction.score": -0.7314,
             "pred.position": 3,
-            "win.return": 3.25
+            "win.return": 3.25,
+            "win.pct": 0.585
           },
           {
             "Race.number": 1,
@@ -571,7 +578,8 @@
             "courseGroup": 5,
             "prediction.score": -0.958,
             "pred.position": 1,
-            "win.return": 3.5
+            "win.return": 3.5,
+            "win.pct": 0.415
           }
         ]
       },
@@ -652,7 +660,8 @@
             "courseGroup": 5,
             "prediction.score": -0.1958,
             "pred.position": 2,
-            "win.return": 3.25
+            "win.return": 3.25,
+            "win.pct": 0
           },
           {
             "Race.number": 2,
@@ -721,7 +730,8 @@
             "courseGroup": 5,
             "prediction.score": 0.7492,
             "pred.position": 6,
-            "win.return": 6.5
+            "win.return": 6.5,
+            "win.pct": 0
           },
           {
             "Race.number": 2,
@@ -791,7 +801,8 @@
             "courseGroup": 5,
             "prediction.score": -0.5668,
             "pred.position": 1,
-            "win.return": 2.875
+            "win.return": 2.875,
+            "win.pct": 0.905
           },
           {
             "Race.number": 2,
@@ -860,7 +871,8 @@
             "courseGroup": 5,
             "prediction.score": -0.0745,
             "pred.position": 4,
-            "win.return": 5
+            "win.return": 5,
+            "win.pct": 0.015
           },
           {
             "Race.number": 2,
@@ -929,7 +941,8 @@
             "courseGroup": 5,
             "prediction.score": 0.2381,
             "pred.position": 5,
-            "win.return": 21
+            "win.return": 21,
+            "win.pct": 0
           },
           {
             "Race.number": 2,
@@ -999,7 +1012,8 @@
             "courseGroup": 5,
             "prediction.score": -0.117,
             "pred.position": 3,
-            "win.return": 6
+            "win.return": 6,
+            "win.pct": 0.08
           },
           {
             "Race.number": 2,
@@ -1069,7 +1083,8 @@
             "courseGroup": 5,
             "prediction.score": 0.7619,
             "pred.position": 7,
-            "win.return": 41
+            "win.return": 41,
+            "win.pct": 0
           }
         ]
       },
@@ -1150,7 +1165,8 @@
             "courseGroup": 5,
             "prediction.score": -2.156,
             "pred.position": 1,
-            "win.return": 2.25
+            "win.return": 2.25,
+            "win.pct": 0.67
           },
           {
             "Race.number": 4,
@@ -1220,7 +1236,8 @@
             "courseGroup": 5,
             "prediction.score": -1.0066,
             "pred.position": 4,
-            "win.return": 2.5
+            "win.return": 2.5,
+            "win.pct": 0.33
           },
           {
             "Race.number": 4,
@@ -1290,7 +1307,8 @@
             "courseGroup": 5,
             "prediction.score": -1.5457,
             "pred.position": 3,
-            "win.return": 9.5
+            "win.return": 9.5,
+            "win.pct": 0
           },
           {
             "Race.number": 4,
@@ -1360,7 +1378,8 @@
             "courseGroup": 5,
             "prediction.score": -1.8385,
             "pred.position": 2,
-            "win.return": 3.75
+            "win.return": 3.75,
+            "win.pct": 0
           }
         ]
       },
@@ -1441,7 +1460,8 @@
             "courseGroup": 5,
             "prediction.score": -0.2123,
             "pred.position": 6,
-            "win.return": 15
+            "win.return": 15,
+            "win.pct": 0
           },
           {
             "Race.number": 5,
@@ -1510,7 +1530,8 @@
             "courseGroup": 5,
             "prediction.score": -0.6366,
             "pred.position": 2,
-            "win.return": 2.625
+            "win.return": 2.625,
+            "win.pct": 0.065
           },
           {
             "Race.number": 5,
@@ -1580,7 +1601,8 @@
             "courseGroup": 5,
             "prediction.score": -0.451,
             "pred.position": 4,
-            "win.return": 9
+            "win.return": 9,
+            "win.pct": 0
           },
           {
             "Race.number": 5,
@@ -1650,7 +1672,8 @@
             "courseGroup": 5,
             "prediction.score": -0.7673,
             "pred.position": 1,
-            "win.return": 3.75
+            "win.return": 3.75,
+            "win.pct": 0.935
           },
           {
             "Race.number": 5,
@@ -1720,7 +1743,8 @@
             "courseGroup": 5,
             "prediction.score": -0.5782,
             "pred.position": 3,
-            "win.return": 11
+            "win.return": 11,
+            "win.pct": 0
           },
           {
             "Race.number": 5,
@@ -1790,7 +1814,8 @@
             "courseGroup": 5,
             "prediction.score": -0.2757,
             "pred.position": 5,
-            "win.return": 4.333
+            "win.return": 4.333,
+            "win.pct": 0
           },
           {
             "Race.number": 5,
@@ -1860,7 +1885,8 @@
             "courseGroup": 5,
             "prediction.score": 0.1895,
             "pred.position": 7,
-            "win.return": 9.5
+            "win.return": 9.5,
+            "win.pct": 0
           }
         ]
       },
@@ -1941,7 +1967,8 @@
             "courseGroup": 5,
             "prediction.score": -0.0049,
             "pred.position": 4,
-            "win.return": 6.5
+            "win.return": 6.5,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2011,7 +2038,8 @@
             "courseGroup": 5,
             "prediction.score": 0.4289,
             "pred.position": 8,
-            "win.return": 17
+            "win.return": 17,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2080,7 +2108,8 @@
             "courseGroup": 5,
             "prediction.score": 0.7317,
             "pred.position": 10,
-            "win.return": 11
+            "win.return": 11,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2150,7 +2179,8 @@
             "courseGroup": 5,
             "prediction.score": 0.1471,
             "pred.position": 6,
-            "win.return": 15
+            "win.return": 15,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2220,7 +2250,8 @@
             "courseGroup": 5,
             "prediction.score": -0.06,
             "pred.position": 3,
-            "win.return": 8
+            "win.return": 8,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2290,7 +2321,8 @@
             "courseGroup": 5,
             "prediction.score": -0.5411,
             "pred.position": 1,
-            "win.return": 2.625
+            "win.return": 2.625,
+            "win.pct": 1
           },
           {
             "Race.number": 6,
@@ -2360,7 +2392,8 @@
             "courseGroup": 5,
             "prediction.score": 0.2171,
             "pred.position": 7,
-            "win.return": 9
+            "win.return": 9,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2430,7 +2463,8 @@
             "courseGroup": 5,
             "prediction.score": -0.1065,
             "pred.position": 2,
-            "win.return": 4.333
+            "win.return": 4.333,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2499,7 +2533,8 @@
             "courseGroup": 5,
             "prediction.score": 0.9591,
             "pred.position": 11,
-            "win.return": 15
+            "win.return": 15,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2568,7 +2603,8 @@
             "courseGroup": 5,
             "prediction.score": 0.7148,
             "pred.position": 9,
-            "win.return": 17
+            "win.return": 17,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -2638,7 +2674,8 @@
             "courseGroup": 5,
             "prediction.score": 0.0461,
             "pred.position": 5,
-            "win.return": 13
+            "win.return": 13,
+            "win.pct": 0
           }
         ]
       }
@@ -2725,7 +2762,8 @@
             "courseGroup": 3,
             "prediction.score": -0.3418,
             "pred.position": 3,
-            "win.return": 10
+            "win.return": 10,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -2795,7 +2833,8 @@
             "courseGroup": 3,
             "prediction.score": -0.5087,
             "pred.position": 2,
-            "win.return": 1.571
+            "win.return": 1.571,
+            "win.pct": 0.305
           },
           {
             "Race.number": 1,
@@ -2864,7 +2903,8 @@
             "courseGroup": 3,
             "prediction.score": 0.2255,
             "pred.position": 5,
-            "win.return": 34
+            "win.return": 34,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -2934,7 +2974,8 @@
             "courseGroup": 3,
             "prediction.score": -0.1457,
             "pred.position": 4,
-            "win.return": 11
+            "win.return": 11,
+            "win.pct": 0
           },
           {
             "Race.number": 1,
@@ -3004,7 +3045,8 @@
             "courseGroup": 3,
             "prediction.score": -1.0018,
             "pred.position": 1,
-            "win.return": 2.875
+            "win.return": 2.875,
+            "win.pct": 0.695
           }
         ]
       },
@@ -3085,7 +3127,8 @@
             "courseGroup": 3,
             "prediction.score": -0.704,
             "pred.position": 3,
-            "win.return": 4.333
+            "win.return": 4.333,
+            "win.pct": 0
           },
           {
             "Race.number": 2,
@@ -3155,7 +3198,8 @@
             "courseGroup": 3,
             "prediction.score": -0.5191,
             "pred.position": 5,
-            "win.return": 1.909
+            "win.return": 1.909,
+            "win.pct": 0.74
           },
           {
             "Race.number": 2,
@@ -3225,7 +3269,8 @@
             "courseGroup": 3,
             "prediction.score": -1.03,
             "pred.position": 1,
-            "win.return": 10
+            "win.return": 10,
+            "win.pct": 0.26
           },
           {
             "Race.number": 2,
@@ -3295,7 +3340,8 @@
             "courseGroup": 3,
             "prediction.score": -0.655,
             "pred.position": 4,
-            "win.return": 6
+            "win.return": 6,
+            "win.pct": 0
           },
           {
             "Race.number": 2,
@@ -3365,7 +3411,8 @@
             "courseGroup": 3,
             "prediction.score": -0.7794,
             "pred.position": 2,
-            "win.return": 5
+            "win.return": 5,
+            "win.pct": 0
           }
         ]
       },
@@ -3445,7 +3492,8 @@
             "courseGroup": 3,
             "prediction.score": -0.282,
             "pred.position": 4,
-            "win.return": 4.333
+            "win.return": 4.333,
+            "win.pct": 0
           },
           {
             "Race.number": 3,
@@ -3515,7 +3563,8 @@
             "courseGroup": 3,
             "prediction.score": -0.7996,
             "pred.position": 2,
-            "win.return": 2.5
+            "win.return": 2.5,
+            "win.pct": 1
           },
           {
             "Race.number": 3,
@@ -3585,7 +3634,8 @@
             "courseGroup": 3,
             "prediction.score": -0.8099,
             "pred.position": 1,
-            "win.return": 2.875
+            "win.return": 2.875,
+            "win.pct": 0
           },
           {
             "Race.number": 3,
@@ -3655,7 +3705,8 @@
             "courseGroup": 3,
             "prediction.score": -0.6979,
             "pred.position": 3,
-            "win.return": 5
+            "win.return": 5,
+            "win.pct": 0
           },
           {
             "Race.number": 3,
@@ -3724,7 +3775,8 @@
             "courseGroup": 3,
             "prediction.score": 0.551,
             "pred.position": 5,
-            "win.return": 29
+            "win.return": 29,
+            "win.pct": 0
           }
         ]
       },
@@ -3805,7 +3857,8 @@
             "courseGroup": 3,
             "prediction.score": -1.5063,
             "pred.position": 3,
-            "win.return": 7
+            "win.return": 7,
+            "win.pct": 0
           },
           {
             "Race.number": 4,
@@ -3875,7 +3928,8 @@
             "courseGroup": 3,
             "prediction.score": -1.68,
             "pred.position": 2,
-            "win.return": 4
+            "win.return": 4,
+            "win.pct": 0.85
           },
           {
             "Race.number": 4,
@@ -3944,7 +3998,8 @@
             "courseGroup": 3,
             "prediction.score": -1.1587,
             "pred.position": 4,
-            "win.return": 2.625
+            "win.return": 2.625,
+            "win.pct": 0
           },
           {
             "Race.number": 4,
@@ -4014,7 +4069,8 @@
             "courseGroup": 3,
             "prediction.score": -1.7472,
             "pred.position": 1,
-            "win.return": 2.375
+            "win.return": 2.375,
+            "win.pct": 0.15
           }
         ]
       },
@@ -4095,7 +4151,8 @@
             "courseGroup": 3,
             "prediction.score": -0.6456,
             "pred.position": 2,
-            "win.return": 7.5
+            "win.return": 7.5,
+            "win.pct": 0.015
           },
           {
             "Race.number": 6,
@@ -4165,7 +4222,8 @@
             "courseGroup": 3,
             "prediction.score": -0.6005,
             "pred.position": 3,
-            "win.return": 5.5
+            "win.return": 5.5,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -4235,7 +4293,8 @@
             "courseGroup": 3,
             "prediction.score": -0.3017,
             "pred.position": 4,
-            "win.return": 17
+            "win.return": 17,
+            "win.pct": 0.04
           },
           {
             "Race.number": 6,
@@ -4305,7 +4364,8 @@
             "courseGroup": 3,
             "prediction.score": -0.7521,
             "pred.position": 1,
-            "win.return": 2.875
+            "win.return": 2.875,
+            "win.pct": 0.62
           },
           {
             "Race.number": 6,
@@ -4375,7 +4435,8 @@
             "courseGroup": 3,
             "prediction.score": -0.1123,
             "pred.position": 6,
-            "win.return": 4
+            "win.return": 4,
+            "win.pct": 0.105
           },
           {
             "Race.number": 6,
@@ -4442,7 +4503,8 @@
             "courseGroup": 3,
             "prediction.score": 0.6395,
             "pred.position": 7,
-            "win.return": 12
+            "win.return": 12,
+            "win.pct": 0
           },
           {
             "Race.number": 6,
@@ -4512,7 +4574,8 @@
             "courseGroup": 3,
             "prediction.score": -0.198,
             "pred.position": 5,
-            "win.return": 5.5
+            "win.return": 5.5,
+            "win.pct": 0.22
           }
         ]
       }
