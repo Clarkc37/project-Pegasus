@@ -42,4 +42,4 @@ markup:
 module:
   hugoVersion:
     extended: yes
-    min: 0.116
+    min: 0.116.0
