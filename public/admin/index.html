@@ -1,420 +1,66 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><script src="https://cdn.tailwindcss.com"></script>
-<head><title>
-    
-    Admin | 
-    
-    Global Guide Racing
-</title>
+<html lang="en-us" dir="ltr">
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<link rel="canonical" href="http://localhost:1313/admin/" />
-<link rel="icon" type="image/png" href="http://localhost:1313/image/favicon.ico">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Admin | Global Guide Racing</title>
+
+    <link rel="stylesheet" href="http://localhost:1313/css/main.css">
 
 
-    <meta name="description" content="All articles in &quot;Admin&quot;">
-    <meta property="og:description" content="All articles in &quot;Admin&quot;" />
+      <script src="http://localhost:1313/js/main.js"></script>
 
-    
-
-
-
-
-
-
-<meta property="og:title" content="Admin" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/admin/" />
-
-
-
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Admin">
-  <meta name="twitter:description" content="The Ultimate Tech Blogging Theme">
-
-
-  <meta itemprop="name" content="Admin">
-  <meta itemprop="description" content="The Ultimate Tech Blogging Theme">
-
-
-
-
-<link rel="stylesheet" href="http://localhost:1313/main.min.css">
-
-
-
-
-
-<script src="http://localhost:1313/bundle.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 </head>
-
-<body><header id="header">
-  <div class="top-bar">
-    <div class="container-md">
-
-      <div class="row align-items-center">
-        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
-          <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-        </div>
-
-        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
-          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <i class="fas fa-bars"></i>
-          </button>
-        </div>
-
-        <div class="col-6 col-sm-4">
-          <h2 class="title"><a href="http://localhost:1313/">Global Guide Racing</a></h2>
-        </div>
-
+<body class="h-screen bg-radial from-white from-40% to-gray-300">
+  <header>
+    <nav class="bg-gray-800 text-white p-4 w-full" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
 
-      </div>
-    </div>
-  </div>
-
-  <div class="container-md">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mx-auto">
-
-          <li class="nav-item d-block d-sm-none">
-            <ul class="social-buttons">
-              <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-            </ul>
-          </li>
-
-          
-          
-          <li class="nav-item">
-            <a class="nav-link 
-              
-              " 
-              href="http://localhost:1313/">
-              Home
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Racecards
-            </a>
-            <div class="dropdown-menu">
-              
-              
-                <a class="dropdown-item" href="http://localhost:1313/racecards/today">Todays Racecards</a>
-              
-              
-            </div>
-          </li>
-          
-          
+        <ul class="hidden md:flex space-x-4">
+            
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="hover:text-gray-300">Racecards</a></li>
+            
         </ul>
-
-        
-
-      </div>
-    </nav>
-  </div>
-</header>
-
-<div class="container-md">
-    <div class="row">
-        <div class="col-lg-8 offset-lg-2 px-lg-4">
-            <div class="text-center">
-                <h1 class="mt-4">Admin Panel</h1>
-
-                
-                
-                
-
-                <div class="pt-4">
-                    <h3 class="title is-3">Total articles:</h3>
-                    <h2 class="subtitle is-2">97</h2>
-                </div>
-                <div class="pt-4">
-                    <h3 class="title is-3">Total tags:</h3>
-                    <h2 class="subtitle is-2">0</h2>
-                </div>
-                <div class="pt-4">
-                    <h3 class="title is-3">Total sections:</h3>
-                    <h2 class="subtitle is-2">20</h2>
-                </div>
-            </div>
-
-            <h2>Sections Summary</h2>
-            <table class="table">
-                <tr>
-                    <th>No.</th>
-                    <th>Section</th>
-                    <th>Total articles</th>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    
-                    <td><a href="http://localhost:1313/posts/">Posts</a></td>
-                    <td>0</td>
-                </tr>
-
-                
-                
-
-                
-
-                
-                
-                    
-                    <tr>
-                        <td>2</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2023-03-11/">DevRa</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>3</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/">Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>4</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2025-01-13/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>5</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/today/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>6</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2025-01-08/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>7</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-12-29/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>8</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2025-01-06/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>9</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-12-28/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>10</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-12-27/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>11</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-12-26/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>12</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-11-05/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>13</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-05-03/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>14</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-05-01/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>15</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-30/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>16</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-18/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>17</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-16/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>18</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-13/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>19</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-12/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>20</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/2024-04-09/">Today&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-                    
-                    <tr>
-                        <td>21</td>
-                        
-                        <td><a href="http://localhost:1313/racecards/yesterday/">Yesterday&#39;s Racecards</a></td>
-                        <td>0</td>
-                    </tr>
-                
-
-                <tr>
-                    <td></td>
-                    <td>Total</td>
-                    <td>97</td>
-                </tr>
-
-            </table>
-
-            <h2>Tags Summary</h2>
-            <table class="table">
-                <tr>
-                    <th>No.</th>
-                    <th>Tags</th>
-                    <th>Total articles</th>
-                </tr>
-                
-                
-            </table>
-
-            
-            
-        </div>
     </div>
-</div>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+            
+        </ul>
+    </div>
+</nav>
+
+  </header>
+  <main>
+    <div class="container mx-auto h-full ">
+    
+  <h1>Admin</h1>
+  
+  
 
 
-<footer class="text-center py-5">
-    <p>
-        
-        © 2021 <a href="https://rafed.github.io/" target="_blank">DevRa</a>.
-        <a href="https://github.com/rafed/BlogRa/" target="_blank">BlogRa</a> theme for
-        <a href="https://github.com/gohugoio/hugo/" target="_blank">
-            Hugo
-        </a>. 
-        
-    </p>
-</footer>
+  </div>
+  </main>
+  <footer>
+    <p>Copyright 2025. All rights reserved.</p>
 
+  </footer>
 </body>
-
 </html>

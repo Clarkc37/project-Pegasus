@@ -1,413 +1,172 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><script src="https://cdn.tailwindcss.com"></script>
-<head><title>
-    
-    Today&#39;s Racecards | 
-    
-    Global Guide Racing
-</title>
+<html lang="en-us" dir="ltr">
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<link rel="canonical" href="http://localhost:1313/racecards/2025-01-06/" />
-<link rel="icon" type="image/png" href="http://localhost:1313/image/favicon.ico">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Today&#39;s Racecards | Global Guide Racing</title>
+
+    <link rel="stylesheet" href="http://localhost:1313/css/main.css">
 
 
-    <meta name="description" content="All articles in &quot;Today&#39;s Racecards&quot;">
-    <meta property="og:description" content="All articles in &quot;Today&#39;s Racecards&quot;" />
+      <script src="http://localhost:1313/js/main.js"></script>
 
-    
-
-
-
-
-
-
-<meta property="og:title" content="Today&#39;s Racecards" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/racecards/2025-01-06/" />
-
-
-
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Today&#39;s Racecards">
-  <meta name="twitter:description" content="The Ultimate Tech Blogging Theme">
-
-
-  <meta itemprop="name" content="Today&#39;s Racecards">
-  <meta itemprop="description" content="The Ultimate Tech Blogging Theme">
-  <meta itemprop="datePublished" content="2025-01-06T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2025-01-06T00:00:00+00:00">
-
-
-
-
-<link rel="stylesheet" href="http://localhost:1313/main.min.css">
-
-
-
-
-
-<script src="http://localhost:1313/bundle.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 </head>
-
-<body><header id="header">
-  <div class="top-bar">
-    <div class="container-md">
-
-      <div class="row align-items-center">
-        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
-          <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-        </div>
-
-        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
-          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <i class="fas fa-bars"></i>
-          </button>
-        </div>
-
-        <div class="col-6 col-sm-4">
-          <h2 class="title"><a href="http://localhost:1313/">Global Guide Racing</a></h2>
-        </div>
-
+<body class="h-screen bg-radial from-white from-40% to-gray-300">
+  <header>
+    <nav class="bg-gray-800 text-white p-4 w-full" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
 
-      </div>
-    </div>
-  </div>
-
-  <div class="container-md">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mx-auto">
-
-          <li class="nav-item d-block d-sm-none">
-            <ul class="social-buttons">
-              <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-            </ul>
-          </li>
-
-          
-          
-          <li class="nav-item">
-            <a class="nav-link 
-              
-              " 
-              href="http://localhost:1313/">
-              Home
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Racecards
-            </a>
-            <div class="dropdown-menu">
-              
-              
-                <a class="dropdown-item" href="http://localhost:1313/racecards/today">Todays Racecards</a>
-              
-              
-            </div>
-          </li>
-          
-          
+        <ul class="hidden md:flex space-x-4">
+            
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="hover:text-gray-300">Racecards</a></li>
+            
         </ul>
+    </div>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+            
+        </ul>
+    </div>
+</nav>
 
-        
+  </header>
+  <main>
+    <div class="container mx-auto h-full ">
+    
+<div class="container grid grid-cols-1 lg:grid-cols-3">
+    <section class="racecards-list my-6 col-span-1 lg:col-span-2" x-data="{
+        raceData: [],
+        selectedDate: new Date().toISOString().split('T')[0], // Fix initialization
+        getDate(daysAhead) {
+            let date = new Date();
+            date.setDate(date.getDate() + daysAhead);
+            return date.toISOString().split('T')[0]; // Format YYYY-MM-DD
+        },
+        fetchData() {
+            fetch(`/racecards/${this.selectedDate}.json`)
+                .then(response => response.json())
+                .then(data => this.raceData = data)
+                .catch(error => console.error('Error loading race data:', error));
+        }
+    }" x-init="fetchData()" x-effect="fetchData()">
+        <template x-for="(courseData, index) in raceData" :key="index">
+            <div class="px-2 py-1">
+                <button class="accordion_header_row 
+                  px-1  h-14 w-full items-center sm:mx-2
+                   bg-slate-300 " x-on:click="courseData.open = !courseData.open"
+                    :aria-expanded="courseData.open ? 'true' : 'false'" :id="courseData.course + '-header'">
+                    <div class="flex flex-row flex-grow justify-between my-2 mx-4 items-center ">
+                        <div class="flex flex-col sm:flex-row sm:flex-grow justify-between">
+                            <div class="flex flex-row gap-4 items-center">
+                                <img class="RC-accordion__courseIcon h-10 hidden sm:block"
+                                    src="https://www.rp-assets.com/course-photos/GB-394-x.jpg"
+                                    onerror="this.onerror=null;this.src='https://www.rp-assets.com/course-photos/GENERIC-x.jpg';"
+                                    data-test-selector="RC-accordion__courseIcon">
+                                <span class="text-lg sm:text-xl uppercase font-semibold break-after-column"
+                                    x-text="courseData.Course"> </span>
+                            </div>
+                            <div class="flex flex-row text-xs space-x-4 items-center relative">
+                                <span
+                                    x-text="courseData.races[0].timeDisplay + ' - ' + courseData.races[courseData.races.length - 1].timeDisplay"></span>
+                                <span>Jumps</span>
+                                <span x-text="courseData.races.length + ' Races'"></span>
+                            </div>
+                        </div>
+                        <div class="relative mx-4 w-4 h-4 fill-emerald-700">
+                            <div x-show="courseData.open" class="minus-icon absolute inset-0 w-4 h-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="100 40 100 20" class="w-full h-full">
+                                    <title>minus</title>
+                                    <rect opacity="0" width="100" height="100"></rect>
+                                    <path
+                                        d="M100,53c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4v-6c0-2.2,1.8-4,4-4h92c2.2,0,4,1.8,4,4V53z">
+                                    </path>
+                                </svg>
+                            </div>
 
-      </div>
-    </nav>
+                            <div x-show="!courseData.open" class="plus-icon absolute inset-0 w-4 h-4 fill-emerald-700">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="w-full h-full">
+                                    <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </button>
+                <div x-show="courseData.open" :id="courseData.Course + '-content'" class="">
+                    <div class="flex flex-row items-center h-10 px-4 gap-2">
+                        <span class="font-semibold uppercase">Going</span>
+                        <span class="text-sm font-light" x-text="courseData.going"></span>
+                    </div>
+
+                    <template x-for="race in courseData.races" :key="race.timeDisplay">
+                        <div class="flex flex-row w-full  items-center px-4 py-1 border-b">
+                            <a
+                                :href="'/racecards/view?date=2024-12-22&course=' + courseData.Course + '&time=' + race.timeDisplay">
+                                <div
+                                    class="flex flex-row w-full items-center hover:underline hover:text-emerald-700">
+                                    <div class="flex flex-row flex-grow gap-4 px-4 text-xl">
+                                        <div class="w-18">
+                                            <span class="hover:no-underline" x-text="race.timeDisplay"></span>
+                                        </div>
+                                        <div class="flex flex-wrap text-sm sm:text-lg space-x-2">
+                                            <span x-text="race.raceTitle"> </span>
+                                            <div class="font-light text-gray-500">
+                                                <span class="hover:no-underline text-sm" x-text="race.raceConditions">
+                                                </span>
+                                                <span class="hover:no-underline text-sm"
+                                                    x-text="race.raceDistance"></span>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="flex flex-row">
+                                        <div  class="hidden sm:block font-light text-gray-500 hover:no-underline text-xs sm:text-sm whitespace-nowrap">
+                                            <span x-text="race.noOfRunners + ' Runners'"></span>
+
+                                        </div>
+                                        
+                                        <div class=" ui-icon_chevron w-4 h-4 px-2 fill-emerald-700">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"
+                                                class="bi ui-icon bi-chevron-right" viewBox="0 0 100 100">
+                                                <path fill-rule="evenodd"
+                                                    d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </template>
+    </section>
+</div>
+
+
+
   </div>
-</header>
+  </main>
+  <footer>
+    <p>Copyright 2025. All rights reserved.</p>
 
-<main class="bg-offwhite">
-    <div class="container-md">
-        
-        <div class="row">
-            
-            
-
-            <h1 class="section-title">
-                Today&#39;s Racecards - (Page 1/1)
-            </h1>
-
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/2025-01-06/ayr/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/2025-01-06/ayr/course.png alt="Ayr | Monday 06 January 2025" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2025-01-06/ayr/">Ayr | Monday 06 January 2025</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    6nd January, 2025
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    8 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/2025-01-06/ayr/">
-                
-                    
-                    
-                        Todays Racecard for Ayr including algorithm predictions and confidence %
-Book Your Celebration At westernhousehotel.co.u...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/2025-01-06/limerick-ire/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/2025-01-06/limerick-ire/course.png alt="Limerick (IRE) | Sunday 29 December 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2025-01-06/limerick-ire/">Limerick (IRE) | Sunday 29 December 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    29nd December, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    8 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/2025-01-06/limerick-ire/">
-                
-                    
-                    
-                        Todays Racecard for Limerick (IRE) including algorithm predictions and confidence %
-Limerick Racecourse Vets Novice Hand...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/2025-01-06/leopardstown-ire/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/2025-01-06/leopardstown-ire/course.png alt="Leopardstown (IRE) | Sunday 29 December 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2025-01-06/leopardstown-ire/">Leopardstown (IRE) | Sunday 29 December 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    29nd December, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    11 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/2025-01-06/leopardstown-ire/">
-                
-                    
-                    
-                        Todays Racecard for Leopardstown (IRE) including algorithm predictions and confidence %
-SIS Supporting Irish Racing Iris...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/2025-01-06/kelso/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/2025-01-06/kelso/course.png alt="Kelso | Sunday 29 December 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2025-01-06/kelso/">Kelso | Sunday 29 December 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    29nd December, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    7 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/2025-01-06/kelso/">
-                
-                    
-                    
-                        Todays Racecard for Kelso including algorithm predictions and confidence %
-Visit Kelso In 2025 Novices&#39; Hurdle (GBB Race...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/2025-01-06/doncaster/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/2025-01-06/doncaster/course.png alt="Doncaster | Sunday 29 December 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2025-01-06/doncaster/">Doncaster | Sunday 29 December 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    29nd December, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    6 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/2025-01-06/doncaster/">
-                
-                    
-                    
-                        Todays Racecard for Doncaster including algorithm predictions and confidence %
-Download The At The Races App Novices&#39; Li...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-
-            <div class="text-center"></div>
-        </div>
-    </div>
-</main>
-
-<footer class="text-center py-5">
-    <p>
-        
-        © 2021 <a href="https://rafed.github.io/" target="_blank">DevRa</a>.
-        <a href="https://github.com/rafed/BlogRa/" target="_blank">BlogRa</a> theme for
-        <a href="https://github.com/gohugoio/hugo/" target="_blank">
-            Hugo
-        </a>. 
-        
-    </p>
-</footer>
-
+  </footer>
 </body>
-
 </html>

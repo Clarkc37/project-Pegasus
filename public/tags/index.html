@@ -1,366 +1,75 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><script src="https://cdn.tailwindcss.com"></script>
-<head><title>
-    
-    Tags | 
-    
-    Global Guide Racing
-</title>
+<html lang="en-us" dir="ltr">
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<link rel="canonical" href="http://localhost:1313/tags/" />
-<link rel="icon" type="image/png" href="http://localhost:1313/image/favicon.ico">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Tags | Global Guide Racing</title>
+
+    <link rel="stylesheet" href="http://localhost:1313/css/main.css">
 
 
-    <meta name="description" content="List of all Tags">
-    <meta property="og:description" content="List of all Tags" />
+      <script src="http://localhost:1313/js/main.js"></script>
 
-    
-
-
-
-
-
-
-<meta property="og:title" content="Tags" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/tags/" />
-
-
-
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Tags">
-  <meta name="twitter:description" content="The Ultimate Tech Blogging Theme">
-
-
-  <meta itemprop="name" content="Tags">
-  <meta itemprop="description" content="The Ultimate Tech Blogging Theme">
-
-
-
-
-<link rel="stylesheet" href="http://localhost:1313/main.min.css">
-
-
-
-
-
-<script src="http://localhost:1313/bundle.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 </head>
-
-<body><header id="header">
-  <div class="top-bar">
-    <div class="container-md">
-
-      <div class="row align-items-center">
-        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
-          <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-        </div>
-
-        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
-          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <i class="fas fa-bars"></i>
-          </button>
-        </div>
-
-        <div class="col-6 col-sm-4">
-          <h2 class="title"><a href="http://localhost:1313/">Global Guide Racing</a></h2>
-        </div>
-
+<body class="h-screen bg-radial from-white from-40% to-gray-300">
+  <header>
+    <nav class="bg-gray-800 text-white p-4 w-full" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
 
-      </div>
-    </div>
-  </div>
-
-  <div class="container-md">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mx-auto">
-
-          <li class="nav-item d-block d-sm-none">
-            <ul class="social-buttons">
-              <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-            </ul>
-          </li>
-
-          
-          
-          <li class="nav-item">
-            <a class="nav-link 
-              
-              " 
-              href="http://localhost:1313/">
-              Home
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Racecards
-            </a>
-            <div class="dropdown-menu">
-              
-              
-                <a class="dropdown-item" href="http://localhost:1313/racecards/today">Todays Racecards</a>
-              
-              
-            </div>
-          </li>
-          
-          
+        <ul class="hidden md:flex space-x-4">
+            
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="hover:text-gray-300">Racecards</a></li>
+            
         </ul>
-
-        
-
-      </div>
-    </nav>
-  </div>
-</header>
-
-<main class="bg-offwhite">
-    <div class="container-md">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-
-                <h1 class="section-title">
-                    Tags
-                </h1>
-
-                
-                 
-                
-                
-
-                
-                
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-                    
-
-                    
-
-                    
-                
-            </div>
-        </div>
     </div>
-</main>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+            
+        </ul>
+    </div>
+</nav>
 
-<footer class="text-center py-5">
-    <p>
-        
-        © 2021 <a href="https://rafed.github.io/" target="_blank">DevRa</a>.
-        <a href="https://github.com/rafed/BlogRa/" target="_blank">BlogRa</a> theme for
-        <a href="https://github.com/gohugoio/hugo/" target="_blank">
-            Hugo
-        </a>. 
-        
-    </p>
-</footer>
+  </header>
+  <main>
+    <div class="container mx-auto h-full ">
+    
+  <h1>Tags</h1>
+  
+  
+    <h2><a href="http://localhost:1313/tags/blue/">Blue</a></h2>
+    
+  
+    <h2><a href="http://localhost:1313/tags/green/">Green</a></h2>
+    
+  
+    <h2><a href="http://localhost:1313/tags/red/">Red</a></h2>
+    
+  
 
+
+  </div>
+  </main>
+  <footer>
+    <p>Copyright 2025. All rights reserved.</p>
+
+  </footer>
 </body>
-
 </html>

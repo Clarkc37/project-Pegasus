@@ -2,7 +2,7 @@ baseURL: 'https://globalguideracing.netlify.app/'
 canonifyURLs: yes
 pluralizeListTitles: no
 summaryLength: 25
-theme: BlogRa
+theme: Racing
 languageCode: en-us
 title: Global Guide Racing
 disqusShortname: ''
@@ -26,15 +26,12 @@ params:
 menu:
   main:
     - name: Home
-      url: /
+      pageRef: /
       weight: 1
     - identifier: racecards
       name: Racecards
       weight: 2
-    - name: Todays Racecards
-      parent: racecards
-      url: /racecards/today
-      weight: 1
+      pageRef: /racecards/
 markup:
   goldmark:
     parser:

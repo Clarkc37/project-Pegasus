@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><script src="https://cdn.tailwindcss.com"></script>
-<head><title>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>
     
     Racecards | 
     
@@ -14,6 +13,8 @@
 <link rel="icon" type="image/png" href="http://localhost:1313/image/favicon.ico">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<script src="https://cdn.tailwindcss.com"></script>
 
 
     <meta name="description" content="All articles in &quot;Racecards&quot;">
@@ -41,8 +42,8 @@
 
   <meta itemprop="name" content="Racecards">
   <meta itemprop="description" content="The Ultimate Tech Blogging Theme">
-  <meta itemprop="datePublished" content="2025-01-13T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2025-01-13T00:00:00+00:00">
+  <meta itemprop="datePublished" content="2025-02-24T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-02-24T00:00:00+00:00">
 
 
 
@@ -72,105 +73,35 @@
 </head>
 
 <body><header id="header">
-  <div class="top-bar">
-    <div class="container-md">
-
-      <div class="row align-items-center">
-        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
-          <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-        </div>
-
-        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
-          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <i class="fas fa-bars"></i>
-          </button>
-        </div>
-
-        <div class="col-6 col-sm-4">
-          <h2 class="title"><a href="http://localhost:1313/">Global Guide Racing</a></h2>
-        </div>
-
+  <nav class="bg-gray-800 text-white p-4" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
 
-      </div>
-    </div>
-  </div>
-
-  <div class="container-md">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mx-auto">
-
-          <li class="nav-item d-block d-sm-none">
-            <ul class="social-buttons">
-              <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-            </ul>
-          </li>
-
-          
-          
-          <li class="nav-item">
-            <a class="nav-link 
-              
-              " 
-              href="http://localhost:1313/">
-              Home
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Racecards
-            </a>
-            <div class="dropdown-menu">
-              
-              
-                <a class="dropdown-item" href="http://localhost:1313/racecards/today">Todays Racecards</a>
-              
-              
-            </div>
-          </li>
-          
-          
+        <ul class="hidden md:flex space-x-4">
+            
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/today/" class="hover:text-gray-300">Racecards</a></li>
+            
         </ul>
-
-        
-
-      </div>
-    </nav>
-  </div>
+    </div>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/today/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+            
+        </ul>
+    </div>
+</nav>
 </header>
 
 <main class="bg-offwhite">
@@ -181,7 +112,7 @@
             
 
             <h1 class="section-title">
-                Racecards - (Page 2/3) 
+                Racecards - (Page 2/6) 
             </h1>
             
             
@@ -190,11 +121,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-11-05/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-13/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    5nd November, 2024
+    13nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -202,7 +133,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-11-05/">
+            <a href="http://localhost:1313/racecards/2025-02-13/">
                 
                     
                     
@@ -223,11 +154,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-05-03/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-12/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    3nd May, 2024
+    12nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -235,7 +166,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-05-03/">
+            <a href="http://localhost:1313/racecards/2025-02-12/">
                 
                     
                     
@@ -256,11 +187,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-05-01/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-11/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    1nd May, 2024
+    11nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -268,7 +199,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-05-01/">
+            <a href="http://localhost:1313/racecards/2025-02-11/">
                 
                     
                     
@@ -289,11 +220,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-30/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-10/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    30nd April, 2024
+    10nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -301,7 +232,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-30/">
+            <a href="http://localhost:1313/racecards/2025-02-10/">
                 
                     
                     
@@ -322,11 +253,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-18/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-09/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    18nd April, 2024
+    9nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -334,7 +265,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-18/">
+            <a href="http://localhost:1313/racecards/2025-02-09/">
                 
                     
                     
@@ -355,11 +286,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-16/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-08/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    16nd April, 2024
+    8nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -367,7 +298,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-16/">
+            <a href="http://localhost:1313/racecards/2025-02-08/">
                 
                     
                     
@@ -388,11 +319,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-13/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-07/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    13nd April, 2024
+    7nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -400,7 +331,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-13/">
+            <a href="http://localhost:1313/racecards/2025-02-07/">
                 
                     
                     
@@ -421,11 +352,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-12/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-06/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    12nd April, 2024
+    6nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -433,7 +364,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-12/">
+            <a href="http://localhost:1313/racecards/2025-02-06/">
                 
                     
                     
@@ -454,11 +385,11 @@
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/2024-04-09/">Today&#39;s Racecards</a></h3>
+        <h3><a href="http://localhost:1313/racecards/2025-02-05/">Today&#39;s Racecards</a></h3>
 
         <div class="date-time">
             <span class="date">
-    9nd April, 2024
+    5nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
@@ -466,7 +397,7 @@
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/2024-04-09/">
+            <a href="http://localhost:1313/racecards/2025-02-05/">
                 
                     
                     
@@ -502,10 +433,16 @@
         <a href="http://localhost:1313/racecards/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
       </li>
       <li class="page-item">
+        <a href="http://localhost:1313/racecards/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="http://localhost:1313/racecards/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
         <a href="http://localhost:1313/racecards/page/3/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
       </li>
       <li class="page-item">
-        <a href="http://localhost:1313/racecards/page/3/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        <a href="http://localhost:1313/racecards/page/6/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
       </li>
     </ul></div>
         </div>

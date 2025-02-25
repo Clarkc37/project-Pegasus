@@ -1,0 +1,25 @@
+<nav class="bg-gray-800 text-white p-4 w-full" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="{{ .Site.BaseURL }}" class="text-xl font-bold">{{ .Site.Title }}</a>
+        
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
+
+        <ul class="hidden md:flex space-x-4">
+            {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}" class="hover:text-gray-300">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}" class="block py-2 px-4 hover:bg-gray-600">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+</nav>
