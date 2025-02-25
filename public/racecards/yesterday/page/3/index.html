@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><script src="https://cdn.tailwindcss.com"></script>
-<head><title>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>
     
     Yesterday&#39;s Racecards | 
     
@@ -14,6 +13,8 @@
 <link rel="icon" type="image/png" href="http://localhost:1313/image/favicon.ico">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<script src="https://cdn.tailwindcss.com"></script>
 
 
     <meta name="description" content="All articles in &quot;Yesterday&#39;s Racecards&quot;">
@@ -41,8 +42,8 @@
 
   <meta itemprop="name" content="Yesterday&#39;s Racecards">
   <meta itemprop="description" content="The Ultimate Tech Blogging Theme">
-  <meta itemprop="datePublished" content="2024-12-29T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2024-12-29T00:00:00+00:00">
+  <meta itemprop="datePublished" content="2025-02-24T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-02-24T00:00:00+00:00">
 
 
 
@@ -72,105 +73,35 @@
 </head>
 
 <body><header id="header">
-  <div class="top-bar">
-    <div class="container-md">
-
-      <div class="row align-items-center">
-        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
-          <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-        </div>
-
-        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
-          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <i class="fas fa-bars"></i>
-          </button>
-        </div>
-
-        <div class="col-6 col-sm-4">
-          <h2 class="title"><a href="http://localhost:1313/">Global Guide Racing</a></h2>
-        </div>
-
+  <nav class="bg-gray-800 text-white p-4" x-data="{ open: false }">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
+        <button @click="open = !open" class="md:hidden focus:outline-none">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
 
-      </div>
-    </div>
-  </div>
-
-  <div class="container-md">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mx-auto">
-
-          <li class="nav-item d-block d-sm-none">
-            <ul class="social-buttons">
-              <ul>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-</ul>
-            </ul>
-          </li>
-
-          
-          
-          <li class="nav-item">
-            <a class="nav-link 
-              
-              " 
-              href="http://localhost:1313/">
-              Home
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Racecards
-            </a>
-            <div class="dropdown-menu">
-              
-              
-                <a class="dropdown-item" href="http://localhost:1313/racecards/today">Todays Racecards</a>
-              
-              
-            </div>
-          </li>
-          
-          
+        <ul class="hidden md:flex space-x-4">
+            
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/today/" class="hover:text-gray-300">Racecards</a></li>
+            
         </ul>
-
-        
-
-      </div>
-    </nav>
-  </div>
+    </div>
+    
+    <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
+        <ul>
+            
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+            
+                <li><a href="http://localhost:1313/racecards/today/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+            
+        </ul>
+    </div>
+</nav>
 </header>
 
 <main class="bg-offwhite">
@@ -181,40 +112,39 @@
             
 
             <h1 class="section-title">
-                Yesterday&#39;s Racecards - (Page 3/3)
+                Yesterday&#39;s Racecards - (Page 3/5)
             </h1>
 
             
             <div class="suggestion col-sm-12 col-md-6 col-lg-4">
     
-    <a href="http://localhost:1313/racecards/yesterday/punchestown-ire/">
+    <a href="http://localhost:1313/racecards/yesterday/catterick/">
         
         
         
         
-        <img src=http://localhost:1313/racecards/yesterday/punchestown-ire/course.png alt="Punchestown (IRE) | Friday 03 May 2024" loading="lazy">
+        <img src=http://localhost:1313/racecards/yesterday/catterick/course.png alt="Catterick" loading="lazy">
     </a>
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/punchestown-ire/">Punchestown (IRE) | Friday 03 May 2024</a></h3>
+        <h3><a href="http://localhost:1313/racecards/yesterday/catterick/">Catterick</a></h3>
 
         <div class="date-time">
             <span class="date">
-    3nd May, 2024
+    10nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
-    15 mins read</span>
+    6 mins read</span>
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/punchestown-ire/">
+            <a href="http://localhost:1313/racecards/yesterday/catterick/">
                 
                     
                     
-                        Todays Racecard for Punchestown (IRE) including algorithm predictions and confidence %
-Stanley Asphalt Hunters Chase For...
+                         Jumping For Joy On Racing TV Mares&#39; Handicap Chase 14:30 Race Type Chase Classifications (Class 5) (5YO plus) Ground Go...
                     
                 
             </a>
@@ -228,34 +158,33 @@ Stanley Asphalt Hunters Chase For...
             
             <div class="suggestion col-sm-12 col-md-6 col-lg-4">
     
-    <a href="http://localhost:1313/racecards/yesterday/cheltenham/">
+    <a href="http://localhost:1313/racecards/yesterday/exeter/">
         
         
         
         
-        <img src=http://localhost:1313/racecards/yesterday/cheltenham/course.png alt="Cheltenham | Friday 03 May 2024" loading="lazy">
+        <img src=http://localhost:1313/racecards/yesterday/exeter/course.png alt="Exeter" loading="lazy">
     </a>
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/cheltenham/">Cheltenham | Friday 03 May 2024</a></h3>
+        <h3><a href="http://localhost:1313/racecards/yesterday/exeter/">Exeter</a></h3>
 
         <div class="date-time">
             <span class="date">
-    3nd May, 2024
+    9nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
-    11 mins read</span>
+    8 mins read</span>
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/cheltenham/">
+            <a href="http://localhost:1313/racecards/yesterday/exeter/">
                 
                     
                     
-                        Todays Racecard for Cheltenham including algorithm predictions and confidence %
-Congratulations Keith And Michelle Smith...
+                         TrustATrader Approved And Reviewed Trades People EBF &#39;National Hunt&#39; Novices&#39; Hurdle (GBB Race) 13:30 Race Type Hurdle ...
                     
                 
             </a>
@@ -269,157 +198,33 @@ Congratulations Keith And Michelle Smith...
             
             <div class="suggestion col-sm-12 col-md-6 col-lg-4">
     
-    <a href="http://localhost:1313/racecards/yesterday/clonmel-ire/">
+    <a href="http://localhost:1313/racecards/yesterday/warwick/">
         
         
         
         
-        <img src=http://localhost:1313/racecards/yesterday/clonmel-ire/course.png alt="Clonmel (IRE) | Thursday 18 April 2024" loading="lazy">
+        <img src=http://localhost:1313/racecards/yesterday/warwick/course.png alt="Warwick" loading="lazy">
     </a>
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/clonmel-ire/">Clonmel (IRE) | Thursday 18 April 2024</a></h3>
+        <h3><a href="http://localhost:1313/racecards/yesterday/warwick/">Warwick</a></h3>
 
         <div class="date-time">
             <span class="date">
-    18nd April, 2024
+    8nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
-    7 mins read</span>
+    8 mins read</span>
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/clonmel-ire/">
+            <a href="http://localhost:1313/racecards/yesterday/warwick/">
                 
                     
                     
-                        Todays Racecard for Clonmel (IRE) including algorithm predictions and confidence %
-Nire Valley Claiming Hurdle 16:00 Clo...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/yesterday/ffos-las/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/yesterday/ffos-las/course.png alt="Ffos Las | Tuesday 16 April 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/ffos-las/">Ffos Las | Tuesday 16 April 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    16nd April, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    7 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/ffos-las/">
-                
-                    
-                    
-                        Todays Racecard for Ffos Las including algorithm predictions and confidence %
-bettingsites.ltd.uk Free Bets Conditional ...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/yesterday/newcastle/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/yesterday/newcastle/course.png alt="Newcastle | Saturday 13 April 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/newcastle/">Newcastle | Saturday 13 April 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    13nd April, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    9 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/newcastle/">
-                
-                    
-                    
-                        Todays Racecard for Newcastle including algorithm predictions and confidence %
-quinnbet.com Conditional Jockeys&#39; Trainin...
-                    
-                
-            </a>
-        </p>
-
-        <div class="tags">
-            
-        </div>
-    </div>
-</div>
-            
-            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
-    
-    <a href="http://localhost:1313/racecards/yesterday/hereford/">
-        
-        
-        
-        
-        <img src=http://localhost:1313/racecards/yesterday/hereford/course.png alt="Hereford | Tuesday 09 April 2024" loading="lazy">
-    </a>
-    
-
-    <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/hereford/">Hereford | Tuesday 09 April 2024</a></h3>
-
-        <div class="date-time">
-            <span class="date">
-    9nd April, 2024
-</span>
-            &nbsp; &centerdot; &nbsp;
-            <span class="time-to-read">
-    9 mins read</span>
-        </div>
-
-        <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/hereford/">
-                
-                    
-                    
-                        Todays Racecard for Hereford including algorithm predictions and confidence %
-Download The Racing App Now Novices&#39; Handi...
+                         racingtv.com Handicap Hurdle 13:30 Race Type Hurdle Classifications (Class 4) (4YO plus) Ground Soft Distance 2m Runner...
                     
                 
             </a>
@@ -438,20 +243,20 @@ Download The Racing App Now Novices&#39; Handi...
         
         
         
-        <img src=http://localhost:1313/racecards/yesterday/uttoxeter/course.png alt="Uttoxeter | Saturday 06 April 2024" loading="lazy">
+        <img src=http://localhost:1313/racecards/yesterday/uttoxeter/course.png alt="Uttoxeter" loading="lazy">
     </a>
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/uttoxeter/">Uttoxeter | Saturday 06 April 2024</a></h3>
+        <h3><a href="http://localhost:1313/racecards/yesterday/uttoxeter/">Uttoxeter</a></h3>
 
         <div class="date-time">
             <span class="date">
-    6nd April, 2024
+    8nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
-    8 mins read</span>
+    9 mins read</span>
         </div>
 
         <p class="summary">
@@ -459,8 +264,7 @@ Download The Racing App Now Novices&#39; Handi...
                 
                     
                     
-                        Todays Racecard for Uttoxeter including algorithm predictions and confidence %
-Download The Racing App Conditional Jocke...
+                         QuinnBet Novices&#39; Hurdle (GBB Race) 13:03 Race Type Hurdle Classifications (Class 4) (5YO plus) Ground Soft Distance 2m...
                     
                 
             </a>
@@ -474,34 +278,193 @@ Download The Racing App Conditional Jocke...
             
             <div class="suggestion col-sm-12 col-md-6 col-lg-4">
     
-    <a href="http://localhost:1313/racecards/yesterday/uttoxeter-backup/">
+    <a href="http://localhost:1313/racecards/yesterday/newbury/">
         
         
         
         
-        <img src=http://localhost:1313/racecards/yesterday/uttoxeter-backup/course.png alt="Uttoxeter | Saturday 06 April 2024" loading="lazy">
+        <img src=http://localhost:1313/racecards/yesterday/newbury/course.png alt="Newbury" loading="lazy">
     </a>
     
 
     <div class="content">
-        <h3><a href="http://localhost:1313/racecards/yesterday/uttoxeter-backup/">Uttoxeter | Saturday 06 April 2024</a></h3>
+        <h3><a href="http://localhost:1313/racecards/yesterday/newbury/">Newbury</a></h3>
 
         <div class="date-time">
             <span class="date">
-    6nd April, 2024
+    8nd February, 2025
 </span>
             &nbsp; &centerdot; &nbsp;
             <span class="time-to-read">
-    8 mins read</span>
+    11 mins read</span>
         </div>
 
         <p class="summary">
-            <a href="http://localhost:1313/racecards/yesterday/uttoxeter-backup/">
+            <a href="http://localhost:1313/racecards/yesterday/newbury/">
                 
                     
                     
-                        Todays Racecard for Uttoxeter including algorithm predictions and confidence %
-Download The Racing App Conditional Jocke...
+                         William Hill Proper Prices Novices&#39; Hurdle (GBB Race) 13:15 Race Type Hurdle Classifications (Class 3) (4YO plus) Groun...
+                    
+                
+            </a>
+        </p>
+
+        <div class="tags">
+            
+        </div>
+    </div>
+</div>
+            
+            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
+    
+    <a href="http://localhost:1313/racecards/yesterday/bangor-on-dee/">
+        
+        
+        
+        
+        <img src=http://localhost:1313/racecards/yesterday/bangor-on-dee/course.png alt="Bangor-On-Dee" loading="lazy">
+    </a>
+    
+
+    <div class="content">
+        <h3><a href="http://localhost:1313/racecards/yesterday/bangor-on-dee/">Bangor-On-Dee</a></h3>
+
+        <div class="date-time">
+            <span class="date">
+    7nd February, 2025
+</span>
+            &nbsp; &centerdot; &nbsp;
+            <span class="time-to-read">
+    10 mins read</span>
+        </div>
+
+        <p class="summary">
+            <a href="http://localhost:1313/racecards/yesterday/bangor-on-dee/">
+                
+                    
+                    
+                         John Hewitt Memorial Open Hunters&#39; Chase 13:12 Race Type Chase Classifications (Class 4) (6YO plus) Ground Soft Distanc...
+                    
+                
+            </a>
+        </p>
+
+        <div class="tags">
+            
+        </div>
+    </div>
+</div>
+            
+            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
+    
+    <a href="http://localhost:1313/racecards/yesterday/huntingdon/">
+        
+        
+        
+        
+        <img src=http://localhost:1313/racecards/yesterday/huntingdon/course.png alt="Huntingdon" loading="lazy">
+    </a>
+    
+
+    <div class="content">
+        <h3><a href="http://localhost:1313/racecards/yesterday/huntingdon/">Huntingdon</a></h3>
+
+        <div class="date-time">
+            <span class="date">
+    6nd February, 2025
+</span>
+            &nbsp; &centerdot; &nbsp;
+            <span class="time-to-read">
+    13 mins read</span>
+        </div>
+
+        <p class="summary">
+            <a href="http://localhost:1313/racecards/yesterday/huntingdon/">
+                
+                    
+                    
+                         Advertise Your Business At Huntingdon Racecourse Conditional Jockeys&#39; Handicap Hurdle 12:40 Race Type Hurdle Classifica...
+                    
+                
+            </a>
+        </p>
+
+        <div class="tags">
+            
+        </div>
+    </div>
+</div>
+            
+            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
+    
+    <a href="http://localhost:1313/racecards/yesterday/ffos-las/">
+        
+        
+        
+        
+        <img src=http://localhost:1313/racecards/yesterday/ffos-las/course.png alt="Ffos Las" loading="lazy">
+    </a>
+    
+
+    <div class="content">
+        <h3><a href="http://localhost:1313/racecards/yesterday/ffos-las/">Ffos Las</a></h3>
+
+        <div class="date-time">
+            <span class="date">
+    6nd February, 2025
+</span>
+            &nbsp; &centerdot; &nbsp;
+            <span class="time-to-read">
+    7 mins read</span>
+        </div>
+
+        <p class="summary">
+            <a href="http://localhost:1313/racecards/yesterday/ffos-las/">
+                
+                    
+                    
+                         Turf Services EBF Mares&#39; &#39;National Hunt&#39; Novices&#39; Hurdle (GBB Race) 14:30 Race Type Hurdle Classifications (Class 4) (4...
+                    
+                
+            </a>
+        </p>
+
+        <div class="tags">
+            
+        </div>
+    </div>
+</div>
+            
+            <div class="suggestion col-sm-12 col-md-6 col-lg-4">
+    
+    <a href="http://localhost:1313/racecards/yesterday/doncaster/">
+        
+        
+        
+        
+        <img src=http://localhost:1313/racecards/yesterday/doncaster/course.png alt="Doncaster" loading="lazy">
+    </a>
+    
+
+    <div class="content">
+        <h3><a href="http://localhost:1313/racecards/yesterday/doncaster/">Doncaster</a></h3>
+
+        <div class="date-time">
+            <span class="date">
+    6nd February, 2025
+</span>
+            &nbsp; &centerdot; &nbsp;
+            <span class="time-to-read">
+    9 mins read</span>
+        </div>
+
+        <p class="summary">
+            <a href="http://localhost:1313/racecards/yesterday/doncaster/">
+                
+                    
+                    
+                         Virgin Bet Conditional Jockeys&#39; Novices&#39; Limited Handicap Hurdle 13:00 Race Type Hurdle Classifications (Class 5) (4YO ...
                     
                 
             </a>
@@ -531,11 +494,17 @@ Download The Racing App Conditional Jocke...
       <li class="page-item active">
         <a aria-current="page" aria-label="Page 3" class="page-link" role="button">3</a>
       </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Next" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;</span></a>
+      <li class="page-item">
+        <a href="http://localhost:1313/racecards/yesterday/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
       </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      <li class="page-item">
+        <a href="http://localhost:1313/racecards/yesterday/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="http://localhost:1313/racecards/yesterday/page/4/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="http://localhost:1313/racecards/yesterday/page/5/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
       </li>
     </ul></div>
         </div>
