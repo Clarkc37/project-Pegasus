@@ -2,8 +2,8 @@
 title: "Catterick"
 course: Catterick
 image: course.png
-featured: false
-Date: 2025-02-10
+featured: true
+Date: 2025-02-25
 order: 0
 output:
   html_document:
