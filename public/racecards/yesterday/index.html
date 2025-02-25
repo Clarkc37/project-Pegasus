@@ -118,7 +118,7 @@
                     <template x-for="race in courseData.races" :key="race.timeDisplay">
                         <div class="flex flex-row w-full  items-center px-4 py-1 border-b">
                             <a
-                                :href="'/racecards/view?date=2024-12-22&course=' + courseData.Course + '&time=' + race.timeDisplay">
+                                :href="'/racecards/view?date=' + selectedDate + '&course=' + courseData.Course + '&time=' + race.timeDisplay">
                                 <div
                                     class="flex flex-row w-full items-center hover:underline hover:text-emerald-700">
                                     <div class="flex flex-row flex-grow gap-4 px-4 text-xl">
