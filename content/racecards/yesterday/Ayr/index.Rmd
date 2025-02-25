@@ -2,7 +2,7 @@
 title: "Ayr"
 course: Ayr
 image: course.png
-featured: false
+featured: true
 Date: 2025-02-24
 order: 0
 output:
