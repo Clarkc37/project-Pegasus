@@ -2,8 +2,8 @@
 title: "Wincanton"
 course: Wincanton
 image: course.png
-featured: true
-Date: 2025-01-16
+featured: false
+Date: 2025-02-26
 order: 0
 output:
   html_document:

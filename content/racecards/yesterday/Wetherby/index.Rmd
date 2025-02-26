@@ -3,7 +3,7 @@ title: "Wetherby"
 course: Wetherby
 image: course.png
 featured: true
-Date: 2025-02-12
+Date: 2025-02-26
 order: 0
 output:
   html_document:

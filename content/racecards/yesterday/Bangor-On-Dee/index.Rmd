@@ -3,7 +3,7 @@ title: "Bangor-On-Dee"
 course: Bangor-On-Dee
 image: course.png
 featured: false
-Date: 2025-02-07
+Date: 2025-02-26
 order: 0
 output:
   html_document:
