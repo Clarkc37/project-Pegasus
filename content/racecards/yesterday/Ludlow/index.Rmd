@@ -3,7 +3,7 @@ title: "Ludlow"
 course: Ludlow
 image: course.png
 featured: true
-Date: 2025-02-05
+Date: 2025-02-27
 order: 0
 output:
   html_document:
