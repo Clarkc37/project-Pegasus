@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racecards on Global Guide Racing</title>
-    <link>http://localhost:1313/racecards/</link>
+    <link>http://localhost:57824/racecards/</link>
     <description>Recent content in Racecards on Global Guide Racing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/racecards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57824/racecards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top Bets for Today</title>
-      <link>http://localhost:1313/racecards/top-bets/</link>
+      <link>http://localhost:57824/racecards/top-bets/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/racecards/top-bets/</guid>
+      <guid>http://localhost:57824/racecards/top-bets/</guid>
       <description>&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

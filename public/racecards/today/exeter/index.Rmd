@@ -3,7 +3,7 @@ title: "Exeter"
 course: Exeter
 image: course.png
 featured: true
-Date: 2025-01-13
+Date: 2025-02-09
 order: 0
 output:
   html_document:

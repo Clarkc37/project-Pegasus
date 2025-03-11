@@ -1,9 +1,9 @@
 ---
-title: "Doncaster | Sunday 29 December 2024"
+title: "Doncaster"
 course: Doncaster
 image: course.png
 featured: false
-Date: 2024-12-29
+Date: 2025-02-06
 order: 0
 output:
   html_document:
@@ -14,7 +14,6 @@ output:
 knitr::opts_chunk$set(echo = F)
 options(kableExtra_view_html = F)
 ```
-Todays Racecard for Doncaster including algorithm predictions and confidence %
 
 ```{r echo=FALSE, results = "asis", class.output="card-body", message=FALSE}
 library(dplyr)
@@ -39,7 +38,7 @@ for (i in Index$QueryID) {
   
   
 raceinfobox(tabledata$Title[1],
-            tabledata$Time.Course[1],
+            tabledata$timeDisplay[1],
             tabledata$JumpType[1],
             tabledata$Conditions[1],
             tabledata$going[1],
@@ -105,3 +104,11 @@ raceinfobox(tabledata$Title[1],
 
 
 ```
+
+
+
+
+
+
+
+

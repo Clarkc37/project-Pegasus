@@ -2,10 +2,12 @@
 title: "Taunton"
 course: Taunton
 image: course.png
-featured: true
-Date: 2025-01-08
+featured: false
+Date: 2025-02-27
 order: 0
-output: md_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
