@@ -1,0 +1,15 @@
+<div class="container mx-auto px-4 py-8">
+    <h1 class="text-2xl font-bold  mb-6">Latest Blog Posts</h1>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
+        {{ partial "blog-card.html" . }}
+        {{ end }}
+    </div>
+
+    <div class="text-center mt-8">
+        <a href="/posts" class="px-5 py-2 bg-gray-800 text-white text-sm font-semibold rounded-lg hover:bg-gray-700">
+            View All Posts
+        </a>
+    </div>
+</div>

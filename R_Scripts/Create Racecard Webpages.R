@@ -1,7 +1,14 @@
+######## THIS CODE IS NOW DEPRECATED PLEASE SEE USE THE DAILY CONTENT UPDATE.R SCRIPT #############################
+
+message('This script is now deprecated please ensure that "daily content update.r" script is being used')
+break
+
+
 library(dplyr)
 library(stringr)
 library(lubridate)
 library(httr)
+
 
 source('./R_Scripts/Racecard Webpages functions.R')
 tmpath<- paste0(getwd(),"/content/racecards/today")

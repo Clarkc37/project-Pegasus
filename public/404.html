@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=57824&amp;path=livereload" data-no-instant defer></script><title>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>
     
     404 Page Not Found | 
     
@@ -77,7 +77,7 @@
 <body><header id="header">
   <nav class="bg-gray-800 text-white p-4" x-data="{ open: false }">
     <div class="container mx-auto flex justify-between items-center">
-        <a href="http://localhost:57824/" class="text-xl font-bold">Global Guide Racing</a>
+        <a href="http://localhost:1313/" class="text-xl font-bold">Global Guide Racing</a>
         
         <button @click="open = !open" class="md:hidden focus:outline-none">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -87,9 +87,9 @@
 
         <ul class="hidden md:flex space-x-4">
             
-                <li><a href="http://localhost:57824/" class="hover:text-gray-300">Home</a></li>
+                <li><a href="http://localhost:1313/" class="hover:text-gray-300">Home</a></li>
             
-                <li><a href="" class="hover:text-gray-300">Racecards</a></li>
+                <li><a href="http://localhost:1313/racecards/today/" class="hover:text-gray-300">Racecards</a></li>
             
         </ul>
     </div>
@@ -97,9 +97,9 @@
     <div x-show="open" class="md:hidden mt-2 bg-gray-700 rounded-lg p-2">
         <ul>
             
-                <li><a href="http://localhost:57824/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
+                <li><a href="http://localhost:1313/" class="block py-2 px-4 hover:bg-gray-600">Home</a></li>
             
-                <li><a href="" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
+                <li><a href="http://localhost:1313/racecards/today/" class="block py-2 px-4 hover:bg-gray-600">Racecards</a></li>
             
         </ul>
     </div>

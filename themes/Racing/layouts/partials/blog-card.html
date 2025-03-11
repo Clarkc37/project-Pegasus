@@ -1,0 +1,36 @@
+<div x-data="{ hover: false }"
+     @mouseenter="hover = true"
+     @mouseleave="hover = false"
+     class="relative bg-white shadow-lg rounded-2xl transition-all duration-300 hover:shadow-xl
+            col-span-1 {{ index (slice "row-span-1" "row-span-2" "col-span-2") (mod .Weight 3) }}">
+
+    <a href="{{ .RelPermalink }}">
+        <!-- Featured Image -->
+        <div class="relative">
+            <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}" class="w-full h-full object-cover rounded-t-2xl">
+            <div x-show="hover"
+                 x-transition
+                 class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-white text-lg font-semibold">
+                Read More
+            </div>
+        </div>
+
+        <!-- Content -->
+        <div class="p-4">
+            <h2 class="text-xl font-bold text-gray-800 ">{{ .Title }}</h2>
+            <p class="text-sm text-gray-600  mt-1">
+                {{ .Summary | plainify | chomp | truncate 120 }}
+            </p>
+
+            <!-- Meta Info -->
+            <div class="flex justify-between items-center mt-3">
+                <span class="text-xs text-gray-500 ">
+                    {{ .Date | time.Format "Jan 2, 2006" }}
+                </span>
+                <span class="px-3 py-1 text-xs font-medium bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-300 rounded-lg">
+                    {{ .Params.category }}
+                </span>
+            </div>
+        </div>
+    </a>
+</div>
