@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racecards on Global Guide Racing</title>
-    <link>http://localhost:57824/racecards/</link>
+    <link>http://localhost:1313/racecards/</link>
     <description>Recent content in Racecards on Global Guide Racing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:57824/racecards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/racecards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Racecards</title>
-      <link>http://localhost:57824/racecards/view/</link>
+      <link>http://localhost:1313/racecards/view/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57824/racecards/view/</guid>
+      <guid>http://localhost:1313/racecards/view/</guid>
       <description></description>
     </item>
   </channel>
