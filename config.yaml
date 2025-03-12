@@ -1,4 +1,4 @@
-baseURL: 'https://dev-globalguideracing.netlify.app/'
+baseURL: 'https://globalguideracing.netlify.app/'
 canonifyURLs: yes
 pluralizeListTitles: no
 summaryLength: 25
