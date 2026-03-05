@@ -14,7 +14,7 @@
         async fetchData() {
             // 1. Point to the proxy path '/data/'
             // 2. Add timestamp to bust browser cache
-            const url = `/data/${this.selectedDate}.json?t=${Date.now()}`;
+            const url = `/data/racecards/${this.selectedDate}.json?t=${Date.now()}`;
 
             try {
                 const response = await fetch(url);
