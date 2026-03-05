@@ -13,7 +13,7 @@ grid grid-cols-1 lg:grid-cols-3 gap-4 py-6">
         return date.toISOString().split('T')[0]; // Format YYYY-MM-DD
       },
       fetchData() {
-        fetch(`/racecards/${this.selectedDate}.json`)
+        fetch(`/data/racecards/${this.selectedDate}.json`)
           .then(response => response.json())
           .then(data => this.raceData = data)
           .catch(error => console.error('Error loading race data:', error));
