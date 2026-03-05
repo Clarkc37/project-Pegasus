@@ -1,20 +1,33 @@
 {{ define "main" }}
 <div class="container grid grid-cols-1 lg:grid-cols-3">
-    <section class="racecards-list my-6 col-span-1 lg:col-span-2" x-data="{
+    <section class="racecards-list my-6 col-span-1 lg:col-span-2" 
+    x-data="{
         raceData: [],
-        selectedDate: new Date().toISOString().split('T')[0], // Fix initialization
+        selectedDate: new Date().toISOString().split('T')[0], 
+        
         getDate(daysAhead) {
             let date = new Date();
             date.setDate(date.getDate() + daysAhead);
-            return date.toISOString().split('T')[0]; // Format YYYY-MM-DD
+            return date.toISOString().split('T')[0]; 
         },
-        fetchData() {
-            fetch(`/racecards/${this.selectedDate}.json`)
-                .then(response => response.json())
-                .then(data => this.raceData = data)
-                .catch(error => console.error('Error loading race data:', error));
+
+        async fetchData() {
+            // 1. Point to the proxy path '/data/'
+            // 2. Add timestamp to bust browser cache
+            const url = `/data/${this.selectedDate}.json?t=${Date.now()}`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Racecard not found');
+                this.raceData = await response.json();
+            } catch (error) {
+                console.error('Error loading race data:', error);
+                this.raceData = []; // Clear data on error
+            }
         }
-    }" x-init="fetchData()" x-effect="fetchData()">
+    }" 
+    x-init="fetchData()" 
+    x-watch="selectedDate" x-bind:fetchData="fetchData()">
         <template x-for="(courseData, index) in raceData" :key="index">
             <div class="px-2 py-1">
                 <button class="accordion_header_row 
