@@ -235,13 +235,13 @@
 </div>
 
 <script>
-function racecardLoader() {
-  return {
-    date: '', course: '', timeDisplay: '',
-    raceData: [], // All courses for that date
-    courseData: null, // Current selected course
-    racecardData: null, // Current selected race
-    isOpen: false,
+    function festivalLoader() {
+ return {
+    date: '', 
+    timeDisplay: '',
+    festivalData: [], // The full 4-day array
+    courseData: null,  // This will store the specific day's object (Going, Course, etc)
+    racecardData: null, // This will store the specific race object
     loading: true,
 
     init() {
@@ -249,25 +249,33 @@ function racecardLoader() {
       this.date = params.get('date');
       this.timeDisplay = params.get('time');
 
-      fetch(`/data/racecards/cheltenham.json`)
+      // Fetch the specific Cheltenham JSON
+      fetch('/data/racecards/cheltenham.json')
         .then(res => res.json())
         .then(data => {
-          this.raceData = data;
-          // Filter logic
-          this.courseData = data.find(c => c.Course === this.course);
-          if (this.courseData) {
-            this.racecardData = this.courseData.races.find(r => r.timeDisplay === this.timeDisplay);
+          this.festivalData = data;
+
+          // 1. Find the specific day by date (e.g., "2026-03-10")
+          const targetDay = data.find(d => d.date === this.date);
+          
+          if (targetDay) {
+            // We map the Day object to 'courseData' because your template 
+            // uses courseData.going and courseData.races
+            this.courseData = targetDay;
+
+            // 2. Find the specific race within that day by time
+            this.racecardData = targetDay.races.find(r => r.timeDisplay === this.timeDisplay);
           }
+
           this.loading = false;
         })
         .catch(err => {
-          console.error("Load Error", err);
+          console.error("Festival Load Error:", err);
           this.loading = false;
         });
     }
   }
-}
-</script>
+}</script>
 
 <style>
   /* Hide scrollbar but keep functionality */
