@@ -55,7 +55,7 @@ function festivalLoader() {
             const time = params.get('time');
             const date = params.get('date');
 
-            fetch('/data/cheltenham.json')
+            fetch('/data/racecards/cheltenham.json')
                 .then(res => res.json())
                 .then(data => {
                     // Logic to find race in nested 4-day JSON
