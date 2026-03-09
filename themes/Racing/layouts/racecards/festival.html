@@ -25,7 +25,7 @@
             <div x-show="isOpen" @click.away="isOpen = false"
               class="absolute left-0 w-56 bg-white border rounded shadow-xl z-30 mt-1">
               <template x-for="course in raceData" :key="course.Course">
-                <a :href="`/racecards/view/?date=${date}&course=${course.Course}&time=${course.races[0]?.timeDisplay}`"
+                <a :href="`/racecards/festival/?date=${date}&course=${course.Course}&time=${course.races[0]?.timeDisplay}`"
                   class="block px-4 py-3 hover:bg-emerald-50 text-sm border-b last:border-0">
                   <span class="font-bold text-slate-800" x-text="course.Course"></span>
                 </a>
@@ -36,7 +36,7 @@
           <!-- Horizontal Time Scroll -->
           <div class="overflow-x-auto no-scrollbar flex flex-row gap-2">
             <template x-for="race in courseData?.races" :key="race.timeDisplay">
-              <a :href="`/racecards/view?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
+              <a :href="`/racecards/festival?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
                  class="px-3 py-2 rounded text-xs font-bold border transition-colors whitespace-nowrap"
                  :class="race?.timeDisplay === timeDisplay ? 'bg-emerald-700 text-white border-emerald-700' : 'bg-white text-slate-600 border-gray-200'">
                 <span x-text="race.timeDisplay"></span>
@@ -116,7 +116,7 @@
             <span class="font-black text-xl uppercase tracking-tighter" x-text="courseData?.Course"></span>
             <div class="flex gap-4">
               <template x-for="race in courseData?.races" :key="race.timeDisplay">
-                <a :href="`/racecards/view?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
+                <a :href="`/racecards/festival=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
                    class="text-sm font-bold transition-all hover:text-emerald-400"
                    :class="race?.timeDisplay === timeDisplay ? 'text-emerald-400 scale-110 underline decoration-2 underline-offset-4' : 'text-emerald-200/60'">
                   <span x-text="race.timeDisplay"></span>
