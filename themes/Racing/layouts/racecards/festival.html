@@ -1,0 +1,244 @@
+{{ define "main" }}
+<div class="container mx-auto font-sans" x-data="festivalLoader()">
+  
+    <!-- Loading Overlay -->
+    <div x-show="loading" class="fixed inset-0 bg-white z-50 flex flex-col items-center justify-center">
+      <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-700"></div>
+      <p class="mt-4 text-xs font-bold uppercase tracking-widest text-gray-400">Loading Full Race Data...</p>
+    </div>
+  
+    <!-- Mobile Layout (Restored Full Grid) -->
+    <div id="mobile-layout" class="block md:hidden" x-show="!loading">
+      <section class="w-full bg-white border-b">
+        <div class="flex flex-row p-3 gap-2 items-center">
+          <!-- Course Dropdown -->
+          <div class="relative">
+            <button @click="isOpen = !isOpen" class="px-3 py-2 bg-slate-800 text-white rounded text-xs font-bold flex items-center gap-1">
+              <span x-text="courseData?.Course ?? 'Course'"></span>
+              <svg :class="{'rotate-180': isOpen}" class="w-4 h-4 transition-transform fill-current" viewBox="0 0 24 24"><path d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <div x-show="isOpen" @click.away="isOpen = false" class="absolute left-0 w-48 bg-white border rounded shadow-xl z-30 mt-1">
+              <template x-for="course in raceData" :key="course.Course">
+                <a :href="`/racecards/festival/?date=${date}&time=${course.races[0]?.timeDisplay}`"
+                  class="block px-4 py-2 hover:bg-emerald-50 text-xs border-b last:border-0 font-bold text-slate-800" x-text="course.Course"></a>
+              </template>
+            </div>
+          </div>
+          <!-- Time Scroll -->
+          <div class="overflow-x-auto no-scrollbar flex flex-row gap-2">
+            <template x-for="race in courseData?.races" :key="race.timeDisplay">
+              <a :href="`/racecards/festival?date=${date}&time=${race.timeDisplay}`"
+                 class="px-3 py-2 rounded text-xs font-bold border whitespace-nowrap"
+                 :class="race?.timeDisplay === timeDisplay ? 'bg-emerald-700 text-white border-emerald-700' : 'bg-white text-slate-600 border-gray-200'"
+                 x-text="race.timeDisplay"></a>
+            </template>
+          </div>
+        </div>
+  
+        <!-- Hero Header -->
+        <div class="relative w-full p-6 text-center bg-gradient-to-r from-slate-900 to-emerald-800">
+          <h1 class="relative text-white text-xl font-black uppercase tracking-tight">
+            <span x-text="courseData?.Course"></span> | <span x-text="timeDisplay"></span>
+          </h1>
+          <p class="relative text-emerald-100 text-xs font-medium mt-1 uppercase" x-text="racecardData?.raceTitle"></p>
+        </div>
+      </section>
+  
+      <!-- Mobile Cards (Restored 100% of stats) -->
+      <section class="p-2 space-y-3">
+        <template x-for="horse in racecardData?.horses?.sort((a,b) => a['pred.position'] - b['pred.position'])" :key="horse.runner_id">
+          <div class="rounded-lg bg-white shadow-sm border border-gray-100 overflow-hidden">
+            <div class="flex p-3 gap-3">
+              <img :src="horse['url.silk']" class="h-10 w-10 object-contain" alt="">
+              <div class="flex-grow">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-xs font-bold text-slate-400" x-text="horse['Horse.Number'] + '.'"></span>
+                  <span class="font-black text-slate-900 uppercase" x-text="horse.Name"></span>
+                </div>
+                
+                <!-- Full Stats Grid (Restored) -->
+                <div class="grid grid-cols-2 gap-x-4 gap-y-1 text-[11px] text-slate-600">
+                  <div>Prediction: <span class="font-bold text-slate-900" x-text="horse['pred.position']"></span></div>
+                  <div>Win %: <span class="font-bold text-slate-900" x-text="Math.round(horse['win.pct'] * 100)"></span></div>
+                  <div class="col-span-2">Last Results: <span class="font-bold text-slate-900" x-text="horse.Form.slice(-6)"></span></div>
+                  <div>Last Run: <span class="font-bold text-slate-900" x-text="horse['Days.LR']"></span></div>
+                  <div>Age: <span class="font-bold text-slate-900" x-text="horse.Age"></span> | Wgt: <span class="font-bold text-slate-900" x-text="horse.Weight"></span></div>
+                  <div>OR: <span class="font-bold text-slate-900" x-text="horse.OR"></span> | RPR: <span class="font-bold text-slate-900" x-text="horse.rpRating"></span></div>
+                  <div>Topspeed: <span class="font-bold text-slate-900" x-text="horse.lastSpeed"></span></div>
+                  <div>RBW: <span class="font-bold text-emerald-700" x-text="new Intl.NumberFormat('en-GB', {style: 'currency', currency: 'GBP', maximumFractionDigits: 0}).format(Math.floor(horse['rb.vdw']))"></span></div>
+                </div>
+              </div>
+              <div class="bg-emerald-700 text-white font-black rounded px-3 py-2 text-sm self-start" x-text="horse.Odds"></div>
+            </div>
+            <div class="flex justify-between text-[10px] uppercase font-bold p-2 bg-slate-50 border-t text-slate-500">
+              <span>J: <span class="text-slate-800" x-text="horse.Jockey"></span></span>
+              <span>T: <span class="text-slate-800" x-text="horse.Trainer"></span></span>
+            </div>
+          </div>
+        </template>
+      </section>
+    </div>
+  
+    <!-- Desktop Layout (Restored 100% of Columns) -->
+    <div id="desktop-layout" class="hidden md:grid md:grid-cols-1 lg:grid-cols-3 gap-8 py-8 px-4" x-show="!loading">
+      <div class="lg:col-span-2">
+        <!-- Header -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden mb-8">
+          <div class="bg-emerald-900 p-8 text-white">
+            <div class="flex items-center gap-6 mb-4 border-b border-emerald-800 pb-4">
+               <span class="font-black text-xl uppercase" x-text="courseData?.Course"></span>
+               <div class="flex gap-4">
+                  <template x-for="race in courseData?.races" :key="race.timeDisplay">
+                    <a :href="`/racecards/festival?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
+                       class="text-sm font-bold" :class="race?.timeDisplay === timeDisplay ? 'text-emerald-400 underline' : 'text-emerald-200/60'"
+                       x-text="race.timeDisplay"></a>
+                  </template>
+               </div>
+            </div>
+            <div class="flex justify-between items-end">
+              <div>
+                <h1 class="text-4xl font-black uppercase" x-text="racecardData?.raceTitle"></h1>
+                <div class="flex gap-3 text-emerald-400 font-bold text-sm uppercase mt-1">
+                  <span x-text="timeDisplay"></span> • <span x-text="racecardData?.raceDistance"></span> • <span x-text="racecardData?.raceConditions"></span>
+                </div>
+              </div>
+              <!-- Top Metadata restored (including EW terms) -->
+              <div class="grid grid-cols-2 gap-x-4 gap-y-1 bg-black/20 p-4 rounded text-xs uppercase font-bold border border-white/10">
+                <span class="text-emerald-300">Winner:</span> <span x-text="racecardData?.prizemoney"></span>
+                <span class="text-emerald-300">Runners:</span> <span x-text="racecardData?.noOfRunners"></span>
+                <span class="text-emerald-300">Going:</span> <span x-text="courseData?.going"></span>
+                <span class="text-emerald-300">E/W:</span> <span x-text="racecardData?.horses[0]?.['No.Places'] + ' Places'"></span>
+              </div>
+            </div>
+          </div>
+  
+          <!-- Full Table Restoration -->
+          <table class="w-full text-left">
+            <thead>
+              <tr class="bg-slate-800 text-white text-[10px] uppercase font-bold">
+                <th class="px-3 py-4 text-center">No/Form</th>
+                <th class="px-4 py-4">Horse/Jky/Tnr</th>
+                <th class="px-2 py-4 text-center">Age</th>
+                <th class="px-2 py-4 text-center">OR/Wgt</th>
+                <th class="px-3 py-4 text-center">Last RPR/TS</th>
+                <th class="px-3 py-4 text-center">Best RPR/VDW</th>
+                <th class="px-3 py-4 text-center">Pred/Conf</th>
+                <th class="px-4 py-4 text-right pr-6">Odds</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-100">
+              <template x-for="horse in racecardData?.horses" :key="horse.runner_id">
+                <tr class="hover:bg-emerald-50/50 transition-colors">
+                  <td class="px-3 py-4 text-center">
+                    <div class="text-lg font-black text-slate-800" x-text="horse['Horse.Number']"></div>
+                    <div class="text-[10px] font-bold text-slate-400" x-text="horse.Form"></div>
+                  </td>
+                  <td class="px-4 py-4">
+                    <div class="flex items-center gap-3">
+                      <img :src="horse['url.silk']" class="h-8 w-8 object-contain">
+                      <div>
+                        <div class="font-black text-slate-900 uppercase text-sm" x-text="horse.Name"></div>
+                        <div class="text-[10px] font-medium text-slate-500 uppercase mt-0.5">
+                          J: <span class="text-slate-800" x-text="horse.Jockey"></span> / T: <span class="text-slate-800" x-text="horse.Trainer"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td class="px-2 py-4 text-center text-sm font-bold text-slate-800" x-text="horse.Age"></td>
+                  <td class="px-2 py-4 text-center">
+                    <div class="text-sm font-bold text-slate-800" x-text="horse.OR"></div>
+                    <div class="text-[10px] font-medium text-slate-500" x-text="horse.Weight"></div>
+                  </td>
+                  <td class="px-3 py-4 text-center">
+                    <div class="text-sm font-bold text-slate-800" x-text="horse.rpRating"></div>
+                    <div class="text-[10px] font-medium text-slate-500" x-text="horse.lastSpeed"></div>
+                  </td>
+                  <td class="px-3 py-4 text-center">
+                    <div class="text-sm font-bold text-slate-800" x-text="horse['best.RPR']"></div>
+                    <div class="text-[10px] font-bold text-emerald-700" x-text="new Intl.NumberFormat('en-GB', {style: 'currency', currency: 'GBP', maximumFractionDigits: 0}).format(Math.floor(horse['rb.vdw']))"></div>
+                  </td>
+                  <td class="px-3 py-4">
+                    <div class="flex justify-center">
+                      <div x-data="{ winPct: horse['win.pct'] * 100, circ: 2 * Math.PI * 14 }" class="relative w-10 h-10">
+                        <svg class="w-full h-full -rotate-90" viewBox="0 0 36 36">
+                          <circle class="text-gray-100" stroke-width="3" fill="transparent" r="14" cx="18" cy="18" stroke="currentColor"></circle>
+                          <circle :class="winPct > 50 ? 'text-emerald-500' : (winPct > 20 ? 'text-amber-500' : 'text-rose-500')"
+                            stroke-width="3" fill="transparent" r="14" cx="18" cy="18" stroke-linecap="round"
+                            stroke="currentColor" :stroke-dasharray="`${(winPct / 100) * circ}, ${circ}`"></circle>
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center text-[11px] font-black text-slate-800" x-text="horse['pred.position']"></div>
+                      </div>
+                    </div>
+                  </td>
+                  <td class="px-4 py-4 text-right pr-6">
+                    <div class="inline-block bg-emerald-700 text-white font-black text-sm px-3 py-2 rounded min-w-[60px] text-center" x-text="horse.Odds"></div>
+                  </td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+      </div>
+  
+      <!-- Sidebar (Unchanged) -->
+      <aside class="lg:col-span-1">
+        <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-200">
+          <h2 class="text-lg font-black uppercase text-slate-800 mb-4 border-b pb-2">Race Stats</h2>
+          <div class="space-y-3">
+            <div class="p-3 bg-slate-50 rounded border text-xs font-bold uppercase text-slate-600">Top Trainer: John Doe</div>
+            <div class="p-3 bg-slate-50 rounded border text-xs font-bold uppercase text-slate-600">Top Rated: Thunderbolt</div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+<script>
+    function festivalLoader() {
+ return {
+    date: '', 
+    timeDisplay: '',
+    festivalData: [], // The full 4-day array
+    courseData: null,  // This will store the specific day's object (Going, Course, etc)
+    racecardData: null, // This will store the specific race object
+    loading: true,
+
+    init() {
+      const params = new URLSearchParams(window.location.search);
+      this.date = params.get('date');
+      this.timeDisplay = params.get('time');
+
+      // Fetch the specific Cheltenham JSON
+      fetch('/data/racecards/cheltenham.json')
+        .then(res => res.json())
+        .then(data => {
+          this.festivalData = data;
+
+          // 1. Find the specific day by date (e.g., "2026-03-10")
+          const targetDay = data.find(d => d.date === this.date);
+          
+          if (targetDay) {
+            // We map the Day object to 'courseData' because your template 
+            // uses courseData.going and courseData.races
+            this.courseData = targetDay;
+
+            // 2. Find the specific race within that day by time
+            this.racecardData = targetDay.races.find(r => r.timeDisplay === this.timeDisplay);
+          }
+
+          this.loading = false;
+        })
+        .catch(err => {
+          console.error("Festival Load Error:", err);
+          this.loading = false;
+        });
+    }
+  }
+}</script>
+
+<style>
+  /* Hide scrollbar but keep functionality */
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+{{ end }}
