@@ -1,72 +1,277 @@
 {{ define "main" }}
-<div class="container mx-auto" x-data="festivalLoader()">
-    <!-- Loading State -->
-    <template x-if="loading">
-        <div class="flex justify-center py-20">
-            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-700"></div>
-        </div>
-    </template>
+<div class="container mx-auto font-sans" x-data="racecardLoader()" x-init="init()">
+  
+  <!-- Loading Overlay -->
+  <div x-show="loading" class="fixed inset-0 bg-white z-50 flex flex-col items-center justify-center">
+    <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-700"></div>
+    <p class="mt-4 text-xs font-bold uppercase tracking-widest text-gray-400">Loading Racecard...</p>
+  </div>
 
-    <!-- Race Content -->
-    <template x-if="!loading && race">
-        <div class="py-6">
-            <!-- Header section matching your theme -->
-            <div class="bg-slate-800 text-white p-6 rounded-t-lg">
-                <h1 class="text-3xl font-bold" x-text="race.raceTitle"></h1>
-                <div class="flex gap-4 mt-2 text-emerald-400 uppercase text-sm font-bold">
-                    <span x-text="race.timeDisplay"></span>
-                    <span>|</span>
-                    <span x-text="race.raceDistance"></span>
-                    <span>|</span>
-                    <span x-text="race.raceConditions"></span>
+  <!-- Mobile Layout -->
+  <div id="mobile-layout" class="block md:hidden" x-show="!loading">
+    <section class="w-full bg-white border-b">
+      <!-- Course & Time Navigation -->
+      <div class="flex flex-col p-3 gap-3">
+        <div class="flex items-center gap-2">
+          <!-- Course Selector -->
+          <div class="relative" id="nav-coursemenu-mobile">
+            <button @click="isOpen = !isOpen"
+              class="px-4 py-2 bg-slate-800 text-white rounded text-sm font-bold flex items-center gap-2">
+              <span x-text="courseData?.Course ?? 'Select Course'"></span>
+              <svg :class="{'rotate-180': isOpen}" class="w-4 h-4 transition-transform fill-current" viewBox="0 0 24 24">
+                <path d="M19 9l-7 7-7-7"></path>
+              </svg>
+            </button>
+            <div x-show="isOpen" @click.away="isOpen = false"
+              class="absolute left-0 w-56 bg-white border rounded shadow-xl z-30 mt-1">
+              <template x-for="course in raceData" :key="course.Course">
+                <a :href="`/racecards/view/?date=${date}&course=${course.Course}&time=${course.races[0]?.timeDisplay}`"
+                  class="block px-4 py-3 hover:bg-emerald-50 text-sm border-b last:border-0">
+                  <span class="font-bold text-slate-800" x-text="course.Course"></span>
+                </a>
+              </template>
+            </div>
+          </div>
+
+          <!-- Horizontal Time Scroll -->
+          <div class="overflow-x-auto no-scrollbar flex flex-row gap-2">
+            <template x-for="race in courseData?.races" :key="race.timeDisplay">
+              <a :href="`/racecards/view?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
+                 class="px-3 py-2 rounded text-xs font-bold border transition-colors whitespace-nowrap"
+                 :class="race?.timeDisplay === timeDisplay ? 'bg-emerald-700 text-white border-emerald-700' : 'bg-white text-slate-600 border-gray-200'">
+                <span x-text="race.timeDisplay"></span>
+              </a>
+            </template>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mobile Hero Header -->
+      <div class="relative w-full p-6 text-center bg-emerald-900 overflow-hidden">
+        <!-- Subtle pattern overlay -->
+        <div class="absolute inset-0 opacity-10 pointer-events-none">
+          <svg width="100%" height="100%"><rect width="100%" height="100%" fill="url(#grid)" /></svg>
+        </div>
+        
+        <h1 class="relative text-white text-2xl font-black uppercase tracking-tight">
+          <span x-text="courseData?.Course"></span> <span class="text-emerald-400 mx-1">|</span> <span x-text="timeDisplay"></span>
+        </h1>
+        <p class="relative text-emerald-100 text-sm font-medium mt-1 uppercase tracking-wider" x-text="racecardData?.raceTitle"></p>
+      </div>
+    </section>
+
+    <!-- Mobile Horse Cards -->
+    <section id="racecardElements" class="p-2 space-y-3">
+      <template x-for="horse in racecardData?.horses?.sort((a,b) => a['pred.position'] - b['pred.position'])" :key="horse.runner_id">
+        <div class="rounded-lg bg-white shadow-sm border border-gray-100 overflow-hidden">
+          <div class="flex p-3 gap-3">
+            <img :src="horse['url.silk']" class="h-10 w-10 object-contain" alt="">
+            <div class="flex-grow">
+              <div class="flex items-center gap-2 mb-1">
+                <span class="text-xs font-bold text-slate-400" x-text="horse['Horse.Number'] + '.'"></span>
+                <span class="font-black text-slate-900 uppercase tracking-tight" x-text="horse.Name"></span>
+              </div>
+              
+              <!-- Mini Stats Grid -->
+              <div class="grid grid-cols-2 gap-x-4 gap-y-1 text-[11px] font-medium text-slate-500">
+                <div class="flex justify-between border-b border-gray-50 pb-0.5">
+                  <span>Prediction:</span> <span class="text-slate-900 font-bold" x-text="horse['pred.position']"></span>
                 </div>
+                <div class="flex justify-between border-b border-gray-50 pb-0.5">
+                  <span>Win %:</span> <span class="text-slate-900 font-bold" x-text="Math.round(horse['win.pct'] * 100) + '%'"></span>
+                </div>
+                <div class="flex justify-between border-b border-gray-50 pb-0.5">
+                  <span>Form:</span> <span class="text-slate-900 font-bold" x-text="horse.Form.slice(-6)"></span>
+                </div>
+                <div class="flex justify-between border-b border-gray-50 pb-0.5">
+                  <span>OR/RPR:</span> <span class="text-slate-900 font-bold"><span x-text="horse.OR"></span>/<span x-text="horse.rpRating"></span></span>
+                </div>
+              </div>
             </div>
-
-            <!-- Horse Table -->
-            <div class="bg-white border-x border-b rounded-b-lg shadow-sm">
-                <table class="w-full">
-                    <thead class="bg-gray-100 border-b">
-                        <tr>
-                            <th class="p-4 text-left">Horse</th>
-                            <th class="p-4 text-right">Price</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <template x-for="horse in race.horses" :key="horse.runner_id">
-                            <tr class="border-b hover:bg-emerald-50">
-                                <td class="p-4 font-bold text-emerald-900" x-text="horse.Name"></td>
-                                <td class="p-4 text-right font-mono" x-text="horse.price || 'SP'"></td>
-                            </tr>
-                        </template>
-                    </tbody>
-                </table>
+            
+            <!-- Odds Button -->
+            <div class="flex flex-col items-center">
+              <div class="bg-emerald-700 text-white font-black rounded px-3 py-2 text-sm shadow-sm" x-text="horse.Odds"></div>
             </div>
+          </div>
+          
+          <!-- Jockey/Trainer Bar -->
+          <div class="flex justify-between text-[10px] uppercase font-bold p-2 bg-slate-50 border-t text-slate-500 tracking-tighter">
+            <span>J: <span class="text-slate-700" x-text="horse.Jockey"></span></span>
+            <span>T: <span class="text-slate-700" x-text="horse.Trainer"></span></span>
+          </div>
         </div>
-    </template>
+      </template>
+    </section>
+  </div>
+
+  <!-- Desktop Layout -->
+  <div id="desktop-layout" class="hidden md:grid md:grid-cols-1 lg:grid-cols-3 gap-8 py-8 px-4" x-show="!loading">
+    <div class="lg:col-span-2">
+      <!-- Desktop Header Card -->
+      <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden mb-8">
+        <div class="bg-emerald-900 p-8 text-white relative">
+          <!-- Navigation row -->
+          <div class="flex items-center gap-6 mb-6 border-b border-emerald-800 pb-4 overflow-x-auto no-scrollbar">
+            <span class="font-black text-xl uppercase tracking-tighter" x-text="courseData?.Course"></span>
+            <div class="flex gap-4">
+              <template x-for="race in courseData?.races" :key="race.timeDisplay">
+                <a :href="`/racecards/view?date=${date}&course=${courseData.Course}&time=${race.timeDisplay}`"
+                   class="text-sm font-bold transition-all hover:text-emerald-400"
+                   :class="race?.timeDisplay === timeDisplay ? 'text-emerald-400 scale-110 underline decoration-2 underline-offset-4' : 'text-emerald-200/60'">
+                  <span x-text="race.timeDisplay"></span>
+                </a>
+              </template>
+            </div>
+          </div>
+
+          <div class="flex justify-between items-end">
+            <div>
+              <div class="flex items-center gap-3 text-emerald-400 font-bold text-sm uppercase tracking-widest mb-1">
+                <span x-text="timeDisplay"></span>
+                <span class="w-1 h-1 bg-emerald-700 rounded-full"></span>
+                <span x-text="racecardData?.raceDistance"></span>
+              </div>
+              <h1 class="text-4xl font-black uppercase tracking-tight" x-text="racecardData?.raceTitle"></h1>
+              <p class="text-emerald-100/70 text-sm mt-1" x-text="racecardData?.raceConditions"></p>
+            </div>
+            
+            <!-- Metadata Grid -->
+            <div class="grid grid-cols-2 gap-x-6 gap-y-2 bg-black/20 p-4 rounded-lg border border-white/10 text-xs uppercase font-bold">
+              <div class="text-emerald-300">Winner:</div> <div class="text-right" x-text="racecardData?.prizemoney"></div>
+              <div class="text-emerald-300">Runners:</div> <div class="text-right" x-text="racecardData?.noOfRunners"></div>
+              <div class="text-emerald-300">Going:</div> <div class="text-right" x-text="courseData?.going"></div>
+              <div class="text-emerald-300">Places:</div> <div class="text-right" x-text="racecardData?.horses[0]?.['No.Places']"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Desktop Race Table -->
+        <div class="overflow-x-auto">
+          <table class="w-full text-left">
+            <thead>
+              <tr class="bg-slate-800 text-white text-[10px] uppercase tracking-widest font-bold">
+                <th class="px-4 py-4 w-16 text-center border-r border-slate-700">No / Form</th>
+                <th class="px-6 py-4">Horse / Jockey / Trainer</th>
+                <th class="px-4 py-4 text-center">Age / Wgt</th>
+                <th class="px-4 py-4 text-center">OR / RPR</th>
+                <th class="px-4 py-4 text-center">Prediction</th>
+                <th class="px-4 py-4 text-right pr-6">Odds</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-100">
+              <template x-for="horse in racecardData?.horses" :key="horse.runner_id">
+                <tr class="hover:bg-emerald-50/50 transition-colors group">
+                  <td class="px-4 py-4 text-center border-r border-gray-50">
+                    <div class="text-lg font-black text-slate-800" x-text="horse['Horse.Number']"></div>
+                    <div class="text-[10px] font-bold text-slate-400" x-text="horse.Form"></div>
+                  </td>
+                  <td class="px-6 py-4">
+                    <div class="flex items-center gap-3">
+                      <img :src="horse['url.silk']" class="h-8 w-8 object-contain" alt="">
+                      <div>
+                        <div class="font-black text-slate-900 uppercase tracking-tight group-hover:text-emerald-700 transition-colors" x-text="horse.Name"></div>
+                        <div class="text-[10px] font-bold text-slate-500 uppercase mt-0.5">
+                          J: <span class="text-slate-800" x-text="horse.Jockey"></span> 
+                          <span class="mx-1">•</span> 
+                          T: <span class="text-slate-800" x-text="horse.Trainer"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td class="px-4 py-4 text-center">
+                    <div class="text-sm font-bold text-slate-800" x-text="horse.Age"></div>
+                    <div class="text-[10px] font-medium text-slate-500" x-text="horse.Weight"></div>
+                  </td>
+                  <td class="px-4 py-4 text-center">
+                    <div class="text-sm font-bold text-slate-800" x-text="horse.OR"></div>
+                    <div class="text-[10px] font-medium text-slate-500">RPR: <span x-text="horse.rpRating"></span></div>
+                  </td>
+                  <td class="px-4 py-4">
+                    <div class="flex items-center justify-center">
+                      <div x-data="{ 
+                        winPct: horse['win.pct'] ? horse['win.pct'] * 100 : 0, 
+                        position: horse['pred.position'] ?? '?',
+                        circ: 2 * Math.PI * 14
+                      }" class="relative w-10 h-10">
+                        <svg class="w-full h-full -rotate-90" viewBox="0 0 36 36">
+                          <circle class="text-gray-100" stroke-width="3" fill="transparent" r="14" cx="18" cy="18" stroke="currentColor"></circle>
+                          <circle :class="winPct > 50 ? 'text-emerald-500' : (winPct > 20 ? 'text-amber-500' : 'text-rose-500')"
+                            stroke-width="3" fill="transparent" r="14" cx="18" cy="18" stroke-linecap="round"
+                            stroke="currentColor" :stroke-dasharray="`${(winPct / 100) * circ}, ${circ}`"></circle>
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center text-xs font-black text-slate-800" x-text="position"></div>
+                      </div>
+                    </div>
+                  </td>
+                  <td class="px-4 py-4 text-right pr-6">
+                    <button class="bg-emerald-700 text-white font-black text-sm px-4 py-2 rounded shadow-sm hover:bg-emerald-800 transition-all min-w-[65px]" x-text="horse.Odds"></button>
+                  </td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Sidebar -->
+    <aside class="lg:col-span-1">
+      <div class="sticky top-6 space-y-6">
+        <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-200">
+          <h2 class="text-lg font-black uppercase tracking-tight text-slate-800 mb-4 border-b pb-2">Race Analysis</h2>
+          <div class="space-y-4">
+            <template x-for="stat in ['Top Trainer: John Doe', 'Highest Rated Horse: Thunderbolt', 'Recent Going: Good']">
+              <div class="flex items-center gap-3 p-3 bg-slate-50 rounded-lg border border-slate-100">
+                <div class="w-2 h-2 bg-emerald-500 rounded-full"></div>
+                <span class="text-xs font-bold text-slate-700 uppercase" x-text="stat"></span>
+              </div>
+            </template>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </div>
 </div>
 
 <script>
-function festivalLoader() {
-    return {
-        race: null,
-        loading: true,
-        init() {
-            const params = new URLSearchParams(window.location.search);
-            const time = params.get('time');
-            const date = params.get('date');
+function racecardLoader() {
+  return {
+    date: '', course: '', timeDisplay: '',
+    raceData: [], // All courses for that date
+    courseData: null, // Current selected course
+    racecardData: null, // Current selected race
+    isOpen: false,
+    loading: true,
 
-            fetch('/data/racecards/cheltenham.json')
-                .then(res => res.json())
-                .then(data => {
-                    // Logic to find race in nested 4-day JSON
-                    const day = data.find(d => d.date === date);
-                    if (day) {
-                        this.race = day.races.find(r => r.timeDisplay === time);
-                    }
-                    this.loading = false;
-                });
-        }
+    init() {
+      const params = new URLSearchParams(window.location.search);
+      this.date = params.get('date');
+      this.timeDisplay = params.get('time');
+
+      fetch(`/data/racecards/cheltenham.json`)
+        .then(res => res.json())
+        .then(data => {
+          this.raceData = data;
+          // Filter logic
+          this.courseData = data.find(c => c.Course === this.course);
+          if (this.courseData) {
+            this.racecardData = this.courseData.races.find(r => r.timeDisplay === this.timeDisplay);
+          }
+          this.loading = false;
+        })
+        .catch(err => {
+          console.error("Load Error", err);
+          this.loading = false;
+        });
     }
+  }
 }
 </script>
+
+<style>
+  /* Hide scrollbar but keep functionality */
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
 {{ end }}
