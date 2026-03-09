@@ -239,7 +239,7 @@ x-data="{
    <template x-if="!loading && festivalData.length > 0">
        <div class="divide-y divide-gray-100">
            <template x-for="race in festivalData[activeDay].races" :key="race.race_id">
-               <a :href="`/racecards/view?date=${festivalData[activeDay].date}&course=Cheltenham&time=${race.timeDisplay}`" 
+               <a :href="`/racecards/festival?date=${festivalData[activeDay].date}&course=Cheltenham&time=${race.timeDisplay}`" 
                   class="group flex items-center justify-between p-4 hover:bg-emerald-50 transition-colors">
                    
                    <div class="flex items-start gap-4">
