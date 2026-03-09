@@ -1,0 +1,72 @@
+{{ define "main" }}
+<div class="container mx-auto" x-data="festivalLoader()">
+    <!-- Loading State -->
+    <template x-if="loading">
+        <div class="flex justify-center py-20">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-700"></div>
+        </div>
+    </template>
+
+    <!-- Race Content -->
+    <template x-if="!loading && race">
+        <div class="py-6">
+            <!-- Header section matching your theme -->
+            <div class="bg-slate-800 text-white p-6 rounded-t-lg">
+                <h1 class="text-3xl font-bold" x-text="race.raceTitle"></h1>
+                <div class="flex gap-4 mt-2 text-emerald-400 uppercase text-sm font-bold">
+                    <span x-text="race.timeDisplay"></span>
+                    <span>|</span>
+                    <span x-text="race.raceDistance"></span>
+                    <span>|</span>
+                    <span x-text="race.raceConditions"></span>
+                </div>
+            </div>
+
+            <!-- Horse Table -->
+            <div class="bg-white border-x border-b rounded-b-lg shadow-sm">
+                <table class="w-full">
+                    <thead class="bg-gray-100 border-b">
+                        <tr>
+                            <th class="p-4 text-left">Horse</th>
+                            <th class="p-4 text-right">Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <template x-for="horse in race.horses" :key="horse.runner_id">
+                            <tr class="border-b hover:bg-emerald-50">
+                                <td class="p-4 font-bold text-emerald-900" x-text="horse.Name"></td>
+                                <td class="p-4 text-right font-mono" x-text="horse.price || 'SP'"></td>
+                            </tr>
+                        </template>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </template>
+</div>
+
+<script>
+function festivalLoader() {
+    return {
+        race: null,
+        loading: true,
+        init() {
+            const params = new URLSearchParams(window.location.search);
+            const time = params.get('time');
+            const date = params.get('date');
+
+            fetch('/data/cheltenham.json')
+                .then(res => res.json())
+                .then(data => {
+                    // Logic to find race in nested 4-day JSON
+                    const day = data.find(d => d.date === date);
+                    if (day) {
+                        this.race = day.races.find(r => r.timeDisplay === time);
+                    }
+                    this.loading = false;
+                });
+        }
+    }
+}
+</script>
+{{ end }}
