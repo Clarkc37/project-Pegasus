@@ -2,40 +2,100 @@
 // Shared utilities and date helpers
 
 /**
- * Format a date as YYYY-MM-DD
+ * Format a date as YYYY-MM-DD.
  */
-function formatDate(date) {
+window.formatDate = function (date) {
   const d = new Date(date);
   const month = String(d.getMonth() + 1).padStart(2, '0');
   const day = String(d.getDate()).padStart(2, '0');
   return `${d.getFullYear()}-${month}-${day}`;
-}
+};
 
 /**
- * Get date offset by days from today
+ * Get a date string offset by days from today.
  */
-function getDate(daysAhead) {
+window.getDateString = function (daysAhead) {
   const date = new Date();
   date.setDate(date.getDate() + daysAhead);
   return formatDate(date);
-}
+};
 
 /**
- * Format odds for display
+ * Fetch JSON from a URL with cache-busting.
  */
-function formatOdds(odds) {
-  if (!odds) return 'N/A';
-  return odds;
-}
+window.fetchJSON = async function (url) {
+  const cacheBusted = `${url}?t=${Date.now()}`;
+  const response = await fetch(cacheBusted);
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+  }
+  return response.json();
+};
 
 /**
- * Format currency (GBP)
+ * Format odds for display (handle decimal/fractional/string).
  */
-function formatGBP(value) {
-  return new Intl.NumberFormat('en-GB', {
-    style: 'currency',
-    currency: 'GBP',
-    minimumFractionDigits: 0,
-    maximumFractionDigits: 0
-  }).format(Math.floor(value));
-}
+window.formatOdds = function (odds) {
+  if (!odds && odds !== 0) return 'N/A';
+  if (typeof odds === 'string') return odds;
+  if (typeof odds === 'number') {
+    // Assume decimal odds — convert to fractional approximation
+    if (odds >= 1) {
+      const frac = odds - 1;
+      if (frac < 0.1) return '1/10';
+      if (frac < 0.5) return '1/2';
+      if (frac < 1) return 'EVS';
+      if (frac < 2) return '2/1';
+      if (frac < 3) return '3/1';
+      if (frac < 4) return '4/1';
+      if (frac < 5) return '5/1';
+      if (frac < 6) return '6/1';
+      if (frac < 7) return '7/1';
+      if (frac < 8) return '8/1';
+      if (frac < 9) return '9/1';
+      if (frac < 10) return '10/1';
+      return `${Math.round(frac)}/1`;
+    }
+  }
+  return String(odds);
+};
+
+/**
+ * Format a time value for display.
+ */
+window.formatTime = function (time) {
+  if (!time) return '';
+  // Already formatted like "14:30"
+  if (/^\d{2}:\d{2}/.test(time)) return time;
+  return time;
+};
+
+// Date navigation component (Alpine)
+document.addEventListener('alpine:init', () => {
+  Alpine.data('dateNav', () => ({
+    showDate: 'Today',
+    selectedDate: getDateString(0),
+
+    getDate(daysAhead) {
+      return getDateString(daysAhead);
+    },
+
+    goYesterday() {
+      this.showDate = 'Yesterday';
+      this.selectedDate = this.getDate(-1);
+      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
+    },
+
+    goToday() {
+      this.showDate = 'Today';
+      this.selectedDate = this.getDate(0);
+      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
+    },
+
+    goTomorrow() {
+      this.showDate = 'Tomorrow';
+      this.selectedDate = this.getDate(1);
+      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
+    }
+  }));
+});

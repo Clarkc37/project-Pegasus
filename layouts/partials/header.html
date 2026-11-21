@@ -1,0 +1,57 @@
+<nav class="site-nav sticky top-0 w-full"
+     x-data="{ open: false }"
+     style="background-color: var(--color-turf-green);">
+  <div class="flex items-center justify-between px-4 py-3 max-w-7xl mx-auto">
+    <!-- Brand -->
+    <a href="/" class="font-heading text-white font-bold text-lg tracking-tight"
+       style="font-family: var(--font-heading);">
+      Global Guide Racing
+    </a>
+
+    <!-- Desktop nav links -->
+    <div class="desktop-nav hidden lg:flex space-x-6 items-center">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        {{ $isActive := eq $currentPage.RelPermalink .URL }}
+        <a href="{{ .URL }}"
+           class="font-body text-sm uppercase tracking-wider py-1{{ if $isActive }} nav-active{{ end }}"
+           style="color: white; font-family: var(--font-body);">
+          {{ .Name }}
+        </a>
+      {{ end }}
+    </div>
+
+    <!-- Mobile hamburger -->
+    <button @click="open = !open" class="block lg:hidden text-white p-2"
+            aria-label="Toggle navigation menu">
+      <svg x-show="!open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="4" y1="4" x2="20" y2="4" />
+        <line x1="4" y1="12" x2="20" y2="12" />
+        <line x1="4" y1="20" x2="20" y2="20" />
+      </svg>
+      <svg x-show="open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="4" y1="4" x2="20" y2="20" />
+        <line x1="4" y1="20" x2="20" y2="4" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile slide-out -->
+  <div x-show="open"
+       class="mobile-nav lg:hidden bg-turf-green w-full shadow-md"
+       x-transition:enter="transition ease-out duration-200"
+       x-transition:leave="transition ease-in duration-150"
+       style="background-color: var(--color-turf-green);">
+    <div class="flex flex-col space-y-1 px-4 py-2">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        {{ $isActive := eq $currentPage.RelPermalink .URL }}
+        <a href="{{ .URL }}"
+           class="block font-body uppercase tracking-wider py-2 px-3{{ if $isActive }} nav-active{{ end }}"
+           style="color: white; font-family: var(--font-body);">
+          {{ .Name }}
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</nav>

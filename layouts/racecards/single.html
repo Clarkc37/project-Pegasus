@@ -1,0 +1,185 @@
+{{ define "main" }}
+<div x-data="racecardDetailApp" class="racecard-detail-layout">
+  <!-- Back link -->
+  <a href="/racecards/" class="inline-block mb-4 font-body text-sm touch-target"
+     style="color: var(--color-turf-green);">
+    ← Back to Racecards
+  </a>
+
+  <!-- Loading -->
+  <div x-show="loading" class="text-center py-12">
+    <div class="animate-pulse text-lg font-body" style="color: var(--color-paddock-grey);">
+      Loading racecard…
+    </div>
+  </div>
+
+  <!-- Error -->
+  <div x-show="!loading && error"
+       class="text-center py-12 font-body" style="color: var(--color-paddock-grey);">
+    Racecard not found. <span x-text="error"></span>
+  </div>
+
+  <!-- Race Header -->
+  <div x-show="!loading && !error && racecardData"
+       class="mb-6 card rounded-lg p-4 bg-white">
+    <div class="flex items-center justify-between">
+      <div>
+        <h1 class="font-heading text-xl font-bold" style="color: var(--color-turf-green);">
+          <span x-text="racecardData.timeDisplay || racecardData.time || ''"></span>
+          · <span x-text="courseName"></span>
+        </h1>
+        <p class="font-body text-sm mt-1" style="color: var(--color-odds-black);">
+          <span x-text="racecardData.title || racecardData.raceTitle || ''"></span>
+        </p>
+        <div class="flex flex-wrap gap-3 mt-2 text-xs" style="color: var(--color-paddock-grey);">
+          <span x-text="racecardData.distance || racecardData.distance_text || ''"></span>
+          <span x-show="racecardData.race_class || racecardData.raceClass"
+                x-text="'Class ' + (racecardData.race_class || racecardData.raceClass || '')"></span>
+          <span x-text="(racecardData.runners || racecardData.number_of_runners || 0) + ' runners'"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Going / Conditions -->
+    <div class="mt-3 text-xs font-body" style="color: var(--color-paddock-grey);">
+      GOING: <span x-text="courseGoing || ''"></span>
+    </div>
+  </div>
+
+  <!-- Horse Table (Desktop) -->
+  <div x-show="!loading && !error && horses.length > 0"
+       class="hidden md:block overflow-x-auto">
+    <table class="racecard-table w-full bg-white rounded-lg card">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Horse</th>
+          <th>Age</th>
+          <th>OR/Wgt</th>
+          <th>Jockey / Trainer</th>
+          <th>RPR</th>
+          <th>TS</th>
+          <th>VDW</th>
+          <th>Pred</th>
+          <th>Odds</th>
+        </tr>
+      </thead>
+      <tbody>
+        <template x-for="(horse, index) in horses" :key="horse.name || horse.horse || index">
+          <tr @click="toggleExpand(horse)"
+              class="cursor-pointer touch-target"
+              :class="{ 'border-l-4 border-turf-green': horse.isTopPick }">
+            <td class="font-bold" style="color: var(--color-paddock-grey);">
+              <span x-text="index + 1"></span>
+            </td>
+            <td>
+              <div class="flex items-center gap-2">
+                <span class="font-semibold text-sm" style="color: var(--color-odds-black);">
+                  <span x-text="horse.name || horse.horse || ''"></span>
+                </span>
+                <span x-show="horse.isTopPick" class="badge-top-tip">🏆 TOP TIP</span>
+                <span x-show="horse.isBestValue" class="badge-best-value">⭐ BEST VALUE</span>
+              </div>
+            </td>
+            <td class="text-sm" x-text="horse.age || ''"></td>
+            <td class="text-sm">
+              <span x-text="horse.OR || horse.or || ''"></span>/<span x-text="horse.weight || horse.wgt || ''"></span>
+            </td>
+            <td class="text-sm">
+              <span x-text="horse.jockey || horse.Jockey || ''"></span>
+              <br /><span class="text-xs" style="color: var(--color-paddock-grey);"
+                    x-text="horse.trainer || horse.Trainer || ''"></span>
+            </td>
+            <td class="text-sm" x-text="horse.RPR || horse.rpr || '-'"></td>
+            <td class="text-sm" x-text="horse.TS || horse.ts || '-'"></td>
+            <td class="text-sm" x-text="horse.VDW || horse.vdw || '-'"></td>
+            <td class="text-sm" style="color: var(--color-turf-green);">
+              <span x-text="horse.predictionRank || horse.prediction_rank || '-'"></span>
+            </td>
+            <td>
+              <span class="inline-block px-2 py-0.5 text-xs font-bold rounded"
+                    style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
+                <span x-text="horse.odds || horse.Odds || horse.decimal_odds || 'N/A'"></span>
+              </span>
+            </td>
+          </tr>
+          <!-- Expanded detail row -->
+          <tr x-show="horse.expanded" x-transition>
+            <td :colspan="10" class="bg-gray-50 p-4 text-sm">
+              <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div>
+                  <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Form</span>
+                  <span x-text="horse.form || horse.Form || '-'"></span>
+                </div>
+                <div>
+                  <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Best RPR</span>
+                  <span x-text="horse.bestRPR || horse.best_rpr || '-'"></span>
+                </div>
+                <div>
+                  <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Trainer Rate</span>
+                  <span x-text="horse.trainerRate || horse.Trainer?.Rate || '-'"></span>
+                </div>
+                <div>
+                  <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Jockey Rate</span>
+                  <span x-text="horse.jockeyRate || horse.Jockey?.Rate || '-'"></span>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </template>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Horse Cards (Mobile) -->
+  <div x-show="!loading && !error && horses.length > 0"
+       class="md:hidden space-y-3">
+    <template x-for="(horse, index) in horses" :key="horse.name || horse.horse || index">
+      <div @click="toggleExpand(horse)"
+           class="card rounded-lg p-4 bg-white cursor-pointer touch-target"
+           :class="{ 'border-l-4': horse.isTopPick || horse.isBestValue }"
+           :style="horse.isTopPick ? 'border-left: 4px solid var(--color-turf-green);' : (horse.isBestValue ? 'border-left: 4px solid var(--color-cheltenham-gold);' : '')">
+        <div class="flex justify-between items-start">
+          <div class="flex-1">
+            <div class="flex items-center gap-2">
+              <span class="font-bold text-sm" style="color: var(--color-odds-black);">
+                #<span x-text="index + 1"></span> <span x-text="horse.name || horse.horse || ''"></span>
+              </span>
+              <span x-show="horse.isTopPick" class="badge-top-tip">🏆 TOP TIP</span>
+              <span x-show="horse.isBestValue" class="badge-best-value">⭐ BEST VALUE</span>
+            </div>
+            <p class="text-xs mt-1" style="color: var(--color-paddock-grey);">
+              <span x-text="horse.jockey || horse.Jockey || ''"></span>
+              · <span x-text="horse.trainer || horse.Trainer || ''"></span>
+            </p>
+          </div>
+          <div class="text-right">
+            <span class="inline-block px-2 py-0.5 text-xs font-bold rounded"
+                  style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
+              <span x-text="horse.odds || horse.Odds || 'N/A'"></span>
+            </span>
+          </div>
+        </div>
+        <!-- Quick info row -->
+        <div class="flex justify-between mt-2 text-xs" style="color: var(--color-paddock-grey);">
+          <span>Age: <span x-text="horse.age || '-'"></span></span>
+          <span>RPR: <span x-text="horse.RPR || horse.rpr || '-'"></span></span>
+          <span x-show="horse.predictionRank || horse.prediction_rank">
+            Pred: <span x-text="horse.predictionRank || horse.prediction_rank"></span>
+          </span>
+        </div>
+        <!-- Expanded mobile detail -->
+        <div x-show="horse.expanded" x-transition class="mt-3 pt-3"
+             style="border-top: 1px solid var(--color-tackroom-taupe);">
+          <div class="grid grid-cols-2 gap-3 text-xs">
+            <div><span class="block uppercase" style="color: var(--color-paddock-grey);">Form</span><span x-text="horse.form || horse.Form || '-'"></span></div>
+            <div><span class="block uppercase" style="color: var(--color-paddock-grey);">TS</span><span x-text="horse.TS || horse.ts || '-'"></span></div>
+            <div><span class="block uppercase" style="color: var(--color-paddock-grey);">VDW</span><span x-text="horse.VDW || horse.vdw || '-'"></span></div>
+            <div><span class="block uppercase" style="color: var(--color-paddock-grey);">OR/Wgt</span><span x-text="(horse.OR || horse.or || '') + '/' + (horse.weight || horse.wgt || '')"></span></div>
+          </div>
+        </div>
+      </div>
+    </template>
+  </div>
+</div>
+{{ end }}

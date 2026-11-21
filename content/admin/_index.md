@@ -1,3 +1,4 @@
 ---
-title: Admin
+title: "Admin"
+layout: single
 ---

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="min-h-screen flex flex-col"
+      style="background-color: var(--color-racecard-white); color: var(--color-odds-black); font-family: var(--font-body);">
+  {{ partial "header.html" . }}
+
+  <main class="flex-1 max-w-7xl mx-auto px-4 py-6">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <!-- Alpine.js 3.14.8 pinned CDN with SRI -->
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.8/dist/cdn.min.js"
+          integrity="sha256-YKQDI9zh4H9JkIQSq0OPSdO3Dq7mO7aG0Y4XzC5bG0="
+          crossorigin="anonymous"
+          defer></script>
+
+  <!-- Site JS: utilities first, then racecard loader -->
+  <script src="/js/app.js" defer></script>
+  <script src="/js/racecard-loader.js" defer></script>
+</body>
+</html>
