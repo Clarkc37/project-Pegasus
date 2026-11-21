@@ -2,7 +2,6 @@ baseURL = 'https://globalguideracing.netlify.app/'
 canonifyURLs = true
 pluralizeListTitles = false
 summaryLength = 25
-theme = "Racing"
 locale = "en-gb"
 title = "Global Guide Racing"
 disableKinds = ["taxonomy", "term", "section"]
