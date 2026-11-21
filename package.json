@@ -1,0 +1,11 @@
+{
+  "name": "global-guide-racing",
+  "private": true,
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i assets/css/main.css -o static/css/main.css --minify && hugo --minify",
+    "dev": "npx @tailwindcss/cli -i assets/css/main.css -o static/css/main.css && hugo server"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0"
+  }
+}

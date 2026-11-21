@@ -4,3 +4,6 @@
 .Ruserdata
 Dockerfile
 public/
+node_modules/
+static/css/main.css
+package-lock.json

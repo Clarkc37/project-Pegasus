@@ -1,0 +1,47 @@
+baseURL = 'https://globalguideracing.netlify.app/'
+canonifyURLs = true
+pluralizeListTitles = false
+summaryLength = 25
+theme = "Racing"
+locale = "en-gb"
+title = "Global Guide Racing"
+disableKinds = ["taxonomy", "term", "section"]
+
+[params]
+  contactEmail = "hello@globalguideracing.com"
+  description = "Jumps horse-racing predictions powered by the Pegasus model. Daily racecards, Cheltenham Festival tips, and data-driven analysis."
+  hidedate = true
+
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "racecards"
+  name = "Racecards"
+  pageRef = "/racecards/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  pageRef = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  pageRef = "/contact/"
+  weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.116.0"

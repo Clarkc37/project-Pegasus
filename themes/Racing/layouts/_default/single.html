@@ -1,14 +1,8 @@
 {{ define "main" }}
-<div class="container mx-auto">
-  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-  <div>
-    This is to check that the layouts work
+<div class="max-w-3xl mx-auto">
+  <h1 class="text-3xl font-heading font-bold text-odds-black mb-6">{{ .Title }}</h1>
+  <div class="bg-white rounded-lg border border-tackroom-taupe p-6 md:p-8 prose prose-sm max-w-none">
+    {{ .Content }}
   </div>
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </div>
 {{ end }}
