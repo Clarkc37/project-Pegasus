@@ -1,101 +1,47 @@
-// Global Guide Racing — app.js
-// Shared utilities and date helpers
+/** 
+ * Global Guide Racing — Utility helpers
+ * Shared fetch + formatting functions used by Alpine components.
+ */
+
+const R2_BASE = '/data/racecards/';
+const LOCAL_BASE = '/racecards/';
 
 /**
- * Format a date as YYYY-MM-DD.
+ * Fetch JSON from the R2 proxy, falling back to local static path for dev.
  */
-window.formatDate = function (date) {
-  const d = new Date(date);
-  const month = String(d.getMonth() + 1).padStart(2, '0');
-  const day = String(d.getDate()).padStart(2, '0');
-  return `${d.getFullYear()}-${month}-${day}`;
-};
+async function fetchJSON(dateStr, filename) {
+  const r2Url = `${R2_BASE}${filename || dateStr + '.json'}`;
+  const localUrl = `${LOCAL_BASE}${filename || dateStr + '.json'}`;
+  
+  // Try R2 proxy first (production), then local static (dev server)
+  try {
+    const resp = await fetch(r2Url);
+    if (resp.ok) return await resp.json();
+  } catch (_) {}
+  // Fallback to local static file
+  try {
+    const resp = await fetch(localUrl);
+    if (resp.ok) return await resp.json();
+  } catch (_) {}
+  return null;
+}
 
-/**
- * Get a date string offset by days from today.
- */
-window.getDateString = function (daysAhead) {
-  const date = new Date();
-  date.setDate(date.getDate() + daysAhead);
-  return formatDate(date);
-};
+function formatOdds(odds) {
+  const n = Number(odds);
+  if (!n || n <= 0) return '-';
+  return n < 2 ? `${(n * 100).toFixed(0)}%` : `${n.toFixed(1)}`;
+}
 
-/**
- * Fetch JSON from a URL with cache-busting.
- */
-window.fetchJSON = async function (url) {
-  const cacheBusted = `${url}?t=${Date.now()}`;
-  const response = await fetch(cacheBusted);
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-  }
-  return response.json();
-};
-
-/**
- * Format odds for display (handle decimal/fractional/string).
- */
-window.formatOdds = function (odds) {
-  if (!odds && odds !== 0) return 'N/A';
-  if (typeof odds === 'string') return odds;
-  if (typeof odds === 'number') {
-    // Assume decimal odds — convert to fractional approximation
-    if (odds >= 1) {
-      const frac = odds - 1;
-      if (frac < 0.1) return '1/10';
-      if (frac < 0.5) return '1/2';
-      if (frac < 1) return 'EVS';
-      if (frac < 2) return '2/1';
-      if (frac < 3) return '3/1';
-      if (frac < 4) return '4/1';
-      if (frac < 5) return '5/1';
-      if (frac < 6) return '6/1';
-      if (frac < 7) return '7/1';
-      if (frac < 8) return '8/1';
-      if (frac < 9) return '9/1';
-      if (frac < 10) return '10/1';
-      return `${Math.round(frac)}/1`;
-    }
-  }
-  return String(odds);
-};
-
-/**
- * Format a time value for display.
- */
-window.formatTime = function (time) {
+function formatTime(time) {
   if (!time) return '';
-  // Already formatted like "14:30"
-  if (/^\d{2}:\d{2}/.test(time)) return time;
-  return time;
-};
+  const s = String(time).padStart(4, '0');
+  return `${s.slice(0, 2)}:${s.slice(2)}`;
+}
 
-// Date navigation component (Alpine)
-document.addEventListener('alpine:init', () => {
-  Alpine.data('dateNav', () => ({
-    showDate: 'Today',
-    selectedDate: getDateString(0),
+function getDateString(d) {
+  return d.toISOString().slice(0, 10);
+}
 
-    getDate(daysAhead) {
-      return getDateString(daysAhead);
-    },
-
-    goYesterday() {
-      this.showDate = 'Yesterday';
-      this.selectedDate = this.getDate(-1);
-      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
-    },
-
-    goToday() {
-      this.showDate = 'Today';
-      this.selectedDate = this.getDate(0);
-      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
-    },
-
-    goTomorrow() {
-      this.showDate = 'Tomorrow';
-      this.selectedDate = this.getDate(1);
-      window.dispatchEvent(new CustomEvent('date-changed', { detail: { date: this.selectedDate } }));
-    }
-  }));
-});
+function todayStr() {
+  return getDateString(new Date());
+}

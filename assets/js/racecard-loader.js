@@ -1,226 +1,177 @@
-// Racecard Alpine.js Components
-// 4 components: racecardApp, racecardListApp, racecardDetailApp, festivalApp
+/**
+ * Global Guide Racing — Alpine.js Components
+ * Uses fetchJSON() from app.js with R2 → local fallback.
+ */
 
 document.addEventListener('alpine:init', () => {
 
-  /* ============================================================
-   * 1) racecardApp — Homepage: full racecard overview
-   *    Used by: layouts/_default/home.html
-   * ============================================================ */
+  /* ─── HOMEPAGE ─────────────────────────────────────── */
   Alpine.data('racecardApp', () => ({
-    raceData: [],
-    festivalData: [],
-    festivalTitle: '',
-    festivalDays: [],
-    selectedDate: getDateString(0),
+    data: null,
     loading: true,
     error: null,
+    date: todayStr(),
+    viewDate: todayStr(),
 
-    async init() {
-      // Try festival data
-      try {
-        const fest = await fetchJSON('/data/racecards/cheltenham.json');
-        if (fest && (Array.isArray(fest) ? fest.length : fest.days?.length)) {
-          this.festivalData = fest;
-          this.festivalTitle = fest.title || 'Cheltenham Festival 2026';
-          this.festivalDays = fest.days || (Array.isArray(fest) ? fest : []);
-        }
-      } catch (_e) {
-        // Festival data not available — banner stays hidden
-      }
-
-      // Load today's racecards
-      await this.fetchData();
-
-      // Listen for date changes from dateNav
-      window.addEventListener('date-changed', (evt) => {
-        this.selectedDate = evt.detail.date;
-        this.fetchData();
-      });
+    init() {
+      this.loadRaces(this.date);
     },
 
-    async fetchData() {
+    async loadRaces(dateStr) {
       this.loading = true;
       this.error = null;
-      try {
-        const data = await fetchJSON(`/data/racecards/${this.selectedDate}.json`);
-        this.raceData = Array.isArray(data) ? data : (data.racecards || data.courses || []);
-      } catch (err) {
-        this.raceData = [];
-        this.error = err.message;
-      } finally {
+      const json = await fetchJSON(dateStr);
+      if (!json) {
+        this.error = 'No race data available for this date.';
         this.loading = false;
+        return;
       }
+      this.data = json;
+      this.loading = false;
     },
 
-    get totalRaceCount() {
-      if (!this.raceData.length) return 0;
-      return this.raceData.reduce((sum, course) => {
-        return sum + (course.Races || course.races || []).length;
-      }, 0);
-    }
-  }));
-
-  /* ============================================================
-   * 2) racecardListApp — Racecard listing / browse
-   *    Used by: layouts/racecards/list.html
-   * ============================================================ */
-  Alpine.data('racecardListApp', () => ({
-    raceData: [],
-    selectedDate: getDateString(0),
-    loading: true,
-    error: null,
-
-    getDate(daysAhead) {
-      return getDateString(daysAhead);
+    prevDay() {
+      const d = new Date(this.date);
+      d.setDate(d.getDate() - 1);
+      this.date = getDateString(d);
+      this.loadRaces(this.date);
     },
 
-    async init() {
-      await this.fetchData();
+    nextDay() {
+      const d = new Date(this.date);
+      d.setDate(d.getDate() + 1);
+      this.date = getDateString(d);
+      this.loadRaces(this.date);
     },
 
-    async fetchData() {
-      this.loading = true;
-      this.error = null;
-      try {
-        const data = await fetchJSON(`/data/racecards/${this.selectedDate}.json`);
-        this.raceData = Array.isArray(data) ? data : (data.racecards || data.courses || []);
-        // Add expandable state to each course
-        this.raceData.forEach(c => {
-          if (c.expanded === undefined) c.expanded = false;
-        });
-      } catch (err) {
-        this.raceData = [];
-        this.error = err.message;
-      } finally {
-        this.loading = false;
-      }
+    goToday() {
+      this.date = todayStr();
+      this.loadRaces(this.date);
     },
 
-    toggleCourse(course) {
-      course.expanded = !course.expanded;
-    }
-  }));
-
-  /* ============================================================
-   * 3) racecardDetailApp — Single racecard detail view
-   *    Used by: layouts/racecards/single.html
-   * ============================================================ */
-  Alpine.data('racecardDetailApp', () => ({
-    raceData: [],
-    date: null,
-    courseName: null,
-    timeDisplay: null,
-    courseData: null,
-    racecardData: null,
-    loading: true,
-    error: null,
-
-    get courseGoing() {
-      return this.courseData?.Going || this.courseData?.going || '';
+    get meetings() {
+      return this.data || [];
     },
-
-    get horses() {
-      if (!this.racecardData) return [];
-      const runners = this.racecardData.runners || this.racecardData.horses || this.racecardData.entries || [];
-
-      // Find lowest prediction score for top pick badge
-      let minScore = Infinity;
-      let maxBetScore = -Infinity;
-      runners.forEach(h => {
-        const score = h.prediction?.score ?? h.predictionScore ?? h.prediction_score ?? Infinity;
-        const betScore = h.bet?.prediction?.score ?? h.bet_score ?? -Infinity;
-        if (score < minScore) minScore = score;
-        if (betScore > maxBetScore) maxBetScore = betScore;
-      });
-
-      return runners.map((h, idx) => {
-        const score = h.prediction?.score ?? h.predictionScore ?? h.prediction_score ?? Infinity;
-        const betScore = h.bet?.prediction?.score ?? h.bet_score ?? -Infinity;
-        return {
-          ...h,
-          expanded: false,
-          isTopPick: score === minScore && minScore < Infinity,
-          isBestValue: betScore === maxBetScore && maxBetScore > -Infinity && betScore > 0,
-          predictionRank: idx + 1
-        };
-      });
-    },
-
-    async init() {
-      const urlParams = new URLSearchParams(window.location.search);
-      this.date = urlParams.get('date') || getDateString(0);
-      this.courseName = urlParams.get('course') || '';
-      this.timeDisplay = urlParams.get('time') || '';
-
-      try {
-        const data = await fetchJSON(`/data/racecards/${this.date}.json`);
-        this.raceData = Array.isArray(data) ? data : (data.racecards || data.courses || []);
-
-        // Find matching course
-        this.courseData = this.raceData.find(c =>
-          (c.Course || c.course || '').toLowerCase() === this.courseName.toLowerCase()
-        ) || null;
-
-        // Find matching race
-        if (this.courseData) {
-          const races = this.courseData.Races || this.courseData.races || [];
-          this.racecardData = races.find(r =>
-            (r.timeDisplay || r.time || '') === this.timeDisplay
-          ) || races[0] || null;
-        }
-      } catch (err) {
-        this.error = err.message;
-      } finally {
-        this.loading = false;
-      }
-    },
-
-    toggleExpand(horse) {
-      horse.expanded = !horse.expanded;
-    }
-  }));
-
-  /* ============================================================
-   * 4) festivalApp — Festival page with day tabs
-   *    Used by: layouts/racecards/festival.html
-   * ============================================================ */
-  Alpine.data('festivalApp', () => ({
-    festivalTitle: '',
-    going: '',
-    forecast: '',
-    festivalCourse: 'Cheltenham',
-    days: [],
-    activeDay: 0,
-    loading: true,
-    error: null,
 
     get totalRaces() {
-      return this.days.reduce((sum, d) => sum + (d.races || []).length, 0);
-    },
-
-    get topTrainer() {
-      // Simple stub — could compute from data later
-      return '—';
-    },
-
-    async init() {
-      try {
-        const data = await fetchJSON('/data/racecards/cheltenham.json');
-        if (data) {
-          this.festivalTitle = data.title || data.festivalTitle || 'Cheltenham Festival 2026';
-          this.going = data.going || data.Going || '—';
-          this.forecast = data.forecast || data.Forecast || '—';
-          this.festivalCourse = data.course || data.Course || 'Cheltenham';
-          this.days = data.days || (Array.isArray(data) ? data : []);
-          this.activeDay = 0;
-        }
-      } catch (err) {
-        this.error = err.message;
-      } finally {
-        this.loading = false;
-      }
+      return this.meetings.reduce((s, m) => s + (m.races?.length || 0), 0);
     }
   }));
 
+  /* ─── RACECARD LIST ────────────────────────────────── */
+  Alpine.data('racecardListApp', () => ({
+    data: null,
+    loading: true,
+    error: null,
+    date: todayStr(),
+    expanded: {},
+
+    init() {
+      this.loadRaces(this.date);
+    },
+
+    async loadRaces(dateStr) {
+      this.loading = true;
+      this.error = null;
+      const json = await fetchJSON(dateStr);
+      if (!json) {
+        this.error = 'No race data available.';
+        this.loading = false;
+        return;
+      }
+      this.data = json;
+      this.loading = false;
+    },
+
+    toggleCourse(idx) {
+      this.expanded[idx] = !this.expanded[idx];
+    }
+  }));
+
+  /* ─── RACECARD DETAIL ──────────────────────────────── */
+  Alpine.data('racecardDetailApp', () => ({
+    data: null,
+    loading: true,
+    error: null,
+    meetingIndex: 0,
+    expandedHorses: {},
+    date: '',
+    course: '',
+
+    init() {
+      const params = new URLSearchParams(window.location.search);
+      this.date = params.get('date') || todayStr();
+      this.course = params.get('course') || '';
+      this.loadRacecard(this.date);
+    },
+
+    async loadRacecard(dateStr) {
+      this.loading = true;
+      this.error = null;
+      const json = await fetchJSON(dateStr);
+      if (!json) {
+        this.error = 'Racecard not found.';
+        this.loading = false;
+        return;
+      }
+      this.data = json;
+      if (this.course) {
+        const idx = json.findIndex(m =>
+          m.Course?.toLowerCase() === this.course.toLowerCase()
+        );
+        if (idx >= 0) this.meetingIndex = idx;
+      }
+      this.loading = false;
+    },
+
+    get meeting() {
+      return this.data?.[this.meetingIndex] || null;
+    },
+
+    get races() {
+      return this.meeting?.races || [];
+    },
+
+    toggleHorse(idx) {
+      this.expandedHorses[idx] = !this.expandedHorses[idx];
+    },
+
+    nextMeeting() {
+      if (this.meetingIndex < (this.data?.length || 1) - 1) this.meetingIndex++;
+    },
+
+    prevMeeting() {
+      if (this.meetingIndex > 0) this.meetingIndex--;
+    }
+  }));
+
+  /* ─── FESTIVAL ─────────────────────────────────────── */
+  Alpine.data('festivalApp', () => ({
+    data: null,
+    loading: true,
+    error: null,
+    activeDay: 1,
+    days: ['Day 1', 'Day 2', 'Day 3', 'Day 4'],
+
+    init() {
+      this.loadFestival();
+    },
+
+    async loadFestival() {
+      this.loading = true;
+      this.error = null;
+      const json = await fetchJSON('', 'cheltenham.json');
+      if (!json) {
+        this.error = 'Festival data not yet available.';
+        this.loading = false;
+        return;
+      }
+      this.data = json;
+      this.loading = false;
+    },
+
+    setDay(day) {
+      this.activeDay = day;
+    }
+  }));
 });
