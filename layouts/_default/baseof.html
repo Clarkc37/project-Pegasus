@@ -13,11 +13,13 @@
 
   {{ partial "footer.html" . }}
 
+  <!-- Alpine components + utilities (self-contained, no deps) -->
+  <script src="/js/racecard-loader.js" defer></script>
+
   <!-- Alpine.js 3.14.8 pinned CDN -->
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.8/dist/cdn.min.js" defer></script>
 
-  <!-- Site JS: utilities first, then racecard loader -->
+  <!-- Separate utilities (no Alpine dependency) -->
   <script src="/js/app.js" defer></script>
-  <script src="/js/racecard-loader.js" defer></script>
 </body>
 </html>

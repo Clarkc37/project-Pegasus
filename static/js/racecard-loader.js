@@ -1,9 +1,26 @@
 /**
  * Global Guide Racing — Alpine.js Components
- * Uses fetchJSON() from app.js with R2 → local fallback.
+ * Self-contained: all helper functions inlined so this file has no deps.
+ * Must load BEFORE Alpine.js CDN to register components via `alpine:init`.
  */
 
-document.addEventListener('alpine:init', () => {
+// ── Utility helpers (self-contained) ──────────────────────
+const R2_BASE = '/data/racecards/';
+const LOCAL_BASE = '/racecards/';
+
+async function fetchJSON(dateStr, filename) {
+  const r2Url = `${R2_BASE}${filename || dateStr + '.json'}`;
+  const localUrl = `${LOCAL_BASE}${filename || dateStr + '.json'}`;
+  try { const r = await fetch(r2Url); if (r.ok) return await r.json(); } catch (_) {}
+  try { const r = await fetch(localUrl); if (r.ok) return await r.json(); } catch (_) {}
+  return null;
+}
+function formatOdds(odds) { const n=Number(odds); return !n||n<=0?'-':n<2?`${(n*100).toFixed(0)}%`:`${n.toFixed(1)}`; }
+function formatTime(t) { if(!t)return''; const s=String(t).padStart(4,'0'); return`${s.slice(0,2)}:${s.slice(2)}`; }
+function getDateString(d) { return d.toISOString().slice(0,10); }
+function todayStr() { return getDateString(new Date()); }
+
+// ── Alpine Components ─────────────────────────────────────
 
   /* ─── HOMEPAGE ─────────────────────────────────────── */
   Alpine.data('racecardApp', () => ({
@@ -174,4 +191,3 @@ document.addEventListener('alpine:init', () => {
       this.activeDay = day;
     }
   }));
-});
