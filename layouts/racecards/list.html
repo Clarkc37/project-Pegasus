@@ -11,25 +11,25 @@
       Select Date:
     </label>
     <input type="date" id="racecard-date"
-           x-model="selectedDate"
-           @change="fetchData()"
+           x-model="date"
+           @change="loadRaces(date)"
            class="border rounded px-3 py-2 text-sm"
            style="border-color: var(--color-tackroom-taupe); color: var(--color-odds-black); background-color: white;" />
   </div>
 
   <!-- Quick Date Jumps -->
   <div class="flex flex-wrap items-center gap-3 mb-6 font-body text-sm">
-    <button @click="selectedDate = getDate(0); fetchData()"
+    <button @click="date = getDate(0); loadRaces(date)"
             class="px-4 py-2 rounded font-bold uppercase tracking-wider touch-target"
             style="background-color: var(--color-turf-green); color: white;">
       Today
     </button>
-    <button @click="selectedDate = getDate(-1); fetchData()"
+    <button @click="date = getDate(-1); loadRaces(date)"
             class="px-4 py-2 rounded uppercase tracking-wider touch-target"
             style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
       Yesterday
     </button>
-    <button @click="selectedDate = getDate(1); fetchData()"
+    <button @click="date = getDate(1); loadRaces(date)"
             class="px-4 py-2 rounded uppercase tracking-wider touch-target"
             style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
       Tomorrow
@@ -39,20 +39,20 @@
   <!-- Loading State -->
   <div x-show="loading" class="text-center py-12">
     <div class="animate-pulse text-lg font-body" style="color: var(--color-paddock-grey);">
-      Loading racecards for <span x-text="selectedDate"></span>…
+      Loading racecards for <span x-text="date"></span>…
     </div>
   </div>
 
   <!-- Error / Empty State -->
   <div x-show="!loading && error"
        class="text-center py-12 font-body" style="color: var(--color-paddock-grey);">
-    No racecards available for <span x-text="selectedDate"></span>.
+    No racecards available for <span x-text="date"></span>.
     Try another date.
   </div>
 
   <!-- Course List -->
-  <div x-show="!loading && !error && raceData.length > 0" class="space-y-4">
-    <template x-for="course in raceData" :key="course.Course || course.course">
+  <div x-show="!loading && !error && data.length > 0" class="space-y-4">
+    <template x-for="course in data" :key="course.Course || course.course">
       <div class="card rounded-lg bg-white overflow-hidden">
         <!-- Course header -->
         <div @click="toggleCourse(course)"
@@ -69,16 +69,16 @@
               </span>
             </p>
           </div>
-          <span x-text="course.expanded ? '▲' : '▼'"
+          <span x-text="expanded[course.Course || course.course] ? '▲' : '▼'"
                 class="text-lg"
                 style="color: var(--color-turf-green);"></span>
         </div>
 
         <!-- Races (expandable) -->
-        <div x-show="course.expanded" x-transition class="divide-y"
+        <div x-show="expanded[course.Course || course.course]" x-transition class="divide-y"
              style="border-color: var(--color-tackroom-taupe);">
           <template x-for="race in (course.Races || course.races || [])" :key="race.time || race.timeDisplay">
-            <a :href="'/racecards/view/?date=' + selectedDate + '&course=' + encodeURIComponent(course.Course || course.course) + '&time=' + encodeURIComponent(race.timeDisplay || race.time)"
+            <a :href="'/racecards/view/?date=' + date + '&course=' + encodeURIComponent(course.Course || course.course) + '&time=' + encodeURIComponent(race.timeDisplay || race.time)"
                class="block px-4 py-3 hover:bg-gray-50 touch-target">
               <div class="flex justify-between items-center">
                 <div>

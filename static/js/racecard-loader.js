@@ -19,6 +19,7 @@ function formatOdds(odds) { const n=Number(odds); return !n||n<=0?'-':n<2?`${(n*
 function formatTime(t) { if(!t)return''; const s=String(t).padStart(4,'0'); return`${s.slice(0,2)}:${s.slice(2)}`; }
 function getDateString(d) { return d.toISOString().slice(0,10); }
 function todayStr() { return getDateString(new Date()); }
+function getDate(offset) { const d = new Date(); d.setDate(d.getDate() + offset); return getDateString(d); }
 
 // ── Alpine component registrations (deferred) ─────────────
 document.addEventListener('alpine:init', () => {
@@ -30,13 +31,31 @@ document.addEventListener('alpine:init', () => {
     error: null,
     date: todayStr(),
 
-    init() { this.loadRaces(this.date); },
+    // Festival state
+    festivalData: [],
+    festivalTitle: 'Cheltenham Festival 2026',
+    festivalDays: ['Day 1', 'Day 2', 'Day 3', 'Day 4'],
+
+    // Alias properties used by home template
+    get raceData() { return this.data || []; },
+    get selectedDate() { return this.date; },
+    get totalRaceCount() { return (this.data || []).reduce((s, m) => s + (m.Races || m.races || []).length, 0); },
+
+    init() {
+      this.loadRaces(this.date);
+      this.loadFestivalData();
+    },
 
     async loadRaces(dateStr) {
       this.loading = true; this.error = null;
       const json = await fetchJSON(dateStr);
       if (!json) { this.error = 'No race data available for this date.'; this.loading = false; return; }
       this.data = json; this.loading = false;
+    },
+
+    async loadFestivalData() {
+      const json = await fetchJSON('', 'cheltenham.json');
+      if (json && json.length > 0) this.festivalData = json;
     },
 
     prevDay() { const d = new Date(this.date); d.setDate(d.getDate() - 1); this.date = getDateString(d); this.loadRaces(this.date); },
@@ -47,12 +66,42 @@ document.addEventListener('alpine:init', () => {
     get totalRaces() { return this.meetings.reduce((s, m) => s + (m.races?.length || 0), 0); }
   }));
 
+  /* ─── DATE NAV (nested component for home page) ───── */
+  Alpine.data('dateNav', () => ({
+    showDate: 'Today',
+    get selectedDate() { return this.$root.closest('[x-data]').__x.$data.date; },
+
+    goYesterday() {
+      const parent = this.$root.closest('[x-data="racecardApp"]').__x.$data;
+      const d = new Date(parent.date); d.setDate(d.getDate() - 1);
+      parent.date = getDateString(d);
+      parent.loadRaces(parent.date);
+      this.showDate = 'Yesterday';
+    },
+    goToday() {
+      const parent = this.$root.closest('[x-data="racecardApp"]').__x.$data;
+      parent.date = todayStr();
+      parent.loadRaces(parent.date);
+      this.showDate = 'Today';
+    },
+    goTomorrow() {
+      const parent = this.$root.closest('[x-data="racecardApp"]').__x.$data;
+      const d = new Date(parent.date); d.setDate(d.getDate() + 1);
+      parent.date = getDateString(d);
+      parent.loadRaces(parent.date);
+      this.showDate = 'Tomorrow';
+    }
+  }));
+
   /* ─── RACECARD LIST ────────────────────────────────── */
   Alpine.data('racecardListApp', () => ({
     data: null, loading: true, error: null, date: todayStr(), expanded: {},
     init() { this.loadRaces(this.date); },
     async loadRaces(dateStr) { this.loading = true; this.error = null; const json = await fetchJSON(dateStr); if (!json) { this.error = 'No race data available.'; this.loading = false; return; } this.data = json; this.loading = false; },
-    toggleCourse(idx) { this.expanded[idx] = !this.expanded[idx]; }
+    toggleCourse(course) {
+      const key = course.Course || course.course || course;
+      this.expanded[key] = !this.expanded[key];
+    }
   }));
 
   /* ─── RACECARD DETAIL ──────────────────────────────── */
