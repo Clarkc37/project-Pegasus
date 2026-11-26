@@ -1,0 +1,104 @@
+{{ define "main" }}
+<div x-data="racecardListApp" class="racecard-list-layout">
+  <h1 class="font-heading text-2xl font-bold mb-6" style="color: var(--color-turf-green);">
+    Racecards
+  </h1>
+
+  <!-- Date Picker -->
+  <div class="flex flex-wrap items-center gap-4 mb-6 font-body">
+    <label for="racecard-date" class="text-sm uppercase tracking-wider"
+           style="color: var(--color-paddock-grey);">
+      Select Date:
+    </label>
+    <input type="date" id="racecard-date"
+           x-model="date"
+           @change="loadRaces(date)"
+           class="border rounded px-3 py-2 text-sm"
+           style="border-color: var(--color-tackroom-taupe); color: var(--color-odds-black); background-color: white;" />
+  </div>
+
+  <!-- Quick Date Jumps -->
+  <div class="flex flex-wrap items-center gap-3 mb-6 font-body text-sm">
+    <button @click="date = getDate(0); loadRaces(date)"
+            class="px-4 py-2 rounded font-bold uppercase tracking-wider touch-target"
+            style="background-color: var(--color-turf-green); color: white;">
+      Today
+    </button>
+    <button @click="date = getDate(-1); loadRaces(date)"
+            class="px-4 py-2 rounded uppercase tracking-wider touch-target"
+            style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
+      Yesterday
+    </button>
+    <button @click="date = getDate(1); loadRaces(date)"
+            class="px-4 py-2 rounded uppercase tracking-wider touch-target"
+            style="background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);">
+      Tomorrow
+    </button>
+  </div>
+
+  <!-- Loading State -->
+  <div x-show="loading" class="text-center py-12">
+    <div class="animate-pulse text-lg font-body" style="color: var(--color-paddock-grey);">
+      Loading racecards for <span x-text="date"></span>…
+    </div>
+  </div>
+
+  <!-- Error / Empty State -->
+  <div x-show="!loading && error"
+       class="text-center py-12 font-body" style="color: var(--color-paddock-grey);">
+    No racecards available for <span x-text="date"></span>.
+    Try another date.
+  </div>
+
+  <!-- Course List -->
+  <div x-show="!loading && !error && data.length > 0" class="space-y-4">
+    <template x-for="course in data" :key="course.Course || course.course">
+      <div class="card rounded-lg bg-white overflow-hidden">
+        <!-- Course header -->
+        <div @click="toggleCourse(course)"
+             class="touch-target px-4 py-3 flex items-center justify-between cursor-pointer"
+             style="border-bottom: 1px solid var(--color-tackroom-taupe);">
+          <div>
+            <h3 class="font-heading text-lg font-semibold" style="color: var(--color-turf-green);">
+              🏇 <span x-text="course.Course || course.course"></span>
+            </h3>
+            <p class="text-xs mt-0.5" style="color: var(--color-paddock-grey);">
+              <span x-text="(course.Races || course.races || []).length + ' races'"></span>
+              <span x-show="course.Going || course.going">
+                · <span x-text="course.Going || course.going"></span>
+              </span>
+            </p>
+          </div>
+          <span x-text="expanded[course.Course || course.course] ? '▲' : '▼'"
+                class="text-lg"
+                style="color: var(--color-turf-green);"></span>
+        </div>
+
+        <!-- Races (expandable) -->
+        <div x-show="expanded[course.Course || course.course]" x-transition class="divide-y"
+             style="border-color: var(--color-tackroom-taupe);">
+          <template x-for="race in (course.Races || course.races || [])" :key="race.time || race.timeDisplay">
+            <a :href="'/racecards/view/?date=' + date + '&course=' + encodeURIComponent(course.Course || course.course) + '&time=' + encodeURIComponent(race.timeDisplay || race.time)"
+               class="block px-4 py-3 hover:bg-gray-50 touch-target">
+              <div class="flex justify-between items-center">
+                <div>
+                  <span class="font-bold text-sm" style="color: var(--color-odds-black);">
+                    <span x-text="race.timeDisplay || race.time || ''"></span>
+                  </span>
+                  <span class="text-sm ml-2" style="color: var(--color-odds-black);">
+                    <span x-text="race.title || race.raceTitle || race.race_title || ''"></span>
+                  </span>
+                </div>
+                <div class="flex items-center space-x-3 text-xs" style="color: var(--color-paddock-grey);">
+                  <span x-text="race.distance || race.distance_text || ''"></span>
+                  <span x-text="(race.runners || race.number_of_runners || 0) + ' rn'"></span>
+                </div>
+              </div>
+            </a>
+          </template>
+        </div>
+      </div>
+    </template>
+  </div>
+</div>
+{{ end }}

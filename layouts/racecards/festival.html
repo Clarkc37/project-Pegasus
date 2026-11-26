@@ -1,0 +1,120 @@
+{{ define "main" }}
+<div x-data="festivalApp" class="festival-layout">
+  <!-- Festival Header -->
+  <div class="mb-6 text-center">
+    <h1 class="font-heading text-2xl font-bold flex items-center justify-center gap-2"
+        style="color: var(--color-cheltenham-gold);">
+      🏆 <span x-text="festivalTitle || 'Cheltenham Festival 2026'"></span>
+    </h1>
+    <p class="text-sm mt-1 font-body" style="color: var(--color-paddock-grey);">
+      Going: <span x-text="going || '—'"></span>
+      · Forecast: <span x-text="forecast || '—'"></span>
+    </p>
+  </div>
+
+  <!-- Day Tabs -->
+  <div class="flex flex-wrap justify-center gap-2 mb-6 font-body">
+    <template x-for="(day, index) in days" :key="index">
+      <button @click="activeDay = index"
+              class="px-4 py-2 rounded text-sm font-bold uppercase tracking-wider touch-target"
+              :class="activeDay === index ? 'text-white' : 'text-odds-black'"
+              :style="activeDay === index
+                ? 'background-color: var(--color-cheltenham-gold); color: var(--color-odds-black);'
+                : 'background-color: var(--color-tackroom-taupe); color: var(--color-odds-black);'">
+        Day <span x-text="index + 1"></span>
+      </button>
+    </template>
+  </div>
+
+  <!-- Loading State -->
+  <div x-show="loading" class="text-center py-12">
+    <div class="animate-pulse text-lg font-body" style="color: var(--color-paddock-grey);">
+      Loading festival data…
+    </div>
+  </div>
+
+  <!-- Error State -->
+  <div x-show="!loading && error"
+       class="text-center py-12 font-body" style="color: var(--color-paddock-grey);">
+    Festival data not available.
+  </div>
+
+  <!-- Festival Content -->
+  <div x-show="!loading && !error && days.length > 0">
+    <!-- Current Day Races -->
+    <div class="space-y-4">
+      <h2 class="font-heading text-lg font-semibold" style="color: var(--color-turf-green);">
+        <span x-text="days[activeDay]?.date || ''"></span>
+      </h2>
+
+      <template x-for="race in (days[activeDay]?.races || [])" :key="race.time || race.timeDisplay">
+        <div class="card rounded-lg p-4 bg-white"
+             style="border-top: 2px solid var(--color-cheltenham-gold);">
+          <div class="flex justify-between items-start">
+            <div>
+              <h3 class="font-heading font-semibold" style="color: var(--color-odds-black);">
+                <span x-text="race.timeDisplay || race.time || ''"></span>
+                <span x-text="race.title || race.raceTitle || ''"></span>
+              </h3>
+              <p class="text-xs mt-1" style="color: var(--color-paddock-grey);">
+                <span x-text="race.distance || race.distance_text || ''"></span>
+                <span x-show="race.race_class || race.raceClass">
+                  · <span x-text="race.race_class || race.raceClass"></span>
+                </span>
+                · <span x-text="(race.runners || race.number_of_runners || 0) + ' runners'"></span>
+              </p>
+            </div>
+            <a :href="'/racecards/view/?date=' + (days[activeDay]?.date || '') + '&course=' + encodeURIComponent(festivalCourse) + '&time=' + encodeURIComponent(race.timeDisplay || race.time)"
+               class="text-sm font-bold touch-target whitespace-nowrap ml-4"
+               style="color: var(--color-turf-green);">
+              View Racecard →
+            </a>
+          </div>
+
+          <!-- Mini horse list for this race -->
+          <div x-show="race.horses && race.horses.length > 0" class="mt-3 space-y-1">
+            <template x-for="(horse, hIdx) in race.horses.slice(0, 5)" :key="hIdx">
+              <div class="flex items-center justify-between text-xs py-1"
+                   :class="{ 'font-semibold': hIdx === 0 }"
+                   style="border-bottom: 1px solid var(--color-tackroom-taupe);">
+                <div class="flex items-center gap-2">
+                  <span class="w-5 text-center" style="color: var(--color-paddock-grey);"
+                        x-text="hIdx + 1"></span>
+                  <span x-text="horse.name || horse.horse || ''"></span>
+                  <span x-show="hIdx === 0" class="badge-top-tip">🏆 PRED</span>
+                </div>
+                <span x-text="horse.odds || horse.Odds || 'N/A'"></span>
+              </div>
+            </template>
+            <p x-show="race.horses.length > 5" class="text-xs mt-1"
+               style="color: var(--color-paddock-grey);">
+              … and <span x-text="race.horses.length - 5"></span> more runners
+            </p>
+          </div>
+        </div>
+      </template>
+    </div>
+
+    <!-- Festival Stats Aggregated -->
+    <div class="card rounded-lg p-4 bg-white mt-6">
+      <h4 class="font-heading text-base font-bold mb-3" style="color: var(--color-turf-green);">
+        📊 Festival Stats
+      </h4>
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm font-body">
+        <div>
+          <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Total Races</span>
+          <span class="font-semibold" x-text="totalRaces"></span>
+        </div>
+        <div>
+          <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Days</span>
+          <span class="font-semibold" x-text="days.length"></span>
+        </div>
+        <div>
+          <span class="block text-xs uppercase" style="color: var(--color-paddock-grey);">Top Trainer</span>
+          <span class="font-semibold" x-text="topTrainer || '—'"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

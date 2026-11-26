@@ -1,8 +1,7 @@
 ---
-date: "2020-03-25T04:52:30+06:00"
-draft: false
-subtitle: The Practical Software Engineering Blog
-title: DevRa
+title: Global Guide Racing
+description: Jumps horse-racing predictions powered by the Pegasus model
+layout: home
 ---
 
-<!-- You can add a short description if you want -->
+<!-- Homepage content is driven by the home.html layout and Alpine.js racecard loader -->

@@ -1,19 +1,33 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-
+<html lang="{{ site.Language.Locale }}" dir="{{ or site.Language.Direction `ltr` }}">
 <head>
-  {{ partial "head.html" . }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ site.Params.description }}">
+
+  <!-- Google Fonts: Playfair Display -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS (build-time compiled) -->
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Alpine.js (pinned 3.14.8 with SRI) -->
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.8/dist/cdn.min.js"
+    integrity="sha384-9iMALCdoQnRfU4m92LgC1i0gM/a3kz+b6ZdRmtmB/7C0AZ1kq3Gsfvym8sPc1B8"
+    crossorigin="anonymous"></script>
 </head>
-<body class="h-screen bg-radial from-white from-40% to-gray-300">
+<body class="min-h-screen bg-racecard-white text-odds-black font-body">
   <header>
     {{ partial "header.html" . }}
   </header>
-  <main>
-    <div class="container mx-auto h-full ">
-    {{ block "main" . }}{{ end }}
 
-  </div>
+  <main class="container mx-auto px-4 py-6 max-w-7xl">
+    {{ block "main" . }}{{ end }}
   </main>
+
   <footer>
     {{ partial "footer.html" . }}
   </footer>

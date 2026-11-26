@@ -1,4 +1,4 @@
 ---
-title: "Racecards"
-type: "racecards"
+title: "Racecard Detail"
+layout: racecards-single
 ---

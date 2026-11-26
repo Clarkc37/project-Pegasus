@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="min-h-screen flex flex-col"
+      style="background-color: var(--color-racecard-white); color: var(--color-odds-black); font-family: var(--font-body);">
+  {{ partial "header.html" . }}
+
+  <main class="flex-1 max-w-7xl mx-auto px-4 py-6">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <!-- Alpine components + utilities (self-contained, no deps) -->
+  <script src="/js/racecard-loader.js" defer></script>
+
+  <!-- Alpine.js 3.14.8 pinned CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.8/dist/cdn.min.js" defer></script>
+
+  <!-- Separate utilities (no Alpine dependency) -->
+  <script src="/js/app.js" defer></script>
+</body>
+</html>

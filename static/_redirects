@@ -1,0 +1,2 @@
+# R2 proxy — racecard JSON data
+/data/*    https://pub-cb8080f6ffb242b18f5045fd2fe3d61a.r2.dev/:splat   200!
